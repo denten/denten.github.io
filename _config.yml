@@ -1,0 +1,44 @@
+# VARIABLES
+# ---------
+name:           Dennis Tenen
+url:            github.denten.io
+description:    "Personal site of Dennis Tenen, Assistant Professor in Digital Humanities and New Media Studies at Columbia University"
+keywords:       "Digital Humanities, New Media Studies, plain text"
+rss:            "sbin.dk blog feed"
+author:         Dennis Tenen
+email:          denten@gmail.com
+# ---------
+about:          http://about.me/antoinecorcy
+github:         https://github.com/denten
+githubsource:   https://github.com/denten/denten.github.io
+twitter:        https://twitter.com/toin0u
+twitter_name:   dennistenen 
+googleplus:     https://plus.google.com/102966454202044929133/
+linkedin:       http://linkd.in/corcya
+symfony:        https://connect.sensiolabs.com/profile/toin0u
+facebook:       https://facebook.com/toin0u
+tumblr:         http://tumblr.sbin.dk/
+instagram:      http://instagram.com/toin0u/
+lastfm:         http://last.fm/user/ackorea
+pinterest:      https://pinterest.com/toin0u/
+# ---------
+ga:             UA-31694981-1
+summary:        true
+# ---------
+disqus_id:      sbindk
+disqus_dev:     0
+
+
+# JEKYLL
+# ---------
+exclude:        [README.md, Rakefile]
+permalink:      /:year/:month/:day/:title/
+pygments:       true
+paginate:       5
+markdown:       kramdown
+
+
+# PLUGINS
+# -------
+lessc:          lessc --yui-compress
+redirects:      yes

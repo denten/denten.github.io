@@ -3,7 +3,8 @@ markdown:         kramdown
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
+permalink:        /:categories/:title
 
 # Setup
 title:            Dennis Tenen

@@ -3,7 +3,7 @@ author: admin
 comments: true
 date: 2013-11-10 01:38:01+00:00
 layout: post
-slug: '510'
+slug: 'dhLab'
 title: Illicit Knowledge
 wordpress_id: 510
 categories:

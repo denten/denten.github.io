@@ -2,21 +2,17 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>{{ site.title }}</h1>
-      <p class="lead">{{ site.description }}</p>
+      <!--<p class="lead">{{ site.description }}</p>-->
     </div>
 
     <ul class="sidebar-nav">
-      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
-      </li>
+        <!--<li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">-->
+        <!--<a href="/">Home</a>-->
+        <!--</li>-->
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
+        <!-- Show all pages -->
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
@@ -26,11 +22,17 @@
         {% endif %}
       {% endfor %}
 
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
-      <li class="sidebar-nav-item">Currently v{{ site.version }}</li>
+      <!-- Show all categories -->
+      {% for category in site.categories %}
+      <li class="sidebar-nav-item"><a name="{{ category | first }}">{{ category | first }}</a></li>
+      <!--<li class="sidebar-nav-item"><a href="#{{ category[0] | cgi_escape}}"></li>-->
+      {% endfor %}
+
+      <!--<li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>-->
+      <!--<li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>-->
+      <!--<li class="sidebar-nav-item">Currently v{{ site.version }}</li>-->
     </ul>
 
-    <p>{{ site.time | date: '%Y' }}. Some rights reserved.</p>
+    <p>CC BY-SA {{ site.time | date: '%Y' }}</p>
   </div>
 </div>

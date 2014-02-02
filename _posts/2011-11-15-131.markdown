@@ -1,0 +1,15 @@
+---
+author: admin
+comments: false
+date: 2011-11-15 01:47:50+00:00
+layout: post
+slug: '131'
+title: None
+wordpress_id: 131
+categories:
+- think.stack
+---
+
+"Existent things consist mostly of nonbeing with a little bit of being thrown in. Everything is what it is by virtue of not being the infinite number of other things that it is not.  It is fashionable these days to call this exclusion by self-righteous names such as 'violence,' 'domination,' and 'power.'  I want to call it 'finitude,' the limitations of mortality, the 'determinations' of being when it incarnates, because it is not possible to be otherwise. <!-- more -->To exist at all is an act of preemption, and it is no less preemptive to hegemonize as a Marxist that it is to hegemonize as a capitalist. Ohmann's theories about hegemony are plausible enough, as are his accounts of American cultural problems. What is finally implausible is his relentless attachment of these theories to every account of every problem. They amount to little more than a magic key manque, unable to unlock more than a few moldering doors.  'Hegemony' is the dark in which all cats look black as hell. But the crux of the matter is the exclusionary nature of existence itself. To exist at all is to be a predator, to preempt other possibilities."
+
+Harold Fromm, Academic Capitalism & Literary Value (Athens: University of Georgia Press, 1991), 156-157. 

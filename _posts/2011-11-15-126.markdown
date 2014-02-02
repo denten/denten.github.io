@@ -1,0 +1,18 @@
+---
+author: admin
+comments: false
+date: 2011-11-15 01:44:06+00:00
+layout: post
+slug: '126'
+title: None
+wordpress_id: 126
+categories:
+- think.stack
+---
+
+"Pragmatism is a rejection of hierarchical structure itself, of the stabilizing (kingly) forces of structure, which would always stand safely outside structure--outside the game, but ruling the game. Pragmatism is a commitment to the openness of time and a chance to for change; pragmatism, then, is the expression of the radical democrat and the experimental method, or scientific spirit of democracy."
+
+Frank Lentricchia, Criticism and Social Change (University Of Chicago Press, 1985), p3.
+
+
+

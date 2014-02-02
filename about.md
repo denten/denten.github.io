@@ -1,5 +1,5 @@
 ---
-layout: categories 
+layout: page 
 title: About
 ---
 

@@ -1,33 +1,24 @@
-# VARIABLES
-# ---------
-name:           dennistenen
-url:            http://dennistenen.com
-description:    "Dennis Tenen's personal blog and portfolio"
-keywords:       "Digital Humanities, New Media Studies"
-rss:            "dennistenen.com blog feed"
-author:         Dennis Tenen
-email:          idea@dennistenen.com
-# ---------
-github:         https://github.com/denten
-githubsource:   https://github.com/denten/denten.github.io
-twitter:        https://twitter.com/dennistenen
-twitter_name:   dennistenen
-googleplus:     https://plus.google.com/104493012600393944123/
-# ---------
-ga:             UA-31694981-1
-summary:        true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
+# Permalinks
+permalink:        pretty
 
-# JEKYLL
-# ---------
-exclude:        [README.md, Rakefile]
-permalink:      /:year/:month/:day/:title/
-pygments:       true
-paginate:       5
-markdown:       rdiscount
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-# PLUGINS
-# -------
-lessc:          lessc --yui-compress
-redirects:      yes
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/hyde

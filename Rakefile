@@ -66,4 +66,6 @@ task :post do
         post.puts "---"
         post.puts ""
     end
+    puts "Opening #{fullpath} in Sublime Text 2..."
+    sh "subl #{fullpath}"
 end

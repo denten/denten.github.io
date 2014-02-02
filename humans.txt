@@ -3,27 +3,20 @@
 
 
 /* TEAM */
-    Web Developer: Dennis Tenen
-    Contact: contact [at] sbin.dk
-    Site: http://sbin.dk/
-    About.me: http://about.me/antoinecorcy
-    Symfony connect: https://connect.sensiolabs.com/profile/toin0u
-    Twitter: https://twitter.com/toin0u
-    Github: https://github.com/toin0u
-    Google+: https://plus.google.com/102966454202044929133/
-    Linkedin: http://www.linkedin.com/
-    Facebook: https://facebook.com/toin0u
-    Tumblr: http://dkfr.tumblr.com/
-    Instagram: http://instagram.com/toin0u/
-    Lastfm: http://last.fm/user/ackorea
-    Pinterest: https://pinterest.com/toin0u/
-    Location: New York, NY 
+    Web Developer: forked from sbin.dk
+    Contact: idea [at] dennistenen.com
+    Site: http://dennistenen.com/
+    Twitter: https://twitter.com/dennistenen
+    Github: https://github.com/denten
+    Google+: https://plus.google.com/104493012600393944123/
+    Facebook: https://facebook.com/d3nten
+    Location: New York, NY
 
 /* SITE */
-    Last update: 2013/02/12
+    Last update: 02/01/2014
     Language: English
     Doctype: HTML5
     Standards: HTML5, CSS3, RSS, Media Queries, Microdata, WAI-ARIA, CORS
     Components: HTML5 Boilerplate, Modernizr, jQuery, head.js
-    Software: Sublime Text 2, Jekyll, LESS
+    Software: Vim, Jekyll, LESS
     Source: https://github.com/denten/denten.github.io

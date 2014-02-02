@@ -21,11 +21,14 @@
         {% endif %}
       {% endfor %}
 
-      <!-- Show all categories -->
-      {% for category in site.categories %}
-      <li class="sidebar-nav-item"><a name="{{ category | first }}">{{ category | first }}</a></li>
-      <!--<li class="sidebar-nav-item"><a href="#{{ category[0] | cgi_escape}}"></li>-->
-      {% endfor %}
+      <!-- testing better show all categories -->
+      <!-- add test for no categories -->
+      <!-- # is what makes this work for anchors instead of pages -->
+        {% for category in site.categories %}
+            <li class="sidebar-nav-item">
+            <a href="#{{ category[0] | cgi_escape }}">{{ category | first }}</a>
+            </li>
+        {% endfor %}
 
       <!--<li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>-->
       <!--<li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>-->

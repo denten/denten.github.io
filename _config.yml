@@ -1,12 +1,12 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 pygments:         true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Dennis Tenen 
+title:            Dennis Tenen
 tagline:          ''
 description:      ''
 url:              http://hyde.getpoole.com

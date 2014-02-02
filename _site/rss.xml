@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>dennistenen.com blog feed</title>
+        <link>http://dennistenen.com</link>
+        <description>Dennis Tenen&#39;s personal blog and portfolio</description>
+        <language>en</language>
+        <lastBuildDate>Sun, 02 Feb 2014 00:10:16 EST</lastBuildDate>
+        <generator>Jekyll</generator>
+        <copyright>Dennis Tenen</copyright>
+        <atom:link href="http://dennistenen.com/feed.rss" rel="self" type="application/rss+xml" />
+
+        
+        <item>
+            <guid>http://dennistenen.com/2014/02/02/hello-world/</guid>
+            <link>http://dennistenen.com/2014/02/02/hello-world/</link>
+            <title>Hello world!</title>
+            <pubDate>2014-02-02T00:00:00Z</pubDate>
+            <description>&lt;p&gt;I am moving my site from Wordpress to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Many thanks to &lt;a href=&quot;http://sbin.dk&quot;&gt;sbin.dk&lt;/a&gt; for letting me fork his theme. Migrating the posts from the old blog next.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

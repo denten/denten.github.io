@@ -33,16 +33,16 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Petrona", Times, serif;
 }
 @media (min-width: 48rem) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 @media (min-width: 58rem) {
   html {
-    font-size: 20px;
+    font-size: 19px;
   }
 }
 
@@ -59,6 +59,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  font-family: 'Anaheim', sans-serif;
   background-image: url('../polygon.jpg')
 }
 
@@ -82,14 +83,14 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Anaheim', sans-serif;
-  font-size: 2rem;
+  font-size: 2.1rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 2rem;
   list-style: none;
+  font-size: 1.2rem;
 }
 .sidebar-nav-item {
   display: block;

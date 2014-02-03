@@ -15,11 +15,17 @@ The artwork is by [Timothy Reynolds](http://www.turnislefthome.com/). Many desig
 
 ### Site structure
 ```
-_pages/         # optional folder contains page content in .md format
-_data/          # optional folder contains data .yml format
-_posts/         # req. folder, contains posts in .md format
-_includes       # req. folder, contains partial snippets like header, sidebar, footer etc.
+_pages/         # contains page content in .md
+_layouts/       # contains page templates in .html
+_posts/         # contains post content in .md 
+_includes/      # contains partial reusable snippets like header, sidebar, footer etc.
+_data/          # contains arbitrary data .yml
 ```
 
+
+### Notes 
+
+- Index page slightly different from others, in that it needs to live in the root.
+- To add pages create a new file in _pages/ and specify the template. Omit the title to exclude it from sidebar navigation.
 
 

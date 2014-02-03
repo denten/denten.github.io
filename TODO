@@ -2,6 +2,7 @@
 - ~~~Page iteration broken in the sidebar~~~
 - ~~~Change _posts to subfolders http://www.divshot.com/blog/web-development/advanced-jekyll-features/#custom-post-types~~~
 - Fix show single categories
+- Add contact info and about page
 
 ### Priority 2
 - Test Kramdown footnotes.

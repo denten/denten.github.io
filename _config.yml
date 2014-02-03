@@ -1,9 +1,10 @@
 # Dependencies
+
+# kramdown to support footnotes
 markdown:         kramdown
 pygments:         true
 
 # Permalinks
-# permalink:        pretty
 permalink:        /:categories/:title
 
 # Setup
@@ -12,11 +13,16 @@ tagline:          ''
 description:      ''
 url:              http://hyde.getpoole.com
 
+# Required if you want to move pages intoa a separate directory
+include: ['_pages']
+relative_permalinks: false
+
 author:
   name:           'Dennis Tenen'
   url:            https://twitter.com/dennistenen
 
-paginate:         5
+# number of posts on each page
+paginate:         3
 
 # Custom vars
 

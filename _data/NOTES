@@ -1,0 +1,35 @@
+from: http://captnemo.in/blog/2014/01/20/pluginless-jekyll/
+~~~
+Data Files
+
+This is a recent addition in Jekyll that allows you to use data noted down in YAML format inside the _data directory that is accessible to you anywhere using the site.data prefix. For instance, I recently shifted the SDSLabs Team Page from plain HTML to Jekyll, and I used a data file to define all the required elements that are shown for every user. The data file looks something like this (_data/members.yml):
+
+- name: "Abhay Rana"
+  pic: "abhay.jpg"
+  links:
+    Facebook: "https://facebook.com/capt.n3m0"
+    Twitter: "https://twitter.com/capt_n3m0"
+- name: "Team SDSLabs"
+  pic: "sdslabs.jpg"
+  links:
+    Facebook: "https://facebook.com/SDSLabs"
+    Twitter: "https://twitter.com/sdslabs"
+
+Then, I iterate over this data using the following syntax:
+
+{% for member in site.data.team %}
+<img src="pics/{{member.pic}}" alt="{{member.name}}">
+<div class="img-bar">
+  <span class="img-title">{{member.name}}</span>
+  <span class="img-icons">
+    {% for link in member.links %}
+    <!-- link[0] holds the hash key = facebook/twitter -->
+    <a href="{{link[1]}}"><img src="assets/{{link[0]|downcase}}.png"></a>
+    <!-- link[1] holds the hash value-->
+    {% endfor %}
+  </span>
+</div>
+{% endfor %}
+
+Earlier, you could have achieved the same thing by adding this data to your _config.yml file, but the _data folder allows you to store data properly in various files, if needed.
+~~~

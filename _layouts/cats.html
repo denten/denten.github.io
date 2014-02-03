@@ -10,8 +10,8 @@ layout: default
     {% for post in site.categories[page.title] %}
     {% if post.title != null %}
 
-    <li itemprop="name">
-         <a href="{{ post.url }}" itemprop="url">{{ post.title | capitalize }}</a>
+    <li style="list-style-type:none;">
+         <a href="{{ post.url }}" itemprop="url">{{ post.title }}</a>
     </li>
 
     {% endif %}

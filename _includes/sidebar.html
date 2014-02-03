@@ -3,18 +3,21 @@
         <h1><a href="/"> {{ site.title }} </a></h1>
     </div>
 
-    <!-- show all pages -->
+    <!-- show all pages except for garbage ones-->
+    <!-- sort according to title -->
+    <!-- pages without a title excluded -->
+    <!-- hightlight active page in navigation-->
     <ul class="sidebar-nav">
-        {% assign pages_list = site.pages %}
-        {% for node in pages_list %}
+        {% assign sorted_pages = site.pages | sort:"name" %}
+        {% for node in sorted_pages %}
         {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
+
+            <li class="sidebar-nav-item{% if node.url == page.url %} active{% endif %}">
+                <a href="{{ node.url }}">{{ node.title }}</a>
             </li>
-          {% endif %}
+
         {% endif %}
-      {% endfor %}
+        {% endfor %}
     </ul>
 
     <!-- show all pages sorted -->

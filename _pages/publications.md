@@ -1,7 +1,7 @@
 ---
 layout: cats
-permalink: /talks/
-title: talks
+permalink: /publications/
+title: publications 
 ---
 
 Test. 7.

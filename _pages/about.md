@@ -1,7 +1,6 @@
 ---
 layout: page 
 permalink: /about/
-title: About
 ---
 
 <p class="message">

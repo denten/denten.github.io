@@ -1,5 +1,5 @@
 ---
-author: admin
+author: denten 
 comments: false
 date: 2009-03-03 07:46:17+00:00
 layout: post

@@ -6,8 +6,7 @@ layout: post
 slug: piracy-lab-in-the-news
 title: piracyLab in the news
 wordpress_id: 502
-categories:
-- think.stack
+categories: think.stack
 ---
 
 [Sarah Laskow](http://www.cjr.org/author/sarah-laskow/) from [Columbia Journalism Review](http://www.cjr.org) stopped by the lab last week and wrote a [ great piece](http://www.cjr.org/cloud_control/piracylab.php) about [piracyLab](http://piracylab.org). Here is a short excerpt:

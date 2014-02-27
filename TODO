@@ -1,11 +1,15 @@
 ### Priority 1
 - ~~~Page iteration broken in the sidebar~~~
 - ~~~Change _posts to subfolders http://www.divshot.com/blog/web-development/advanced-jekyll-features/#custom-post-types~~~
-- Fix show single categories
-- snippets 
+- ~~~Fix show single categories~~~
+- snippets
+- tags
+- custom post styles
 - Add contact info and about page
 - get background that looks better on mobile
-- custom post styles
+- get out of naming posts with dates, if that is possible
+- Add more the book sprint posts 
+- Write a post about ASU Sprint 
 
 ### Priority 2
 - ~~~Test Kramdown footnotes.~~~
@@ -17,4 +21,5 @@
 
 ### Priority 3
 - blogpost about leaving wordpress (plain text, authoring tools, backup)
-- blogpost about war on links. They rot and one cannot see where they are going. Solution: explicit links and internet archive. Mention the Berkman project.
+- ~~~blogpost about war on links. They rot and one cannot see where they are going. Solution: explicit links and internet archive. Mention the Berkman project.~~~
+

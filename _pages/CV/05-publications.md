@@ -2,7 +2,7 @@
 
 "Sustainable Authorship in Plain Text Using Pandoc and Markdown," forthcomming in the *Programming Historian, Spring 2014.  
 
-"Unintelligent Design," to appear in *boundary 2*, accepted in Fall 2013.  
+"Unintelligent Design," to appear in *boundary 2*, accepted Fall 2013.  
 
 "Stalin's PowerPoint" *Modernism/modernity*, to appear in Modernism/modernity, Fall 2013   
 

@@ -2,7 +2,7 @@
 
 idea@dennistenen.com • github.com/denten • (415) 215-3315  
 
-Dennis Tenen teaches in the fields of new media and digital humanities at Columbia University. His research often happens at the intersection of books, people, and technology.
+Dennis Tenen teaches in the fields of new media and digital humanities at Columbia University. His research often happens at the intersection of text, people, and technology.
 
 ## Affiliation
 
@@ -48,7 +48,7 @@ lab notebooks, local knowledge, journal lists, tutorials, and other useful infor
 
 "Sustainable Authorship in Plain Text Using Pandoc and Markdown," forthcomming in the *Programming Historian, Spring 2014.  
 
-"Unintelligent Design," to appear in *boundary 2*, accepted in Fall 2013.  
+"Unintelligent Design," to appear in *boundary 2*, accepted Fall 2013.  
 
 "Stalin's PowerPoint" *Modernism/modernity*, to appear in Modernism/modernity, Fall 2013   
 

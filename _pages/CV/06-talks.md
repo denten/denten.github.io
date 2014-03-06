@@ -1,6 +1,8 @@
 ## Selected Conference Presentations and Other Lectures
 \* Asterisk indicates talks by invitation
 
+"Book Piracy and Peer Preservation." Connective Media, Cornell Tech, NYC. March 06, 2014.\*   
+
 "Civic Scholarship." Research Without Borders, Columbia University. February, 2014.\*  
 
 "Visualizing Book Piracy." Detective: Advanced Data Visualization Project, Graduate School of Architecture, Columbia University. February 3, 2013.\*  

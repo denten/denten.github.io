@@ -1,4 +1,6 @@
-## Published and Forthcoming
+## Publications
+
+### Published and Forthcoming
 
 "Sustainable Authorship in Plain Text Using Pandoc and Markdown," forthcomming in the *Programming Historian, Spring 2014.  
 
@@ -10,9 +12,10 @@
 
 "History and Poetics of Intertextuality by Marko Juvan." Book Review. *Slavic & East European Journal*, Summer 2012, Vol. 56 Issue 2, p.309.  
 
-"Travelogue as Fact and Fiction," in *Imaginäre Topografien*, ed. Klaus Müller-Richter, 99-111. Vienna: Internationales Forschungszentrum Kulturwissenschaften, 2007.  
+"Travelogue as Fact and Fiction," in *Imaginäre Topografien*, ed. Klaus Müller-Richter, 99--111. Vienna: Internationales Forschungszentrum Kulturwissenschaften, 2007.  
 
-Review of "Vokzal—Garazh—Angar: Vladimir Nabokov i poetika russkogo urbanizma" by Yuri Leving. *Slavic and East European Journal* 49 (Autumn 2006): 688.  
+Review of "Vokzal-Garazh-Angar: Vladimir Nabokov i poetika russkogo urbanizma" by Yuri Leving. *Slavic and East European Journal* 49 (Autumn 2006): 688.  
 
 "Three Notes on Mary" *The Nabokovian* 46, Autumn 2001.  
+
 

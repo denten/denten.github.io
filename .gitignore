@@ -1,2 +1,9 @@
 Backup/
 _site/
+*.aux
+*.log
+*.out
+CV.md
+CV.pdf
+CV.tex
+auto/

@@ -1,4 +1,6 @@
-## Selected Conference Presentations and Other Lectures
+
+### Selected Conference Presentations and Other Lectures
+
 \* Asterisk indicates talks by invitation
 
 "Book Piracy and Peer Preservation." Connective Media, Cornell Tech, NYC. March 06, 2014.\*   

@@ -1,7 +1,9 @@
 ## Selected Conference Presentations and Other Lectures
 \* Asterisk indicates talks by invitation
 
-"Book Piracy and Peer Preservation." Connective Media, Cornell Tech, NYC. March 06, 2014.\*   
+"Introduction to Cloud Computing with Amazon AWS," Digital Praxis Seminar, CUNY. March 14th, 2014.\*  
+
+"Book Piracy and Peer Preservation." Connective Media, Cornell Tech, NYC. March 06, 2014 and March 14th at Columbia University Press.\*   
 
 "Civic Scholarship." Research Without Borders, Columbia University. February, 2014.\*  
 

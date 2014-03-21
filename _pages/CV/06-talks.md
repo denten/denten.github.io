@@ -1,4 +1,6 @@
-## Selected Conference Presentations and Other Lectures
+
+### Selected Conference Presentations and Other Lectures
+
 \* Asterisk indicates talks by invitation
 
 "Introduction to Cloud Computing with Amazon AWS," Digital Praxis Seminar, CUNY. March 14th, 2014.\*  

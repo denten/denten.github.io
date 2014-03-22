@@ -1,5 +1,4 @@
 ## Grants and Projects
-
 ### [piracylab.org](http://piracylab.org/)
 An academic research collective exploring the impact of piracy on the spread of knowledge around the world. Founder (spring 2013) and principle investigator. Research publications forthcoming.  
 

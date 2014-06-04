@@ -2,11 +2,13 @@
 
 ### Published and Forthcoming
 
+"Book Piracy as Peer Preservation," forthcoming in *Computational Culture*.  
+
 "Sustainable Authorship in Plain Text Using Pandoc and Markdown," forthcomming in the *Programming Historian, Spring 2014.  
 
 "Unintelligent Design," to appear in *boundary 2*, accepted Fall 2013.  
 
-"Stalin's PowerPoint" *Modernism/modernity*, to appear in Modernism/modernity, Fall 2013   
+"Stalin's PowerPoint" *Modernism/modernity*, published in Modernism/modernity, Fall 2013   
 
 "Blunt Instrumentalism,” *Debates in Digital Humanities*. Essay in an edited volume accepted in Spring 2013.  
 

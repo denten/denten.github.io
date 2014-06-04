@@ -1,0 +1,14 @@
+- requires `text-gyre` package
+
+Original instructions from 
+http://www.chainsawonatireswing.com/2013/05/28/how-i-create-manage-my-cv-using-markdown-pandoc/
+
+    \usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+    I found that the default margins were too big, so I reduced them to 1 inch on all 4 sides.
+    \lhead{\itshape R. Scott Granneman}
+    This prints my name in the top left of the header in italics, except for the first page.
+    \rhead{\thepage}
+    This prints the page number in the top right of the header, except for the first page.
+    \cfoot{\today}
+    This prints today’s date in the center of the footer, except for the first page. The format is like this: May 25, 2013.
+

@@ -1,8 +1,0 @@
-# First Run 
-ghc --make site.hs
-./site build
-./site preview
-
-# Rebuild
-./site clean + ./site build or 
-./site rebuild 

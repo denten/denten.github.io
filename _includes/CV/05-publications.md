@@ -1,7 +1,5 @@
 ## Publications
 
-### Published and Forthcoming
-
 "Book Piracy as Peer Preservation," forthcoming in *Computational Culture*.  
 
 "Sustainable Authorship in Plain Text Using Pandoc and Markdown," forthcomming in the *Programming Historian, Spring 2014.  

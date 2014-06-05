@@ -1,18 +1,14 @@
 ### Priority 1
-- ~~~Page iteration broken in the sidebar~~~
-- ~~~Change _posts to subfolders http://www.divshot.com/blog/web-development/advanced-jekyll-features/#custom-post-types~~~
-- ~~~Fix show single categories~~~
 - snippets
 - tags
 - custom post styles
 - Add contact info and about page
 - get background that looks better on mobile
 - get out of naming posts with dates, if that is possible
-- Add more the book sprint posts 
-- Write a post about ASU Sprint 
+- Add more the book sprint posts
+- Write a post about ASU Sprint
 
 ### Priority 2
-- ~~~Test Kramdown footnotes.~~~
 - Fix permalinks for truncated URL redirects. See http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/#simple_url_redirects
 - Break 404.html into template and .md like everybody else
 - Fix sort order for categories.

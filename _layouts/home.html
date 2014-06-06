@@ -4,17 +4,52 @@ layout: default
 
 <div class="page">
 
-    <h1 class="page-title">{{ page.title }}</h1>
+<!--<h1 class="page-title">{{ page.title }}</h1>-->
+<ul >
+    {% for post in site.posts limit 3 %}
+    <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+        {{ post.content | truncatewords:75}}<br>
+        <a href="{{ post.url }}">Read more...</a><br><br>
+    {% endfor %}
+</ul>
 
-    {{ content }}
+<p><b>More random posts:</b></p>
+<ul>
+<script type="text/javascript">
 
-<h1>Latest Post</h1>
-{% for post in site.posts limit:1 %}
-... Show the first post all big ...
-{% endfor %}
-<h1>Recent Posts</h1>
-{% for post in site.posts offset:1 limit:2 %}
-... Show the next to posts ...
-{% endfor %}
+    var randomUsed = [];
+    var counter = 0;
+    var numberOfPosts = 4;
+
+    while (counter < numberOfPosts)
+    {
+        var random;
+        var postURL;
+        var postTitle;
+
+        random = Math.floor(Math.random() * postsURL.length);
+
+        if (randomUsed.indexOf(random) == "-1")
+        {
+            postURL = postsURL[random];
+            postTitle = postsTitle[random];
+
+            if (counter == (numberOfPosts - 1))
+            {
+                document.write('<p><a href="'+postURL+'">'+postTitle+'</a></p>');
+            }
+            else
+            {
+                document.write('<p><a href="'+postURL+'">'+postTitle+'</a></p>');
+            }
+
+            randomUsed.push(random);
+
+            counter++;
+        }
+    }
+
+</script>
+</ul>
 
 </div>

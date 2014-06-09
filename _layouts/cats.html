@@ -7,14 +7,17 @@ layout: default
 
     {{ content }}
 
-    {% for post in site.categories[page.title] %}
+    {% for post in site.categories[page.title] limit:3 %}
+
     {% if post.title != null %}
-
-    <li style="list-style-type:none;">
-         <a href="{{ post.url }}" itemprop="url">{{ post.title }}</a>
-    </li>
-
+    <h3><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     {% endif %}
+
+    {{ post.content | truncatewords:75 }}<br>
+    <a href="{{ post.url }}">Read more &raquo;</a><br><br>
+    <!-- hack to prevent unclosed lists in the snippet -->
+    </ul></ol>
+
     {% endfor %}
 
 </div>

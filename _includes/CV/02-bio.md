@@ -6,6 +6,10 @@
 and on GitHub at <a href="https://github.com/denten">github.com/denten</a>. I am also active on Stack Exchange <a href="http://stackexchange.com/users/2026874/denten?tab=accounts">Skeptics forum</a>.</p>
 
 <p>My affilitations include:
-<a href="http://idse.columbia.edu/new-media">New Media Center</a>, <a href="http://idse.columbia.edu/">Institute for Data Sciences and Engineering</a>; Berkman Center for Internet and Society
-metaLab@Harvard; Association for Literary and Linguistic Computing; Harriman Institute; nycdh.org
-
+<a href="http://idse.columbia.edu/new-media">New Media Center</a>; 
+<a href="http://idse.columbia.edu/">Institute for Data Sciences and Engineering</a>; 
+<a href="http://cyber.law.harvard.edu/">Berkman Center for Internet and Society</a>; 
+<a href="http://metalab.harvard.edu/">metaLab [at] Harvard</a>; 
+<a href="http://ach.org/">The Association for Computers and the Humanities</a>; 
+<a href="http://harriman.columbia.edu/">Harriman Institute</a>; 
+<a href="http://nycdh.org/">nycdh.org</a>

@@ -1,2 +1,11 @@
-My research often happens at the intersection of texts, people, and technology.
+<p>Hello! My name is Dennis Tenen and I work as an Assistant Professor of Digital Humanities and New Media Studies at Columbia University, <a href="http://english.columbia.edu/people/profile/453">Department of English and Comparative Literature</a>. I also <a href="https://github.com/ledeprogram/courses">teach</a> at Columbia's <a href="http://www.journalism.columbia.edu/page/1058-the-lede-program-an-introduction-to-data-practices/906">Journalism School</a>.</p>
+
+<p>My research happens at the intersection of texts, people, and technology.</p>
+
+<p>You can find me on Twitter <a href="https://twitter.com/dennistenen">@dennistenen</a>
+and on GitHub at <a href="https://github.com/denten">github.com/denten</a>. I am also active on Stack Exchange <a href="http://stackexchange.com/users/2026874/denten?tab=accounts">Skeptics forum</a>.</p>
+
+<p>My affilitations include:
+<a href="http://idse.columbia.edu/new-media">New Media Center</a>, <a href="http://idse.columbia.edu/">Institute for Data Sciences and Engineering</a>; Berkman Center for Internet and Society
+metaLab@Harvard; Association for Literary and Linguistic Computing; Harriman Institute; nycdh.org
 

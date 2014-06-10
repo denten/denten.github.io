@@ -10,10 +10,10 @@ Rapid prototyping of speculative ideas. Founder (spring 2014) and member of the 
 One of the principle founders (fall 2013) of the Butler Studio, a maker/lab space at the center of Columbia's main library. Weekly events, invited talks, hackathons, and open labs.  
 
 ### [Open Syllabus Project](http://opensyllabusproject.org/)
-Collecting and analyzing the world's largest corpus of academic syllabi. $210k grant from the Sloan Foundation, September 2013 - August 2014. Principle investigator.  
+Collecting and analyzing the world's largest corpus of academic syllabi. $210k grant from the Sloan Foundation (September 2013 - August 2014). Principle investigator.  
 
 ### [LitClock](https://twitter.com/LITclock)
-An experimental Twitter bot which broadcats time, on the minute, using quotes mined with Mechanical Turk from Random House back catalog. Made for Twitter Fiction Festival, March 2014. In collaboration with Susana Zialcita.   
+An experimental Twitter bot which broadcats time, on the minute, using quotes mined with Mechanical Turk from Random House back catalog. Made for Twitter Fiction Festival (March 2014). In collaboration with Susana Zialcita.   
 
 ### [dh-notes](https://github.com/denten/dhnotes) 
 lab notebooks, local knowledge, journal lists, tutorials, and other useful information  

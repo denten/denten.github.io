@@ -3,6 +3,8 @@
 
 \* Asterisk indicates talks by invitation
 
+"Technologies of Resistance." Keynote address. PG Conference, University of Glasgow. May 28th, 2014.\*  
+
 "Introduction to Cloud Computing with Amazon AWS," Digital Praxis Seminar, CUNY. March 14th, 2014.\*  
 
 "Book Piracy and Peer Preservation." Connective Media, Cornell Tech, NYC. March 06, 2014 and March 14th at Columbia University Press.\*   

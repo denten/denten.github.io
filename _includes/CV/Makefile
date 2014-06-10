@@ -1,16 +1,14 @@
 # The following 2 variables define the files on which the target (the CV) depends.
 # If one of this files is changed make will execute the necesary commands.
-MDSOURCES = 01-header.md  03-affiliation.md  05-publications.md  07-teaching.md  02-bio.md     04-projects.md     06-talks.md         08-service.md
+MDSOURCES = 01-header.md 03-affiliation.md 05-publications.md 07-teaching.md 04-projects.md 06-talks.md 08-service.md
 TEMPLATEFILES = template.tex style.tex structure.tex
 
 # Here we define the name of the output and the temporal directories
-TEMPDIR = Temp
-OUTPUTDIR = Imprints
+TEMPDIR = temp
+OUTPUTDIR = imprints
 
 # Final name of the pdf CV.
 TARGET = denten-CV-`date +%Y-%m-%d)`
-
-
 
 # This rules has all the needed command to create the CV.
 build_pdf:
@@ -27,7 +25,7 @@ build_pdf:
 CV.md: ${MDSOURCES}
 	cat [[:digit:]]*.md > CV.md
 
-# Rule to create the latex files. It will be executed only if the global md file or the 
+# Rule to create the latex files. It will be executed only if the global md file or the
 # template files are modifyed
 CV.tex: CV.md ${TEMPLATEFILES}
 	pandoc -S -s -H style.tex --template=template.tex  CV.md -o CV.tex
@@ -38,7 +36,6 @@ CV.tex: CV.md ${TEMPLATEFILES}
 pdf: CV.tex
 	pdflatex CV.tex
 	pdflatex CV.tex
-
 
 clean:
 	rm -rf ${TEMPDIR}

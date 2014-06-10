@@ -1,12 +1,9 @@
 ### Priority 1
-- snippets
 - tags
-- custom post styles
 - Add contact info and about page
 - get background that looks better on mobile
 - get out of naming posts with dates, if that is possible
 - Add more the book sprint posts
-- Write a post about ASU Sprint
 
 ### Priority 2
 - Fix permalinks for truncated URL redirects. See http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/#simple_url_redirects
@@ -17,5 +14,3 @@
 
 ### Priority 3
 - blogpost about leaving wordpress (plain text, authoring tools, backup)
-- ~~~blogpost about war on links. They rot and one cannot see where they are going. Solution: explicit links and internet archive. Mention the Berkman project.~~~
-

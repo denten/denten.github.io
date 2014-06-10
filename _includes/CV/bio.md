@@ -13,3 +13,4 @@ and on GitHub at <a href="https://github.com/denten">github.com/denten</a>. I am
 <a href="http://ach.org/">The Association for Computers and the Humanities</a>; 
 <a href="http://harriman.columbia.edu/">Harriman Institute</a>; 
 <a href="http://nycdh.org/">nycdh.org</a>
+

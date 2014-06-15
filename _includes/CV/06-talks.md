@@ -1,7 +1,6 @@
 
 ## Selected Conference Presentations and Other Lectures
-
-<h3><sub>\* Asterisk indicates talks by invitation</sub><h3>
+###<sub>\* Asterisk indicates talks by invitation</sub>
 
 "Technologies of Resistance." Keynote address. PG Conference, University of Glasgow. May 28th, 2014.\*  
 

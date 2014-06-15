@@ -1,10 +1,9 @@
 ---
 author: admin
-comments: false
 date: 2011-11-15 01:44:06+00:00
 layout: post
-slug: '126'
-title: None
+slug: 'fromm'
+title: A quote from Fromm 
 wordpress_id: 126
 categories:
 - think.stack

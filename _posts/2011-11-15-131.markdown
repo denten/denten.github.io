@@ -3,8 +3,8 @@ author: admin
 comments: false
 date: 2011-11-15 01:47:50+00:00
 layout: post
-slug: '131'
-title: None
+slug: 'fromm-2'
+title: More Fromm 
 wordpress_id: 131
 categories:
 - think.stack

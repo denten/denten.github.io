@@ -2,17 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <link href='http://fonts.googleapis.com/css?family=Roboto|Anaheim' rel='stylesheet' type='text/css'>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+    <body>
+        {% include sidebar.html %}
 
-    {% include sidebar.html %}
+        <div class="content container">
+            {{ content }}
+            {% include footer.html %}
+        </div>
+    </body>
 
-    <div class="content container">
-      {{ content }}
-      <hr>
-      <p style="text-align: right; color: gray"><sub>made w/ vim + markdown + jekyll + plain text</sub></p>
-    </div>
-
-  </body>
 </html>

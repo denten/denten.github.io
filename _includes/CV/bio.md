@@ -2,7 +2,7 @@
 
 <p>My research happens at the intersection of texts, people, and technology.</p>
 
-<p>You can find me on Twitter <a href="https://twitter.com/dennistenen">@dennistenen</a>, on GitHub at <a href="https://github.com/denten">github.com/denten</a>, and on Stack Exchange <a href="http://stackexchange.com/users/2026874/denten?tab=accounts">Skeptics forum</a>.</p>
+<p>You can find me on Twitter <a href="https://twitter.com/dennistenen">@dennistenen</a>, on GitHub at <a href="https://github.com/denten">github.com/denten</a>, and on <a href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack Exchange</a>.</p>
 
 <p>My affilitations include:
 <a href="http://idse.columbia.edu/new-media">New Media Center</a>, 

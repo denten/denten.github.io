@@ -3,6 +3,8 @@
 
 ###<sub>\* Asterisk indicates talks by invitation</sub>
 
+"Ethics of Plain Text" with Grant Wythoff. The Princeton-Weimar Summer School for Media Studies, Princeton. June 19th.\*  
+
 "Technologies of Resistance." Keynote address. PG Conference, University of Glasgow. May 28th, 2014.\*  
 
 "Introduction to Cloud Computing with Amazon AWS," Digital Praxis Seminar, CUNY. March 14th, 2014.\*  

@@ -2,7 +2,7 @@
 
 "Book Piracy as Peer Preservation," forthcoming in *Computational Culture*.  
 
-"[Sustainable Authorship in Plain Text](http://web.archive.org/web/20140622005616/http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," *Programming Historian, Spring 2014.  
+"[Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," *Programming Historian*, Spring 2014.  
 
 "Unintelligent Design," to appear in *boundary 2*, accepted Fall 2013.  
 

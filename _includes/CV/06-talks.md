@@ -3,7 +3,7 @@
 
 ###<sub>\* Asterisk indicates talks by invitation</sub>
 
-"Ethics of Plain Text" with Grant Wythoff. The Princeton-Weimar Summer School for Media Studies, Princeton. June 19th.\*  
+"[Ethics of Plain Text](dhcolumbia.github.io/pandoc-workflow/ethics-plain-text-slides.html)" with Grant Wythoff. The Princeton-Weimar Summer School for Media Studies, Princeton. June 19th.\*  
 
 "Technologies of Resistance." Keynote address. PG Conference, University of Glasgow. May 28th, 2014.\*  
 

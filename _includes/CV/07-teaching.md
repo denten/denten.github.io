@@ -2,11 +2,11 @@
 
 ### Literature
 
-*Literature Humanities*, Columbia University 2012--2013. 
+*Literature Humanities*, Columbia University 2012-2013. 
 *Literature Tutorial*, Harvard Tutor in the of Fall 2007 through Spring 2010. 
 19th Century English, Harvard Teaching Fellow with Professor Matthew Kaiser, Spring 2009. 
-19th Century Russian, Harvard Teaching Fellow with Professor William Mills Todd III, Spring 2006.  
-20th Century Russian, Harvard Teaching Fellow with Professor Svetlana Boym, Fall 2005.  
+19th Century Russian, Harvard Teaching Fellow with Professor William Mills Todd III, Spring 2006.
+20th Century Russian, Harvard Teaching Fellow with Professor Svetlana Boym, Fall 2005.
 
 ### New Media and Digital Humanities
 
@@ -19,7 +19,7 @@
 
 ### Theory and Philosophy
 
-[*Contemporary Civilization*](https://github.com/denten/courses/tree/master/conciv), Columbia University 2013--15. 
+[*Contemporary Civilization*](https://github.com/denten/courses/tree/master/conciv), Columbia University 2013-15. 
 *Beyond the Human*, Columbia University, Fall 2012. 
 *Moral Reasoning: Self, Serenity, and Vulnerability*, Harvard Teaching Fellow with Professors Roberto Unger and Michael Puett, Fall 2007 and Spring 2010. 
 *Moral Reasoning: Self, Freedom, and Existence*, Harvard Teaching Fellow with Professor Richard Moran, Fall 2008.

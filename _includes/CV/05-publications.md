@@ -6,7 +6,7 @@
 
 "Unintelligent Design," to appear in *boundary 2*, accepted Fall 2013.  
 
-"Stalin's PowerPoint" *Modernism/modernity*, published in Modernism/modernity, Fall 2013   
+"[Stalin's PowerPoint](http://academiccommons.columbia.edu/catalog/ac:175158)" *Modernism/modernity*, published in Modernism/modernity, Fall 2013   
 
 "Blunt Instrumentalism,” *Debates in Digital Humanities*. Essay in an edited volume accepted in Spring 2013.  
 

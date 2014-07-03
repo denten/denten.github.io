@@ -7,7 +7,7 @@
 
 "Rage with the Machine." Keynote address, PG Conference, University of Glasgow. May 28th, 2014.\*  
 
-"Technology we Deserve." Keynote address, Teachers College Educational Technology Conference. May 18th, 2014.\*  
+"Technology We Deserve." Keynote address, Teachers College Educational Technology Conference. May 18th, 2014.\*  
 
 "Introduction to Cloud Computing with Amazon AWS," Digital Praxis Seminar, CUNY. March 14th, 2014.\*  
 

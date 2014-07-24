@@ -1,6 +1,6 @@
 ---
 author: Dennis Tenen
-email: idea@dennistenen.com
+email: denten@plaintext.in
 url: github.com/denten
 telephone: (415)\ 215-3315
 bio:

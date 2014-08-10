@@ -1,5 +1,7 @@
 ## Publications
 
+"Digital Displacement," forthcoming in ACLA's *State of the Discipline Report*.
+
 "Book Piracy as Peer Preservation," forthcoming in *Computational Culture*.  
 
 "[Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," *Programming Historian*, Spring 2014.  

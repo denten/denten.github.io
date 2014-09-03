@@ -10,7 +10,7 @@
 
 ### New Media and Digital Humanities
 
-[*Code and Poetry: Critical Practice in Humanities Computing*](https://docs.google.com/document/d/1twsaYAkqC1ReeUGxZcvWNmSRPj0KI611l6UCIvhfEyw/edit?usp=sharing), Columbia University (CU), Fall 2014.
+[*Code and Poetry: Critical Practice in Humanities Computing*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md), Columbia University (CU), Fall 2014.
 *Illicit Knowledge*, CU Spring 2014. *Media Archeology*, CU Fall 2013. 
 *Hacking the Archive*, CU Spring 2013. 
 *Experimental Criticism*, Harvard University Lecturer, Spring 2012. 

@@ -19,7 +19,7 @@
 
 ### Theory and Philosophy
 
-[*Contemporary Civilization*](https://github.com/denten/courses/tree/master/conciv), Columbia University 2013-15. 
+[*Contemporary Civilization*](https://github.com/denten/courses/tree/master/con-civ), Columbia University 2013-15. 
 *Beyond the Human*, Columbia University, Fall 2012. 
 *Moral Reasoning: Self, Serenity, and Vulnerability*, Harvard Teaching Fellow with Professors Roberto Unger and Michael Puett, Fall 2007 and Spring 2010. 
 *Moral Reasoning: Self, Freedom, and Existence*, Harvard Teaching Fellow with Professor Richard Moran, Fall 2008.

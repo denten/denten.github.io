@@ -1,6 +1,6 @@
 ## Publications
 
-"[Digital Displacement](http://stateofthediscipline.acla.org/entry/digital-displacement)," 2014 ACLA's *State of the Discipline Report*.
+"[Digital Displacement](http://stateofthediscipline.acla.org/entry/digital-displacement)," in ACLA's *2014-1015 State of the Discipline Report*.
 
 "Book Piracy as Peer Preservation," forthcoming in *Computational Culture*.  
 

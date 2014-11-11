@@ -2,7 +2,7 @@
 
 "[Digital Displacement](http://stateofthediscipline.acla.org/entry/digital-displacement)," in ACLA's *2014-1015 State of the Discipline Report*.
 
-"Book Piracy as Peer Preservation," forthcoming in *Computational Culture*.  
+"[Book Piracy as Peer Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)," in *Computational Culture*, November 9th, 2014.  
 
 "[Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)," *Programming Historian*, Spring 2014.  
 

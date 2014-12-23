@@ -4,9 +4,13 @@
 
 <p>You can find me on Twitter <a href="https://twitter.com/dennistenen">@dennistenen</a>, on GitHub at <a href="https://github.com/denten">github.com/denten</a>, and on <a href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack Exchange</a>.</p>
 
-<p>I am a co-founder of 
-<a href="http://xpmethod.plaintext.in/">Columbia's Group for Experimental Methods in the Humanities</a> and
+<p>
+I am a co-founder of 
+<a href="http://xpmethod.plaintext.in/">Columbia's Group for Experimental Methods in the Humanities</a>
+and the
 <a href="http://www.digitalstorytellinglab.com/">Digital Storytelling Lab</a>.
-I am also a faculty affiliate at <a href="http://idse.columbia.edu/">Institute for Data Sciences and Engineering</a> and at the 
+I am also a faculty affiliate at the 
+<a href="http://idse.columbia.edu/">Institute for Data Sciences and Engineering</a> 
+and at the 
 <a href="http://cyber.law.harvard.edu/">Berkman Center for Internet and Society</a>. 
 

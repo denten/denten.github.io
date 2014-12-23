@@ -121,6 +121,7 @@ a.sidebar-nav-item:focus {
     bottom: 1rem;
     left:   1rem;
     text-align: right;
+    color: LightSlateGray;
   }
 }
 

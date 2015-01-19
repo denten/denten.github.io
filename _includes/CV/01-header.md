@@ -1,13 +1,27 @@
 ---
 author: Dennis Tenen
-email: denten@plaintext.in
-url: github.com/denten
+email: dt2406@columbia.edu
+url: denten.plaintext.in
 telephone: (415)\ 215-3315
 bio:
-- short: I write and teach in the fields of new media and digital humanities at Columbia University. My research often happens at the intersection of texts, people, and technology.
-  long: My work engages the social, legal, and institutional structures that regulate the formation of knowledge and literary practice. A former software engineer at Microsoft and currently a faculty associate at the Berkman Center for Internet and Society at Harvard, I am now working to complete my first book manuscript on algorithmic imagination. For more information, syllabi, publication list, vitae, and updates visit my personal site at [dennistenen.com](http://dennistenen.com/).
+- short: "My teaching and research happen at the intersection of people, texts,
+  and technology."
+  long: "A former software engineer at Microsoft and currently a faculty
+associate at the Berkman Center for Internet and Society at Harvard, I am
+working to complete a book manuscript called *Plain Text*, exploring
+the literary roots of modern computing. My work appears on the pages of
+*Computational Culture*, *boundary 2*, and *Modernism/modernity* on topics that
+range from book piracy, to algorithmic composition, unintelligent design, and
+history of data visualization. I teach digital humanities and media studies at
+the Department of English and Comparative Literature at Columbia University in
+the City of New York."
 papersize: letterpaper
 ---
+
+
+
+
+
 
 
 

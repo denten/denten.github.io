@@ -1,14 +1,20 @@
+
+
 ## Affiliation
 
 ### Columbia University in the City of New York
 
 Assistant Professor of Digital Humanities and New Media Studies, Department of English and Comparative Literature, September 2012 –   
 
-- Affiliated Faculty, Institute of Data Sciences and Engineering, New Media Center  
+- Founding Member, Group for Experimental Methods in the Humanities
 
-- Affiliated Faculty, Film and Comparative Media  
+- Founding Member, Digital Storytelling Lab
 
-- Principle Investigator, piracylab.org and opensyllabusproject.com  
+- Principle Investigator, Open Syllabus Project
+
+- Principle Investigator, Science Surveyor
+
+- Affiliated Faculty, Institute of Data Sciences and Engineering, New Media Center
 
 ### Berkman Center for Internet and Society at Harvard University
 metaLab and Cooperation research groups  

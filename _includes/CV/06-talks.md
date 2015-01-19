@@ -1,5 +1,4 @@
-
-## Selected Conference Presentations and Other Lectures
+## D. Selected Talks
 
 ###<sub>\* Asterisk indicates talks by invitation</sub>
 

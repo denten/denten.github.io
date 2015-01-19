@@ -1,6 +1,7 @@
+
 ## D. Selected Talks
 
-###<sub>\* Asterisk indicates talks by invitation</sub>
+\* Asterisk indicates talks by invitation
 
 "[Ethics of Plain Text](http://dhcolumbia.github.io/pandoc-workflow/talks/plain-text/slides/presi.slides.html)" with Grant Wythoff. The Princeton-Weimar Summer School for Media Studies, Princeton. June 19th.\*  
 

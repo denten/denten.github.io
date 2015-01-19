@@ -1,7 +1,7 @@
 
 ## E. Teaching
 
-### 2014-15 (Columbia University)
+**2014-15 (Columbia University)**  
 
 *Computing in Context: Textual & Literary Scholarship.* W/ Matt Jones
 (History), Adam Cannon (Computer Science), and Karl Sigman (Economics).
@@ -11,7 +11,7 @@ Lecture. Spring.
 *Coding for Human(s|ists)*. Lecture & lab. Unversity of Victoria, Canada.
 Digital Humanities Summer Institute. Summer 2015.  
 
-### 2013-14 (Columbia University)
+**2013-14 (Columbia University)**  
 
 *Illicit Knowledge*. Seminar & digital humanities (DH) lab. Spring.  
 *Media Archeology*. Seminar, topics in new media studies. Fall.  
@@ -19,16 +19,17 @@ Digital Humanities Summer Institute. Summer 2015.
 *Foundations of Computing for Data Science Journalism*. Lecture and lab. Lede Program. Graduate
 school of Journalism. Summer 2014.  
 
-### 2012-13 (Columbia University)
+**2012-13 (Columbia University)**  
+
 *Beyond the Human*. Seminar. Topics in new media studies. Spring.  
 *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly. Fall.  
 *Literature Humanities*. Undergraduate seminar. Columbia core. Year-long.  
 
-### 2011-12 (Harvard University)
+**2011-12 (Harvard University)**  
 
 *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH Lab.  
 
-### Before 2011 (Harvard University, Tufts University)
+**Before 2011 (Harvard University, Tufts University)**  
 
 *The Art of Numbers*, Teaching Fellow (TF) with Prof. Alyssa Goodman, spring 2008 & 2010. Undergraduate seminar, data visualization, quantitative reasoning. 
 *Future of the Book*, Tufts University Lecturer, Spring 2008, undergraduate

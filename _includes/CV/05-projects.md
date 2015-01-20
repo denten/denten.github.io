@@ -1,4 +1,4 @@
-## C. Selected Projects*†*
+## C. Selected Projects<sub>*†*</sub>
 
 1. [Group for Experimental Methods in the
    Humanities](http://xpmethod.github.io/). Founding member, (09/14). Rapid prototyping of speculative thought.

@@ -1,4 +1,4 @@
-## C. Selected Projects<sub>*†*</sub>
+## C. Selected Projects<sup>*†*</sup>
 
 1. [Group for Experimental Methods in the
    Humanities](http://xpmethod.github.io/). Founding member, (09/14). Rapid prototyping of speculative thought.
@@ -19,7 +19,7 @@ of piracy on the spread of knowledge around the world.
 Studio, a maker/lab space at the center of Columbia's main library, hosting
 events, invited talks, workshops, and open labs.
 
-*†* For a curated portfolio of projects please visit
+<sup>*†*</sup> For a curated portfolio of projects please visit
 [xpmethod.plaintext.in/strains.html](http://xpmethod.plaintext.in/strains.html).
 
 

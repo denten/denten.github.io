@@ -7,7 +7,7 @@
 (History), Adam Cannon (Computer Science), and Karl Sigman (Economics).
 Lecture. Spring.  
 [*Code & Poetry: Critical Practice in Humanities Computing*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md). Lecture. Topics in new media studies. Fall.  
-[*Contemporary Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md). Undergraduate seminar. Columbia core. Year-long.  
+[*Contemporary Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md). Undergraduate seminar. Columbia Core. Year-long.  
 *Coding for Human(s|ists)*. Lecture & lab. Unversity of Victoria, Canada.
 Digital Humanities Summer Institute. Summer 2015.  
 
@@ -15,15 +15,15 @@ Digital Humanities Summer Institute. Summer 2015.
 
 *Illicit Knowledge*. Seminar & digital humanities (DH) lab. Spring.  
 *Media Archeology*. Seminar, topics in new media studies. Fall.  
-[*Contemporary Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md). Undergraduate seminar. Columbia core. Year-long. 
+[*Contemporary Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md). Undergraduate seminar. Columbia Core. Year-long. 
 *Foundations of Computing for Data Science Journalism*. Lecture and lab. Lede Program. Graduate
-school of Journalism. Summer 2014.  
+School of Journalism. Summer 2014.  
 
 **2012-13 (Columbia University)**  
 
 *Beyond the Human*. Seminar. Topics in new media studies. Spring.  
 *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly. Fall.  
-*Literature Humanities*. Undergraduate seminar. Columbia core. Year-long.  
+*Literature Humanities*. Undergraduate seminar. Columbia Core. Year-long.  
 
 **2011-12 (Harvard University)**  
 

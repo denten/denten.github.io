@@ -1,12 +1,12 @@
 ## C. Selected Projects*†*
 
 1. [Group for Experimental Methods in the
-   Humanities](http://xpmethod.github.io/). Founding member, (spring 2014). Rapid prototyping of speculative thought.
+   Humanities](http://xpmethod.github.io/). Founding member, (09/14). Rapid prototyping of speculative thought.
 
 1. [Science Surveyor](https://science-surveyor.github.io/). PI, (2014-). Visualizing the growth and decay of shared knowledge. Recipient of
 Brown Center Magic Grant Award ($70k).
 
-1. [dh-notes](https://github.com/denten/dhnotes). Principle maintainer, (2013-). Lab notebooks, local knowledge, journal lists, tutorials, and other useful
+1. [dh-notes](https://github.com/denten/dhnotes). Principal maintainer, (2013-). Lab notebooks, local knowledge, journal lists, tutorials, and other useful
 information for the digital humanities community.
 
 1. [Open Syllabus Project](http://opensyllabusproject.org/). PI, (9/13-8/14) Collecting and analyzing the world's largest corpus of academic

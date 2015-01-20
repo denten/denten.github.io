@@ -7,7 +7,7 @@
 *Computational Culture 4* (2014).
 1. "[Sustainable Authorship in Plain
    Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
-*The Programming Historian (2014).
+*The Programming Historian* (2014).
 1. "[Stalin’s
    PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
 *Modernism/modernity 21.1* (2014): 253–267.

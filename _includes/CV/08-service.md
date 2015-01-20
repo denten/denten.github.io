@@ -30,6 +30,6 @@ Impact on Public Discourse." Senior Thesis. Spring 2013.
 - Peer review for the American Academy in Berlin; *Computational Culture*, *Modernism/Modernity*.
 - 2 years as a managing editor of *Modernism/Modernity* (Modernist Studies Association and John-Hopkins University Press, job following placement of manuscript).
 - 4+ years application development (Microsoft).
-- 5+ years web design with an emphasis on content management systems (clients include General Motors, The Greening of Detroit, MRI, MSU Libraries and Computing Provost.
+- 5+ years web design with an emphasis on content management systems (clients include General Motors, The Greening of Detroit, MRI, MSU Libraries and Computing Provost).
 - 2+ years desktop publishing as the editor/researcher for Physician's Press.
 

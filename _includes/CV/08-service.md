@@ -8,6 +8,8 @@
 - Weekly Open Lab meetings at Butler Studio. Workshops and lecture series.
 2013- .
 - Yearly MA and undergraduate academic advising.
+- Participation in Litarary Theory and Theory and History of Media unversity
+seminars.
 
 **Doctoral Students**  
 

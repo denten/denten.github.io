@@ -2,7 +2,7 @@
 
 **Peer Reviewed**:
 
-1. Tenen, Dennis. "[Book Piracy as Peer
+1. "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
 *Computational Culture 4* (2014).
 1. "[Sustainable Authorship in Plain

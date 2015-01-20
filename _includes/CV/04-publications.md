@@ -43,8 +43,10 @@ published by Routledge. Ed. Ursula K. Heise & Guillermina De Ferrari.
 
 **Book Reviews**:
 
-1. Tenen, Dennis. “What Is? Nine Epistemological Essays by Johanna Drucker.”
+1. “What Is? Nine Epistemological Essays by Johanna Drucker.”
    *Design and Culture*. Accepted 11/14.
+1. “Writing Technology (*The Circle* by David Eggers and *Mad About
+   a Boy* by Bridget Jones).” *Public Books* (2014).
 1. "History and Poetics of Intertextuality by Marko Juvan." *The Slavic and
    East European Journal 56.2* (2012): 309.
 1. "Vokzal, Garazh, Angar: Vladimir Nabokov I Poetika Russkogo Urbanizma by

@@ -1,7 +1,8 @@
 ---
 layout: cats
 permalink: /projects/
-title: projects 
+title: projects
+
 ---
 
-{% include CV/04-projects.md %}
+{% include CV/05-projects.md %}

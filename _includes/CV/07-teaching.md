@@ -15,9 +15,8 @@ Digital Humanities Summer Institute. Summer 2015.
 
 *Illicit Knowledge*. Seminar & digital humanities (DH) lab. Spring.  
 *Media Archeology*. Seminar, topics in new media studies. Fall.  
-[*Contemporary Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md). Undergraduate seminar. Columbia Core. Year-long. 
-*Foundations of Computing for Data Science Journalism*. Lecture and lab. Lede Program. Graduate
-School of Journalism. Summer 2014.  
+[*Contemporary Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md). Undergraduate seminar. Columbia Core. Year-long.  
+*Foundations of Computing for Data Science Journalism*. Lecture and lab. Lede Program. Graduate School of Journalism. Summer 2014.  
 
 **2012-13 (Columbia University)**  
 

@@ -3,6 +3,9 @@
 
 \* Asterisk indicates talks by invitation
 
+"Version Control for Library Use." Workshop. Columbia Center
+for New Media Teaching and Learning. February 5th, 2015.
+
 "[Ethics of Plain Text](http://dhcolumbia.github.io/pandoc-workflow/talks/plain-text/slides/presi.slides.html)" with Grant Wythoff. The Princeton-Weimar Summer School for Media Studies, Princeton. June 19th.\*  
 
 "Rage with the Machine." Keynote address, PG Conference, University of Glasgow. May 28th, 2014.\*  

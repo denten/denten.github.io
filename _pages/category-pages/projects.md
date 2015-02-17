@@ -1,7 +1,7 @@
 ---
 layout: cats
 permalink: /projects/
-title: projects
+title: "C. Projects"
 
 ---
 

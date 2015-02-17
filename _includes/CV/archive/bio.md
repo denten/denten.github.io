@@ -1,4 +1,4 @@
-<p>Hello! My name is <b>Dennis Tenen</b>. I work as an Assistant Professor of Digital Humanities and New Media Studies at Columbia University, <a href="http://english.columbia.edu/people/profile/453">Department of English and Comparative Literature</a>. I also <a href="https://github.com/ledeprogram/courses">teach</a> at Columbia's <a href="http://www.journalism.columbia.edu/page/1058-the-lede-program-an-introduction-to-data-practices/906">Journalism School</a>.</p>
+<p>**A.** Hello! My name is <b>Dennis Tenen</b>. I work as an Assistant Professor of Digital Humanities and New Media Studies at Columbia University, <a href="http://english.columbia.edu/people/profile/453">Department of English and Comparative Literature</a>. I also <a href="https://github.com/ledeprogram/courses">teach</a> at Columbia's <a href="http://www.journalism.columbia.edu/page/1058-the-lede-program-an-introduction-to-data-practices/906">Journalism School</a>.</p>
 
 <p>My research happens at the intersection of texts, people, and technology.</p>
 

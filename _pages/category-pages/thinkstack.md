@@ -1,5 +1,5 @@
 ---
 layout: cats
 permalink: /thinkstack/
-title: think.stack
+title: "F. think.stack"
 ---

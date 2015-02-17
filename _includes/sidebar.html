@@ -9,7 +9,7 @@
     <!-- pages without a title excluded -->
     <!-- hightlight active page in navigation-->
     <ul class="sidebar-nav">
-        {% assign sorted_pages = site.pages | sort:"name" %}
+        {% assign sorted_pages = site.pages | sort:"title" %}
         {% for node in sorted_pages %}
         {% if node.title != null %}
 

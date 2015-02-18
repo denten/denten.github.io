@@ -1,4 +1,4 @@
-## C. Selected Projects<sup>*†*</sup>
+## C. Selected Projects
 
 1. *[Group for Experimental Methods in the
    Humanities](http://xpmethod.github.io/)*. Founding member, (09/14). Rapid
@@ -25,7 +25,7 @@ knowledge around the world.
 maker/lab space at the center of Butler Library. Hosting lectures, training
 workshops, and open labs.
 
-<sup>*†*</sup> For a curated portfolio of projects please visit
-[xpmethod.plaintext.in/strains.html](http://xpmethod.plaintext.in/strains.html).
+**For a curated portfolio of projects please visit
+[xpmethod.plaintext.in/strains.html](http://xpmethod.plaintext.in/strains.html).**
 
 

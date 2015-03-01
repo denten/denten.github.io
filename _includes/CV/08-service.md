@@ -16,6 +16,7 @@ seminars.
 - Jessica Hallock. Oral committee. 2015- .
 - Alice Boone, "The Progress of Error: or, the Recursive 18th Century." Dissertation defense only. Spring 2014.
 - Graham Sack, 2014- (dissertation committee)
+- Gianmarco Saretto, Jeremy Stevens, Erica Grove, & Becky Bort. Graduate advising.
 
 **MA, Senior Theses, and Independent Studies**  
 

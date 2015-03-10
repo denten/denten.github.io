@@ -2,13 +2,13 @@
 
 **Books**:
 
-1. *Plain Text: The Poetics of Human-Computer Interaction.* Foundational ideas
+1. "Plain Text: The Poetics of Human-Computer Interaction." Foundational ideas
    in literary theory and media studies as embodied in contemporary
 computation. Manuscript in progress.
-1. *Literature and the Digtial Humanities*. Theory and practice. Manuscript
+1. "Literature and the Digtial Humanities." Theory and practice. Manuscript
    in progress by invitation to "Literature in Contmporary Thought" series
 published by Routledge. Ed. Ursula K. Heise & Guillermina De Ferrari.
-1. *Algorithmic Imagination*. A critical history of combinatorial thought.
+1. "Algorithmic Imagination." A critical history of combinatorial thought.
    Manuscript planned for spring, 2016.
 
 **Peer Reviewed**:

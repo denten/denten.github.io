@@ -4,9 +4,9 @@ href="http://english.columbia.edu/people/profile/453">Department of English and
 Comparative Literature</a>. I also occasionally <a
 href="https://github.com/ledeprogram/courses">teach</a> at Columbia's <a
 href="http://www.journalism.columbia.edu/page/1058-the-lede-program-an-introduction-to-data-practices/906">Journalism
-School</a>, in the [Computer Science
-Department](https://github.com/denten-courses/computing-context), and at
-[DHSI](http://www.dhsi.org/courses.php).
+School</a>, in the <a href="https://github.com/denten-courses/computing-context">Computer Science
+Department</a>, and at
+<a href="http://www.dhsi.org/courses.php">DHSI</a>.
 
 <p></p>
 <p>My research happens at the intersection of texts, people, and technology.</p>

@@ -16,8 +16,8 @@ href="https://github.com/denten">github.com/denten</a>, and on <a
 href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack
 Exchange</a>.</p>
 
-<p>My affilitations include: <a href="http://idse.columbia.edu/">New Media
-Center at the Institute for Data Sciences and Engineeringr</a>, <a
+<p>My affiliations include: <a href="http://idse.columbia.edu/">New Media
+Center at the Institute for Data Sciences and Engineering</a>, <a
 href="http://cyber.law.harvard.edu/">Berkman Center for Internet and
 Society</a>, <a href="http://metalab.harvard.edu/">metaLab [at] Harvard</a>, <a
 href="http://icls.columbia.edu/">Institute for Comparative Literature and

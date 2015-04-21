@@ -8,10 +8,14 @@ School</a>, in the <a href="https://github.com/denten-courses/computing-context"
 Department</a>, and at
 <a href="http://www.dhsi.org/courses.php">DHSI</a>.
 
-<p></p>
-<p>My research happens at the intersection of texts, people, and technology.</p>
-
-<p>You can find me on Twitter <a href="https://twitter.com/dennistenen">@dennistenen</a>, on GitHub at <a href="https://github.com/denten">github.com/denten</a>, and on <a href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack Exchange</a>.</p>
+<p></p> <p>My research happens at the intersection of texts, people, and
+technology. I am one of the founders of the Group for <a
+href="http://xpmethod.plaintext.in/strains.html">Experimental Method in the
+Humanities</a>. You can find me on Twitter <a
+href="https://twitter.com/dennistenen">@dennistenen</a>, on GitHub at <a
+href="https://github.com/denten">github.com/denten</a>, and on <a
+href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack
+Exchange</a>.</p>
 
 <p>My affilitations include:
 <a href="http://idse.columbia.edu/">Institute for Data Sciences and

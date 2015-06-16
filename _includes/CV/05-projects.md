@@ -16,9 +16,9 @@ useful information for the digital humanities community.
    Collecting and analyzing the world's largest corpus of academic syllabi.
 Recipient of $210k grant from the Sloan Foundation.
 
-1. *[piracylab.org](http://piracylab.org/)*. Founding member, (9/13-). An
-   academic research collective exploring the impact of piracy on the spread of
-knowledge around the world.
+1. *[piracylab.org](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html)*.
+PI, (9/13-). An academic research collective exploring the impact of piracy on
+the spread of knowledge around the world.
 
 1. *[Studio at Butler](https://studio.cul.columbia.edu/)*. Founding member,
    (9/13-). Planning, specification, and programming of the Butler Studio, a

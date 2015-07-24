@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/denten
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://denten.plaintext.in
+  * I am denten (https://keybase.io/denten) on keybase.
+  * I have a public key with fingerprint 1A8E E770 7D12 E21A 74D4  4EF9 0F2F 4130 D9C1 0F89
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1a8ee7707d12e21a74d44ef90f2f4130d9c10f89",
+            "host": "keybase.io",
+            "key_id": "0f2f4130d9c10f89",
+            "kid": "01015e5e047d9cb485088458f16da96ce38907846549295fd1e1375f997517207b870a",
+            "uid": "317036c2bc0713b29513d4bf2be16319",
+            "username": "denten"
+        },
+        "service": {
+            "hostname": "denten.plaintext.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437401863,
+    "expire_in": 157680000,
+    "prev": "6897a030062c03111bc472ab05b7d56979589dcb57ce6ee7e455f3895acec83e",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMIdAnicbZJdSBVBFMevfZlCKhFkFJmDYdjtMrO7s7N7DSQqs6gMRKMPkJ3Z2dtm
+7l7v3WvWTUjIsgh8ssiKJMIKkpKIjIRrXxYGlUnWU9kXQpJBhRQ91KzVQ9C8DHPO
+//87nDPn7qypgcy0giIwdvQky057eGt1IlDZNTU9Cahr7gHhJKjhk5dlOxEei8Zs
+xwNhgAyNc0IgMZHEJWQQxVQUbunQkiwFydDUGYKWpoMg2OHGfYfAUCPOQ7YrYuJR
+bZsi+h99ze8EgghzzKFCRI4qGoaapmDNQqpp6CrjsqZDoikqVnRJx5aJOJIJtnSd
+YEQkSKhGoCFwiUmcjAiUVSZRBgmSqXAg2VSoJVGOVBn5dRNxHnOMWi7UJnc87oDG
+IBCxeptxfwB+H//kQ9FdhpgGb/BCtiMA0ZjruczdJQQ7PC8a9v3enqhv2M1p9R9U
+NbUdU8xSGOp5LG67DggjoWSe7bORIhMFIk2Vg4A3RO0Yr7Z9BSaqBsXxy/B6gVQ1
+nRhQhlCVGJQRQpQpRDIoxJSYWNWJjjXdZBQTxlXxV1zB2BJDwwbjTJM58Jurc1wQ
+FpU8IyKQcTviGF4ixkHj7b7t0wJpmYEZ06f42xDIzMj5uyNacfrPVVtCNSs2hs42
+vV++7k1h89DMzsbKjOGvaltPVuUs93vyYfmDshMHLy6WR3fOb6lvU0c/1HaT3k/j
+b9qfB9dHWmbfz0hVnNj7OeVM9DcvKrlR3Liw7E5mYOTxguFU4ZkqNrckN5l2favW
+8DJ92SV+4ENovAR05efda948eBokv9Qd6x5Jfzv8tnVJf0dWPh18V55zeE7RRE5F
+nvNkoNakre1LzvcfSF0YGxnPbjd3ftncOXSlgKqfjhctbhn9Npg6dWQtyy1d2XEz
+PGUeDiavP3o193tWYsPxj0+bsjeNLu3NWxnpq8jvmfH6R86hqwPPss9drrzGqrad
+Lu5pG3gxVrpm3/5fuIkixA==
+=Johe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/denten
+
+==================================================================

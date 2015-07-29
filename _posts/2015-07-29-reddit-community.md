@@ -58,7 +58,7 @@ and hold elections. They are true communities in that sense, because they hold
 values in common, as reflected in their FAQs and guidelines.
 
 In this light, Reddit, the umbrella entity, is at best a community of
-communities. More reasonably, it can be better described as a platform that
+communities. More reasonably, it is better described as a platform that
 facilitates a range of activities: some communal in nature, some commercial,
 and other simply private. In fact, there are thousands of subreddits not
 accessible to the public at all that act as nothing more than personal news

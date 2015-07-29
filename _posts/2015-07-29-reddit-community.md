@@ -55,7 +55,7 @@ name, like [/r/AskHistorians](https://www.reddit.com/r/askhistorians/),
 from several hundred to several hundred thousand subscribers, subreddits like
 these encourage an engaged public.  They enforce rules, moderate discussion,
 and hold elections. They are true communities in that sense, because they hold
-values in common, reflected in their FAQs and guidelines.
+values in common, as reflected in their FAQs and guidelines.
 
 In this light, Reddit, the umbrella entity, is at best a community of
 communities. More reasonably, it can be better described as a platform that

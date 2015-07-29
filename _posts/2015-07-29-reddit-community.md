@@ -96,7 +96,7 @@ business. Members of the popular press would do well to examine their usage of
 the word "community" in that context. Reddit users, like the users of other
 computing platforms, or consumers of soda and burgers are just that: users and
 consumers. Corporations would like to speak of their customers and products as
-a community, because it sounds friendly and empowering. But consumption alone
+communities, because it sounds friendly and empowering. But consumption alone
 cannot rise to community standards. Such standards must emanate from the people
 themselves. What we are witnessing then is a Wizard of Oz-like break down of an
 illusion. All this talk of Reddit community has always implied a commonality of

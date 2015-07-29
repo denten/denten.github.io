@@ -62,9 +62,7 @@ communities or perhaps a platform that facilitates a range of activities: some
 communal in nature, some commercial, and other simply private. In fact, there
 are thousands of subreddits not accessible to the public at all that act as
 nothing more than personal news aggregators. For example, a redditor on
-/r/AskReddit
-[writes](https://www.reddit.com/r/AskReddit/comments/1qr54b/why_do_private_subreddits_exist/)
-"I have a private sub[reddit] for me and my SO [significant other], it's like a
+/r/AskReddit [writes](https://www.reddit.com/r/AskReddit/comments/1qr54b/why_do_private_subreddits_exist/) "I have a private sub[reddit] for me and my SO [significant other], it's like a
 private conversation when you get 2 karma per link."
 
 These distinctions---between private and public, community and
@@ -100,6 +98,9 @@ down of an illusion. All this talk of "the Reddit community" implies a
 commonality of purpose where there is none.
 
 Comments welcome [@dennistenen](https://twitter.com/dennistenen)
-[#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets). Read a
-thoughtful response from [David Weinberger](https://twitter.com/dweinberger)
+[#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets). The
+list of changes is
+[here](https://github.com/denten/denten.github.io/blame/master/_posts/2015-07-29-reddit-community.md).
+Read a thoughtful response from [David
+Weinberger](https://twitter.com/dweinberger)
 [here](http://www.hyperorg.com/blogger/2015/07/29/reddit-is-not-a-community-but-theres-a-little-more-to-say/).

@@ -73,7 +73,7 @@ These distinctions---between private and public, community and
 platform---matter, because if Reddit is not a community, then there is no
 reason for us to expect a uniform set of responses or behaviors from it as a
 whole.  Participants in /r/AskScience, for example, would likely want nothing
-to do with the now banned subreddit 
+to do with the now banned subreddit
 [/r/fatpeoplehate](https://web.archive.org/web/20150729153807/https://www.reddit.com/r/fatpeoplehate)
 or [/r/Gunsforsale](https://www.reddit.com/r/gunsforsale/) (still around).
 These communities do not share the same value system. And they are subsequently
@@ -81,11 +81,12 @@ governed by very different rules for proper comportment.  Reddit administrators
 (who work for the company) understand this difference very well. Pay attention
 to the [language of this official
 post](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/),
-announcing the site-wide ban of several controversial subreddits: "We will ban
-subreddits that allow their communities to use the subreddit as a platform to
-harass individuals when moderators don't take action. We’re banning behavior,
-not ideas." The distinction between people, platforms, and practices is clear.
-At least in this instance, Reddit Inc. does not refer to itself as a community.
+announcing the site-wide ban of several controversial subreddits (emphasis
+mine): "We will ban subreddits that allow their *communities* to use the
+subreddit as a *platform* to harass individuals when moderators don't take
+action. We’re banning *behavior*, not ideas." The distinction between people,
+platforms, and practices is clear.  At least in this instance, Reddit Inc. does
+not refer to itself as a community.
 
 The recent [turmoil at
 Reddit](https://hbr.org/2015/07/how-reddit-the-business-lost-touch-with-reddit-the-culture)

@@ -51,7 +51,7 @@ subscribers. These are no more communities than Google News or *Huffington
 Post*. Others cultivate a supportive environment where everybody knows your
 name, like [/r/AskHistorians](https://www.reddit.com/r/askhistorians/),
 [/r/cancer](https://www.reddit.com/r/cancer/), or
-[/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/).  Attracting
+[/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/). Attracting
 from several hundred to several hundred thousand subscribers, subreddits like
 these encourage an engaged public.  They enforce rules, moderate discussion,
 and hold elections. They are true communities in other words, because they
@@ -75,18 +75,17 @@ whole.  Participants in /r/AskScience, for example, would likely want nothing
 to do with the now banned subreddit
 [/r/fatpeoplehate](https://web.archive.org/web/20150729153807/https://www.reddit.com/r/fatpeoplehate)
 or [/r/Gunsforsale](https://www.reddit.com/r/gunsforsale/) (still around).
-These communities do not share the same value system. And they are subsequently
-governed by very different rules for proper comportment.  Reddit administrators
-(who work for the company) understand this difference very well. Pay attention
-to the [language of this official
+These communities do not share the same values. And they subsequently create
+very different environments for conversation. Reddit administrators (who work
+for the company) understand this difference very well. Pay attention to the
+[language of this official
 post](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/),
 announcing the site-wide ban of several controversial subreddits (emphasis
 mine): "We will ban subreddits that allow their *communities* to use the
 subreddit as a *platform* to harass individuals when moderators don't take
-action. We’re banning *behavior*, not ideas." Some finer points can be found in
-the statement, but the distinction between people, platforms, and practices is
-clear. At least in this instance, Reddit Inc. does not refer to itself as a
-community.
+action. We’re banning *behavior*, not ideas." Some finer points aside, note the
+distinction between people, platforms, and practices. At least in this
+instance, Reddit Inc. does not refer to itself as a community.
 
 The [recent events at
 Reddit](https://hbr.org/2015/07/how-reddit-the-business-lost-touch-with-reddit-the-culture)

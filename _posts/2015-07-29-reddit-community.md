@@ -84,9 +84,10 @@ post](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_
 announcing the site-wide ban of several controversial subreddits (emphasis
 mine): "We will ban subreddits that allow their *communities* to use the
 subreddit as a *platform* to harass individuals when moderators don't take
-action. We’re banning *behavior*, not ideas." The distinction between people,
-platforms, and practices is clear.  At least in this instance, Reddit Inc. does
-not refer to itself as a community.
+action. We’re banning *behavior*, not ideas." Some finer points can be found in
+the statement, buat the distinction between people, platforms, and practices is
+clear. At least in this instance, Reddit Inc. does not refer to itself as a
+community.
 
 The recent [turmoil at
 Reddit](https://hbr.org/2015/07/how-reddit-the-business-lost-touch-with-reddit-the-culture)

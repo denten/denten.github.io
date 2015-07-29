@@ -48,10 +48,9 @@ laissez-faire approach to community moderation.
 Some of these "areas" are nothing more than massive content aggregators like
 [/r/Funny](https://www.reddit.com/r/funny/), which boasts 9 million
 subscribers. These are no more communities than Google News or *Huffington
-Post*. Others truly offer a place where everybody knows your name, like
-[/r/AskHistorians](https://www.reddit.com/r/askhistorians/),
-[/r/parenting](https://www.reddit.com/r/parenting/),
-[/r/cancer](https://www.reddit.com/r/askhistorians/), or
+Post*. Others cultivate a supportive environment where everybody knows your
+name, like [/r/AskHistorians](https://www.reddit.com/r/askhistorians/),
+[/r/cancer](https://www.reddit.com/r/cancer/), or
 [/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/).  Attracting
 from several hundred to several hundred thousand subscribers, subreddits like
 these encourage an engaged public.  They enforce rules, moderate discussion,

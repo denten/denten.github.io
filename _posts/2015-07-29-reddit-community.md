@@ -56,7 +56,7 @@ Post*. Others truly offer a place where everybody knows your name, like
 from several hundred to several hundred thousand of subscribers, subreddits
 like these encourage an engaged public.  They enforce rules, moderate
 discussion, and hold elections. They are true communities in other words,
-because they share a set of common values that then govern the comportment of
+because they share a set of common values, which then govern the comportment of
 their constituents.
 
 In this light, Reddit, the umbrella entity, is at best a community of

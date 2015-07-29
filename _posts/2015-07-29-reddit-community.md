@@ -53,7 +53,7 @@ Post*. Others truly offer a place where everybody knows your name, like
 [/r/parenting](https://www.reddit.com/r/parenting/),
 [/r/cancer](https://www.reddit.com/r/askhistorians/), or
 [/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/).  Attracting from several hundred to several hundred
-thousands of subscribers, subreddits like these encourage an engaged public.
+thousand of subscribers, subreddits like these encourage an engaged public.
 They enforce rules, moderate discussion, and hold elections. They are
 communities in other words, because they share a set of common values that then
 govern the comportment of their constituents.

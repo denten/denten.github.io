@@ -69,10 +69,11 @@ aggregators. For example, a redditor on /r/AskReddit
 "I have a private sub[reddit] for me and my SO [significant other], it's like a
 private conversation when you get 2 karma per link."
 
-These distinctions---between private and public, community and platform---matter,
-because if Reddit is not a community, there is no reason to expect a uniform
-set of responses or behaviors from it as a whole. Participants in
-/r/AskScience, for example, would likely want nothing to do with now banned
+These distinctions---between private and public, community and
+platform---matter, because if Reddit is not a community, then there is no
+reason for us to expect a uniform set of responses or behaviors from it as a
+whole.  Participants in /r/AskScience, for example, would likely want nothing
+to do with now banned
 [/r/fatpeoplehate](https://web.archive.org/web/20150729153807/https://www.reddit.com/r/fatpeoplehate)
 or [/r/Gunsforsale](https://www.reddit.com/r/gunsforsale/) (still around).
 These communities do not share the same value system. And they are subsequently

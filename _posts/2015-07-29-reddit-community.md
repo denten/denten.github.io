@@ -73,7 +73,7 @@ These distinctions---between private and public, community and
 platform---matter, because if Reddit is not a community, then there is no
 reason for us to expect a uniform set of responses or behaviors from it as a
 whole.  Participants in /r/AskScience, for example, would likely want nothing
-to do with now banned
+to do with the now banned subreddit 
 [/r/fatpeoplehate](https://web.archive.org/web/20150729153807/https://www.reddit.com/r/fatpeoplehate)
 or [/r/Gunsforsale](https://www.reddit.com/r/gunsforsale/) (still around).
 These communities do not share the same value system. And they are subsequently

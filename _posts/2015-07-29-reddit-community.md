@@ -93,7 +93,7 @@ The recent [turmoil at
 Reddit](https://hbr.org/2015/07/how-reddit-the-business-lost-touch-with-reddit-the-culture)
 exposes the tension between community standards and the pragmatic needs of a
 business. Members of the popular press would do well to examine their usage of
-the word community in that context.  Reddit users, like the users of other
+the word "community" in that context. Reddit users, like the users of other
 computing platforms, or consumers of soda and burgers are just that: users and
 consumers. Corporations would like to speak of their products as creating a
 community. But consumption alone cannot rise to community standards.  Such

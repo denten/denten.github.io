@@ -6,10 +6,10 @@ categories:
 
 ---
 
-The search for "Reddit community" brings no fewer than [12,900
-results](https://www.google.com/search?hl=en&gl=us&tbm=nws&authuser=0&q=%22reddit+community%22&oq=%22reddit+community%22&gs_l=news-cc.3..43j43i53.388.3600.0.3768.25.22.0.0.0.3.164.2380.11j11.22.0...0.0...1ac.1.EdZ5LTrh6t4)
-in Google News. Media
-[coverage](http://techcrunch.com/2015/07/06/hows-that-popcorn-reddit/) of the
+The search for "Reddit community" on Google News returns no fewer than [12,900
+results](https://www.google.com/search?hl=en&gl=us&tbm=nws&authuser=0&q=%22reddit+community%22&oq=%22reddit+community%22&gs_l=news-cc.3..43j43i53.388.3600.0.3768.25.22.0.0.0.3.164.2380.11j11.22.0...0.0...1ac.1.EdZ5LTrh6t4).
+Media [coverage](http://techcrunch.com/2015/07/06/hows-that-popcorn-reddit/) of
+the
 [recent](http://www.nytimes.com/2015/07/17/technology/reddit-steve-huffman.html)
 [turmoil](https://www.washingtonpost.com/blogs/the-switch/wp/2015/07/09/reddits-former-director-of-talent-breaks-her-silence/)
 on Reddit often takes the "community" part of the equation as a given. The

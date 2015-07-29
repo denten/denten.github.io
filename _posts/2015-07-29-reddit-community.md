@@ -15,7 +15,7 @@ in Google News. Media
 on Reddit often takes the "community" part of the equation as a given. The
 "Reddit community" acts both as an object and a subject of action. It is
 apologized to, it wants to make its voice heard, and it demands. But to what
-extent is Reddit a community? What makes a community, in any case?
+extent is Reddit a community? What makes for a community, in any case?
 
 I submit that at the very least, a community identifies a set of people,
 platforms, and practices. First, a community must involve the social element.

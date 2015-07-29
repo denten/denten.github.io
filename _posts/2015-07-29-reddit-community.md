@@ -102,5 +102,5 @@ commonality of purpose where there is none.
 
 Comments welcome [@dennistenen](https://twitter.com/dennistenen)
 [#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets). Read a
-thoughtful response from David Weinberger
+thoughtful response from [David Weinberger](https://twitter.com/dweinberger)
 [here](http://www.hyperorg.com/blogger/2015/07/29/reddit-is-not-a-community-but-theres-a-little-more-to-say/).

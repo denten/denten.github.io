@@ -41,17 +41,17 @@ Condé Nast. Good so far. But what about a common set of practices, values,
 customs, and institutions? Things look much messier in this regard. Rather than
 adhering to one uniform set of rules, Reddit is divided into "areas of
 interest," or colloquially, "subreddits." These spheres of activity are often
-quite distinct from each other: some have strict rules for content submission,
-others moderate discussion, and yet others have very little moderation. Some of
-these are nothing more than massive content aggregators like /r/funny, which
-boasts 9 million subscribers. These are no more communities than Google News or
-*Huffington Post*. Others truly offer a place where everybody knows your name,
-like /r/AskHistorians, /r/parenting, /r/cancer, or /r/MakeupAddiction.
-Attracting from several hundred to several hundred thousands of subscribers,
-subreddits like these encourage an engaged public. They enforce rules, moderate
-discussion, and hold elections. They are communities in other words, because
-they share a set of common values that then govern the comportment of their
-constituents.
+quite distinct from each other: some have strict guidlines for content
+submission, others moderate discussion, and yet others have very little
+moderation. Some of these are nothing more than massive content aggregators
+like /r/funny, which boasts 9 million subscribers. These are no more
+communities than Google News or *Huffington Post*. Others truly offer a place
+where everybody knows your name, like /r/AskHistorians, /r/parenting,
+/r/cancer, or /r/MakeupAddiction.  Attracting from several hundred to several
+hundred thousands of subscribers, subreddits like these encourage an engaged
+public. They enforce rules, moderate discussion, and hold elections. They are
+communities in other words, because they share a set of common values that then
+govern the comportment of their constituents.
 
 In this light, Reddit, the umbrella entity, is at best a community of
 communities. More reasonably, it is better described is a platform that hosts a

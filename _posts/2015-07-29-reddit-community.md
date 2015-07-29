@@ -31,7 +31,7 @@ Similarly, the digital humanities community involves scholars who
 [particular](http://www.digitalhumanities.org/dhq/)
 [journals](http://journalofdigitalhumanities.org/), come to the
 [same](http://www.dhsi.org/) [conferences](http://dh2015.org/), and join the
-same [professional organizations](http://ach.org).
+same [professional](http://csdh-schn.org/) [organizations](http://ach.org).
 
 To what extent does the "Reddit community" answer to these minimal definitions?
 Let's start with the easy parts first. We know that some people identify

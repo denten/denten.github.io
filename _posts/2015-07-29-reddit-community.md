@@ -60,7 +60,7 @@ because they share a set of common values, which then govern the comportment of
 their constituents.
 
 In this light, Reddit, the umbrella entity, is at best a community of
-communities. More reasonably, it is better described is a platform that hosts a
+communities. More reasonably, it is better described as a platform that hosts a
 range of activities: some communal in nature, some commercial, and other simply
 private. In fact, there are thousands of subreddits that act as nothing more
 than private news aggregators, not otherwise accessible to the public. A

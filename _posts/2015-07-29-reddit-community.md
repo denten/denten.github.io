@@ -89,9 +89,9 @@ the statement, but the distinction between people, platforms, and practices is
 clear. At least in this instance, Reddit Inc. does not refer to itself as a
 community.
 
-The recent [turmoil at
+The [recent events at
 Reddit](https://hbr.org/2015/07/how-reddit-the-business-lost-touch-with-reddit-the-culture)
-exposes the tension between community standards and the pragmatic needs of a
+expose the tension between community standards and the pragmatic needs of a
 business. Members of the popular press would do well to examine their usage of
 the word "community" in that context. Reddit users, like the users of other
 computing platforms, or consumers of soda and burgers are just that: users and

@@ -58,11 +58,11 @@ and hold elections. They are true communities in that sense, because they hold
 values in common, as reflected in their FAQs and guidelines.
 
 In this light, Reddit, the umbrella entity, is at best a community of
-communities. More reasonably, it is better described as a platform that
-facilitates a range of activities: some communal in nature, some commercial,
-and other simply private. In fact, there are thousands of subreddits not
-accessible to the public at all that act as nothing more than personal news
-aggregators. For example, a redditor on /r/AskReddit
+communities or perhaps a platform that facilitates a range of activities: some
+communal in nature, some commercial, and other simply private. In fact, there
+are thousands of subreddits not accessible to the public at all that act as
+nothing more than personal news aggregators. For example, a redditor on
+/r/AskReddit
 [writes](https://www.reddit.com/r/AskReddit/comments/1qr54b/why_do_private_subreddits_exist/)
 "I have a private sub[reddit] for me and my SO [significant other], it's like a
 private conversation when you get 2 karma per link."

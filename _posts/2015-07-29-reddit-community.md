@@ -17,9 +17,9 @@ on the site often takes the "community" part of the equation as a given. The
 apologized to, it wants to make its voice heard, and it demands. But to what
 extent is Reddit a community? What makes for a community, in any case?
 
-I submit that at the very least, a community identifies a set of people, places
-or platforms, and practices. First, a community must involve the social
-element.  It is hard to imagine a community of one. Second, a community usually
+I submit that at the very least, a community identifies an assemblage of
+people, places, and practices. First, a community must involve the social
+element. It is hard to imagine a community of one. Second, a community usually
 occupies some contiguous stretch of space and time: a site or a platform. Even
 when dispersed and in exile, a community will find a way to come together, if
 only virtually, online or on paper. Finally, a community will usually share a

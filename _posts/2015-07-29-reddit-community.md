@@ -102,5 +102,5 @@ themselves. What we are witnessing then is a Wizard of Oz-like break down of an
 illusion. All this talk of Reddit community has always implied a commonality of
 purpose where there is none.
 
-Comments are welcome [@dennistenen](https://twitter.com/dennistenen)
+Comments welcome [@dennistenen](https://twitter.com/dennistenen)
 [#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets).

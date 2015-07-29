@@ -52,11 +52,12 @@ Post*. Others truly offer a place where everybody knows your name, like
 [/r/AskHistorians](https://www.reddit.com/r/askhistorians/),
 [/r/parenting](https://www.reddit.com/r/parenting/),
 [/r/cancer](https://www.reddit.com/r/askhistorians/), or
-[/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/).  Attracting from several hundred to several hundred
-thousand of subscribers, subreddits like these encourage an engaged public.
-They enforce rules, moderate discussion, and hold elections. They are
-communities in other words, because they share a set of common values that then
-govern the comportment of their constituents.
+[/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/).  Attracting
+from several hundred to several hundred thousand of subscribers, subreddits
+like these encourage an engaged public.  They enforce rules, moderate
+discussion, and hold elections. They are true communities in other words,
+because they share a set of common values that then govern the comportment of
+their constituents.
 
 In this light, Reddit, the umbrella entity, is at best a community of
 communities. More reasonably, it is better described is a platform that hosts a

@@ -97,8 +97,8 @@ consumers. Corporations would like to speak of their customers and products as
 communities, because it sounds friendly and empowering. But consumption alone
 cannot rise to the standards of a community. Such standards must emanate from
 the people themselves. What we are witnessing then is a Wizard of Oz-like break
-down of an illusion. All this talk of "the Reddit community" has always implied a
-commonality of purpose where there was none.
+down of an illusion. All this talk of "the Reddit community" implies a
+commonality of purpose where there is none.
 
 Comments welcome [@dennistenen](https://twitter.com/dennistenen)
 [#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets).

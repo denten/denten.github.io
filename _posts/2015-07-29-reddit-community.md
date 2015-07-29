@@ -101,4 +101,6 @@ down of an illusion. All this talk of "the Reddit community" implies a
 commonality of purpose where there is none.
 
 Comments welcome [@dennistenen](https://twitter.com/dennistenen)
-[#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets).
+[#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets). Read a
+thoughtful response from David Weinberger
+[here](http://www.hyperorg.com/blogger/2015/07/29/reddit-is-not-a-community-but-theres-a-little-more-to-say/).

@@ -42,8 +42,8 @@ practices, values, customs, and institutions? Things look much messier in this
 regard. Rather than adhering to one uniform set of rules, Reddit is divided
 into "areas of interest," or colloquially, "subreddits." These spheres of
 activity are often quite distinct from one another: some post strict guidelines
-for content submission, others moderate discussion, and yet others take more of
-a laissez-faire approach.
+for content submission, others censor discussion, and yet others take more of a
+laissez-faire approach to community moderation.
 
 Some of these "areas" are nothing more than massive content aggregators like
 [/r/Funny](https://www.reddit.com/r/funny/), which boasts 9 million

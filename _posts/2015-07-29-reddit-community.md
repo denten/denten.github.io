@@ -11,10 +11,10 @@ News. Media
 [coverage](http://techcrunch.com/2015/07/06/hows-that-popcorn-reddit/) of the
 [recent](http://www.nytimes.com/2015/07/17/technology/reddit-steve-huffman.html)
 [turmoil](https://www.washingtonpost.com/blogs/the-switch/wp/2015/07/09/reddits-former-director-of-talent-breaks-her-silence/)
-in Reddit takes the "community" part of the equation as a given. The "Reddit
-community" acts both as an object and a subject of action. It is apologized to,
-it wants to make its voice heard, and it demands. But to what extent is Reddit
-a community? What makes a community, in any case?
+on Reddit often takes the "community" part of the equation as a given. The
+"Reddit community" acts both as an object and a subject of action. It is
+apologized to, it wants to make its voice heard, and it demands. But to what
+extent is Reddit a community? What makes a community, in any case?
 
 I submit that at the very least, a community identifies a set of people,
 platforms, and practices. First, a community must involve the social element.
@@ -83,7 +83,7 @@ the word community in that context.  Reddit users, like the users of other
 computing platforms, or consumers of soda and burgers are just that: users and
 consumers. Corporations would like to speak of their products as creating a
 community. But consumption alone cannot rise to community standards.  Such
-standards must emintate from the people and platforms themselves. What we are
-witnessing then is Wizord of Oz-like reveal of an illusion. All this talk of
+standards must emanate from the people and platforms themselves. What we are
+witnessing then is Wizard of Oz-like reveal of an illusion. All this talk of
 Reddit community implies a commonality of purpose and consensus where there are
 none.

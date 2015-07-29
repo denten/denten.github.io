@@ -26,9 +26,12 @@ virtually, online or on paper. Finally, a community will usually share a value
 system, which in turn manifests itself in specific customs, norms, and modes of
 governance. A community of faith, for example, may consist of a group of
 parishioners (people) who attend church (a place) to pray (a custom).
-Similarly, the digital humanities community involves scholars who publish in
-particular journals, come to the same conferences, and join the same
-professional societies.
+Similarly, the digital humanities community involves scholars who
+[publish](http://llc.oxfordjournals.org/) in
+[particular](http://www.digitalhumanities.org/dhq/)
+[journals](http://journalofdigitalhumanities.org/), come to the
+[same](http://www.dhsi.org/) [conferences](http://dh2015.org/), and join the
+same [professional organizations](http://ach.org).
 
 To what extent does the "Reddit community" answer to these minimal definitions?
 Let's start with the easy parts first. We know that some people identify

@@ -43,15 +43,20 @@ adhering to one uniform set of rules, Reddit is divided into "areas of
 interest," or colloquially, "subreddits." These spheres of activity are often
 quite distinct from each other: some post strict guidlines for content
 submission, others moderate discussion, and yet others take more of a
-laissez-faire aprroach. Some of these "areas" are nothing more than massive
-content aggregators like /r/funny, which boasts 9 million subscribers. These
-are no more communities than Google News or *Huffington Post*. Others truly
-offer a place where everybody knows your name, like /r/AskHistorians,
-/r/parenting, /r/cancer, or /r/MakeupAddiction.  Attracting from several
-hundred to several hundred thousands of subscribers, subreddits like these
-encourage an engaged public. They enforce rules, moderate discussion, and hold
-elections. They are communities in other words, because they share a set of
-common values that then govern the comportment of their constituents.
+laissez-faire aprroach.
+
+Some of these "areas" are nothing more than massive content aggregators like
+[/r/Funny](https://www.reddit.com/r/funny/), which boasts 9 million
+subscribers. These are no more communities than Google News or *Huffington
+Post*. Others truly offer a place where everybody knows your name, like
+[/r/AskHistorians](https://www.reddit.com/r/askhistorians/),
+[/r/parenting](https://www.reddit.com/r/parenting/),
+[/r/cancer](https://www.reddit.com/r/askhistorians/), or
+[/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/).  Attracting from several hundred to several hundred
+thousands of subscribers, subreddits like these encourage an engaged public.
+They enforce rules, moderate discussion, and hold elections. They are
+communities in other words, because they share a set of common values that then
+govern the comportment of their constituents.
 
 In this light, Reddit, the umbrella entity, is at best a community of
 communities. More reasonably, it is better described is a platform that hosts a
@@ -67,11 +72,12 @@ These distinctions (between private and public, community and platform) matter,
 because if Reddit is not a community, there is no reason to expect a uniform
 set of responses or behaviors from it as a whole. Participants in
 /r/AskScience, for example, would likely want nothing to do with now banned
-/r/fatpeoplehate or /r/Gunsforsale (still around). These communities do not
-share the same value system. And they are subsequently governed by very
-different rules for proper comportment. Reddit administrators (who work for the
-company) understand this difference very well. Pay attention to the [language
-of this official
+[/r/fatpeoplehate](https://web.archive.org/web/20150729153807/https://www.reddit.com/r/fatpeoplehate)
+or [/r/Gunsforsale](https://www.reddit.com/r/gunsforsale/) (still around).
+These communities do not share the same value system. And they are subsequently
+governed by very different rules for proper comportment.  Reddit administrators
+(who work for the company) understand this difference very well. Pay attention
+to the [language of this official
 post](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/),
 announcing the site-wide ban of several controversial subreddits: "We will ban
 subreddits that allow their communities to use the subreddit as a platform to

@@ -53,23 +53,23 @@ Post*. Others truly offer a place where everybody knows your name, like
 [/r/parenting](https://www.reddit.com/r/parenting/),
 [/r/cancer](https://www.reddit.com/r/askhistorians/), or
 [/r/MakeupAddiction](https://www.reddit.com/r/makeupaddiction/).  Attracting
-from several hundred to several hundred thousand of subscribers, subreddits
-like these encourage an engaged public.  They enforce rules, moderate
-discussion, and hold elections. They are true communities in other words,
-because they share a set of common values, which then govern the comportment of
-their constituents.
+from several hundred to several hundred thousand subscribers, subreddits like
+these encourage an engaged public.  They enforce rules, moderate discussion,
+and hold elections. They are true communities in other words, because they
+share a set of common values, which then govern the comportment of their
+constituents.
 
 In this light, Reddit, the umbrella entity, is at best a community of
 communities. More reasonably, it can be better described as a platform that
 facilitates a range of activities: some communal in nature, some commercial,
 and other simply private. In fact, there are thousands of subreddits not
-accessible to the public that act as nothing more than personal news
-aggregators. A redditor on /r/AskReddit
+accessible to the public at all that act as nothing more than personal news
+aggregators. For example, a redditor on /r/AskReddit
 [writes](https://www.reddit.com/r/AskReddit/comments/1qr54b/why_do_private_subreddits_exist/)
 "I have a private sub[reddit] for me and my SO [significant other], it's like a
 private conversation when you get 2 karma per link."
 
-These distinctions (between private and public, community and platform) matter,
+These distinctions---between private and public, community and platform---matter,
 because if Reddit is not a community, there is no reason to expect a uniform
 set of responses or behaviors from it as a whole. Participants in
 /r/AskScience, for example, would likely want nothing to do with now banned

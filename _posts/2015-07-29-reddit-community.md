@@ -25,7 +25,7 @@ dispersed and in exile, a community will find a way to come together, if only
 virtually, online or on paper. Finally, a community will usually share a value
 system, which in turn manifests itself in specific customs, norms, and modes of
 governance. A community of faith, for example, may consist of a group of
-parishioners (people) who come to the church (place) to pray (practice).
+parishioners (people) who attend church (a place) to pray (a custom).
 Similarly, the digital humanities community involves scholars who publish in
 particular journals, come to the same conferences, and join the same
 professional societies.

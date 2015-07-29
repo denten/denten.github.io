@@ -13,7 +13,7 @@ the
 [recent](http://www.nytimes.com/2015/07/17/technology/reddit-steve-huffman.html)
 [turmoil](https://www.washingtonpost.com/blogs/the-switch/wp/2015/07/09/reddits-former-director-of-talent-breaks-her-silence/)
 on the site often takes the "community" part of the equation as a given. The
-"Reddit community" acts both as an object and a subject of action. It is
+"Reddit community" acts both as subject and an object of action. It is
 apologized to, it wants to make its voice heard, and it demands. But to what
 extent is Reddit a community? What makes for a community, in any case?
 

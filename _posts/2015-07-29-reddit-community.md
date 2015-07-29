@@ -33,17 +33,17 @@ Similarly, the digital humanities community involves scholars who
 [same](http://www.dhsi.org/) [conferences](http://dh2015.org/), and join the
 same [professional](http://csdh-schn.org/) [organizations](http://ach.org).
 
-To what extent does the "Reddit community" answer to these minimal definitions?
-Let's start with the easy parts first. We know that some people identify
-themselves as "[redditors](http://www.meetup.com/NYC-Redditors/)." The site and
-platform of their activity is reddit.com itself, an incorporated subsidiary of
-Condé Nast. Good so far. But what about a common set of practices, values,
-customs, and institutions? Things look much messier in this regard. Rather than
-adhering to one uniform set of rules, Reddit is divided into "areas of
-interest," or colloquially, "subreddits." These spheres of activity are often
-quite distinct from each other: some post strict guidelines for content
-submission, others moderate discussion, and yet others take more of a
-laissez-faire approach.
+To what extent does the idea of the "Reddit community" answer these minimal
+definitions? Let's start with the easy parts first. We know that some people
+identify themselves as "[redditors](http://www.meetup.com/NYC-Redditors/)." The
+site and platform of their activity is reddit.com itself, an incorporated
+subsidiary of Condé Nast. Good so far. But what about a common set of
+practices, values, customs, and institutions? Things look much messier in this
+regard. Rather than adhering to one uniform set of rules, Reddit is divided
+into "areas of interest," or colloquially, "subreddits." These spheres of
+activity are often quite distinct from each other: some post strict guidelines
+for content submission, others moderate discussion, and yet others take more of
+a laissez-faire approach.
 
 Some of these "areas" are nothing more than massive content aggregators like
 [/r/Funny](https://www.reddit.com/r/funny/), which boasts 9 million

@@ -85,7 +85,7 @@ announcing the site-wide ban of several controversial subreddits (emphasis
 mine): "We will ban subreddits that allow their *communities* to use the
 subreddit as a *platform* to harass individuals when moderators don't take
 action. We’re banning *behavior*, not ideas." Some finer points can be found in
-the statement, buat the distinction between people, platforms, and practices is
+the statement, but the distinction between people, platforms, and practices is
 clear. At least in this instance, Reddit Inc. does not refer to itself as a
 community.
 
@@ -95,12 +95,12 @@ exposes the tension between community standards and the pragmatic needs of a
 business. Members of the popular press would do well to examine their usage of
 the word "community" in that context. Reddit users, like the users of other
 computing platforms, or consumers of soda and burgers are just that: users and
-consumers. Corporations would like to speak of their products as creating a
-community. But consumption alone cannot rise to community standards.  Such
-standards must emanate from the people and platforms themselves. What we are
-witnessing then is Wizard of Oz-like reveal of an illusion. All this talk of
-Reddit community implies a commonality of purpose and consensus where there are
-none.
+consumers. Corporations would like to speak of their customers and products as
+a community, because it sounds friendly and empowering. But consumption alone
+cannot rise to community standards. Such standards must emanate from the people
+and platforms themselves. What we are witnessing then is a Wizard of Oz-like
+break down of an illusion. All this talk of Reddit community has always implied
+a commonality of purpose where there is none.
 
 Comments are welcome [@dennistenen](https://twitter.com/dennistenen)
 [#onredcom](https://twitter.com/search?q=%23onredcom&src=typd&f=tweets).

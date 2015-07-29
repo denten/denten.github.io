@@ -63,7 +63,7 @@ In this light, Reddit, the umbrella entity, is at best a community of
 communities. More reasonably, it can be better described as a platform that
 facilitates a range of activities: some communal in nature, some commercial,
 and other simply private. In fact, there are thousands of subreddits that act
-as nothing more than private news aggregators, not otherwise accessible to the
+as nothing more than personal news aggregators, not otherwise accessible to the
 public. A redditor on /r/AskReddit
 [writes](https://www.reddit.com/r/AskReddit/comments/1qr54b/why_do_private_subreddits_exist/)
 "I have a private sub[reddit] for me and my SO [significant other], it's like a

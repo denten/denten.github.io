@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Reddit Community
+title: The Reddit "Community"
 categories:
 - think.stack
 

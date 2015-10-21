@@ -45,7 +45,7 @@ and "[Skeptics Online](http://web.archive.org/web/20141005021417/http://sprintbe
 
 **Book Reviews**:
 
-1. “What Is? Nine Epistemological Essays by Johanna Drucker.”
+1. “[What Is? Nine Epistemological Essays by Johanna Drucker](http://www.tandfonline.com/doi/full/10.1080/17547075.2015.1051841#abstract).”
    *Design and Culture*. Accepted 11/14.
 1. “Writing Technology (*The Circle* by David Eggers and *Mad About
    a Boy* by Bridget Jones).” *Public Books* (2014).

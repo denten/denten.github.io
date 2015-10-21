@@ -47,7 +47,7 @@ and "[Skeptics Online](http://web.archive.org/web/20141005021417/http://sprintbe
 
 1. “[What Is? Nine Epistemological Essays by Johanna Drucker](http://www.tandfonline.com/doi/full/10.1080/17547075.2015.1051841#abstract).”
    *Design and Culture*. Accepted 11/14.
-1. “Writing Technology (*The Circle* by David Eggers and *Mad About
+1. “[Writing Technology](http://www.publicbooks.org/fiction/writing-technology) (*The Circle* by David Eggers and *Mad About
    a Boy* by Bridget Jones).” *Public Books* (2014).
 1. "History and Poetics of Intertextuality by Marko Juvan." *The Slavic and
    East European Journal 56.2* (2012): 309.

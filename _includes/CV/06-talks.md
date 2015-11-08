@@ -3,6 +3,13 @@
 
 \* Asterisk indicates talks by invitation
 
+"Scene Detection in Literary Fiction." New Digital Resources and Computational
+Methods for the Study of Literature in a Global Context, UCLA. 4-5 November,
+2015. Talk.\*  
+
+"DH DevOps: Core Skills and Foundations." Polonsky Foundation Graduate Student
+Workshops in Digital Humanities, NYU. 29 May, 2015. Workshop.\*  
+
 "Version Control for Library Use." Columbia Center for New Media Teaching and
 Learning. New York, NY. 5 February 2015. Workshop.\*  
 

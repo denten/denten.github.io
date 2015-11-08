@@ -1,6 +1,6 @@
 ## B. Publications
 
-**Books**:
+**Book Projects**:
 
 1. "Plain Text: The Poetics of Human-Computer Interaction." Foundational ideas
    in literary theory and media studies as embodied in contemporary
@@ -11,7 +11,7 @@ published by Routledge. Ed. Ursula K. Heise & Guillermina De Ferrari.
 1. "Algorithmic Imagination." A critical history of combinatorial thought.
    Manuscript planned for spring, 2016.
 
-**Peer Reviewed**:
+**Peer Reviewed Journals**:
 
 1. "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
@@ -28,9 +28,9 @@ published by Routledge. Ed. Ursula K. Heise & Guillermina De Ferrari.
 Bielefeld: Transcript-Verlag, 2007. 99-111.
 1. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
 
-**Invited**:
+**Contributed Chapters**:
 
-1. "Critical Coding Practice in the Humanities." *Doing Digital
+1. "Critical Computing in the Humanities." *Doing Digital
 Humanities: Practice, Training and Research*. Ed. Ray Siemens. Routledge, 2016. In Progress.
 1. "[Digital
    Displacement](http://stateofthediscipline.acla.org/entry/digital-displacement)." *ACLA State of the Discipline
@@ -41,7 +41,6 @@ Matthew K. Gold. Minnesota, 2014. Acceppted in Spring 2013.
 "[Bad Links](http://web.archive.org/web/20141005021655/http://sprintbeyondthebook.com/2014/02/bad-links/)", 
 and "[Skeptics Online](http://web.archive.org/web/20141005021417/http://sprintbeyondthebook.com/2014/02/skeptics-online/)."
 *[Sprint Beyond the Book](http://sprintbeyondthebook.com/)*. Arizona State University, February 2014.
-
 
 **Book Reviews**:
 

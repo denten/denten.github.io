@@ -2,14 +2,14 @@
 
 **Book Projects**:
 
-1. "Plain Text: The Poetics of Human-Computer Interaction." Foundational ideas
-   in literary theory and media studies as embodied in contemporary
-computation. Manuscript in progress.
-1. "Literature and the Digtial Humanities." Theory and practice. Manuscript
-   in progress by invitation to "Literature in Contmporary Thought" series
-published by Routledge. Ed. Ursula K. Heise & Guillermina De Ferrari.
-1. "Algorithmic Imagination." A critical history of combinatorial thought.
-   Manuscript planned for spring, 2016.
+1. "Plain Text: The Poetics of Human-Computer Interaction." Literary theory in
+the age of computation. Manuscript under review.  
+1. "Literature and the Digital Humanities." Theory and practice.  Manuscript in progress by
+invitation to "Literature in Contemporary Thought" series published by
+Routledge. Ed. Ursula K. Heise & Guillermina De Ferrari.  
+1. "Algorithmic
+Imagination." A critical history of combinatorial thought.  Manuscript planned
+for spring, 2016.  
 
 **Peer Reviewed Journals**:
 
@@ -36,7 +36,7 @@ Humanities: Practice, Training and Research*. Ed. Ray Siemens. Routledge, 2016. 
    Displacement](http://stateofthediscipline.acla.org/entry/digital-displacement)." *ACLA State of the Discipline
 Report, 2014-2015*. Ed. Ursula K. Heise et al. ACLA, 2014. Web.
 1. "Blunt Instrumentalism." *Debates in the Digital Humanities*. Ed.
-Matthew K. Gold. Minnesota, 2014. Acceppted in Spring 2013.
+Matthew K. Gold. Minnesota, 2014. Accepted in Spring 2013.
 1. "[Asocial Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2014/02/asocial-text/)", 
 "[Bad Links](http://web.archive.org/web/20141005021655/http://sprintbeyondthebook.com/2014/02/bad-links/)", 
 and "[Skeptics Online](http://web.archive.org/web/20141005021417/http://sprintbeyondthebook.com/2014/02/skeptics-online/)."

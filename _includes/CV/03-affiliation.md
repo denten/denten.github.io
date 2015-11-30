@@ -1,13 +1,15 @@
-
-
 ## A. Training & Affiliation
 
 ### Columbia University in the City of New York
 
-Assistant Professor of Digital Humanities and New Media Studies, Department of English and Comparative Literature, September 2012 – .
+Assistant Professor of Digital Humanities and New Media Studies, Department of
+English and Comparative Literature, September 2012 – .
 
-- Affiliated Faculty, Institute of Data Sciences and Engineering, New Media Center
-- Faculty Affiliate, Digital Humanities Center, Butler Library
+- Founder, Columbia's Group for Experimental Methods in the
+Humanities.
+- Affiliated Faculty, Institute of Data Sciences and Engineering, New Media
+Center.
+- Affiliated Faculty, Institute for Comparative Literature and Society.
 
 ### Berkman Center for Internet and Society at Harvard University
 
@@ -29,4 +31,5 @@ Fellowship in the Humanities (declined), Presidential Scholar.
 
 B.A. Comparative Literature, 2001. B.A. Political Science (Theory
 Concentration), 2001. *Magna cum Laude*. Departmental Honors.  
+
 

@@ -1,4 +1,3 @@
-
 ## E. Teaching
 
 #### 2014-15 (Columbia University)
@@ -56,3 +55,4 @@ reasoning.
   Puett, fall 2007 and spring 2010. Moral reasoning.
 - *Self, Freedom, and Existence*, TF w/ Prof. Richard Moran, fall 2008. Moral
   reasoning.
+

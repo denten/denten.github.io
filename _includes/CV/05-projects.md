@@ -5,8 +5,14 @@
 prototyping of speculative thought.
 
 1. *[Science Surveyor](https://science-surveyor.github.io/)*. PI, (2014-).
-   Visualizing the growth and decay of shared knowledge. Recipient of Brown
-Center Magic Grant Award ($70k).
+Visualizing the growth and decay of shared knowledge in collaboration with
+Stanford Computer Science. Recipient of Brown Center Magic Grant Award
+($500k).
+
+1. *[Rikers Story
+Bot](http://xpmethod.plaintext.in/public-discourse/rikersbot.html)*, (2015-). a
+coding workshop and an algorithmic storytelling project set in and about
+Rikers Island correctional facility, New York city’s main jail complex.
 
 1. *[dh-notes](https://github.com/denten/dhnotes)*. Principal maintainer,
    (2013-). Lab notebooks, local knowledge, journal lists, tutorials, and other
@@ -26,6 +32,5 @@ maker/lab space at the center of Butler Library. Hosting lectures, training
 workshops, and open labs.
 
 **For a curated portfolio of projects please visit
-[xpmethod.plaintext.in/strains.html](http://xpmethod.plaintext.in/strains.html).**
-
+[http://xpmethod.plaintext.in/strains.html](http://xpmethod.plaintext.in/research.html).**
 

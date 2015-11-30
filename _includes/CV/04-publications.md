@@ -3,13 +3,11 @@
 **Book Projects**:
 
 1. "Plain Text: The Poetics of Human-Computer Interaction." Literary theory in
-the age of computation. Manuscript under review.  
-1. "Literature and the Digital Humanities." Theory and practice.  Manuscript in progress by
-invitation to "Literature in Contemporary Thought" series published by
-Routledge. Ed. Ursula K. Heise & Guillermina De Ferrari.  
-1. "Algorithmic
-Imagination." A critical history of combinatorial thought.  Manuscript planned
-for spring, 2016.  
+the age of computation. Manuscript under review.
+
+1. "Literature and the Digital Humanities." Theory and practice.  Under
+contract by invitation to "Literature in Contemporary Thought" series
+published by Routledge, ed. Ursula K. Heise & Guillermina De Ferrari.
 
 **Peer Reviewed Journals**:
 
@@ -31,7 +29,7 @@ Bielefeld: Transcript-Verlag, 2007. 99-111.
 **Contributed Chapters**:
 
 1. "Critical Computing in the Humanities." *Doing Digital
-Humanities: Practice, Training and Research*. Ed. Ray Siemens. Routledge, 2016. In Progress.
+Humanities: Practice, Training and Research*. Ed. Ray Siemens. Routledge, 2016.
 1. "[Digital
    Displacement](http://stateofthediscipline.acla.org/entry/digital-displacement)." *ACLA State of the Discipline
 Report, 2014-2015*. Ed. Ursula K. Heise et al. ACLA, 2014. Web.

@@ -15,9 +15,8 @@ Center.
 
 Member of metaLab and Cooperation research groups.  
 
-- Academic Fellow, September 2011 – August 2012  
-
-- Affiliated Faculty, September 2012 –    
+- Academic Fellow, September 2011 – August 2012
+- Affiliated Faculty, September 2012 –  
 
 ### Harvard University
 
@@ -25,7 +24,7 @@ Ph.D. Comparative Literature, 2004--2011. Research Computing in the Humanities
 Fellowship, Instructional Technology Fellow, Merit Grant Recipient, Whiting
 Fellowship in the Humanities (declined), Presidential Scholar.  
 
-- Lecturer in Comparative Literature, Spring 2012  
+- Lecturer in Comparative Literature, Spring 2012
 
 ### University of Michigan (Ann Arbor, MI)  
 

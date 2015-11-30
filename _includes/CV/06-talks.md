@@ -1,6 +1,6 @@
 ## D. Selected Talks
 
-\* Asterisk indicates talks by invitation
+<sup>\* Asterisk indicates talks by invitation</sup>
 
 "Rapid Prototyping of Speculative Thought." Digging Deep: Ecosystems, Institutions
 and Processes for Critical Making, CUNY Graduate Center. December 1, 2015.

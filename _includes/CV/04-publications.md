@@ -4,7 +4,6 @@
 
 1. "Plain Text: The Poetics of Human-Computer Interaction." Literary theory in
 the age of computation. Manuscript under review.
-
 1. "Literature and the Digital Humanities." Theory and practice.  Under
 contract by invitation to "Literature in Contemporary Thought" series
 published by Routledge, ed. Ursula K. Heise & Guillermina De Ferrari.

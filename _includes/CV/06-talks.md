@@ -2,9 +2,13 @@
 
 <sup>\* Asterisk indicates talks by invitation</sup>
 
+"Metaphor Machines." [Digital
+Poetics](http://web.archive.org/web/20160205183731/http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English/Friday-Forum/Detail?id=34205),
+CUNY Graduate Center. February 5, 2016.\*  
+
 "Rapid Prototyping of Speculative Thought." Digging Deep: Ecosystems, Institutions
 and Processes for Critical Making, CUNY Graduate Center. December 1, 2015.
-Talk.\*
+Talk.\*  
 
 "Scene Detection in Literary Fiction." New Digital Resources and Computational
 Methods for the Study of Literature in a Global Context, UCLA. 4-5 November,

@@ -2,7 +2,7 @@
 
 # kramdown to support footnotes
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        /:categories/:title

@@ -46,8 +46,8 @@ University, February 2014.
 
 **Book Reviews**:
 
-1. "(Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age* by
-Bernard Harcourt)[https://lareviewofbooks.org/review/opt-out]." *Los Angeles
+1. "[Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age* by
+Bernard Harcourt](https://lareviewofbooks.org/review/opt-out)." *Los Angeles
 Review of Books* (2016).
 1. "[What Is? Nine Epistemological Essays by Johanna Drucker](http://www.tandfonline.com/doi/full/10.1080/17547075.2015.1051841#abstract)."
    *Design and Culture*, 7.2 (2015): 264-5.

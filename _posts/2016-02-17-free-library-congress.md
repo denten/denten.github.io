@@ -178,7 +178,7 @@ international, planetary, intergalactic.
 
 [^27]: [http://www.un.org/en/universal-declaration-human-rights/](http://www.un.org/en/universal-declaration-human-rights/)
 
-[^battles]: In reference to Battles, Matthew. **Library: An Unquiet History**. New York: Norton, 2003.
+[^battles]: In reference to Battles, Matthew. *Library: An Unquiet History*. New York: Norton, 2003.
 
 [^stallman]: [http://www.gnu.org/philosophy/free-sw.en.html](http://www.gnu.org/philosophy/free-sw.en.html)
 

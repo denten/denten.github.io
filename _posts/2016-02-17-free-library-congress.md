@@ -171,8 +171,8 @@ necessarily think of themselves as supporters of the cause in favor of what
 Antonia Majaca has called "epistemic disobedience" (quoting  Walter
 Mignolo).[^cause] Femke Snelting and Ted Byfield remind us that whatever is
 meant by "universal" access to knowledge must include a multiplicity of
-voices---not *the* universal but a tangled network of universalisms---
-international, planetary, intergalactic.
+voices---not *the* universal but a tangled network of
+universalisms---international, planetary, intergalactic.
 
 [^sci]: [http://sci-hub.io/](http://sci-hub.io/)
 

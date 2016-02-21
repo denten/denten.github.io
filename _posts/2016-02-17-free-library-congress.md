@@ -153,7 +153,7 @@ way have a better chance of ending up in open archives.
 
    The political and economic response to piracy is often guided by fear and
 speculation. The work of researchers like Bodó Balázs is beginning to connect
-the business of selling books with the practices of reading them. Balázs makes
+the business of selling books with the practices of reading them.[^bodo] Balázs makes
 a powerful argument, holding that the flourishing of shadow media markets
 indicates a failure in legitimate markets. Research suggests that piracy does
 not decrease, it increases sales, particularly in places which are not
@@ -198,3 +198,4 @@ universalisms---international, planetary, intergalactic.
 Doesn’t Want to Be Free: Laws for the Internet Age*. San Francisco:
 McSweeney’s, 2014.
 
+[^bodo]: See for example Bodo, B. (2015). [Eastern Europeans in the pirate library](http://www.warsystems.hu/2015/06/23/eastern-europeans-in-the-pirate-library-visegrad-insight-7-1/) – *Visegrad Insight* (7) 1. 

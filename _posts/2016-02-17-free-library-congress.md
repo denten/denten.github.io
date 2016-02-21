@@ -96,8 +96,8 @@ sustain practices and institutions built on the assumptions of print. The
 attempt to re-introduce "stickiness" to electronic documents artificially
 through digital rights management technology and associated legislation like
 the Digital Millennium Copyright Act are doomed to fail. Information does not
-(and cannot) "want" to be free,[^doctorow] but it definitely lost some of its
-purchase on the medium when words moved from vellum to magnetic charge and
+(and cannot) "want" to be free,[^doctorow] but it definitely has lost some of
+its purchase on the medium when words moved from vellum to magnetic charge and
 subsequently to solid storage medium that---I kid you not---works through
 things like quantum tunneling and electron avalanche injection.
 
@@ -168,10 +168,10 @@ Eastern and Western Europe are overrepresented. I remind myself that we travel
 in good company---artists, scholars, activists, philosophers---who may not
 necessarily think of themselves as supporters of the cause in favor of what
 Antonia Majaca has called "epistemic disobedience" (quoting  Walter
-Mignolo).[^cause] Femke Snelting and Ted Byfield remind us that whatever is
-meant by "universal" access to knowledge must include a multiplicity of
-voices---not *the* universal but a tangled network of
-universalisms---international, planetary, intergalactic.
+Mignolo).[^cause] I speak up to say, along with Femke Snelting and Ted
+Byfield, that whatever is meant by "universal" access to knowledge must
+include a multiplicity of voices---not *the* universal but a tangled network
+of universalisms---international, planetary, intergalactic.
 
 [^sci]: [http://sci-hub.io/](http://sci-hub.io/)
 

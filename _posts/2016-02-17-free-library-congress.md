@@ -18,6 +18,8 @@ Edited: Rosemary Grennan, MayDay Rooms (London, UK)
 To appear in [Schloss---Post](http://schloss-post.com/).
 
 ![10,000 article titles obscuring citation network topography.](/assets/star.jpg)
+***Figure 1:** Article titles obscuring citation network topography. Image
+by the author.*
 
 I am on my way to the Free Library Congress at Schloss Solitude, in Stuttgart.
 The event is not really called the free library congress, but that is what I

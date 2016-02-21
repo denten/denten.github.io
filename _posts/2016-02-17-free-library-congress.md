@@ -1,6 +1,6 @@
 ---
 author: denten
-comments: false
+comments: true
 layout: post
 published: false
 slug: free-library-congress
@@ -9,8 +9,13 @@ categories:
 - think.stack
 ---
 
-Edited: Rosemary Grennan, MayDay Rooms (London, UK) to appear in 
-[Schloss---Post](http://schloss-post.com/).
+<!--
+
+Edited: Rosemary Grennan, MayDay Rooms (London, UK) 
+
+--> 
+
+To appear in [Schloss---Post](http://schloss-post.com/).
 
 ![](/assets/star.jpg)
 
@@ -92,10 +97,10 @@ sustain practices and institutions built on the assumptions of print. The
 attempt to re-introduce "stickiness" to electronic documents artificially
 through digital rights management technology and associated legislation like
 the Digital Millennium Copyright Act are doomed to fail. Information does not
-(and cannot) "want" to be free, but it definitely lost some of its purchase on
-the medium when words moved from vellum to magnetic charge and subsequently to
-solid storage medium that---I kid you not---works through things like quantum
-tunneling and electron avalanche injection. I kid you not.
+(and cannot) "want" to be free,[^doctorow] but it definitely lost some of its
+purchase on the medium when words moved from vellum to magnetic charge and
+subsequently to solid storage medium that---I kid you not---works through
+things like quantum tunneling and electron avalanche injection.
 
 2. Any proposed action it will require the close **alignment of interests**
 between authors, publishers, readers, and libraries.
@@ -110,38 +115,39 @@ public lays elsewhere. Much larger forces of capital and centralization
 threaten the very existence of a public commons. To survive, we need to
 nurture a conversation across institutional boundaries.
 
-    By my calculations, Library Genesis, one of the most influential free online
-book libraries sustains itself on a budget of several thousand dollars per
-year.[^budget] The maintenance of Sci Hub requires a bit more.[^budget2] How
-do pirate libraries achieve so much with so little? The fact that these
+    By my calculations, Library Genesis, one of the most influential free
+online book libraries sustains itself on a budget of several thousand dollars
+per year.[^budget] The maintenance of Sci Hub requires a bit more.[^budget2]
+How do pirate libraries achieve so much with so little? The fact that these
 libraries do not pay exorbitant licence fees can only be a small part of the
 answer. The larger part of the answer includes their ability to rely on the
-good will and on the labor of the community. Why can't the readers and writers
+good will and on the support of the community. Why can't readers and writers
 contribute to the development of infrastructures of their home schools and
-universities? Why are the libraries so reliant on outside vendors, who take
-most of the profits out of our system?
+universities? Why are libraries so reliant on outside vendors, who take most
+of the profits out of our ecosystem?
 
     I am conflicted about leaving booksellers out of the equation. In response
 about my question about booksellers---do they help or hinder project of
 universal access?---Marcell Mars spoke about "a nostalgia for capitalism we
-used to know." Tomislav Medak spoke in defense on small book publishers that
+used to know." Tomislav Medak spoke in defense of small book publishers that
 produce beautiful objects. But the largest of booksellers are no longer
 strictly in the business of selling books. They build cloud infrastructures,
-they sell online services to the military, and much much more. The project of
-corporate growth just may be incompatible with the project to provide free
-universal access to information.
+they sell online services to the military, build autonomous drones, and much
+much more. The project of corporate growth just may be incompatible with the
+project to provide free and universal access to information.
 
 3. Libraries and publishing conclude a **long chain of literary production**.
 Whatever ails the free library must be also addressed at the source of
 authorship.
 
-    Much of the world's knowledge is locked behind a paywall. The closed system at
-the point of distribution reflects labor practices that also rely on closed
-and proprietary tools. Inequities of access mirror inequities of production.
-Techniques of writing are furthermore impoverished when writers are not free
-to modify their instruments. This means that as we build free libraries we
-must also convince our peers to write using software that can be freely
-modified, hacked, extended.
+    Much of the world's knowledge is locked behind paywalls. Such closed
+systems at the point of distribution reflect labor practices that also rely on
+closed and proprietary tools. Inequities of access mirror inequities of
+production. Techniques of writing are furthermore impoverished when writers
+are not free to modify their instruments. This means that as we support free
+libraries we must also convince our peers to write using software that can be
+freely modified, hacked, extended. Documents written in that way have a better
+chance of ending up with open archives.
 
 4. We need **more empirical evidence** about the impact of media piracy.
 
@@ -187,3 +193,8 @@ international, planetary, intergalactic.
 [^budget2]: [https://tarnkappe.info/e-book-piraterie-interview-mit-alexandra-elbakyan-von-sci-hub/](https://tarnkappe.info/e-book-piraterie-interview-mit-alexandra-elbakyan-von-sci-hub/)
 
 [^cause]: [http://custodians.online/](http://custodians.online/)
+
+[^doctorow]: Doctorow, Cory, Neil Gaiman, and Amanda Palmer. *Information
+Doesn’t Want to Be Free: Laws for the Internet Age*. San Francisco:
+McSweeney’s, 2014.
+

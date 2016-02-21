@@ -111,7 +111,7 @@ world, writers, readers, publishers, and archivists need to coordinate their
 action. We are a community. And I think we want more or less the same thing:
 to reach an audience, to find and share information, and to remain a vital
 intellectual force. The real battle for the hearts and minds of an informed
-public lays elsewhere. Much larger forces of capital and centralization
+public lies elsewhere. Much larger forces of capital and centralization
 threaten the very existence of a public commons. To survive, we need to
 nurture a conversation across institutional boundaries.
 

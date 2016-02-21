@@ -36,7 +36,7 @@ impossible to perform literature reviews or to cite something briefly.
 Imagine yourself a physician or a young scientist somewhere in the global
 south, or in Eastern Europe, or anywhere really without a good library and
 without the means to pay exorbitant subscription prices demanded by the
-publishers. How will you keep current in your field? How are you to do right
+distributors. How will you keep current in your field? How are you to do right
 by your patients in following the latest treatment protocols? What about
 citizen science or simply due diligence on the part of patients, litigants, or
 primary school students in search for reputable sources? Wherever library

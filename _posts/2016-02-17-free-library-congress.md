@@ -77,13 +77,13 @@ maintenance of large online archives is a drain on resources, not
 profiteering. It resembles much more the work of a librarian than that of a
 corsair. Nevertheless, many in the community actually embrace a few of the
 political implications that come with the idea of piracy. Piracy, in that
-sense, is related to the methods and intuitions behind the occupy movement.
-When public resources are unjustly appropriated and when such appropriation is
-subsequently defended through the use of law and force, the only available
-response is counter occupation.
+sense, appeals to ideas and strategies similar to those of the occupy
+movement. When public resources are unjustly appropriated and when such
+systematic appropriation is subsequently defended through the use of law and
+force, the only available response is counter occupation.
 
 The agenda notes introducing the event calls for a "solidarity platform" in
-support of free and open public libraries like Sci Hub and Library Genesis,
+support of free online public libraries like Sci Hub and Library Genesis,
 which increasingly find themselves in legal peril. I do not yet know what the
 organizers have in mind, but my own thoughts in preparation for the day's
 activities evolve around the following few premises:
@@ -99,7 +99,7 @@ the Digital Millennium Copyright Act are doomed to fail. Information does not
 (and cannot) "want" to be free,[^doctorow] but it definitely has lost some of
 its purchase on the medium when words moved from vellum to magnetic charge and
 subsequently to solid storage medium that---I kid you not---works through
-things like quantum tunneling and electron avalanche injection.
+mechanisms like quantum tunneling and electron avalanche injection.
 
 2. Any proposed action will require the close **alignment of interests**
 between authors, publishers, readers, and librarians.
@@ -112,18 +112,19 @@ to reach an audience, to find and share information, and to remain a vital
 intellectual force. The real battle for the hearts and minds of an informed
 public lies elsewhere. Massive forces of capital and centralization threaten
 the very existence of a public commons. To survive, we need to nurture a
-conversation across institutional boundaries.
+conversation across organizational boundaries.
 
     By my calculations, Library Genesis, one of the most influential free
 online book libraries sustains itself on a budget of several thousand dollars
-per year.[^budget] The maintenance of Sci Hub requires a bit more.[^budget2]
-How do pirate libraries achieve so much with so little? The fact that these
-libraries do not pay exorbitant licence fees can only be a small part of the
-answer. The larger part of the answer includes their ability to rely on the
-good will and on the support of the community. Why can't readers and writers
-contribute to the development of infrastructures of their home schools and
-universities? Why are libraries so reliant on outside vendors, who take most
-of the profits out of our ecosystem?
+per year.[^budget] The maintenance of Sci Hub requires a bit more to reach
+millions of readers.[^budget2] How do pirate libraries achieve so much with so
+little? The fact that these libraries do not pay exorbitant licence fees can
+only comprise a small part of the answer. The larger part includes their
+ability to rely on the support of the community, in what I have called
+elsewhere "peer preservation." Why can't readers and writers contribute to the
+development of infrastructures within their own institutions? Why are
+libraries so reliant on outside vendors, who take most of the profits out of
+our ecosystem?
 
     I am conflicted about leaving booksellers out of the equation. In response
 about my question about booksellers---do they help or hinder project of
@@ -152,11 +153,11 @@ way have a better chance of ending up in open archives.
 
    The political and economic response to piracy is often guided by fear and
 speculation. The work of researchers like Bodó Balázs is beginning to connect
-the business of selling books with the practices of reading them.[^bodo] Balázs makes
-a powerful argument, holding that the flourishing of shadow media markets
-indicates a failure in legitimate markets. Research suggests that piracy does
-not decrease, it increases sales, particularly in places which are not
-well-served by traditional publishers and distributors. A more complete,
+the business of selling books with the practices of reading them.[^bodo]
+Balázs makes a powerful argument, holding that the flourishing of shadow media
+markets indicates a failure in legitimate markets. Research suggests that
+piracy does not decrease, it increases sales, particularly in places which are
+not well-served by traditional publishers and distributors. A more complete,
 "thick description" of global media practice requires more research, both
 qualitative and quantitative.
 
@@ -166,12 +167,12 @@ qualitative and quantitative.
 participants remark on the notable absences around the table. North America,
 Eastern and Western Europe are overrepresented. I remind myself that we travel
 in good company---artists, scholars, activists, philosophers---who may not
-necessarily think of themselves as supporters of the cause in favor of what
-Antonia Majaca has called "epistemic disobedience" (quoting  Walter
-Mignolo).[^cause] I speak up to say, along with Femke Snelting and Ted
-Byfield, that whatever is meant by "universal" access to knowledge must
-include a multiplicity of voices---not *the* universal but a tangled network
-of universalisms---international, planetary, intergalactic.
+necessarily think of themselves as fellows for the cause of what Antonia
+Majaca has called "epistemic disobedience" (quoting  Walter Mignolo).[^cause]
+I speak up to say, along with Femke Snelting and Ted Byfield, that whatever is
+meant by "universal" access to knowledge must include a multiplicity of
+voices---not *the* universal but a tangled network of
+universalisms---international, planetary, intergalactic.
 
 [^sci]: [http://sci-hub.io/](http://sci-hub.io/)
 

@@ -146,8 +146,8 @@ closed and proprietary tools. Inequities of access mirror inequities of
 production. Techniques of writing are furthermore impoverished when writers
 are not free to modify their instruments. This means that as we support free
 libraries we must also convince our peers to write using software that can be
-freely modified, hacked, extended. Documents written in that way have a better
-chance of ending up in open archives.
+freely modified, hacked, personalized, and extended. Documents written in that
+way have a better chance of ending up in open archives.
 
 4. We need **more empirical evidence** about the impact of media piracy.
 

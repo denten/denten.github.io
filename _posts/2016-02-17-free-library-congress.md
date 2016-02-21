@@ -102,7 +102,7 @@ purchase on the medium when words moved from vellum to magnetic charge and
 subsequently to solid storage medium that---I kid you not---works through
 things like quantum tunneling and electron avalanche injection.
 
-2. Any proposed action it will require the close **alignment of interests**
+2. Any proposed action will require the close **alignment of interests**
 between authors, publishers, readers, and libraries.
 
     For our institutions to catch up to the changing material conditions *and* our

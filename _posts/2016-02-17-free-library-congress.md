@@ -73,7 +73,7 @@ intellectual legacy of the free software movement: as Richard Stallman
 famously put it "free as in free speech not as in free beer."[^stallman]
 
 The word "piracy" is also often used to describe the online free library
-world. For some it carries some unwelcome connotations. In most cases, the
+world. For some it carries an unwelcome connotation. In most cases, the
 maintenance of large online archives is a drain on resources, not
 profiteering. It resembles much more the work of a librarian than that of a
 corsair. Nevertheless, many in the community embrace some of the political

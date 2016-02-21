@@ -17,7 +17,7 @@ Edited: Rosemary Grennan, MayDay Rooms (London, UK)
 
 To appear in [Schloss---Post](http://schloss-post.com/).
 
-![](/assets/star.jpg)
+![10,000 article titles obscuring citation network topography.](/assets/star.jpg)
 
 I am on my way to the Free Library Congress at Schloss Solitude, in Stuttgart.
 The event is not really called the free library congress, but that is what I

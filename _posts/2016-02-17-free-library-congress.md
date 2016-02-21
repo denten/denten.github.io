@@ -67,7 +67,7 @@ freely participate in the cultural life of the community, to enjoy the arts
 and to share in scientific advancement and its
 benefits."[^rights]<sup>,</sup>[^27] Her language---our language---evokes also
 the "unquiet" history of the public library.[^battles] I call this small,
-scrappy groups of artists, academics, librarians, and technologists "free" to
+scrappy group of artists, academics, librarians, and technologists "free" to
 evoke the history of "free and public" libraries and to appeal also to the
 intellectual legacy of the free software movement: as Richard Stallman
 famously put it "free as in free speech not as in free beer."[^stallman]

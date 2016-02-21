@@ -30,8 +30,7 @@ in the United States and abroad, lack affordable access to published
 information---books, medical research, science, and law. Outside of a
 university subscription, reading a single academic article may cost upwards of
 several hundred dollars. The pricing structure precludes any meaningful idea
-of independent research. Without an institutional subscription it becomes
-impossible to perform literature reviews or to cite something briefly.
+of independent research.
 
 Imagine yourself a physician or a young scientist somewhere in the global
 south, or in Eastern Europe, or anywhere really without a good library and

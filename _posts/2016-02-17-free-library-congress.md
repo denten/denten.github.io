@@ -103,11 +103,11 @@ subsequently to solid storage medium that---I kid you not---works through
 things like quantum tunneling and electron avalanche injection.
 
 2. Any proposed action will require the close **alignment of interests**
-between authors, publishers, readers, and libraries.
+between authors, publishers, readers, and librarians.
 
-    For our institutions to catch up to the changing material conditions *and* our
-(hopefully not so rapidly changing) sense of what's right and wrong in the
-world, writers, readers, publishers, and archives need to coordinate their
+    For our institutions to catch up to the changing material conditions *and*
+our (hopefully not so rapidly changing) sense of what's right and wrong in the
+world, writers, readers, publishers, and archivists need to coordinate their
 action. We are a community. And I think we want more or less the same thing:
 to reach an audience, to find and share information, and to remain a vital
 intellectual force. The real battle for the hearts and minds of an informed

@@ -76,10 +76,10 @@ The word "piracy" is also often used to describe the online free library
 world. For some it carries an unwelcome connotation. In most cases, the
 maintenance of large online archives is a drain on resources, not
 profiteering. It resembles much more the work of a librarian than that of a
-corsair. Nevertheless, many in the community embrace some of the political
-implications that come with the idea of piracy. Piracy, in that sense, is
-related to the methods and intuitions behind the occupy movement. When public
-resources are unjustly appropriated and when such appropriation is
+corsair. Nevertheless, many in the community actually embrace a few of the
+political implications that come with the idea of piracy. Piracy, in that
+sense, is related to the methods and intuitions behind the occupy movement.
+When public resources are unjustly appropriated and when such appropriation is
 subsequently defended through the use of law and force, the only available
 response is counter occupation.
 

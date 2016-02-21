@@ -194,8 +194,6 @@ universalisms---international, planetary, intergalactic.
 
 [^cause]: [http://custodians.online/](http://custodians.online/)
 
-[^doctorow]: Doctorow, Cory, Neil Gaiman, and Amanda Palmer. *Information
-Doesn’t Want to Be Free: Laws for the Internet Age*. San Francisco:
-McSweeney’s, 2014.
+[^doctorow]: Doctorow, Cory, Neil Gaiman, and Amanda Palmer. *Information Doesn’t Want to Be Free: Laws for the Internet Age*. San Francisco: McSweeney’s, 2014.
 
 [^bodo]: See for example Bodo, B. (2015). [Eastern Europeans in the pirate library](http://www.warsystems.hu/2015/06/23/eastern-europeans-in-the-pirate-library-visegrad-insight-7-1/) – *Visegrad Insight* (7) 1. 

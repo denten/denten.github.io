@@ -1,8 +1,8 @@
 ---
 author: denten
-comments: true
+comments: false
 layout: post
-published: false
+published: true
 slug: free-library-congress
 title: Preliminary Thoughts on the Way to the Free Library Congress
 categories:

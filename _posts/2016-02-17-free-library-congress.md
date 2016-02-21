@@ -111,9 +111,9 @@ world, writers, readers, publishers, and archivists need to coordinate their
 action. We are a community. And I think we want more or less the same thing:
 to reach an audience, to find and share information, and to remain a vital
 intellectual force. The real battle for the hearts and minds of an informed
-public lies elsewhere. Much larger forces of capital and centralization
-threaten the very existence of a public commons. To survive, we need to
-nurture a conversation across institutional boundaries.
+public lies elsewhere. Massive forces of capital and centralization threaten
+the very existence of a public commons. To survive, we need to nurture a
+conversation across institutional boundaries.
 
     By my calculations, Library Genesis, one of the most influential free
 online book libraries sustains itself on a budget of several thousand dollars

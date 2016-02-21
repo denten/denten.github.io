@@ -56,7 +56,7 @@ many jurisdictions, including the United States. Elsevier, one of the world's
 largest scientific publishers, has filed a complaint against Sci Hub in New
 York Southern District Court.[^court] Of course Google also continually finds
 itself at odds with intellectual property holders. The very logic of
-collecting and organizing human knowledge fundamentally is a public works
+collecting and organizing human knowledge is, fundamentally, a public works
 project at odds with the idea of private intellectual property.
 
 Addressing the judge directly in her defense, Elbakyan appeals to universal

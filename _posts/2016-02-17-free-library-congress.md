@@ -9,8 +9,8 @@ categories:
 - think.stack
 ---
 
-By Dennis Tenen. Edited Rosemary Grennan, MayDay Rooms (London, UK). To appear
-in [Schloss---Post](http://schloss-post.com/).
+By Dennis Tenen. Edited by Rosemary Grennan, MayDay Rooms (London, UK). To
+appear in [Schloss---Post](http://schloss-post.com/).
 
 ![Article titles obscuring citation network topography.](/assets/star.jpg)
 ***Figure 1:** Article titles obscuring citation network topography. Image by

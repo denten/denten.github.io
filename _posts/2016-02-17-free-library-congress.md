@@ -166,8 +166,8 @@ travel widely and in good company of artists, scholars, activists, and
 philosophers who would stand in support of what Antonia Majaca has called
 (after Walter Mignolo) "epistemic disobedience" and who need to be invited to
 this table.[^12] I speak up to say, along with Femke Snelting and Ted Byfield,
-that whatever is meant by "universal" access to knowledge must include a
-multiplicity of voices---not *the* universal but a tangled network of
+that whatever is meant by the "universal" in access to knowledge must include
+a multiplicity of voices---not *the* universal but a tangled network of
 universalisms---international, planetary, intergalactic.
 
 [^1]: <http://sci-hub.io/>
@@ -180,21 +180,16 @@ universalisms---international, planetary, intergalactic.
 
 [^5]: <http://www.un.org/en/universal-declaration-human-rights/>
 
-[^6]: In reference to Battles, Matthew. *Library: An Unquiet History*.
-    New York: Norton, 2003.
+[^6]: In reference to Battles, Matthew. *Library: An Unquiet History*.  New York: Norton, 2003.
 
 [^7]: <http://www.gnu.org/philosophy/free-sw.en.html>
 
-[^8]: Doctorow, Cory, Neil Gaiman, and Amanda Palmer. *Information
-    Doesn’t Want to Be Free: Laws for the Internet Age*. San Francisco:
-    McSweeney’s, 2014.
+[^8]: Doctorow, Cory, Neil Gaiman, and Amanda Palmer. *Information Doesn’t Want to Be Free: Laws for the Internet Age*. San Francisco: McSweeney’s, 2014.  
 
 [^9]: <http://computationalculture.net/article/book-piracy-as-peer-preservation>
 
 [^10]: <https://tarnkappe.info/e-book-piraterie-interview-mit-alexandra-elbakyan-von-sci-hub/>
 
-[^11]: See for example Bodo, B. (2015). [Eastern Europeans in the pirate
-    library](http://www.warsystems.hu/2015/06/23/eastern-europeans-in-the-pirate-library-visegrad-insight-7-1/)
-    – *Visegrad Insight* (7) 1.
+[^11]: See for example Bodo, B. (2015). [Eastern Europeans in the pirate library](http://www.warsystems.hu/2015/06/23/eastern-europeans-in-the-pirate-library-visegrad-insight-7-1/) – *Visegrad Insight* (7) 1.  
 
 [^12]: <http://custodians.online/>

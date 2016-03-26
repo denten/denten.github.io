@@ -25,7 +25,7 @@ right to access information freely.
 Working at a North American university, it is easy to forget that most people
 in the United States and abroad, lack affordable access to published
 information---books, medical research, science, and law.  Outside of a
-university subscription, reading a single academic article may cost upwards of
+university campus, reading a single academic article may cost upwards of
 several hundred dollars. The pricing structure precludes any meaningful idea
 of independent research.
 

@@ -2,6 +2,9 @@
 
 <sup>\* Asterisk indicates talks by invitation</sup>
 
+"Literature Down to a Pixel." Ephemera and Ephemerality: Media, Archive,
+Memory, ACLA March 17-19. Harvard University, Boston, MA.  
+
 "Metaphor Machines." [Digital
 Poetics](http://web.archive.org/web/20160205183731/http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English/Friday-Forum/Detail?id=34205),
 CUNY Graduate Center. February 5, 2016.\*  

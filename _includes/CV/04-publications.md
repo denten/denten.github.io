@@ -8,25 +8,25 @@ review.
 1. "Algorithmic Imagination: Boundaries of Autopoiesis." Manuscript in
 progress.
 
-1. "Literature and the Digital Humanities." Theory and practice.  Under
-contract by invitation to "Literature in Contemporary Thought" series
-published by Routledge, ed. Ursula K. Heise & Guillermina De Ferrari.
+1. "Literature and the Digital Humanities." Under contract by invitation to
+"Literature in Contemporary Thought" series published by Routledge, ed. Ursula
+K. Heise & Guillermina De Ferrari.
 
 **Peer Reviewed Journals**:
 
 - "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
-*Computational Culture 4* (2014). Web.
+*Computational Culture 4* (2014).
 - "[Sustainable Authorship in Plain
    Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
-*The Programming Historian* (2014). Web.
+*The Programming Historian* (2014).
 - "[Stalin’s
    PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
 *Modernism/modernity 21.1* (2014): 253–267.
 - "Unintelligent Design." *boundary 2*. Accepted Fall 2013.
 - "Travelogue as Fact and Fiction." *Imaginäre Topografien.  Migration Und
    Verortung.* Ed. Müller-Richter, Klaus and Uritescu-Lombard, Ramona.
-Bielefeld: Transcript-Verlag, 2007. 99-111.
+Bielefeld: Transcript-Verlag, 2007: 99-111.
 - "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
 
 **Contributed Chapters**:
@@ -40,9 +40,9 @@ Heise et al. Routledge, 2017.
 1. "Blunt Instrumentalism." *Debates in the Digital Humanities*. Ed.
 Matthew K. Gold. Minnesota, 2016. Accepted in Spring 2014.
 1. "[Asocial
-Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2014/02/asocial-text/)",
+Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2014/02/asocial-text/),"
 "[Bad
-Links](http://web.archive.org/web/20141005021655/http://sprintbeyondthebook.com/2014/02/bad-links/)",
+Links](http://web.archive.org/web/20141005021655/http://sprintbeyondthebook.com/2014/02/bad-links/),"
 and "[Skeptics
 Online](http://web.archive.org/web/20141005021417/http://sprintbeyondthebook.com/2014/02/skeptics-online/)."
 *[Knowledge Systems](http://sprintbeyondthebook.com/)*. Arizona State

@@ -14,7 +14,7 @@ Lecture. Topics in new media studies. Fall.
 Undergraduate seminar. Columbia Core. Year-long.
 - [*Coding for
   Human(s|ists)*](https://github.com/denten-workshops/dhsi-coding-fundamentals).
-Lecture & lab. Unversity of Victoria, Canada.  Digital Humanities Summer
+Lecture & lab. University of Victoria, Canada. Digital Humanities Summer
 Institute. Summer 2015.
 
 #### 2013-14 (Columbia University)

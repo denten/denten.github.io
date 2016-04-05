@@ -2,8 +2,11 @@
 
 **Book Projects**:
 
-1. "Plain Text: The Poetics of Human-Computer Interaction." Literary theory in
-the age of computation. Manuscript under review.
+1. "Plain Text: The Poetics of Human-Computer Interaction." Manuscript under
+review.
+
+1. "Algorithmic Imagination: Boundaries of Autopoiesis." Manuscript in
+progress.
 
 1. "Literature and the Digital Humanities." Theory and practice.  Under
 contract by invitation to "Literature in Contemporary Thought" series
@@ -42,7 +45,7 @@ Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2
 Links](http://web.archive.org/web/20141005021655/http://sprintbeyondthebook.com/2014/02/bad-links/)",
 and "[Skeptics
 Online](http://web.archive.org/web/20141005021417/http://sprintbeyondthebook.com/2014/02/skeptics-online/)."
-*[Sprint Beyond the Book](http://sprintbeyondthebook.com/)*. Arizona State
+*[Knowledge Systems](http://sprintbeyondthebook.com/)*. Arizona State
 University, February 2014.
 
 **Book Reviews**:

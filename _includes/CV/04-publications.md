@@ -28,13 +28,14 @@ Bielefeld: Transcript-Verlag, 2007. 99-111.
 
 **Contributed Chapters**:
 
+1. "Archive." *Literature: An Introduction to Theory and Analysis*. Ed. Mads
+Rosendahl Thomsen et al. Bloomsbury, 2017.
 1. "Critical Computing in the Humanities." *Doing Digital
 Humanities: Practice, Training and Research*. Ed. Ray Siemens. Routledge, 2016.
-1. "[Digital
-   Displacement](http://stateofthediscipline.acla.org/entry/digital-displacement)." *ACLA State of the Discipline
-Report, 2014-2015*. Ed. Ursula K. Heise et al. ACLA, 2014. Web.
+1. "Digital Displacement." *Futures of Comparative Literature*. Ed. Ursula K.
+Heise et al. Routledge, 2017.
 1. "Blunt Instrumentalism." *Debates in the Digital Humanities*. Ed.
-Matthew K. Gold. Minnesota, 2014. Accepted in Spring 2013.
+Matthew K. Gold. Minnesota, 2016. Accepted in Spring 2014.
 1. "[Asocial
 Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2014/02/asocial-text/)",
 "[Bad

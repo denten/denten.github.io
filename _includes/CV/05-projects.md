@@ -34,5 +34,5 @@ maker/lab space at the center of Butler Library. Hosting lectures, training
 workshops, and open labs.
 
 **For a curated portfolio of projects please visit
-[http://xpmethod.plaintext.in/strains.html](http://xpmethod.plaintext.in/research.html).**
+[http://xpmethod.plaintext.in/research.html](http://xpmethod.plaintext.in/research.html).**
 

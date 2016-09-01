@@ -5,7 +5,7 @@
 1. *Plain Text: The Poetics of Computation.* Forthcoming, Stanford University
 Press, 2017.
 
-1. "An Inquiry into Algorithmic Literature." Manuscript in progress.
+1. "An Inquiry into the Limits of Algorithmic Imagination." Manuscript in progress.
 
 1. "Literature and the Digital Humanities." Under contract by invitation to
 "Literature in Contemporary Thought" series published by Routledge, ed. Ursula

@@ -4,8 +4,10 @@
 
 - Committee for Undergraduate Education, 2016--
 - Committee for Graduate Education, 2012--15.
-- Weekly labs with the Group for Experimental Methods in the Humanities.
-  Workshops and lecture series, 2013--
+- Senior essay advising and undergraduate prize committee participation,
+  2012--
+- Weekly lab meetings with the Group for Experimental Methods in the
+  Humanities. Workshops and lecture series, 2013--
 
 #### University
 
@@ -29,10 +31,13 @@
 
 #### Graduate Advising
 
- Maxine Arndt (2016-17), Gianmarco Saretto (2014-15), Jeremy Stevens
-(2014-15), Erica Grove (2013-14), & Becky Bort (2013-14).
+- Maxine Arndt, 2016-17
+- Gianmarco Saretto, 2014-15
+- Jeremy Stevens, 2014-15
+- Erica Grove, 2013-14
+- Becky Bort, 2013-14
 
-#### Theses, Independent Studies:
+#### Misc. Theses, Independent Studies:
 
 - Elena Goldstein. "Big Brother all Grown Up." Independent Study. Fall 2014.
 - Christopher Brennan. "Personal Social Networks and Deliberative Democracy in

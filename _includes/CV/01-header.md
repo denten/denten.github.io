@@ -1,5 +1,5 @@
 ---
-author: Dennis Tenen
+author: Dennis Yi Tenen
 email: dt2406@columbia.edu
 url: denten.plaintext.in
 telephone: (415)\ 215-3315

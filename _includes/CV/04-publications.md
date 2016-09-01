@@ -2,18 +2,18 @@
 
 **Book Projects**:
 
-1. "Plain Text: The Poetics of Human-Computer Interaction." Manuscript under
-review.
+1. *Plain Text: The Poetics of Computation.* Forthcoming, Stanford University
+Press, 2017.
 
-1. "Algorithmic Imagination: Boundaries of Autopoiesis." Manuscript in
-progress.
+1. "An Inquiry into Algorithmic Literature." Manuscript in progress.
 
 1. "Literature and the Digital Humanities." Under contract by invitation to
 "Literature in Contemporary Thought" series published by Routledge, ed. Ursula
-K. Heise & Guillermina De Ferrari.
+K. Heise & Guillermina De Ferrari. Manuscript in progress.
 
 **Peer Reviewed Journals**:
 
+- "Literature Down to a Pixel." *Amodern*. Forthcoming.
 - "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
 *Computational Culture 4* (2014).

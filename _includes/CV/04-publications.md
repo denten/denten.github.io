@@ -35,8 +35,10 @@ Bielefeld: Transcript-Verlag, 2007: 99-111.
 Rosendahl Thomsen et al. Bloomsbury, 2017.
 1. "Critical Computing in the Humanities." *Doing Digital
 Humanities: Practice, Training and Research*. Ed. Ray Siemens. Routledge, 2016.
-1. "Digital Displacement." *Futures of Comparative Literature*. Ed. Ursula K.
-Heise et al. Routledge, 2017.
+1. "Digital Displacement." Futures of Comparative Literature. Ed. Ursula K.
+Heise, Dudley Andrew, Alexander Beecroft, Jessica Berman, David Damrosch,
+Guillermina De Ferrari, CÃ©sar DomÃ­nguez, Barbara Harlow, and Eric Hayot.
+London: Routledge, forthcoming in 2017. 
 1. "Blunt Instrumentalism." *Debates in the Digital Humanities*. Ed.
 Matthew K. Gold. Minnesota, 2016. Accepted in Spring 2014.
 1. "[Asocial

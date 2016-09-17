@@ -1,9 +1,16 @@
-## D. Selected Talks
+## D. Selected Talks & Conferences
 
 <sup>\* Asterisk indicates talks by invitation</sup>
 
+"Experimental Methods in the Humanities." Scandinavian Modernism and Digital
+Resources, September 14, 2016. Digital Humanities Lab, Aaarhus University,
+Denmark.\*  
+
+*Knowledge Architectures: Mumbai*, June 2016. Principle convener. Week-long
+series of talks and workshops. Tata Institute for Social Sciences, Mumbai.  
+
 "Literature Down to a Pixel." Ephemera and Ephemerality: Media, Archive,
-Memory, ACLA March 17-19. Harvard University, Boston, MA.  
+Memory, ACLA March 17-19, 2016. Harvard University, Boston, MA.  
 
 "Metaphor Machines." [Digital
 Poetics](http://web.archive.org/web/20160205183731/http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English/Friday-Forum/Detail?id=34205),

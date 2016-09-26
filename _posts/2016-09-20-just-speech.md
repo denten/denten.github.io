@@ -25,5 +25,4 @@ come from reason: it relies also on a legacy of suppression, violence, and
 subjugation. It is not enough then for speech to be free. It must also be
 just, for without justice there can be neither peace nor dialogue.
 
-[^1]:
-[https://web.archive.org/web/20160926142807/https://freeexpression.uchicago.edu/page/statement-principles-free-expression](https://web.archive.org/web/20160926142807/https://freeexpression.uchicago.edu/page/statement-principles-free-expression)
+[^1]: [https://web.archive.org/web/20160926142807/https://freeexpression.uchicago.edu/page/statement-principles-free-expression](https://web.archive.org/web/20160926142807/https://freeexpression.uchicago.edu/page/statement-principles-free-expression)

@@ -12,8 +12,8 @@ layout: default
     <h3><!--<span>{{ post.date | date_to_string }}</span>--> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
         {{ post.content | truncatewords:75 }}<br>
         <a href="{{ post.url }}">Read more &raquo;</a><br><br>
-        <!-- hack to prevent unclosed lists in the snippet -->
-        </ul></ol>
+        <!-- hack to prevent unclosed lists or quotes in the snippet -->
+        </ul></ol></blockquote>
     {% endfor %}
 
 <p><b>More random posts:</b></p>

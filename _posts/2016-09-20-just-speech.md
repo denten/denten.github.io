@@ -5,6 +5,7 @@ layout: post
 published: true
 slug: just-speech
 title: Just Speech
+snippet: 150
 categories:
 - think.stack
 ---

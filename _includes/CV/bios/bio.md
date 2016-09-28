@@ -13,8 +13,8 @@ technology. I am one of the founders of Columbia's <a
 href="http://xpmethod.plaintext.in/strains.html">Group for Experimental
 Methods in the Humanities</a> and author of <i>Plain Text: The Poetics of
 Computation</i> (Stanford UP, 2017). You can find me on Twitter <a
-href="https://twitter.com/dennistenen">@dennistenen</a>, on GitHub at <a
-href="https://github.com/denten">github.com/denten</a>, and on <a
+href="https://twitter.com/dennistenen">@dennistenen</a>, GitHub at <a
+href="https://github.com/denten">github.com/denten</a>, and <a
 href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack
 Exchange</a>.</p>
 

@@ -1,7 +1,8 @@
 Hello! My name is <b>Dennis Tenen</b>. I teach courses on literary theory,
 media studies, and critical computing at the <a
 href="http://english.columbia.edu/people/profile/453">Department of English
-and Comparative Literature</a>, Columbia University. I also occasionally teach at Columbia's <a
+and Comparative Literature</a>, Columbia University. I also occasionally teach
+at Columbia's <a
 href="http://www.journalism.columbia.edu/page/1058-the-lede-program-an-introduction-to-data-practices/906">Journalism
 School</a>, in the <a
 href="https://github.com/denten-courses/computing-context">Computer Science
@@ -10,8 +11,8 @@ Department</a>, and at <a href="http://www.dhsi.org/courses.php">DHSI</a>.
 <p></p> <p>My research happens at the intersection of texts, people, and
 technology. I am one of the founders of Columbia's <a
 href="http://xpmethod.plaintext.in/strains.html">Group for Experimental
-Methods in the Humanities</a> and the author of *Plain Text: The Poetics of
-Computation* (Stanford UP, 2017). You can find me on Twitter <a
+Methods in the Humanities</a> and author of <i>Plain Text: The Poetics of
+Computation</i> (Stanford UP, 2017). You can find me on Twitter <a
 href="https://twitter.com/dennistenen">@dennistenen</a>, on GitHub at <a
 href="https://github.com/denten">github.com/denten</a>, and on <a
 href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack

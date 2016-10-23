@@ -11,13 +11,16 @@
 
 #### University
 
+- Executive Committee, Institute for Comparative Literature and Society,
+  2016--
+- Faculty working group on computational humanities and social science, 2016--
 - Collaboratory Proposal Selection Committee, 2016.
 - Data Science Taskforce, 2015--
-- Ad-Hoc Exploratory Committee for the Center for Culture and Computation,
-  2014--
+- Ad-hoc Exploratory Committee for the Center for Culture and Computation,
+  2014--15.
 - Founding Member. Digital Storytelling Lab, 2013--
 - Advisory Board. Butler Studio (maker space), 2013--
-- Member of Literary Theory and Theory and History of Media university
+- Member of "Literary Theory" and "Theory and History of Media" university
   seminars.
 
 #### Doctoral Students

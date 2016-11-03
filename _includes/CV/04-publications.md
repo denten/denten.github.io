@@ -2,8 +2,7 @@
 
 **Book Projects**:
 
-1. *Plain Text: The Poetics of Computation.* Forthcoming, Stanford University
-Press, 2017.
+1. *Plain Text: The Poetics of Computation.* Stanford University Press, 2017.
 
 1. "An Inquiry into the Limits of Algorithmic Imagination." Manuscript in progress.
 

@@ -1,5 +1,14 @@
 ## E. Teaching
 
+#### 2016-17 (Columbia University)
+- [*Form, Formula,
+  Format*](https://github.com/denten-courses/form-formula-format). Graduate
+Seminar. Fall.
+- *Critical Computing in the Humanities*. Undergraduate lecture. Spring.
+- [*Contemporary
+  Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
+Undergraduate seminar. Columbia Core. Year-long.
+
 #### 2014-15 (Columbia University)
 
 - [*Computing in Context: Textual & Literary

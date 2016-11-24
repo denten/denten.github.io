@@ -17,7 +17,7 @@ that explores the possibility and limits of automatically-generated,
 algorithmic literary systems.
   
   
-My work has appeared on the pages of *Computational Culture*, *boundary2*, and
+My work appears on the pages of *Computational Culture*, *boundary2*, and
 *Modernism/modernity* on topics that range from book piracy, unintelligent
 design, and aesthetics of data visualization. I am a co-founder of Columbia's
 Group for Experimental Methods in the Humanities, a research collective whose

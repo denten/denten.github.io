@@ -2,6 +2,8 @@
 
 <sup>\* Asterisk indicates talks by invitation</sup>
 
+"Version Control for Textual Criticism." What is a Book in the 21st Century?, Columbia University. Januray 20, 2017. Workshop and lecture.\*
+
 "Technologies of Dissent." The Black Sea Networks Initiative, Columbia University. January 20, 2017. Talk.\*
 
 "Book Piracy and Black Sea Networks." Digital Humanities Symposium, Yale

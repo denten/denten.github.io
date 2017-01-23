@@ -2,12 +2,13 @@
 
 <sup>\* Asterisk indicates talks by invitation</sup>
 
+"Technologies of Dissent." The Black Sea Networks Initiative, Columbia University. January 20, 2017. Talk.\*
+
 "Book Piracy and Black Sea Networks." Digital Humanities Symposium, Yale
 University Library. November 12, 2016. Talk.\*  
 
 "Experimental Methods in the Humanities." Scandinavian Modernism and Digital
-Resources, Digital Humanities Lab. Aaarhus University, Denmark. September 14,
-2016. Talk.\*  
+Resources, Digital Humanities Lab. Aaarhus University, Denmark. September 14, 2016. Talk.\*  
 
 *Knowledge Architectures: Mumbai*. Tata Institute for Social Sciences, Mumbai.
 July 4-6, 2016. Principle convener.  

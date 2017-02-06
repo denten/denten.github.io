@@ -50,10 +50,12 @@ Impact on Public Discourse." Senior Thesis. Spring 2013.
 
 #### Professional Service:
 
-- Book manuscript reviews for Cambridge UP, Princeton UP, MIT Press.
-- Peer review for National Science Foundation; The American Academy in Berlin;
-  *Computational Culture*; *Modernism/Modernity*; *Digital Studies / Le champ
-numérique*; *Science, Technology & Human Values*.
+- Book manuscript reviews for Cambridge UP, Columbia UP, MIT Press, and
+  Princeton UP.
+- Peer review for The American Academy in Berlin; *Computational Culture*;
+  *Digital Studies / Le champ numérique*; *International Journal of Humanities
+and Arts Computing*; *National Science Foundation*; *Modernism/Modernity*;
+*Science, Technology & Human Values*.
 - 2 years as a managing editor of *Modernism/Modernity* (Modernist Studies
   Association and John-Hopkins University Press, job following placement of
 manuscript).
@@ -62,4 +64,3 @@ manuscript).
   include General Motors, The Greening of Detroit, MRI, MSU Libraries and
 Computing Provost).
 - 2+ years desktop publishing as the editor/researcher for Physician's Press.
-

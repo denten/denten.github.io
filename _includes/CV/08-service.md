@@ -22,6 +22,11 @@
 - Advisory Board. Butler Studio (maker space), 2013--
 - Member of "Literary Theory" and "Theory and History of Media" university
   seminars.
+- Multiple contributions to the "Strategic Plan for Humanities in the Arts and
+  Sciences," 2016-2017.
+- Principle convener (along with Manan Ahmed and Roosevelt Montas) of the
+  "Connected Core" pilot program as part of the universities "Core to
+Commencement" campaign, funded by the College Dean's office.
 
 #### Doctoral Students
 

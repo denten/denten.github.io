@@ -30,16 +30,15 @@ Bielefeld: Transcript-Verlag, 2007: 99-111.
 
 **Contributed Chapters**:
 
-1. "Archive." *Literature: An Introduction to Theory and Analysis*. Ed. Mads
-Rosendahl Thomsen et al. Bloomsbury, 2017.
-1. "Critical Computing in the Humanities." *Doing Digital
-Humanities: Practice, Training and Research*. Ed. Ray Siemens. Routledge, 2016.
-1. "Digital Displacement." Futures of Comparative Literature. Ed. Ursula K.
-Heise, Dudley Andrew, Alexander Beecroft, Jessica Berman, David Damrosch,
-Guillermina De Ferrari, CÃ©sar DomÃ­nguez, Barbara Harlow, and Eric Hayot.
-London: Routledge, forthcoming in 2017. 
-1. "Blunt Instrumentalism." *Debates in the Digital Humanities*. Ed.
-Matthew K. Gold. Minnesota, 2016. Accepted in Spring 2014.
+1. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads
+Rosendahl Thomsen, et al. Bloomsbury, 2017.
+1. "Critical Computing in the Humanities" in *Doing Digital
+Humanities: Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016.
+1. "Visual-quantitative Approaches to the Intellectual History of the Field: A
+Close Reading" in *Futures of Comparative Literature*, ed. Ursula K.
+Heise, et. al. Routledge, 2017.
+1. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed.
+Matthew K. Gold, et. al. Minnesota UP, 2016.
 1. "[Asocial
 Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2014/02/asocial-text/),"
 "[Bad

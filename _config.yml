@@ -11,7 +11,7 @@ permalink:        /:categories/:title
 title:            Dennis Tenen
 tagline:          ''
 description:      ''
-url:              http://hyde.getpoole.com
+url:              http://denten.plaintext.in/
 
 # Required if you want to move pages into a a separate directory
 include: ['_pages']

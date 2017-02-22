@@ -61,6 +61,7 @@ Impact on Public Discourse." Senior Thesis. Spring 2013.
   *Digital Studies / Le champ numérique*; *International Journal of Humanities
 and Arts Computing*; *National Science Foundation*; *Modernism/Modernity*;
 *Science, Technology & Human Values*.
+- Knowledge design consulting for Diller Scofidio + Renfro.
 - 2 years as a managing editor of *Modernism/Modernity* (Modernist Studies
   Association and John-Hopkins University Press, job following placement of
 manuscript).

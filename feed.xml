@@ -12,9 +12,11 @@ layyout: null
         <link>{{ site.url }}</link> 
 
         {% for post in site.posts %}
-        {% unless post.draft %} 
+        {% unless post.draft %}
 
-            <item> <title> {{ post.title | xml_escape }} </title>
+            <item>
+
+                <title> {{ post.title | xml_escape }} </title>
 
                 <description>{{ post.content | xml_escape }}</description>
 
@@ -29,4 +31,4 @@ layyout: null
         {% endunless %}
         {% endfor%}
 
-    </channel></rss></guid></link></pubDate></description></title></item></link></description></title></channel></rss>
+    </channel></rss>

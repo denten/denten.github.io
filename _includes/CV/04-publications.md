@@ -12,7 +12,9 @@ K. Heise & Guillermina De Ferrari. Manuscript in progress.
 
 **Peer Reviewed Journals**:
 
-- "Literature Down to a Pixel." *Amodern*. Forthcoming.
+- "Laminate Text: Material Contexts of Digital Knowledge Production."
+  *Amodern*. Forthcoming, 2017.
+- "Unintelligent Design." *boundary 2*. Forthcoming, 2017.
 - "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
 *Computational Culture 4* (2014).
@@ -22,7 +24,6 @@ K. Heise & Guillermina De Ferrari. Manuscript in progress.
 - "[Stalin’s
    PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
 *Modernism/modernity 21.1* (2014): 253–267.
-- "Unintelligent Design." *boundary 2*. Accepted Fall 2013.
 - "Travelogue as Fact and Fiction." *Imaginäre Topografien.  Migration Und
    Verortung.* Ed. Müller-Richter, Klaus and Uritescu-Lombard, Ramona.
 Bielefeld: Transcript-Verlag, 2007: 99-111.

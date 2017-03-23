@@ -7,6 +7,7 @@ layyout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
     <channel>
+
         <title>Dennis Tenen - News and Updates</title>
         <description>  </description>
         <link>{{ site.url }}</link> 

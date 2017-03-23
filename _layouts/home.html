@@ -9,7 +9,7 @@ layout: default
 {{ content }}
 
     {% for post in site.posts limit:3 %}
-    <h3><!--<span>{{ post.date | date_to_string }}</span>--> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    <h3><!--<span>{{ post.date | date_to_string }}</span>--><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
         {{ post.content | truncatewords:75 }}<br>
 
         <!-- hack to prevent unclosed lists or quotes in the snippet -->

@@ -57,7 +57,7 @@ category should reasonably belong to the family of "major research languages,"
 used in advanced courses of instruction. This list typically includes
 languages such as Python, R, C, Java, and Julia. It does not include markup
 languages (or typesetting systems) such as HTML, CSS, or LaTeX, since these do
-not typically sustain advanced graduate research.<sup>‡</sup>
+not typically sustain advanced graduate research methodology.<sup>‡</sup>
 
 ## Format of the Exam
 

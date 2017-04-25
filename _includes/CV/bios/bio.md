@@ -11,12 +11,14 @@ Department</a>, and at <a href="http://www.dhsi.org/courses.php">DHSI</a>.
 <p></p> <p>My research happens at the intersection of texts, people, and
 technology. I am one of the founders of Columbia's <a
 href="http://xpmethod.plaintext.in/strains.html">Group for Experimental
-Methods in the Humanities</a> and author of <i>Plain Text: The Poetics of
-Computation</i> (Stanford UP, 2017). You can find me on Twitter <a
+Methods in the Humanities</a> and author of <i>[Plain Text: The Poetics of
+Computation][1]</i> (Stanford UP, 2017). You can find me on Twitter <a
 href="https://twitter.com/dennistenen">@dennistenen</a>, GitHub at <a
 href="https://github.com/denten">github.com/denten</a>, and <a
 href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack
 Exchange</a>.</p>
+
+[1]: http://www.sup.org/books/title/?id=26821
 
 <p>My affiliations include: <a href="http://idse.columbia.edu/">New Media
 Center at the Institute for Data Sciences and Engineering</a> and <a

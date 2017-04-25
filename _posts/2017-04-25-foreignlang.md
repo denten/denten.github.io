@@ -18,7 +18,7 @@ formations and serve as a powerful tool for the study of such formations.
 However, it should not be viewed as a substitute for foreign language
 proficiency, except for cases where such substitution is convincingly
 justified and where it is warranted by sustained, deep engagement with the
-material.
+material.<sup>1</sup>
 
 The following guidelines can be used when evaluating graduate student requests
 to fulfill their foreign language as a programming (computer) language.
@@ -57,7 +57,7 @@ category should reasonably belong to the family of "major research languages,"
 used in advanced courses of instruction. This list typically includes
 languages such as Python, R, C, Java, and Julia. It does not include markup
 languages such as HTML, CSS, or LaTeX, since these do not typically sustain
-advanced graduate research.
+advanced graduate research.<sup>2</sup>
 
 ## Format of the Exam
 
@@ -70,3 +70,14 @@ field (or similar experience).
 
 A sample test can be found
 [here](https://github.com/denten/python-language-exam/blob/master/english-python-exam-sample.ipynb).
+
+<small>
+1. Composed in consideration of: Geisler, Michael, Claire Kramsch, Scott
+   McGinnis, Peter Patrikis, Mary Louise Pratt, Karin Ryding, and Haun Saussy.
+“Foreign Languages and Higher Education: New Structures for a Changed World:
+MLA Ad Hoc Committee on Foreign Languages.” *Profession*, 2007,
+234–45.</small>
+
+2. The presence of advanced graduate-level classes in the proposed language
+   are a good indicator of a major research language.</small>
+

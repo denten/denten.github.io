@@ -3,7 +3,7 @@ author: denten
 comments: false
 layout: post
 published: true
-title: Programming Language as Foreign Language
+title: Programming as a Foreign Language
 snippet: 150
 categories:
 - think.stack

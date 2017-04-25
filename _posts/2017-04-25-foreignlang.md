@@ -29,10 +29,10 @@ to fulfill their foreign language as a programming (computer) language.
 - The substitution can be allowed in cases where a student's work benefits
   from computational literacy either as a *subject or a method of study*.
 
-- Students should be encouraged to articulate the exception in writing, in the
-  form of a concise (one page) proposal. The proposal is to describe the scope
-of the project, relevant technologies involved, and a brief synopsis of
-secondary literature using similar approaches.
+- Students are encouraged to articulate the exception in writing, in the form
+  of a concise (one page) proposal, which describes the scope of the project,
+relevant technologies involved, and a brief synopsis of secondary literature
+using similar approaches.
 
 There are two specific cases where a computer language as a foreign language
 request is particularly appropriate:
@@ -56,8 +56,8 @@ numerous texts across long periods of time. The proposed language in this
 category should reasonably belong to the family of "major research languages,"
 used in advanced courses of instruction. This list typically includes
 languages such as Python, R, C, Java, and Julia. It does not include markup
-languages such as HTML, CSS, or LaTeX, since these do not typically sustain
-advanced graduate research.<sup>‡</sup>
+languages (or typesetting systems) such as HTML, CSS, or LaTeX, since these do
+not typically sustain advanced graduate research.<sup>‡</sup>
 
 ## Format of the Exam
 

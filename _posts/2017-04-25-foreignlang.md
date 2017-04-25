@@ -71,7 +71,7 @@ field (or similar experience).
 A sample test can be found
 [here](https://github.com/denten/python-language-exam/blob/master/english-python-exam-sample.ipynb).
 
-<small><sup>†</sup> Composed in consideration of: Geisler, Michael, Claire
+<small><sup>†</sup> Written in consideration of: Geisler, Michael, Claire
 Kramsch, Scott McGinnis, Peter Patrikis, Mary Louise Pratt, Karin Ryding, and
 Haun Saussy.  “Foreign Languages and Higher Education: New Structures for a
 Changed World: MLA Ad Hoc Committee on Foreign Languages.” *Profession*, 2007,
@@ -79,4 +79,3 @@ Changed World: MLA Ad Hoc Committee on Foreign Languages.” *Profession*, 2007,
 
 <small><sup>‡</sup> The presence of advanced graduate-level classes in the proposed
 language are a good indicator of a major research language.</small>
-

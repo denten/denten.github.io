@@ -38,19 +38,20 @@ There are two specific cases where a computer language as a foreign language
 request is particularly appropriate:
 
 1. Where a student's projected research program involves aspects of
-   computational culture as a **subject of study**. These include (but not limited
-to) topics in electronic literature, software studies, game studies, online
-deliberation, combinatorial poetics, virtual communities, fan culture, media
-studies, platform studies, sociology of knowledge, book piracy, politics of
-the archive, human-computer interaction, and history and future of the book,
-among other potentially relevant applications. Specific languages in this
-category will often include historical or otherwise obscure dialects. Examples
-from proposed studies include FORTRAN, 6502 Assembler (Nintendo), and Perl.
+   computational culture as a **subject of study**. These include (but not
+limited to) topics in electronic literature, software studies, game studies,
+online deliberation, combinatorial poetics, virtual communities, fan culture,
+media studies, platform studies, sociology of knowledge, book piracy, politics
+of the archive, human-computer interaction, and history and future of the
+book, among other potentially relevant applications. Specific languages in
+this category will often include (although are not necessarily limited to)
+historical or otherwise obscure dialects. Examples from proposed studies
+include FORTRAN, 6502 Assembler (Nintendo), and *troff*.
 
-2. Where computer languages are used instrumentally, as a **method of study**. For
-   example, medievalists may wish to acquire reading knowledge of German to
-understand the secondary literature in that language. Similarly, a scholar of
-Victorian British literature will learn Python to facilitate analysis of
+2. Where computer languages are used instrumentally, as a **method of study**.
+   For example, medievalists may wish to acquire reading knowledge of German
+to understand the secondary literature in that language. Similarly, a scholar
+of Victorian British literature learns Python to facilitate analysis of
 numerous texts across long periods of time. The proposed language in this
 category should reasonably belong to the family of "major research languages,"
 used in advanced courses of instruction. This list typically includes

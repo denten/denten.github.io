@@ -44,9 +44,9 @@ online deliberation, combinatorial poetics, virtual communities, fan culture,
 media studies, platform studies, sociology of knowledge, book piracy, politics
 of the archive, human-computer interaction, and history and future of the
 book, among other potentially relevant applications. Specific languages in
-this category will often include (although are not necessarily limited to)
-historical or otherwise obscure dialects. Examples from proposed studies
-include FORTRAN, 6502 Assembler (Nintendo), and *troff*.
+this category often include (but are not limited to) historical or otherwise
+obscure dialects. Examples from proposed studies include FORTRAN, 6502
+Assembler (Nintendo), and *troff*.
 
 2. Where computer languages are used instrumentally, as a **method of study**.
    For example, medievalists may wish to acquire reading knowledge of German

@@ -19,7 +19,6 @@ href="http://stackexchange.com/users/2026874/denten?tab=accounts">Stack
 Exchange</a>.</p>
 
 <p>My affiliations include: <a href="http://idse.columbia.edu/">New Media
-Center at the Institute for Data Sciences and Engineering</a>, and <a
+Center at the Institute for Data Sciences and Engineering</a> and <a
 href="http://icls.columbia.edu/">Institute for Comparative Literature and
 Society</a>.
-

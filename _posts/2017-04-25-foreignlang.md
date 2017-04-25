@@ -9,9 +9,9 @@ categories:
 - think.stack
 ---
 
-Should programming languages count for the foreign language requirement in a
-Humanities department? Yes and no. My initial thoughts towards a department
-policy are as follows:
+Should programming languages count for the graduate-level foreign language
+requirement in a Humanities department? Yes and no. My initial thoughts
+towards a department policy are as follows:
 
 Knowledge of computer languages can both reveal new literary-cultural
 formations and serve as a powerful tool for the study of such formations.

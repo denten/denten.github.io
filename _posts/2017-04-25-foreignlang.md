@@ -64,9 +64,9 @@ not typically sustain advanced graduate research.<sup>‡</sup>
 When possible the exam will be administered via a Jupyter Notebook following
 the format of similar exams in foreign languages: one “annotation” exercise
 that tests code comprehension and one “translation” exercise that tests for
-reasoning and basic literacy. Students can expect to exhibit “intermediate”
-level of proficiency, equivalent to one-year’s worth of coursework in the
-field (or similar experience).
+reasoning and basic literacy. Two hours are generally sufficient. Students can
+expect to exhibit “intermediate” level of proficiency, equivalent to
+one-year’s worth of coursework in the field (or similar experience).
 
 A sample test can be found
 [here](https://github.com/denten/python-language-exam/blob/master/english-python-exam-sample.ipynb).

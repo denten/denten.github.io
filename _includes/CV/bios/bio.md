@@ -1,8 +1,7 @@
-Hello! My name is <b>Dennis Tenen</b>. I teach courses on literary theory,
-media studies, and critical computing at the <a
-href="http://english.columbia.edu/people/profile/453">Department of English
-and Comparative Literature</a>, Columbia University. I also occasionally teach
-at Columbia's <a
+I teach courses on literary theory, media studies, and critical computing at
+the <a href="http://english.columbia.edu/people/profile/453">Department of
+English and Comparative Literature</a>, Columbia University. I also
+occasionally teach at Columbia's <a
 href="http://www.journalism.columbia.edu/page/1058-the-lede-program-an-introduction-to-data-practices/906">Journalism
 School</a>, in the <a
 href="https://github.com/denten-courses/computing-context">Computer Science

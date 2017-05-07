@@ -1,4 +1,4 @@
-## B. Publications
+## Publications
 
 **Book Projects**:
 

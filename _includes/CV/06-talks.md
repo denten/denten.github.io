@@ -1,4 +1,4 @@
-## D. Talks, Workshops, & Conferences
+## Talks, Workshops, & Conferences
 
 <sup>\* Asterisk indicates talks by invitation</sup>
 

@@ -1,4 +1,4 @@
-## C. Selected Projects
+## Selected Projects
 
 1. *[Group for Experimental Methods in the
    Humanities](http://xpmethod.github.io/)*. Founding member, (09/14). Rapid

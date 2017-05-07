@@ -1,4 +1,4 @@
-## F. Service & Community
+## Service & Community
 
 #### Department
 

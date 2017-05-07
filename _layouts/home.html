@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-  <div class="fn fl-ns w-100-ns">
-      <p class="f5 lh-copy measure mt0-ns">
-        {% for post in site.posts %}
 
+  <div class="fn fl-ns w-100-ns">
+        {% for post in site.posts %}
             <time class="f6 ttu tracked gray">
                 {{ post.date | date_to_string }}
             </time>
 
-            <a class="f4 fw6 db black link hover-purple" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+            <a class="link hover-purple ttc" href="{{ BASE_PATH }}{{ post.url }}">
+                {{ post.title }}
+            </a><br>
         {% endfor %}
-    </p>
   </div>

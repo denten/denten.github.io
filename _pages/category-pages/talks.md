@@ -1,7 +1,7 @@
 ---
 layout: cats
 permalink: /talks/
-title: "D. Talks"
+title: "talks"
 ---
 
 {% include CV/06-talks.md %}

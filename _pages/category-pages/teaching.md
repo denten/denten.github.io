@@ -1,7 +1,7 @@
 ---
 layout: cats
 permalink: /teaching/
-title: "E. Teaching"
+title: "teaching"
 ---
 
 {% include CV/07-teaching.md %}

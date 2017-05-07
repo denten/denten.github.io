@@ -1,7 +1,7 @@
 ---
 layout: cats
 permalink: /publications/
-title: "B. Publications"
+title: "publications"
 ---
 
 {% include CV/04-publications.md %}

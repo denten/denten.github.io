@@ -2,28 +2,17 @@
 layout: default
 ---
 
-<article class="cf ph3 ph5-ns pv5">
-  <header class="fn fl-ns w-50-ns pr4-ns">
-    <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt bw2">
-        Dennis Yi Tenen
-    </h1>
+{% include CV/bios/bio.md %}
 
-    <h2 class="f3 mid-gray lh-title">
-      An excerpt from the Form of the Book by Jan Tschichold
-    </h2>
-        <time class="f6 ttu tracked gray">
-            {% include CV/bios/bio.md %}
-        </time>
-  </header>
-
-  <div class="fn fl-ns w-50-ns">
-    <p class="f5 lh-copy measure mt0-ns">
+  <div class="fn fl-ns w-100-ns">
+      <p class="f5 lh-copy measure mt0-ns">
         {% for post in site.posts %}
-            <div class="pa4 lh-copy">
+
+            <time class="f6 ttu tracked gray">
                 {{ post.date | date_to_string }}
-                <a class="f4 fw6 db black link hover-purple" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-            </div>
+            </time>
+
+            <a class="f4 fw6 db black link hover-purple" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
         {% endfor %}
     </p>
   </div>
-</article>

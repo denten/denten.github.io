@@ -3,11 +3,11 @@ layout: default
 ---
 
 {% for post in site.posts %}
-    <time class="f6 ttu tracked gray code">
+    <time class="f5 ttu tracked gray code">
         {{ post.date | date_to_string }}
     </time>
 
-    <a class="link hover-purple ttc black hover-purple" href="{{ BASE_PATH }}{{ post.url }}">
+    <a class="f4 link hover-purple ttc black hover-purple" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
     </a><br>
 {% endfor %}

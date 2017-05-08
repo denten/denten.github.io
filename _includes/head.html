@@ -25,14 +25,14 @@
 
 </head>
 
-<body class="pa4-l normal mw9 center ph3-ns">
-    <div class="f3 fw4 mt0 pt2 bt bw2 mb3">
+<body class="pa4-l normal mw9 center ph3-ns athelas f4 normal">
+    <div class="f3 fw4 mt0 pt2 bt bw2 mb3 system-sans-serif">
         Dennis Yi Tenen  ⚡
         {% assign sorted_pages = site.pages | sort:"title" %}
         {% for node in sorted_pages %}
         {% if node.title != null %}
             <!--<a class="capitalize </a>-->
-            <a class="fw3 ttc link dark-gray hover-red
+            <a class="fw1 ttc link dark-gray hover-red
                 {% if node.url == page.url %}red{%
                 endif %}" href="{{ node.url}}">{{ node.title }}</a>
         {% endif %}

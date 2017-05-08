@@ -1,4 +1,4 @@
-I teach courses on literary theory, media studies, and critical computing at
+I teach courses on literary theory, media history, and cultural analytics at
 the <a href="http://english.columbia.edu/people/profile/453">Department of
 English and Comparative Literature</a>, Columbia University. I also
 occasionally teach at Columbia's <a

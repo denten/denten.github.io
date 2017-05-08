@@ -2,6 +2,18 @@
 layout: default
 ---
 
+
+<!-- sometimes we land here from the home page -->
+<!-- in that case display bio as well -->
+<div>
+{% if page.url contains page.title %}
+{% else %}
+    {% include CV/bios/bio.md %}
+    Read some of my recent notes here:
+{% endif %}
+</div>
+
+<div>
 {% for post in site.posts %}
     <time class="f5 ttu tracked gray code">
         {{ post.date | date_to_string }}
@@ -11,3 +23,4 @@ layout: default
         {{ post.title }}
     </a><br>
 {% endfor %}
+</div>

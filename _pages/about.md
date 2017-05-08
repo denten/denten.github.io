@@ -1,7 +1,6 @@
 ---
-layout: cats
+layout: about
 permalink: /about/
 title: "about"
 ---
 
-{% include CV/bios/bio.md %}

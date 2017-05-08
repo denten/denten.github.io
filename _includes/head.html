@@ -4,6 +4,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="/public/tachyons/css/tachyons.min.css">
+  <link rel="stylesheet" href="/public/global.css">
 
   <!-- github serves feed.xml in ASCII instead of UTF8. Change file extenstion and indicate here. -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Feed" href="{{ site.url }}/feed.atom" />
@@ -29,9 +30,9 @@
     <div class="f3 fw4 mt0 pt2 bt bw2 mb3 system-sans-serif">
         Dennis Yi Tenen
         {% if page.title %}
-        <a href="{{ site.url }}" class="black no-underline">⚡</a>
+        <a href="{{ site.url }}" class="black no-underline">⧉</a>
         {% else %}
-        <a href="{{ site.url }}" class="red no-underline">⚡</a>
+        <a href="{{ site.url }}" class="red no-underline">⧉</a>
         {% endif %}
 
         {% assign sorted_pages = site.pages | sort:"title" %}

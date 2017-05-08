@@ -1,4 +1,29 @@
+html *
+{
+    font-family: 'EB Garamond', serif;
+}
+
 a {
     color: darkslategray;
     text-decoration: none;
     }
+
+blockquote {
+font-family: Georgia, serif;
+font-size: .9em;
+margin: 0.25em 0;
+padding: 0.25em 40px;
+line-height: 1.45;
+position: relative;
+}
+
+blockquote:before {
+display: block;
+content: "\201C";
+font-size: 80px;
+font-family: Times, serif;
+position: absolute;
+left: -20px;
+top: -20px;
+color: black;
+}

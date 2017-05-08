@@ -3,8 +3,8 @@
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/public/tachyons/css/tachyons.min.css">
   <link rel="stylesheet" href="/public/global.css">
+  <link rel="stylesheet" href="/public/tachyons/css/tachyons.min.css">
 
   <!-- github serves feed.xml in ASCII instead of UTF8. Change file extenstion and indicate here. -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Feed" href="{{ site.url }}/feed.atom" />
@@ -14,7 +14,7 @@
   <link rel="canonical" href="{{ page.url }}" />
 
   <!-- Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Anaheim|Roboto' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
 
   <title>
     {% if page.title == "Home" %}
@@ -29,20 +29,19 @@
 
 </head>
 
-<body class="pa4-l normal mw9 center ph3-ns athelas f4 fw1 normal near-black">
+<body class="pa4-l normal mw9 center ph3-ns f3 fw1 normal near-black">
     <div class="f3 fw4 mt0 pt2 pb2 ph2 bt bw2 mb3 system-sans-serif">
         Dennis Yi Tenen
         {% if page.title %}
-        <a href="{{ site.url }}" class="black no-underline">⧉</a>
+            <a href="{{ site.url }}" class="black no-underline">⧉</a>
         {% else %}
-        <a href="{{ site.url }}" class="red no-underline">⧉</a>
+            <a href="{{ site.url }}" class="red no-underline">⧉</a>
         {% endif %}
 
         {% assign sorted_pages = site.pages | sort:"title" %}
         {% for node in sorted_pages %}
         {% if node.title != null %}
-            <!--<a class="capitalize </a>-->
-            <a class="fw1 ttc link dark-gray hover-red
+            <a class="fw1 ttc system-sans-serif link dark-gray hover-red
                 {% if node.url == page.url %}red
                 {% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}

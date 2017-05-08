@@ -1,6 +1,5 @@
 ## Talks, Workshops, & Conferences
-
-<sup>\* Asterisk indicates talks by invitation</sup>
+\* <sup>Asterisk indicates talks by invitation</sup>
 
 "Version Control for Textual Criticism." *What is a Book in the 21st Century?* Columbia University. Januray 20, 2017. Workshop and lecture.\*
 
@@ -29,8 +28,7 @@ and Processes for Critical Making, CUNY Graduate Center. December 1, 2015.
 Talk.\*  
 
 "Scene Detection in Literary Fiction." New Digital Resources and Computational
-Methods for the Study of Literature in a Global Context, UCLA. November 4-5,
-2015. Talk.\*  
+Methods for the Study of Literature in a Global Context, UCLA. November 4-5, 2015. Talk.\*  
 
 "DH DevOps: Core Skills and Foundations." Polonsky Foundation Graduate Student
 Workshops in Digital Humanities, NYU. May 29, 2015. Workshop.\*  
@@ -112,4 +110,3 @@ Center, Harvard. November 15, 2010. Lecture.\*
 
 "The Birth of Non-Fiction." Slavic Languages and Literatures Colloquium,
 Harvard. Autumn 2006. Lecture.
-

@@ -15,8 +15,7 @@ Undergraduate seminar. Columbia Core. Year-long.
   Scholarship.*](https://github.com/denten-courses/computing-context) W/ Matt
 Jones (History), Adam Cannon (Computer Science), and Karl Sigman (Economics).
 Lecture. Spring.
-- [*Code & Poetry: Critical Practice in Humanities
-  Computing*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
+- [*Code & Poetry*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
 Lecture. Topics in new media studies. Fall.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).

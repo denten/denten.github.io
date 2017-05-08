@@ -37,3 +37,7 @@ left: -1rem;
 top: -1rem;
 color: black;
 }
+
+ul {
+        list-style-type: square;
+    }

@@ -59,7 +59,7 @@ languages such as Python, R, C, Java, and Julia. It does not include markup
 languages (or typesetting systems) such as HTML, CSS, or LaTeX, since these do
 not typically sustain advanced graduate research methodology.<sup>‡</sup>
 
-## Format of the Exam
+### Format of the Exam
 
 When possible the exam will be administered via a Jupyter Notebook following
 the format of similar exams in foreign languages: one “annotation” exercise

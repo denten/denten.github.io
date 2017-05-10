@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <!-- sometimes we land here from the home page -->
 <!-- in that case display bio as well -->
 <div>
@@ -13,14 +12,16 @@ layout: default
 {% endif %}
 </div>
 
-<div>
+<div class="fl w-100 pa">
 {% for post in site.posts %}
-    <time class="f5 ttu tracked gray code">
+    <time class="di-ns f5 ttu tracked gray code">
         {{ post.date | date_to_string }}
     </time>
 
+    <div class="di-ns">
     <a class="link black hover-red" href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
     </a><br>
+    </div>
 {% endfor %}
 </div>

@@ -12,7 +12,7 @@ K. Heise & Guillermina De Ferrari. Manuscript in progress.
 
 **Peer Reviewed Journals**:
 
-- "Laminate Text: Material Contexts of Digital Knowledge Production."
+- "Laminate Text: Three Case Studies in the History of Digital Inscription."
   *Amodern*. Forthcoming, 2017.
 - "Unintelligent Design." *boundary 2*. Forthcoming, 2017.
 - "[Book Piracy as Peer
@@ -32,16 +32,16 @@ Bielefeld: Transcript-Verlag, 2007: 99-111.
 **Contributed Chapters**:
 
 1. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads
-Rosendahl Thomsen, et al. Bloomsbury, 2017.
-1. "Critical Computing in the Humanities" in *Doing Digital
-Humanities: Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016.
+   Rosendahl Thomsen, et al. Bloomsbury, 2017.
+1. "Critical Computing in the Humanities" in *Doing Digital Humanities:
+   Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016.
 1. "Visual-quantitative Approaches to the Intellectual History of the Field: A
-Close Reading" in *Futures of Comparative Literature*, ed. Ursula K.
-Heise, et. al. Routledge, 2017.
+   Close Reading" in *Futures of Comparative Literature*, ed. Ursula K.
+Heise, et al. Routledge, 2017.
 1. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed.
-Matthew K. Gold, et. al. Minnesota UP, 2016.
+   Matthew K. Gold, et al. Minnesota UP, 2016.
 1. "[Asocial
-Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2014/02/asocial-text/),"
+   Text](http://web.archive.org/web/20141005021553/http://sprintbeyondthebook.com/2014/02/asocial-text/),"
 "[Bad
 Links](http://web.archive.org/web/20141005021655/http://sprintbeyondthebook.com/2014/02/bad-links/),"
 and "[Skeptics

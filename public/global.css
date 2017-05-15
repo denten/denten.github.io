@@ -18,6 +18,10 @@ a {
     text-decoration: none;
     }
 
+a:hover {
+    color: red;
+}
+
 blockquote {
 font-family: Georgia, serif;
 font-size: 1.1rem;

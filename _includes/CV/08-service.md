@@ -16,7 +16,7 @@
 - Faculty working group on [computational humanities and social
   science](http://datascience.columbia.edu/computational-social-science),
 2016--
-- [Collaboratory](http://collaboratory.columbia.edu/] Proposal Selection
+- [Collaboratory](http://collaboratory.columbia.edu/) Proposal Selection
   Committee, 2016.
 - Data Science Taskforce, 2015--
 - Ad-hoc Exploratory Committee for the Center for Culture and Computation,

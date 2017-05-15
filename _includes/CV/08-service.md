@@ -19,7 +19,7 @@
 - Ad-hoc Exploratory Committee for the Center for Culture and Computation,
   2014--15.
 - Founding Member. Digital Storytelling Lab, 2013--
-- Advisory Board. Butler Studio (maker space), 2013--
+- Advisory Board. Studio at Butler Library (maker space), 2013--
 - Member of "Literary Theory" and "Theory and History of Media" university
   seminars.
 - Multiple contributions to the "Strategic Plan for Humanities in the Arts and
@@ -30,8 +30,9 @@ Commencement" campaign, funded by the College Dean's office.
 
 #### Doctoral Students
 
-- Sierra Eckert. Oral exam committee, 2016--
-- Phillip Polefrone. Oral exam committee, 2015-16.
+- Jonathan Reeve. Oral exam committee, 2017--
+- Sierra Eckert. Oral exam committee, 2016--2017. High pass.
+- Phillip Polefrone. Oral exam committee, 2015-16. Pass.
 - Jessica Hallock. Oral exam committee, 2015--
 - Alice Boone, "The Progress of Error: or, the Recursive 18th Century."
   Dissertation defense only. Spring 2014.
@@ -60,12 +61,13 @@ Impact on Public Discourse." Senior Thesis. Spring 2013.
 - Peer review for The American Academy in Berlin; *Computational Culture*;
   *Digital Studies / Le champ numérique*; *International Journal of Humanities
 and Arts Computing*; *National Science Foundation*; *Modernism/Modernity*;
-*Science, Technology & Human Values*.
+*Science, Technology & Human Values*, & Association of Computational Linguistics
+(ACL).
 - Knowledge design consulting for Diller Scofidio + Renfro.
 - 2 years as a managing editor of *Modernism/Modernity* (Modernist Studies
   Association and John-Hopkins University Press, job following placement of
 manuscript).
-- 4+ years application development (Microsoft).
+- 5+ years application development (Microsoft).
 - 5+ years web design with an emphasis on content management systems (clients
   include General Motors, The Greening of Detroit, MRI, MSU Libraries and
 Computing Provost).

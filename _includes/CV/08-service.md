@@ -28,23 +28,27 @@
   "Connected Core" pilot program as part of the universities "Core to
 Commencement" campaign, funded by the College Dean's office.
 
-#### Doctoral Students
+#### Graduate Advising
 
-- Jonathan Reeve. Oral exam committee, 2017--
-- Sierra Eckert. Oral exam committee, 2016--2017. High pass.
-- Phillip Polefrone. Oral exam committee, 2015-16. Pass.
-- Jessica Hallock. Oral exam committee, 2015--
+- Gabrielle Dacosta, "The Reading Self in George Jackson’s *Soledad Brother*,"
+  MA thesis, spring 2017.
+- Maxine Arndt, "Women and Animals in *The Woman Warrior* and *My Year of
+  Meats*", MA thesis, spring 2017.
+- Jonathan Reeve. "Computational Approaches to the Study of Literary Style,"
+  reading list. Oral exam committee, 2017--
+- Sierra Eckert. "Sociology of Literature," reading list. Oral exam committee,
+  2016--2017. High pass.
+- Phillip Polefrone. "Technology and Society," reading list. Oral exam
+  committee, 2015-16. Pass.
+- Jessica Hallock. "Literary theory," reading list. Oral exam committee,
+  2015--
 - Alice Boone, "The Progress of Error: or, the Recursive 18th Century."
   Dissertation defense only. Spring 2014.
 - Graham Sack. Dissertation committee, 2014--
-
-#### Graduate Advising
-
-- Maxine Arndt, 2016-17
-- Gianmarco Saretto, 2014-15
-- Jeremy Stevens, 2014-15
-- Erica Grove, 2013-14
-- Becky Bort, 2013-14
+- Gianmarco Saretto, advising, 2014--5.
+- Jeremy Stevens, advising, 2014--15.
+- Erica Grove, advising 2013--14.
+- Becky Bort, 2013--14.
 
 #### Misc. Theses, Independent Studies:
 
@@ -61,8 +65,8 @@ Impact on Public Discourse." Senior Thesis. Spring 2013.
 - Peer review for The American Academy in Berlin; *Computational Culture*;
   *Digital Studies / Le champ numérique*; *International Journal of Humanities
 and Arts Computing*; *National Science Foundation*; *Modernism/Modernity*;
-*Science, Technology & Human Values*, & Association of Computational Linguistics
-(ACL).
+*Science, Technology & Human Values*, & Association of Computational
+Linguistics (ACL).
 - Knowledge design consulting for Diller Scofidio + Renfro.
 - 2 years as a managing editor of *Modernism/Modernity* (Modernist Studies
   Association and John-Hopkins University Press, job following placement of
@@ -71,4 +75,4 @@ manuscript).
 - 5+ years web design with an emphasis on content management systems (clients
   include General Motors, The Greening of Detroit, MRI, MSU Libraries and
 Computing Provost).
-- 2+ years desktop publishing as the editor/researcher for Physician's Press.
+- 2+ years desktop publishing as editor/researcher for Physician's Press.

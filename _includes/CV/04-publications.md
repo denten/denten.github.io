@@ -12,20 +12,22 @@ K. Heise & Guillermina De Ferrari. Manuscript in progress.
 
 **Peer Reviewed Journals**:
 
+- "Towards a Cognitive, Computational Archaeology of Fictional Space." Article
+  under review.
 - "Laminate Text: Three Case Studies in the History of Digital Inscription."
   *Amodern*. Forthcoming, 2017.
-- "Unintelligent Design." *boundary 2*. Forthcoming, 2017.
+- “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).” *Boundary 2* 44, no. 2 (May 1, 2017): 145–56.
 - "[Book Piracy as Peer
-   Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
+  Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
 *Computational Culture 4* (2014).
 - "[Sustainable Authorship in Plain
-   Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
+  Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
 *The Programming Historian* (2014).
 - "[Stalin’s
-   PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
+  PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
 *Modernism/modernity 21.1* (2014): 253–267.
 - "Travelogue as Fact and Fiction." *Imaginäre Topografien.  Migration Und
-   Verortung.* Ed. Müller-Richter, Klaus and Uritescu-Lombard, Ramona.
+  Verortung.* Ed. Müller-Richter, Klaus and Uritescu-Lombard, Ramona.
 Bielefeld: Transcript-Verlag, 2007: 99-111.
 - "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
 

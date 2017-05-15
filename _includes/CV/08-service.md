@@ -6,8 +6,9 @@
 - Committee for Graduate Education, 2012--15.
 - Senior essay advising and undergraduate prize committee participation,
   2012--
-- Weekly lab meetings with the Group for Experimental Methods in the
-  Humanities. Workshops and lecture series, 2013--
+- Weekly lab meetings with the [Group for Experimental Methods in the
+  Humanities](http://xpmethod.plaintext.in/). Workshops and lecture series,
+2013--
 
 #### University
 

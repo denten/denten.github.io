@@ -11,17 +11,22 @@
 
 #### University
 
-- Executive Committee, Institute for Comparative Literature and Society,
-  2016--
-- Faculty working group on computational humanities and social science, 2016--
-- Collaboratory Proposal Selection Committee, 2016.
+- Executive Committee, [Institute for Comparative Literature and
+  Society](http://icls.columbia.edu/), 2016--
+- Faculty working group on [computational humanities and social
+  science](http://datascience.columbia.edu/computational-social-science),
+2016--
+- [Collaboratory](http://collaboratory.columbia.edu/] Proposal Selection
+  Committee, 2016.
 - Data Science Taskforce, 2015--
 - Ad-hoc Exploratory Committee for the Center for Culture and Computation,
   2014--15.
-- Founding Member. Digital Storytelling Lab, 2013--
-- Advisory Board. Studio at Butler Library (maker space), 2013--
-- Member of "Literary Theory" and "Theory and History of Media" university
-  seminars.
+- Founding Member. [Digital Storytelling
+  Lab](http://www.digitalstorytellinglab.com/), 2013--
+- Advisory Board. [Studio at Butler Library](https://studio.cul.columbia.edu/)
+  (maker space), 2013--
+- Member of "Literary Theory" and "Theory and History of Media" [university
+  seminars](http://universityseminars.columbia.edu/seminars/list-of-seminars/).
 - Multiple contributions to the "Strategic Plan for Humanities in the Arts and
   Sciences," 2016-2017.
 - Principle convener (along with Manan Ahmed and Roosevelt Montas) of the

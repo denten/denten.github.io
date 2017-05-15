@@ -1,7 +1,7 @@
 ---
 layout: cats
-permalink: /publications/
-title: "publications"
+permalink: /service/
+title: "service"
 ---
 
 {% include CV/08-service.md %}

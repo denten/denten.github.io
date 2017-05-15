@@ -45,18 +45,18 @@ Commencement" campaign, funded by the College Dean's office.
 - Alice Boone, "The Progress of Error: or, the Recursive 18th Century."
   Dissertation defense only. Spring 2014.
 - Graham Sack. Dissertation committee, 2014--
-- Gianmarco Saretto, advising, 2014--5.
-- Jeremy Stevens, advising, 2014--15.
-- Erica Grove, advising 2013--14.
-- Becky Bort, 2013--14.
+- Gianmarco Saretto, academic adviser, 2014--15.
+- Jeremy Stevens, academic adviser, 2014--15.
+- Erica Grove, academic adviser, 2013--14.
+- Becky Bort, academic adviser, 2013--14.
 
 #### Misc. Theses, Independent Studies:
 
-- Elena Goldstein. "Big Brother all Grown Up." Independent Study. Fall 2014.
-- Christopher Brennan. "Personal Social Networks and Deliberative Democracy in
-the Russian Anti-Putin Protest Movement." Senior Thesis. Spring 2014.
-- Jessica Tyler. "The New Opposition, The Russian Language Blogosphere and its
-Impact on Public Discourse." Senior Thesis. Spring 2013.
+- Elena Goldstein, "Big Brother all Grown Up," independent study, fall 2014.
+- Christopher Brennan, "Personal Social Networks and Deliberative Democracy in
+  the Russian Anti-Putin Protest Movement," senior thesis, spring 2014.
+- Jessica Tyler, "The New Opposition, The Russian Language Blogosphere and its
+  Impact on Public Discourse," senior Thesis, spring 2013.
 
 #### Professional Service:
 

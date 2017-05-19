@@ -7,10 +7,14 @@ html *
     -webkit-font-feature-settings: "kern";
     -moz-font-feature-settings: "kern";
     -moz-font-feature-settings: "kern=1";
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
 }
 
 a {
@@ -42,20 +46,17 @@ top: -1rem;
 color: black;
 }
 
-h1 {
-    font-size: 1.5em;
+h1,
+h2,
+h3,
+h4 {
+    font-size: inherit;
+    margin: 0cm 0cm 0cm 0cm;
 }
 
 h2 {
-    font-size: 1.1em;
-    margin: 0cm 0cm 0cm 0cm;
     text-transform: uppercase;
     font-weight: 100;
-}
-
-h3,h4 {
-    font-size: 1em;
-    margin: 0cm 0cm 0cm 0cm
 }
 
 ul {

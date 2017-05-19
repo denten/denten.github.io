@@ -25,10 +25,8 @@ to fulfill their foreign language as a programming (computer) language.
 
 - Proficiency in computer/artificial languages should not be generally viewed
   as a supplement to foreign languages.
-
 - The substitution can be allowed in cases where a student's work benefits
   from computational literacy either as a *subject or a method of study*.
-
 - Students are encouraged to articulate the exception in writing, in the form
   of a concise (one page) proposal, which describes the scope of the project,
 relevant technologies involved, and a brief synopsis of secondary literature
@@ -47,7 +45,6 @@ book, among other potentially relevant applications. Specific languages in
 this category often include (but are not limited to) historical or otherwise
 obscure dialects. Examples from proposed studies include FORTRAN, 6502
 Assembler (Nintendo), and *troff*.
-
 2. Where computer languages are used instrumentally, as a **method of study**.
    For example, medievalists may wish to acquire reading knowledge of German
 to understand the secondary literature in that language. Similarly, a scholar

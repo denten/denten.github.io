@@ -31,18 +31,18 @@
 
 <body class="center f4 fw1 mw9 near-black normal pa3-l ph3-ns">
 
-    <div class="bt bw2 mb3 mt0 pt2 ph2 system-sans-serif tc tl-ns">
+    <div class="bt bw2 code fw8 mb3 mt0 pt2 ph2 system-sans-serif tc tl-ns">
         Dennis Yi Tenen
         {% if page.title %}
-            <a href="{{ site.url }}" class="black b hover-red no-underline">Ø</a>
+            <a href="{{ site.url }}" class="black code fw1 hover-red no-underline">Ø</a>
         {% else %}
-            <a href="{{ site.url }}" class="b red no-underline">Ø</a>
+            <a href="{{ site.url }}" class="code fw1 no-underline red">Ø</a>
         {% endif %}
 
         {% assign sorted_pages = site.pages | sort:"title" %}
         {% for node in sorted_pages %}
         {% if node.title != null %}
-            <a class="fw1 ttc system-sans-serif link dark-gray hover-red
+            <a class="dark-gray fw1 helvetica hover-red system-sans-serif ttc
                 {% if node.url == page.url %}red
                 {% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}

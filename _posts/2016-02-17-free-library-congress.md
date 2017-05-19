@@ -85,10 +85,10 @@ which increasingly find themselves in legal peril. I do not yet know what the
 organizers have in mind, but my own thoughts in preparation for the day's
 activities evolve around the following few premises:
 
-1.  The case for universal and free access to knowledge is stronger when it is
+1. The case for universal and free access to knowledge is stronger when it is
 made on ethical, technological, and **tactical** grounds, not just legal.
 
-    The cost of sharing and reproduction in the digital world are too low to
+  The cost of sharing and reproduction in the digital world are too low to
 sustain practices and institutions built on the assumptions of print. The
 attempt to re-introduce "stickiness" to electronic documents artificially
 through digital rights management technology and associated legislation like

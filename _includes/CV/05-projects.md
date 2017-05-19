@@ -5,13 +5,14 @@
 research collective specializing in cultural analytics, literary modeling and
 visualization, technologies of dissent, media archaeology, spatial humanities.
 
-1. *[Science Surveyor](https://science-surveyor.github.io/)*. PI, (2014--2016).
-Visualizing the growth and decay of shared knowledge in collaboration with
-Stanford Computer Science. Recipient of Brown Center Media Innovation Award
-($500k).
+1. *[Science
+   Surveyor](http://xpmethod.plaintext.in/literary-modeling-and-visualization-lab/surveyor.html)*.
+PI, (2014--2016).  Visualizing the growth and decay of shared knowledge in
+collaboration with Stanford Computer Science. Recipient of Brown Center Media
+Innovation Award ($500k).
 
 1. *[Rikers Story
-Bot](http://xpmethod.plaintext.in/public-discourse/rikersbot.html)*, (2015--).
+Bot](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html)*, (2015--).
 Coding workshop + algorithmic storytelling set in and about Rikers Island
 correctional facility, New York city's main jail complex. Featured in *Fast
 Company*.
@@ -21,12 +22,14 @@ Company*.
 and other useful information for the new media and digital humanities
 community.
 
-1. *[Open Syllabus Project](http://opensyllabusproject.org/)*. PI, (9/13--8/15)
-   Collecting and analyzing the world's largest corpus of academic syllabi.
-Recipient of $210k grant from the Sloan Foundation. Research featured in *The
-New York Times*, *TIME Magazine*, *Der Spiegel Online*, *FiveThirtyEight*.
+1. *[Open Syllabus
+   Project](http://xpmethod.plaintext.in/knowledge-design-studio/open-syllabus-project.html)*.
+PI, (9/13--8/15) Collecting and analyzing the world's largest corpus of
+academic syllabi.  Recipient of $210k grant from the Sloan Foundation.
+Research featured in *The New York Times*, *TIME Magazine*, *Der Spiegel
+Online*, *FiveThirtyEight*.
 
-1. *[piracylab.org](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html)*.
+1. *[piracylab.org](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html)*.
 PI, (9/13--8/14). Research group exploring the impact of piracy on
 the spread of knowledge around the world. Findings featured in *Le Monde*.
 
@@ -36,5 +39,5 @@ the Butler Studio, a maker/lab space at the center of Butler Library. Hosting
 lectures, training workshops, and open labs.
 
 **For a curated portfolio of projects please visit
-[http://xpmethod.plaintext.in/research.html](http://xpmethod.plaintext.in/research.html).**
+[http://xpmethod.plaintext.in](http://xpmethod.plaintext.in).**
 

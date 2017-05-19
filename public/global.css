@@ -62,3 +62,8 @@ h2 {
 ul {
     list-style-type: circle;
     }
+
+li {
+  display: block;
+  padding-bottom: .5em;
+  }

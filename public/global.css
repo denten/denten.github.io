@@ -66,10 +66,11 @@ ul, ol {
 
 ul li {
     list-style-type: none;
-    padding-bottom: .5em;
+    padding-bottom: .4em;
 }
 
 ol li {
+    padding-bottom: .4em;
 }
 
 .footnotes ol {
@@ -78,4 +79,5 @@ ol li {
 
 .footnotes li {
     font-size: .75em;
+    padding-bottom: 0em;
 }

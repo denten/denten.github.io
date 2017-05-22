@@ -23,7 +23,7 @@ Member of metaLab and Cooperation research groups.
 
 ### Harvard University (Cambridge, MA)
 
-Ph.D. Comparative Literature, 2004--2011.
+Ph.D. Comparative Literature, 2004--2012.
 
 - Lecturer in Comparative Literature, Spring 2012
 

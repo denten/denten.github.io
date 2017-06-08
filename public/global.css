@@ -26,6 +26,10 @@ a:hover {
     color: red;
 }
 
+article {
+   margin-top: 1em;
+}
+
 blockquote {
     font-family: Georgia, serif;
     font-size: 1.1rem;
@@ -42,7 +46,7 @@ blockquote:before {
     font-family: Times, serif;
     position: absolute;
     left: -1rem;
-    top: -1rem;
+    top: -1.75rem;
     color: black;
 }
 
@@ -72,6 +76,11 @@ ul li {
 ol li {
     padding-bottom: .4em;
 }
+
+p {
+    margin-top: 0em;
+}
+
 
 .footnotes ol {
     margin-left: -1em;

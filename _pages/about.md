@@ -4,32 +4,50 @@ permalink: /about/
 title: "about"
 ---
 
-Dennis Tenen is an Assistant Professor in the Department of English and
-Comparative Literature, Columbia University. His teaching and research happen
-at the intersection of people, texts, and technology. A former software
-engineer at Microsoft and currently faculty associate at Columbia's Data
-Science Institute, he is the author of *Plain Text: The Poetics of
-Computation* (Stanford University Press, 2017) and co-founder of Columbia's
-Group for Experimental Methods in the Humanities. His is most recent work
-concerns the limits of algorithmic imagination. 
+> After the *n*-th time of writing a bio note in the NEH/NSF format I decided
+to keep an updated copy here.
+
+Dennis Tenen is an Assistant Professor in the [Department of English and
+Comparative Literature, Columbia University][1]. His teaching and research
+happen at the intersection of people, texts, and technology. A former software
+engineer at Microsoft and currently faculty associate at the [Center for Data,
+Media, and Society][2], he is the author of *[Plain Text: The Poetics of
+Computation][3]* (Stanford University Press, 2017) and co-founder of
+Columbia's [Group for Experimental Methods in the Humanities][4].
+
+His recent work appears on the pages of Amodern, boundary 2, Computational
+Culture, Modernism/modernity, Public Books, and LA Review of Books on topics
+that range from book piracy to algorithmic composition, unintelligent design,
+and history of data visualization. His current book-length project concerns
+the limits of algorithmic imagination.
+
+[1]: http://english.columbia.edu
+[2]: http://datascience.columbia.edu/new-media
+[3]: http://www.sup.org/books/title/?id=26821
+[4]: http://xpmethod.plaintext.in
 
 ## Education
 
-Tenen attended **Harvard University** where he received his doctorate in
-Comparative Literature in 2011. He matriculated with high honors from
-**University of Michigan** (Ann Arbor) in 2001 with degrees in both Political
-Science and Comparative Literature. Tenen's awards include Research Computing
-in the Humanities Fellowship, Instructional Technology Fellow, Merit Grant
-Recipient, Whiting Fellowship in the Humanities, Foreign Language and Area
-Studies Fellowship, Presidential Scholarship.
+Tenen attended **Harvard University** where he was awarded the Presidential
+Scholarship and received his doctorate in Comparative Literature in 2011.
+After a short stint at James Madison College at Michigan State University he
+matriculated with high honors from University of Michigan (Ann Arbor) in 2001
+with degrees in both Political Science and Comparative Literature. Tenen's was
+additionally the recipient of the Research Computing in the Humanities
+Fellowship, Merit Grant, Foreign Language and Area Studies Fellowship, and
+Whiting Fellowship in the Humanities
 
 ## Appointments & Affiliation
 
-After graduation Tenen joined the fellows program at Harvard's **Berkman Klein
-Center for Internet and Society**. He was an active participant in the
-**Cooperation research group**, under the direction of Yochai Benkler, and the
-**metaLab research group** in Digital Humanities under the direction of
+After graduation Tenen joined the fellows program at Harvard's [Berkman Klein
+Center for Internet and Society][AA1]. He was an active participant in the
+[Cooperation research group][AA3], under the direction of Yochai Benkler, and the
+[metaLab research group][AA2] in Digital Humanities under the direction of
 Jeffrey Schnapp.
+
+[AA1]: https://cyber.harvard.edu/
+[AA2]: http://www.metalabdesign.com/
+[AA3]: https://cyber.harvard.edu/research/cooperation
 
 In 2012, Tenen joined the faculty of Columbia's Department of English and
 Comparative Literature. At Columbia, Tenen **co-founded the Group for

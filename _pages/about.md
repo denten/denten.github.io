@@ -121,5 +121,8 @@ champ numérique*, *International Journal of Humanities and Arts Computing*,
 the National Science Foundation, *Modernism/Modernity*, and *Science,
 Technology & Human Values*.
 
-His recent consulting work includes projects with `Diller Scofidio + Renfro`
-and the Digital Storytelling Lab.
+His recent consulting work includes projects with [*diller scofidio +
+renfro*][PSE1] and the [Digital Storytelling Lab][PSE2].
+
+[PSE1]: http://www.dsrny.com/
+[PSE2]: http://www.digitalstorytellinglab.com/

@@ -26,7 +26,7 @@ the limits of algorithmic imagination.
 [3]: http://www.sup.org/books/title/?id=26821
 [4]: http://xpmethod.plaintext.in
 
-## Education
+### Education
 
 Tenen attended **Harvard University** where he was awarded the Presidential
 Scholarship and received his doctorate in Comparative Literature in 2011.
@@ -37,7 +37,7 @@ additionally the recipient of the Research Computing in the Humanities
 Fellowship, Merit Grant, Foreign Language and Area Studies Fellowship, and
 Whiting Fellowship in the Humanities
 
-## Appointments & Affiliation
+### Appointments & Affiliation
 
 After graduation Tenen joined the fellows program at Harvard's [Berkman Klein
 Center for Internet and Society][AA1]. He was an active participant in the
@@ -62,7 +62,7 @@ Flagship, Lenfest Junior Faculty Development grant, and Heyman Center
 Fellowship. His research has been featured on the pages of *The New York
 Times*, *Le Monde*, *Der Spiegel*, and *Fast Company*.
 
-## Publications
+### Publications
 
 Tenen is the author of *Plain Text: The Poetics of Computation* (Stanford
 University Press, 2017). The book takes up today's strange enmeshing of
@@ -106,7 +106,7 @@ Tenen also writes for the popular press. His has published book reviews on
 literature and technology in the *Los Angeles Review of Books*, *Design and
 Culture*, and *Public Books*.
 
-## Professional Service & Experience
+### Professional Service & Experience
 
 Tenen draws from over a decade of experience as as software engineer. In the
 late 1990s and early 2000s, he developed interfaces for a nascent mobile

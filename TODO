@@ -1,15 +1,12 @@
 ### Priority 1
-- tags
-- get background that looks better on mobile
-- get out of naming posts with dates, if that is possible
-- Add more the book sprint posts
+- no padding/margins when p is child of li
+- Include author for google recognition
 
 ### Priority 2
 - Fix permalinks for truncated URL redirects. See http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/#simple_url_redirects
 - Break 404.html into template and .md like everybody else
 - Fix sort order for categories.
 - Fix Sitemap
-- Include author for google recognition
 
 ### Priority 3
 - blogpost about leaving wordpress (plain text, authoring tools, backup)

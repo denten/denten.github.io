@@ -121,3 +121,17 @@ meaning."[^3] As such, it requires other attributes besides statistical
 significance or convenience, such as simplicity, novelty, and persuasiveness.
 An explanatory, interpretive model does not just extrapolate, it produces
 insight.
+
+[^66]: William Shakespeare, Hamlet: Revised Edition, Edited by Ann Thompson and Neil Taylor (London: Bloomsbury Arden Shakespeare, 2016), 496.
+
+[^67]: Samuel Beckett and S. E. Gontarski, Waiting for Godot (New York: Grove Press, 2010): 3.
+
+[^49]: I thank <!--- Nicholas Dames, Sierra Eckert, Jonathan Reeve, Milan Terlunen ---> [redacted for peer review] and other members of <!--- Columbia's Literary Modeling and Visualization ---> [redacted for peer review] lab for their comments on an early draft of this paper.
+
+[^68]: Stanley Fish, “What Is Stylistics and Why Are They Saying Such Terrible Things about It?-Part II,” Boundary 2, 8:1 (1979): 132 and 144. See also Stanley Fish, “Literature in the Reader: Affective Stylistics.” New Literary History 2, no. 1 (1970): 123–62; and Stanley Fish, “What Is Stylistics and Why Are They Saying Such Terrible Things about It?” in Is There a Text in This Class?: The Authority of Interpretive Communities (Cambridge, MA: Harvard University Press, 1980): 21–68.
+
+[^1]: Karl Popper, The Logic of Scientific Discovery (New York: Harper & Row, 1968), 40.
+
+[^2]: Popper, Scientific Discovery, 40.
+
+[^3]: Clifford Geertz, The Interpretation of Cultures: Selected Essays (New York: Basic Books, 1973), 5.

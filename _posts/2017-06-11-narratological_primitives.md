@@ -135,3 +135,5 @@ insight.
 [^2]: Popper, Scientific Discovery, 40.
 
 [^3]: Clifford Geertz, The Interpretation of Cultures: Selected Essays (New York: Basic Books, 1973), 5.
+
+[^4]: In his "Observations, Explanatory Power, and Simplicity" Richard Boyd writes about the excess of the scientific method as follows: "The standards for theory assessment [...] required by those features of scientific methodology are, at least apparently, so different from those set by the requirement that the predictions of theories must be sustained by observational tests, that it is, initially at least, puzzling what they have to do with the rational scientific assessment of theories or with scientific objectivity." See Richard Boyd, Philip Gasper, and J. D Trout, The Philosophy of Science (Cambridge, MA: MIT Press, 1999), 350.

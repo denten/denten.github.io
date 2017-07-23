@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Representations of Equity: Notes in Support of “Publication, Power, and Patronage: On Inequality and Academic Publishing” by Chad Wellmon and Andrew Piper
-Right to Repair is Right to Interpret
+title: |
+  Representations of Equity: Notes in Support of “Publication, Power, 
+  and Patronage” by Chad Wellmon and Andrew Piper
 categories:
 - think.stack
 published: false

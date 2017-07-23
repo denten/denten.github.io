@@ -22,7 +22,7 @@ author:
   url:            https://twitter.com/dennistenen
 
 # number of posts on each page
-paginate:         3
+# paginate:         3
 
 # Custom vars
 

@@ -15,7 +15,7 @@ Ursula K. Heise & Guillermina De Ferrari. Manuscript in progress.
 
 1. "Towards a Computational Archaeology of Fictional Space." Article under
    review, 2017.
-2. "Laminate Text: Three Case Studies in the History of Digital Inscription."
+2. "Laminate Text: The Strata of Digital Inscription."
    *Amodern*. Forthcoming, 2017.
 3. “[Unintelligent
    Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”

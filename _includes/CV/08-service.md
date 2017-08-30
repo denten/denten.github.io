@@ -73,6 +73,8 @@ Commencement" campaign, funded by the College Dean's office.
 and Arts Computing*; *National Science Foundation*; *Modernism/Modernity*;
 *Science, Technology & Human Values*, & Association of Computational
 Linguistics (ACL).
+- Program Committee, Association for Computational Linguistics, Abusive
+  Language Workshop (August, 2017). Vancouver, Canada.
 - Knowledge design consulting for Diller Scofidio + Renfro.
 - 2 years as a managing editor of *Modernism/Modernity* (Modernist Studies
   Association and John-Hopkins University Press, job following placement of

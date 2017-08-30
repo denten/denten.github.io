@@ -1,6 +1,9 @@
 ## Talks, Workshops, & Conferences
 \* <sup>Asterisk indicates talks by invitation</sup>
 
+- Modeling space: Quantitative Parsimony in Computational Literary Analysis.
+  Analysing Text, Alan Turing Institute, London. September 22, 2017.
+Lecture.\*
 - "Version Control for Textual Criticism." *What is a Book in the 21st
   Century?* Columbia University. Januray 20, 2017. Workshop and lecture.\*
 - "Technologies of Dissent." The Black Sea Networks Initiative, Columbia
@@ -60,7 +63,8 @@ Press.  Lecture.\*
 - "Hacking the Archive." New Media in Education Conference, Columbia. February
   1, 2013. Lecture.\*
 - "Digital Humanities at Columbia." Integrative Graduate Education and
-  Research Traineeship, Department of Computer Science, Columbia. November 27, 2012. Guest Lecture.\*
+  Research Traineeship, Department of Computer Science, Columbia. November 27,
+2012. Guest Lecture.\*
 - "Growth and Decay of Shared Knowledge." Berkman Center for Internet and
   Society, Harvard. April 3, 2012. Lecture.
 - "Reflections on the 'Lab' Paradigm in the Humanities." Berkman Center for

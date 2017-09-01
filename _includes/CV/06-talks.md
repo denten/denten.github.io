@@ -1,11 +1,14 @@
 ## Talks, Workshops, & Conferences
 \* <sup>Asterisk indicates talks by invitation</sup>
 
-- Modeling space: Quantitative Parsimony in Computational Literary Analysis.
+- "Computational Approaches to Characterizing Fictional Space." Theory and
+  Media Studies Colloquium, Yale University. October 13,
+2017. Lecture.\*
+- "Modeling Space: Quantitative Parsimony in Computational Literary Analysis."
   Analysing Text, Alan Turing Institute, London. September 22, 2017.
 Lecture.\*
 - "Version Control for Textual Criticism." *What is a Book in the 21st
-  Century?* Columbia University. Januray 20, 2017. Workshop and lecture.\*
+  Century?* Columbia University. January 20, 2017. Workshop and lecture.\*
 - "Technologies of Dissent." The Black Sea Networks Initiative, Columbia
   University. January 20, 2017. Talk.\*
 - "Book Piracy and Black Sea Networks." Digital Humanities Symposium, Yale

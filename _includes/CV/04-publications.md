@@ -37,16 +37,19 @@ Afanador-Llach.
 
 ### Contributed Chapters
 
-1. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads
+1. "Digital Text" in *Cambridge Critical Concepts: Technology*, forthcoming as
+   part of the Cambridge Critical Concepts in Literary Studies series, ed.
+Adam Hammond, Cambridge University Press, 2018.
+2. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads
    Rosendahl Thomsen, et al. Bloomsbury, 2017.
-2. "Critical Computing in the Humanities" in *Doing Digital Humanities:
+3. "Critical Computing in the Humanities" in *Doing Digital Humanities:
    Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016.
-3. "Visual-quantitative Approaches to the Intellectual History of the Field"
+4. "Visual-quantitative Approaches to the Intellectual History of the Field"
    in *Futures of Comparative Literature*, ed. Ursula K. Heise, et al.
 Routledge, 2017.
-4. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed.
+5. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed.
    Matthew K. Gold, et al. Minnesota UP, 2016.
-5. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und
+6. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und
    Verortung,* ed. Klaus Müller-Richter and Ramona Uritescu-Lombard.
 Transcript-Verlag, 2007: 99-111.
 

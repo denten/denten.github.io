@@ -51,10 +51,12 @@ Commencement" campaign, funded by the College Dean's office.
 - Alice Boone, "The Progress of Error: or, the Recursive 18th Century."
   Dissertation defense only. Spring 2014.
 - Graham Sack. Dissertation committee, 2014--
-- Gianmarco Saretto, academic adviser, 2014--15.
-- Jeremy Stevens, academic adviser, 2014--15.
-- Erica Grove, academic adviser, 2013--14.
-- Becky Bort, academic adviser, 2013--14.
+- Florence Wan Yu Ang, academic advisor, 2017--18.
+- Isabel Guan, academic advisor, 2017--18.
+- Gianmarco Saretto, academic advisor, 2014--15.
+- Jeremy Stevens, academic advisor, 2014--15.
+- Erica Grove, academic advisor, 2013--14.
+- Becky Bort, academic advisor, 2013--14.
 
 #### Misc. Theses, Independent Studies:
 

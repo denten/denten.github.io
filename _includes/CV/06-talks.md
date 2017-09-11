@@ -2,6 +2,8 @@
 ## Talks, Workshops, & Conferences
 \* <sup>Asterisk indicates talks by invitation</sup>
 
+- "Technologies of Dissent: Hannah Arendt, Heidegger, and the Continual
+  Relevance of the Columbia Core." Lecture in discussion with Dean James Valentini at the University of Chicago. November 6, 2017.\*
 - "Computational Approaches to Characterizing Fictional Space." Theory and
   Media Studies Colloquium, Yale University. October 13, 2017. Lecture.\*
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis."

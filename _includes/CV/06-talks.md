@@ -1,12 +1,11 @@
+
 ## Talks, Workshops, & Conferences
 \* <sup>Asterisk indicates talks by invitation</sup>
 
 - "Computational Approaches to Characterizing Fictional Space." Theory and
-  Media Studies Colloquium, Yale University. October 13,
-2017. Lecture.\*
+  Media Studies Colloquium, Yale University. October 13, 2017. Lecture.\*
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis."
-  Analysing Text, Alan Turing Institute, London. September 22, 2017.
-Lecture.\*
+  Analysing Text, Alan Turing Institute, London. September 22, 2017. Lecture.\*
 - "Version Control for Textual Criticism." *What is a Book in the 21st
   Century?* Columbia University. January 20, 2017. Workshop and lecture.\*
 - "Technologies of Dissent." The Black Sea Networks Initiative, Columbia
@@ -14,13 +13,11 @@ Lecture.\*
 - "Book Piracy and Black Sea Networks." Digital Humanities Symposium, Yale
   University Library. November 12, 2016. Talk.\*
 - "Experimental Methods in the Humanities." Scandinavian Modernism and Digital
-  Resources, Digital Humanities Lab. Aaarhus University, Denmark. September
-14, 2016. Talk.\*
+  Resources, Digital Humanities Lab. Aaarhus University, Denmark. September 14, 2016. Talk.\*
 - *Knowledge Architectures: Mumbai*. Tata Institute for Social Sciences,
   Mumbai.  July 4-6, 2016. Principle convener.
 - "Literature Down to a Pixel." Ephemera and Ephemerality: Media, Archive,
-  Memory, ACLA. March 17-19, 2016. Harvard University. Conference
-presentation.
+  Memory, ACLA. March 17-19, 2016. Harvard University. Conference presentation.
 - "Metaphor Machines." [Digital
   Poetics](http://web.archive.org/web/20160205183731/http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English/Friday-Forum/Detail?id=34205),
 CUNY Graduate Center. February 5, 2016.* Presented also at Possibilities:
@@ -63,11 +60,9 @@ Press.  Lecture.\*
   February 21, 2013. Lecture.\*
 - "Interpretive Communities over Time." Big Data and Digital Scholarship
   Seminar, Columbia. February 11, 2013. Lecture.\*
-- "Hacking the Archive." New Media in Education Conference, Columbia. February
-  1, 2013. Lecture.\*
+- "Hacking the Archive." New Media in Education Conference, Columbia. February 1, 2013. Lecture.\*
 - "Digital Humanities at Columbia." Integrative Graduate Education and
-  Research Traineeship, Department of Computer Science, Columbia. November 27,
-2012. Guest Lecture.\*
+  Research Traineeship, Department of Computer Science, Columbia. November 27, 2012. Guest Lecture.\*
 - "Growth and Decay of Shared Knowledge." Berkman Center for Internet and
   Society, Harvard. April 3, 2012. Lecture.
 - "Reflections on the 'Lab' Paradigm in the Humanities." Berkman Center for

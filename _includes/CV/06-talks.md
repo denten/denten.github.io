@@ -1,87 +1,100 @@
 
 ## Talks, Workshops, & Conferences
-\* <sup>Asterisk indicates talks by invitation</sup>
 
+- "Fiction Factory: American Formalism and the Automation of Intellectual
+  Labor." Lecture by invitation at the Becoming Media conference, UCLA on February 23, 2018.
 - "Technologies of Dissent: Hannah Arendt, Heidegger, and the Continual
-  Relevance of the Columbia Core." Lecture in discussion with Dean James Valentini at the University of Chicago. November 6, 2017.\*
-- "Computational Approaches to Characterizing Fictional Space." Theory and
-  Media Studies Colloquium, Yale University. October 13, 2017. Lecture.\*
+  Relevance of the Columbia Core." Lecture in discussion with Dean James
+Valentini at the University of Chicago on November 6, 2017.\*
+- "Computational Approaches to Characterizing Fictional Space." Lecture by
+  invitation at the Theory and Media Studies Colloquium, Yale University on
+October 13, 2017.
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis."
-  Analysing Text, Alan Turing Institute, London. September 22, 2017. Lecture.\*
-- "Version Control for Textual Criticism." *What is a Book in the 21st
-  Century?* Columbia University. January 20, 2017. Workshop and lecture.\*
-- "Technologies of Dissent." The Black Sea Networks Initiative, Columbia
-  University. January 20, 2017. Talk.\*
-- "Book Piracy and Black Sea Networks." Digital Humanities Symposium, Yale
-  University Library. November 12, 2016. Talk.\*
-- "Experimental Methods in the Humanities." Scandinavian Modernism and Digital
-  Resources, Digital Humanities Lab. Aaarhus University, Denmark. September 14, 2016. Talk.\*
-- *Knowledge Architectures: Mumbai*. Tata Institute for Social Sciences,
-  Mumbai.  July 4-6, 2016. Principle convener.
-- "Literature Down to a Pixel." Ephemera and Ephemerality: Media, Archive,
-  Memory, ACLA. March 17-19, 2016. Harvard University. Conference presentation.
-- "Metaphor Machines." [Digital
-  Poetics](http://web.archive.org/web/20160205183731/http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English/Friday-Forum/Detail?id=34205),
-CUNY Graduate Center. February 5, 2016.* Presented also at Possibilities:
-Works-in-Progress seminar, Institute for Comparative Literature and Society,
-Columbia. 14 November, 2016.\*
-- "Rapid Prototyping of Speculative Thought." Digging Deep: Ecosystems,
-  Institutions and Processes for Critical Making, CUNY Graduate Center.
-December 1, 2015.  Talk.\*
-- "Scene Detection in Literary Fiction." New Digital Resources and
-  Computational Methods for the Study of Literature in a Global Context, UCLA.
-November 4-5, 2015. Talk.\*
-- "DH DevOps: Core Skills and Foundations." Polonsky Foundation Graduate
-  Student Workshops in Digital Humanities, NYU. May 29, 2015. Workshop.\*
-- "Version Control for Library Use." Columbia Center for New Media Teaching
-  and Learning. February 5, 2015. Workshop.\*
-- "[Ethics of Plain
-  Text](http://dhcolumbia.github.io/pandoc-workflow/talks/plain-text/slides/presi.slides.html)"
-with Grant Wythoff. The Princeton-Weimar Summer School for Media Studies. June
-19, 2014. Lecture.\*
-- "Rage with the Machine." University of Glasgow. May 28, 2014. Keynote
-  Address.\*
-- "Technology We Deserve." Educational Technology Conference, Columbia
-  University Teachers College. May 18, 2014. Keynote Address.\*
-- "Introduction to Cloud Computing with Amazon AWS." Digital Praxis Seminar,
-  CUNY. March 14, 2014. Workshop.\*
-- "Book Piracy and Peer Preservation." Connective Media, Cornell Tech. New
-  York, NY. March 6, 2014 and March 14 of the same year at Columbia University
-Press.  Lecture.\*
-- "Civic Scholarship." Research Without Borders, Columbia. February 27, 2014.
-  Lecture.\*
-- "Visualizing Book Piracy." Detective: Advanced Data Visualization Project,
-  Graduate School of Architecture, Columbia. February 3, 2013.  Address.\*
-- "Algorithmic Agency." Cognitive Theory and the Arts Seminar, Harvard
-  Humanities Center. November 21, 2013. Lecture.\*
-- "Authoring in Plain Text." Center for Science and the Imagination, Arizona
-  State. November 15, 2013 and November 22, 2013 at Harvard. Workshop.\*
-- "Literary Networks." Digitization in the Humanities, Rice University.
-  Houston, TX. April 6, 2013. Lecture.\*
-- "Digital Humanities in Cultural Context." Harriman Institute, Columbia.
-  February 21, 2013. Lecture.\*
-- "Interpretive Communities over Time." Big Data and Digital Scholarship
-  Seminar, Columbia. February 11, 2013. Lecture.\*
-- "Hacking the Archive." New Media in Education Conference, Columbia. February 1, 2013. Lecture.\*
-- "Digital Humanities at Columbia." Integrative Graduate Education and
-  Research Traineeship, Department of Computer Science, Columbia. November 27, 2012. Guest Lecture.\*
-- "Growth and Decay of Shared Knowledge." Berkman Center for Internet and
-  Society, Harvard. April 3, 2012. Lecture.
-- "Reflections on the 'Lab' Paradigm in the Humanities." Berkman Center for
-  Internet and Society, Harvard. December 13, 2011. Lecture.
-- "Nothing is at Stake, Everything is at Stake: Reimagining Literature
-  Studies." Graduate professional development seminar, Mahindra Humanities
-Center, Harvard. October 26, 2011. Address.\*
+  Lecture by invitation at the Analysing Text conference hosted by the Alan
+Turing Institute, London on September 22, 2017.
+- "Version Control for Textual Criticism." Lecture and workshop by invitation
+  at the *What is a Book in the 21st Century?* seminar, Columbia University on
+January 20, 2017.
+- "Technologies of Dissent." Lecture by invitation at the The Black Sea
+  Networks Initiative, Columbia University on January 20, 2017.
+- "The Sociology of Book Piracy." Lecture by invitation at the Digital
+  Humanities Symposium, Yale University Library on November 12, 2016.
+- "Experimental Methods in the Humanities." Lecture by invitation at the
+  Scandinavian Modernism and Digital Resources workshop at Aaarhus University,
+Denmark on September 14, 2016.
+- Principle convener of the *Knowledge Architectures: Mumbai* conference at
+  the Tata Institute for Social Sciences, on July 4-6, 2016.
+- "Literature Down to a Pixel." Conference presentation as part of the
+  Ephemera and Ephemerality: Media, Archive, Memory panel at ACLA (Harvard
+University) on March 17-19, 2016.
+- "Metaphor Machines." Lecture by invitation at the Digital Poetics
+  Conference, CUNY Graduate Center on February 5, 2016. Presented also at
+Possibilities: Works-in-Progress seminar, Institute for Comparative Literature
+and Society, Columbia on 14 November, 2016.
+- "Rapid Prototyping of Speculative Thought." Talk by invitation at Digging
+  Deep: Ecosystems, Institutions and Processes for Critical Making, CUNY
+Graduate Center on December 1, 2015.
+- "Scene Detection in Literary Fiction." Paper by invitation at the New
+  Digital Resources and Computational Methods for the Study of Literature in a
+Global Context Conference, UCLA on November 4-5, 2015.
+- "Digital Humanities: Core Skills and Foundations." Workshop by invitation at
+  the Polonsky Foundation Graduate Student Workshops in Digital Humanities,
+NYU on May 29, 2015.
+- "Version Control for Library Use." Workshop by invitation at Columbia Center
+  for New Media Teaching and Learning on February 5, 2015.
+- "The Ethics of Writing in Plain Text," with Grant Wythoff. Lecture by
+  invitation at the Princeton-Weimar Summer School for Media Studies on June 19, 2014.
+- "Rage with the Machine." Keynote address at the University of Glasgow on May
+  28, 2014.
+- "Technology We Deserve." Keynote address at the Educational Technology
+  Conference, Columbia University Teachers College on May 18, 2014.
+- "Introduction to Cloud Computing with Amazon AWS." Workshop by invitation at
+  the Digital Praxis Seminar, CUNY on March 14, 2014.
+- "Book Piracy as Peer Preservation." Lecture by invitation at the Connective
+  Media talk series, Cornell Tech (New York, NY) on March 6, 2014. Repeated on
+March 14, 2014 at a meeting of the Association of American University Presses,
+hosted by Columbia University Press.
+- "Civic Scholarship." Lecture by invitation at the Research Without Borders
+  conference, Columbia University on February 27, 2014.
+- "Visualizing Book Piracy." Conference address by invitation at Detective:
+  Advanced Data Visualization Project, Graduate School of Architecture,
+Columbia University on February 3, 2013.
+- "Algorithmic Agency." Lecture by invitation at the Cognitive Theory and the
+  Arts Seminar, Harvard Humanities Center on November 21, 2013.
+- "Authoring in Plain Text." Workshop by invitation at the Center for Science
+  and the Imagination, Arizona State University on November 15, 2013. Repeated
+at the Comparative Literature Colloquium at Harvard on November 22, 2013.
+- "Literary Networks." Lecture by invitation at the Digitization in the
+  Humanities conference, Rice University on April 6, 2013.
+- "Digital Humanities in Context." Lecture by invitation at the Harriman
+  Institute, Columbia University on February 21, 2013.
+- "Interpretive Communities over Time." Lecture by invitation at the Big Data
+  and Digital Scholarship Seminar, Columbia University on February 11, 2013.
+- "Hacking the Archive." Lecture by invitation at the New Media in Education
+  Conference, Columbia University on February 1, 2013.
+- "Digital Humanities at Columbia." Lecture by invitation at the Integrative
+  Graduate Education and Research Traineeship, Department of Computer Science,
+Columbia University on November 27, 2012.
+- "Growth and Decay of Shared Knowledge." Lecture at the Berkman Center for
+  Internet and Society, Harvard University on April 3, 2012.
+- "Reflections on the 'Laboratory' Paradigm in the Humanities." Lecture at the
+  Berkman Center for Internet and Society, Harvard University on December 13,
+2011.
+- "Nothing is at Stake, Everything is at Stake: Literary Studies Today." Talk
+  by invitation at the Graduate Professional Development Seminar, Mahindra
+Humanities Center, Harvard University on October 26, 2011.
 - "Experimental Criticism: Is Knowledge Aggregation in the Humanities
-  Possible?" ACL(x) Data Mining Panel. Penn State University. University Park,
-PA. October 1, 2011. Lecture.\*
-- "The Premise of Machine Literature." University of Iowa, Iowa City; Loyola
-  University, New Orleans; Rochester University. Multiple dates in 2011.
-Lecture.\*
-- "Recursive Encounters with Ourselves." Dept. of English and Comparative
-  Literature, Columbia. January 26, 2011. Lecture.\*
-- "The Tyranny of Literature." Thinking with Technology Workshop, Humanities
-  Center, Harvard. November 15, 2010. Lecture.\*
-- "Stalin's PowerPoint." Presented at multiple conferences and by invitation.
-- "The Birth of Non-Fiction." Slavic Languages and Literatures Colloquium,
-  Harvard. Autumn 2006. Lecture.
+  Possible?" Conference presentation at ACL(x), Data Mining Panel, Penn State
+University on October 1, 2011.
+- "The Premise of Machine Literature." Lectures by invitation at the
+  University of Iowa, Loyola University, University of Rochester on multiple
+dates in 2011.
+- "Recursive Encounters with Ourselves." Lecture by invitation at the
+  Department of English and Comparative Literature, Columbia University on
+January 26, 2011.
+- "The Tyranny of Literature." Lecture by invitation at the Thinking with
+  Technology Workshop, Harvard Humanities Center on November 15, 2010.
+- "Order on Display: The Aesthetics of Soviet Data Visualization." Paper
+  presentation at the AAASS Conference in Boston, MA on November 12, 2009.
+- "The Birth of Non-Fiction." Lecture at the Slavic Languages and Literatures
+  Colloquium, Harvard University in October, 2006.

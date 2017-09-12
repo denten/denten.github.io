@@ -13,8 +13,8 @@ Ursula K. Heise & Guillermina De Ferrari. Manuscript in progress.
 
 ### Peer Reviewed Journals
 
-1. "Towards a Computational Archaeology of Fictional Space." Article under
-   review, 2017.
+1. "Towards a Computational Archaeology of Fictional Space." Forthcoming in
+   *New Literary History* (accepted in August, 2017).
 2. "Laminate Text: The Strata of Digital Inscription."
    *Amodern*. Forthcoming, 2017.
 3. “[Unintelligent

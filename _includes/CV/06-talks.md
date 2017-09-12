@@ -5,7 +5,7 @@
   Labor." Lecture by invitation at the Becoming Media conference, UCLA on February 23, 2018.
 - "Technologies of Dissent: Hannah Arendt, Heidegger, and the Continual
   Relevance of the Columbia Core." Lecture in discussion with Dean James
-Valentini at the University of Chicago on November 6, 2017.\*
+Valentini at the University of Chicago on November 6, 2017.
 - "Computational Approaches to Characterizing Fictional Space." Lecture by
   invitation at the Theory and Media Studies Colloquium, Yale University on
 October 13, 2017.

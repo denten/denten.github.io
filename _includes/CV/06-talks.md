@@ -1,6 +1,8 @@
 
 ## Talks, Workshops, & Conferences
 
+- Principle convener of the *Knowledge Architectures: Lahore* conference at
+  the Information Technology Institute, Pakistan on March 14-15, 2018.
 - "Fiction Factory: American Formalism and the Automation of Intellectual
   Labor." Lecture by invitation at the Becoming Media conference, UCLA on February 23, 2018.
 - "Technologies of Dissent: Hannah Arendt, Heidegger, and the Continual
@@ -23,7 +25,7 @@ January 20, 2017.
   Scandinavian Modernism and Digital Resources workshop at Aaarhus University,
 Denmark on September 14, 2016.
 - Principle convener of the *Knowledge Architectures: Mumbai* conference at
-  the Tata Institute for Social Sciences, on July 4-6, 2016.
+  the Tata Institute for Social Sciences on July 4-6, 2016.
 - "Literature Down to a Pixel." Conference presentation as part of the
   Ephemera and Ephemerality: Media, Archive, Memory panel at ACLA (Harvard
 University) on March 17-19, 2016.

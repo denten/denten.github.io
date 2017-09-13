@@ -5,9 +5,12 @@
   the Information Technology Institute, Pakistan on March 14-15, 2018.
 - "Fiction Factory: American Formalism and the Automation of Intellectual
   Labor." Lecture by invitation at the Becoming Media conference, UCLA on February 23, 2018.
+- "Networks of the Avant-Garde." Paper by invitation at the Mapping Literary
+  Influences: Combining Quantitative and Qualitative Approaches conference at
+UCLA on November 13-14, 2017.
 - "Technologies of Dissent: Hannah Arendt, Heidegger, and the Continual
-  Relevance of the Columbia Core." Lecture in discussion with Dean James
-Valentini at the University of Chicago on November 6, 2017.
+  Relevance of Columbia's Core Curriculum." Lecture in discussion with Dean
+Jim Valentini at the University of Chicago on November 6, 2017.
 - "Computational Approaches to Characterizing Fictional Space." Lecture by
   invitation at the Theory and Media Studies Colloquium, Yale University on
 October 13, 2017.
@@ -17,7 +20,7 @@ Turing Institute, London on September 22, 2017.
 - "Version Control for Textual Criticism." Lecture and workshop by invitation
   at the *What is a Book in the 21st Century?* seminar, Columbia University on
 January 20, 2017.
-- "Technologies of Dissent." Lecture by invitation at the The Black Sea
+- "Technologies of Dissent: Shadow Libraries." Lecture by invitation at the The Black Sea
   Networks Initiative, Columbia University on January 20, 2017.
 - "The Sociology of Book Piracy." Lecture by invitation at the Digital
   Humanities Symposium, Yale University Library on November 12, 2016.

@@ -7,8 +7,9 @@ categories:
 - think.stack
 ---
 
-> An introduction to an article currently under review, with commentary on
-explanatory vs. predictive models.
+> An introduction to an article accepted to *New Literary History* in summer
+> of 2017. Cite as Dennis Yi Tenen, "Towards a Computational Archaeology of
+> Fictional Space," forthcoming in *New Literary History*.
 
 Space is a hard thing to pin down. It identifies dimensional continuity and a
 topography, that is, a relationship between objects. It is also itself an

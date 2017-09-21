@@ -15,11 +15,11 @@ Media, and Society][2], he is the author of *[Plain Text: The Poetics of
 Computation][3]* (Stanford University Press, 2017) and co-founder of
 Columbia's [Group for Experimental Methods in the Humanities][4].
 
-His recent work appears on the pages of Amodern, boundary 2, Computational
-Culture, Modernism/modernity, Public Books, and LA Review of Books on topics
-that range from book piracy to algorithmic composition, unintelligent design,
-and history of data visualization. His current book-length project concerns
-the limits of algorithmic imagination.
+His recent work appears on the pages of *Amodern*, *boundary 2*,
+*Computational Culture*, *Modernism/modernity*, *Public Books*, and *Los
+Angeles Review of Books* on topics that range from book piracy to algorithmic
+composition, unintelligent design, and history of data visualization. His
+current book-length project concerns the limits of algorithmic imagination.
 
 [1]: http://english.columbia.edu
 [2]: http://datascience.columbia.edu/new-media
@@ -29,10 +29,9 @@ the limits of algorithmic imagination.
 ### Education
 
 Tenen holds a degree in Comparative Literature (2011) from **Harvard
-University** where he was awarded a Presidential Scholarship. Tenen was
-additionally the recipient of a Research Computing in the Humanities
-Fellowship, Merit Grant, Foreign Language and Area Studies Fellowship, and
-Whiting Fellowship in the Humanities.
+University** where he was awarded a Presidential Scholarship. He graduated
+from the University of Michigan with degrees in Comparative Literature and
+Political Science in 2001.
 
 ### Appointments & Affiliation
 

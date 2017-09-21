@@ -28,14 +28,11 @@ the limits of algorithmic imagination.
 
 ### Education
 
-Tenen attended **Harvard University** where he was awarded the Presidential
-Scholarship and received his doctorate in Comparative Literature in 2011.
-After a short stint at James Madison College at Michigan State University he
-matriculated with high honors from University of Michigan (Ann Arbor) in 2001
-with degrees in both Political Science and Comparative Literature. Tenen's was
-additionally the recipient of the Research Computing in the Humanities
+Tenen holds a degree in Comparative Literature (2011) from **Harvard
+University** where he was awarded a Presidential Scholarship. Tenen was
+additionally the recipient of a Research Computing in the Humanities
 Fellowship, Merit Grant, Foreign Language and Area Studies Fellowship, and
-Whiting Fellowship in the Humanities
+Whiting Fellowship in the Humanities.
 
 ### Appointments & Affiliation
 

@@ -5,7 +5,7 @@
 1. *[Plain Text: The Poetics of
    Computation](http://www.sup.org/books/title/?id=26821).* Stanford
 University Press, 2017.
-2. "An Inquiry into the Limits of Algorithmic Imagination." Manuscript in
+2. "An Inquiry Concerning the Creative Limits of Artificial Intelligence." Manuscript in
    progress.
 3. "Literature and the Experimental Humanities." Under contract by invitation
    to "Literature in Contemporary Thought" series published by Routledge, ed.

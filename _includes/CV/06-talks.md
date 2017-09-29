@@ -4,7 +4,11 @@
 - Principle convener of the *Knowledge Architectures: Lahore* conference at
   the Information Technology Institute, Pakistan on March 14-15, 2018.
 - "Fiction Factory: American Formalism and the Automation of Intellectual
-  Labor." Lecture by invitation at the Becoming Media conference, UCLA on February 23, 2018.
+  Labor." Lecture by invitation at the Becoming Media conference, UCLA on
+February 23, 2018.
+- "Plain Text: The Poetics of Computation." Book launch and talk by invitation
+  at the Berkman Klein Center for Internet & Society, Harvard University on
+November 28, 2017.
 - "Networks of the Avant-Garde." Paper by invitation at the Mapping Literary
   Influences: Combining Quantitative and Qualitative Approaches conference at
 UCLA on November 13-14, 2017.
@@ -14,14 +18,17 @@ Jim Valentini at the University of Chicago on November 6, 2017.
 - "Computational Approaches to Characterizing Fictional Space." Lecture by
   invitation at the Theory and Media Studies Colloquium, Yale University on
 October 13, 2017.
+- "Sustainable Authorship in Plain Text" and "Plain Text: The Poetics of
+  Computation." A workshop and lecture by invitation at the Digital Humanities
+Forum, Kansas University, on September 29, 2017.
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis."
   Lecture by invitation at the Analysing Text conference hosted by the Alan
 Turing Institute, London on September 22, 2017.
 - "Version Control for Textual Criticism." Lecture and workshop by invitation
   at the *What is a Book in the 21st Century?* seminar, Columbia University on
 January 20, 2017.
-- "Technologies of Dissent: Shadow Libraries." Lecture by invitation at the The Black Sea
-  Networks Initiative, Columbia University on January 20, 2017.
+- "Technologies of Dissent: Shadow Libraries." Lecture by invitation at the
+  The Black Sea Networks Initiative, Columbia University on January 20, 2017.
 - "The Sociology of Book Piracy." Lecture by invitation at the Digital
   Humanities Symposium, Yale University Library on November 12, 2016.
 - "Experimental Methods in the Humanities." Lecture by invitation at the
@@ -48,7 +55,8 @@ NYU on May 29, 2015.
 - "Version Control for Library Use." Workshop by invitation at Columbia Center
   for New Media Teaching and Learning on February 5, 2015.
 - "The Ethics of Writing in Plain Text," with Grant Wythoff. Lecture by
-  invitation at the Princeton-Weimar Summer School for Media Studies on June 19, 2014.
+  invitation at the Princeton-Weimar Summer School for Media Studies on June
+19, 2014.
 - "Rage with the Machine." Keynote address at the University of Glasgow on May
   28, 2014.
 - "Technology We Deserve." Keynote address at the Educational Technology

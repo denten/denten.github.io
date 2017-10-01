@@ -14,8 +14,8 @@
 
 - Executive Committee, [Institute for Comparative Literature and
   Society](http://icls.columbia.edu/), 2016--
-- Faculty working group on [computational humanities and social
-  science](http://datascience.columbia.edu/computational-social-science),
+- Faculty Working Group on [Computational Humanities and Social
+  Science](http://datascience.columbia.edu/computational-social-science),
 2016--
 - [Collaboratory](http://collaboratory.columbia.edu/) Proposal Selection
   Committee, 2016.
@@ -30,8 +30,8 @@
   seminars](http://universityseminars.columbia.edu/seminars/list-of-seminars/).
 - Multiple contributions to the "Strategic Plan for Humanities in the Arts and
   Sciences," 2016-2017.
-- Principle convener (along with Manan Ahmed and Roosevelt Montas) of the
-  "Connected Core" pilot program as part of the universities "Core to
+- Principal convener (along with Manan Ahmed and Roosevelt Montas) of the
+  "Connected Core" pilot program as part of the university-wide "Core to
 Commencement" campaign, funded by the College Dean's office.
 
 #### Graduate Advising
@@ -64,7 +64,7 @@ Commencement" campaign, funded by the College Dean's office.
 - Christopher Brennan, "Personal Social Networks and Deliberative Democracy in
   the Russian Anti-Putin Protest Movement," senior thesis, spring 2014.
 - Jessica Tyler, "The New Opposition, The Russian Language Blogosphere and its
-  Impact on Public Discourse," senior Thesis, spring 2013.
+  Impact on Public Discourse," senior thesis, spring 2013.
 
 #### Professional Service:
 

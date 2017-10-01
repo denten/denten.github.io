@@ -4,47 +4,49 @@
 #### 2016-17 (Columbia University)
 - [*Form, Formula,
   Format*](https://github.com/denten-courses/form-formula-format). Graduate
-Seminar. Fall.
-- *Critical Computing in the Humanities*. Undergraduate lecture. Spring.
+Seminar, fall.
+- *Critical Computing in the Humanities*. Undergraduate lecture, spring.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
-Undergraduate seminar. Columbia Core. Year-long.
+Undergraduate seminar. Columbia Core, year-long.
 
 #### 2014-15 (Columbia University)
 
 - [*Computing in Context: Textual & Literary
-  Scholarship.*](https://github.com/denten-courses/computing-context) W/ Matt
+  Scholarship.*](https://github.com/denten-courses/computing-context) w/ Matt
 Jones (History), Adam Cannon (Computer Science), and Karl Sigman (Economics).
-Lecture. Spring.
-- [*Code & Poetry*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
-Lecture. Topics in new media studies. Fall.
+Lecture, spring.
+- [*Code &
+  Poetry*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
+Lecture. Topics in new media studies, fall.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
-Undergraduate seminar. Columbia Core. Year-long.
+Undergraduate seminar. Columbia Core, year-long.
 - [*Coding for
   Human(s|ists)*](https://github.com/denten-workshops/dhsi-coding-fundamentals).
 Lecture & lab. University of Victoria, Canada. Digital Humanities Summer
-Institute. Summer 2015.
+Institute, summer 2015.
 
 #### 2013-14 (Columbia University)
 
-- *Illicit Knowledge*. Seminar & digital humanities (DH) lab. Spring.
-- *Media Archeology*. Seminar, topics in new media studies. Fall.
+- *Illicit Knowledge*. Seminar & DH lab, spring.
+- *Media Archeology*. Seminar, topics in new media studies, fall.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
-Undergraduate seminar. Columbia Core. Year-long.
-- *Foundations of Computing for Data Science Journalism*. Lecture and lab. Lede Program. Graduate School of Journalism. Summer 2014.
+Undergraduate seminar. Columbia Core, year-long.
+- *Foundations of Computing for Data Science Journalism*. Lecture & lab. Lede
+  Program. Graduate School of Journalism, summer 2014.
 
 #### 2012-13 (Columbia University)
 
-- *Beyond the Human*. Seminar. Topics in new media studies. Spring.
-- *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly. Fall.
-- *Literature Humanities*. Undergraduate seminar. Columbia Core. Year-long.
+- *Beyond the Human*. Seminar. Topics in new media studies, spring.
+- *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly, fall.
+- *Literature Humanities*. Undergraduate seminar. Columbia Core, year-long.
 
 #### 2011-12 (Harvard University)
 
 - *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH
-  Lab.
+  lab, spring.
 
 #### Before 2011 (Harvard University, Tufts University)
 

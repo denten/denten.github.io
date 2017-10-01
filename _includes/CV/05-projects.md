@@ -2,7 +2,7 @@
 ## Selected Projects
 
 1. *[Group for Experimental Methods in the
-   Humanities](http://xpmethod.github.io/)*. Founding member, (09/14). A
+   Humanities](http://xpmethod.github.io/)*. Founding member, (09/14--today). A
 research collective specializing in cultural analytics, literary modeling and
 visualization, technologies of dissent, media archaeology, spatial humanities.
 2. *[Science
@@ -12,8 +12,8 @@ collaboration with Stanford Computer Science. Recipient of Brown Center Media
 Innovation Award ($500k).
 3. *[Rikers Story
    Bot](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html)*,
-(2015--).  Coding workshop + algorithmic storytelling set in and about Rikers
-Island correctional facility, New York city's main jail complex. Featured in
+(2015--). Coding workshop + algorithmic storytelling set in and about Rikers
+Island correctional facility, New York City's main jail complex. Featured in
 *Fast Company*.
 4. *[dh-notes](https://github.com/denten/dhnotes)*. Principal maintainer,
    (2013--today). Lab notebooks, local knowledge, journal lists, tutorials,

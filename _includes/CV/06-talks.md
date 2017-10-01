@@ -1,8 +1,8 @@
 
 ## Talks, Workshops, & Conferences
 
-- Principle convener of the *Knowledge Architectures: Lahore* conference at
-  the Information Technology Institute, Pakistan on March 14-15, 2018.
+- Principal convener of the Knowledge Architectures: Lahore conference at the
+  Information Technology Institute, Pakistan on March 14-15, 2018.
 - "Fiction Factory: American Formalism and the Automation of Intellectual
   Labor." Lecture by invitation at the Becoming Media conference, UCLA on
 February 23, 2018.
@@ -25,7 +25,7 @@ Forum, Kansas University, on September 29, 2017.
   Lecture by invitation at the Analysing Text conference hosted by the Alan
 Turing Institute, London on September 22, 2017.
 - "Version Control for Textual Criticism." Lecture and workshop by invitation
-  at the *What is a Book in the 21st Century?* seminar, Columbia University on
+  at the What is a Book in the 21st Century? seminar, Columbia University on
 January 20, 2017.
 - "Technologies of Dissent: Shadow Libraries." Lecture by invitation at the
   The Black Sea Networks Initiative, Columbia University on January 20, 2017.
@@ -34,8 +34,8 @@ January 20, 2017.
 - "Experimental Methods in the Humanities." Lecture by invitation at the
   Scandinavian Modernism and Digital Resources workshop at Aaarhus University,
 Denmark on September 14, 2016.
-- Principle convener of the *Knowledge Architectures: Mumbai* conference at
-  the Tata Institute for Social Sciences on July 4-6, 2016.
+- Principal convener of the Knowledge Architectures: Mumbai conference at the
+  Tata Institute for Social Sciences on July 4-6, 2016.
 - "Literature Down to a Pixel." Conference presentation as part of the
   Ephemera and Ephemerality: Media, Archive, Memory panel at ACLA (Harvard
 University) on March 17-19, 2016.
@@ -88,10 +88,11 @@ at the Comparative Literature Colloquium at Harvard on November 22, 2013.
 - "Digital Humanities at Columbia." Lecture by invitation at the Integrative
   Graduate Education and Research Traineeship, Department of Computer Science,
 Columbia University on November 27, 2012.
-- "Growth and Decay of Shared Knowledge." Lecture at the Berkman Center for
-  Internet and Society, Harvard University on April 3, 2012.
+- "Growth and Decay of Shared Knowledge." Lecture at the Berkman Klein Center
+  for Internet and Society, Harvard University on April 3, 2012.
 - "Reflections on the 'Laboratory' Paradigm in the Humanities." Lecture at the
-  Berkman Center for Internet and Society, Harvard University on December 13, 2011.
+  Berkman Klein Center for Internet and Society, Harvard University on
+December 13, 2011.
 - "Nothing is at Stake, Everything is at Stake: Literary Studies Today." Talk
   by invitation at the Graduate Professional Development Seminar, Mahindra
 Humanities Center, Harvard University on October 26, 2011.

@@ -7,7 +7,7 @@ research collective specializing in cultural analytics, literary modeling and
 visualization, technologies of dissent, media archaeology, spatial humanities.
 2. *[Science
    Surveyor](http://xpmethod.plaintext.in/literary-modeling-and-visualization-lab/surveyor.html)*.
-PI, (2014--2016).  Visualizing the growth and decay of shared knowledge in
+PI, (2014--2016).  Visualizing the growth and decay of shared knowledge. In
 collaboration with Stanford Computer Science. Recipient of Brown Center Media
 Innovation Award ($500k).
 3. *[Rikers Story
@@ -24,8 +24,9 @@ community.
 PI, (9/13--8/15) Collecting and analyzing the world's largest corpus of
 academic syllabi.  Recipient of $210k grant from the Sloan Foundation.
 Research featured in *The New York Times*, *TIME Magazine*, *Der Spiegel
-Online*, *FiveThirtyEight*.  6.
-6. *[piracylab.org](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html)*.
+Online*, *FiveThirtyEight*.
+6.
+   *[piracylab.org](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html)*.
 PI, (9/13--8/14). Research group exploring the impact of piracy on the spread
 of knowledge around the world. Findings featured in *Le Monde*.
 7. *[Studio at Butler](https://studio.cul.columbia.edu/)*. Founding member,

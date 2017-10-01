@@ -91,8 +91,7 @@ Columbia University on November 27, 2012.
 - "Growth and Decay of Shared Knowledge." Lecture at the Berkman Center for
   Internet and Society, Harvard University on April 3, 2012.
 - "Reflections on the 'Laboratory' Paradigm in the Humanities." Lecture at the
-  Berkman Center for Internet and Society, Harvard University on December 13,
-2011.
+  Berkman Center for Internet and Society, Harvard University on December 13, 2011.
 - "Nothing is at Stake, Everything is at Stake: Literary Studies Today." Talk
   by invitation at the Graduate Professional Development Seminar, Mahindra
 Humanities Center, Harvard University on October 26, 2011.

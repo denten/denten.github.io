@@ -1,4 +1,4 @@
-## A. Training, Awards,  & Affiliation
+## Training, Awards,  & Affiliation
 
 ### Columbia University in the City of New York
 

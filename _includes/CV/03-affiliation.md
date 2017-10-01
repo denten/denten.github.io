@@ -10,9 +10,9 @@ September 2012--
 - Affiliated Faculty, Institute of Data Sciences and Engineering, New Media
   Center
 
-Awards: Presidential Global Innovation, The Brown Center for Media Innovation
+Awards: Presidential Global Innovation Fund, The Brown Center for Media Innovation
 Magic Grant and Flagship, Lenfest Junior Faculty Development, Heyman Center
-Fellowship.
+Faculty Fellowship.
 
 ### Berkman Center for Internet and Society at Harvard University
 

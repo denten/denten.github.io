@@ -58,7 +58,7 @@ Commencement" campaign, funded by the College Dean's office.
 - Erica Grove, academic advisor, 2013--14.
 - Becky Bort, academic advisor, 2013--14.
 
-#### Misc. Theses, Independent Studies:
+#### Misc. Theses, Independent Studies
 
 - Elena Goldstein, "Big Brother all Grown Up," independent study, fall 2014.
 - Christopher Brennan, "Personal Social Networks and Deliberative Democracy in
@@ -66,7 +66,7 @@ Commencement" campaign, funded by the College Dean's office.
 - Jessica Tyler, "The New Opposition, The Russian Language Blogosphere and its
   Impact on Public Discourse," senior thesis, spring 2013.
 
-#### Professional Service:
+#### Professional Service
 
 - Book manuscript reviews for Cambridge UP, Columbia UP, MIT Press, and
   Princeton UP.

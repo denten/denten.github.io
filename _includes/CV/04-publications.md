@@ -42,8 +42,9 @@ Afanador-Llach.
 Adam Hammond, Cambridge University Press, 2018.
 2. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads
    Rosendahl Thomsen, et al. Bloomsbury, 2017.
-3. "Critical Computing in the Humanities" in *Doing Digital Humanities:
-   Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016.
+3. "Critical Computing in the Humanities" with John Simpson and Phillip
+   Polefrone in *Doing Digital Humanities: Practice, Training and Research*,
+Ed. Ray Siemens. Routledge, 2016.
 4. "Visual-quantitative Approaches to the Intellectual History of the Field"
    in *Futures of Comparative Literature*, ed. Ursula K. Heise, et al.
 Routledge, 2017.

@@ -13,7 +13,7 @@ Computation][3]* (Stanford University Press, 2017) and co-founder of
 Columbia's [Group for Experimental Methods in the Humanities][4].
 
 His recent work appears on the pages of *New Literary History*, *Amodern*,
-*boundary 2*, *Computational Culture*, *Modernism/modernity*, *Public Books*,
+*boundary2*, *Computational Culture*, *Modernism/modernity*, *Public Books*,
 and *Los Angeles Review of Books* on topics that range from book piracy to
 algorithmic composition, unintelligent design, and history of data
 visualization.

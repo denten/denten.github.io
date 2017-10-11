@@ -5,7 +5,9 @@
 - [*Form, Formula,
   Format*](https://github.com/denten-courses/form-formula-format). Graduate
 Seminar, fall.
-- *Critical Computing in the Humanities*. Undergraduate lecture, spring.
+- *[Critical Computing in the
+  Humanities](https://github.com/denten-courses/critical-computing/tree/master/2016-spring)*.
+Undergraduate lecture, spring.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
 Undergraduate seminar. Columbia Core, year-long.

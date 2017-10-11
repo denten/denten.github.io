@@ -29,7 +29,9 @@ Institute, summer 2015.
 
 #### 2013-14 (Columbia University)
 
-- *Illicit Knowledge*. Seminar & DH lab, spring.
+- [*Illicit
+  Knowledge*](https://github.com/denten-courses/critical-computing/tree/master/2014-spring).
+Seminar & DH lab, spring.
 - *Media Archeology*. Seminar, topics in new media studies, fall.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).

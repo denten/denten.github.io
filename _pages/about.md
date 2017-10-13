@@ -18,8 +18,7 @@ and *Los Angeles Review of Books* on topics that range from book piracy to
 algorithmic composition, unintelligent design, and history of data
 visualization.
 
-His current book-length project concerns the creative limits of artificial
-intelligence.
+His next book concerns the creative limits of artificial intelligence.
 
 [1]: http://english.columbia.edu
 [2]: http://datascience.columbia.edu/new-media

@@ -7,9 +7,10 @@
 University Press, 2017.
 2. "An Inquiry Concerning the Creative Limits of Artificial Intelligence."
    Manuscript in progress.
-3. *Literature and the Experimental Humanities*. Under contract by invitation
-   to "Literature and Contemporary Thought" series published by Routledge, ed.
-Ursula K. Heise & Guillermina De Ferrari. Manuscript in progress.
+3. *Literature and the Experimental Humanities* with Maria Sachiko Cecire.
+   Under contract by invitation to "Literature and Contemporary Thought"
+series published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.
+Manuscript in progress.
 
 ### Peer Reviewed Journals
 

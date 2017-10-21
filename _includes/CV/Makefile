@@ -12,7 +12,7 @@ TEMPDIR = temp
 OUTPUTDIR = imprints
 
 # Final name of the pdf CV.
-TARGET = denten-CV-`date +%Y-%m-%d)`
+TARGET = denten-CV-`date +%Y-%m-%d`
 
 # This rules has all the needed command to create the CV.
 build_pdf:

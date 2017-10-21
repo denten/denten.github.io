@@ -35,7 +35,7 @@ Afanador-Llach.
 *Modernism/modernity 21.1* (2014): 253–267.
 7. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
 
-### Contributed Chapters
+### Contributed Essays & Chapters
 
 1. "Anonymous, Massively Collaborative, Trans-human," forthcoming in
    *Rethinking Authorship in Comparative and Historical Perspectives:

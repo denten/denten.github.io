@@ -21,13 +21,8 @@ algorithmic composition, unintelligent design, and history of data
 visualization. His next book concerns the creative limits of artificial
 intelligence.
 
-Please use my official [profile photo][6]. Please submit all press queries in
+Please use my official [profile photo][6]. Submit all press queries in
 writing---I do not give transcribed interviews.
-
-
-
-
-
 
 [1]: http://english.columbia.edu
 [2]: http://datascience.columbia.edu/new-media

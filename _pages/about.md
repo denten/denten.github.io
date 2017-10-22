@@ -4,6 +4,8 @@ permalink: /about/
 title: "about"
 ---
 
+[Curriculum Vitae](https://github.com/denten/denten.github.io/raw/master/_includes/CV/imprints/denten-CV.pdf)
+
 Dennis Tenen is an Assistant Professor in the [Department of English and
 Comparative Literature, Columbia University][1]. His teaching and research
 happen at the intersection of people, texts, and technology. A former software

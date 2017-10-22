@@ -3,9 +3,8 @@
 
 - Principal convener of the Knowledge Architectures: Lahore conference at the
   Information Technology Institute, Pakistan on March 14-15, 2018.
-- "Fiction Factory: American Formalism and the Automation of Intellectual
-  Labor." Lecture by invitation at the Becoming Media conference, UCLA on
-February 23, 2018.
+- "American Formalism and the Automation of Intellectual Labor." Lecture by
+  invitation at the Becoming Media conference, UCLA on February 23, 2018.
 - "Plain Text: The Poetics of Computation." Book launch and talk by invitation
   at the Berkman Klein Center for Internet & Society, Harvard University on
 November 28, 2017.

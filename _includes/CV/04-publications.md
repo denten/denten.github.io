@@ -39,9 +39,8 @@ Afanador-Llach.
 ### Contributed Essays & Chapters
 
 1. "Anonymous, Massively Collaborative, Trans-human," forthcoming in
-   *Rethinking Authorship in Comparative and Historical Perspectives:
-Transmission, Ownership, and Collectivity*, ed. Haruo Shirane and Tomi Suzuki.
-Iwanami Shoten, 2018.
+   *Rethinking Authorship in Comparative and Historical Perspectives*, ed.
+Haruo Shirane and Tomi Suzuki.  Iwanami Shoten, 2018.
 2. "Digital Text" in *Cambridge Critical Concepts: Technology*, forthcoming as
    part of the Cambridge Critical Concepts in Literary Studies series, ed.
 Adam Hammond, Cambridge University Press, 2018.

@@ -6,8 +6,6 @@ title: "about"
 
 [Curriculum Vitae][5]
 
-Profile:
-
 > Dennis Tenen is an Assistant Professor in the [Department of English and
 Comparative Literature, Columbia University][1]. His teaching and research
 happen at the intersection of people, texts, and technology. A former software

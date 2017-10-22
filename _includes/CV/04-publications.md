@@ -62,9 +62,10 @@ Transcript-Verlag, 2007: 99-111.
 
 1. "[Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age* by
    Bernard Harcourt](https://lareviewofbooks.org/review/opt-out)." *Los
-Angeles Review of Books* (2016). Included in the *The Digital Revolution:
+Angeles Review of Books* (2016). Included in the [*The Digital Revolution:
 Debating the Promise and Perils of the Internet in the Last Years of the Obama
-Administration* (LARB, 2017), ed.  Michele Pridmore-Brown & Julien Crockett.
+Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books-digital-editions-the-digital-revolution-debating-the-promise-and-perils-of-the-internet-and-algorithmic-lives-in-the-last-years-of-the-obama-administration/)
+(LARB, 2017), ed.  Michele Pridmore-Brown & Julien Crockett.
 2. "[What Is? Nine Epistemological Essays by Johanna
    Drucker](http://www.tandfonline.com/doi/full/10.1080/17547075.2015.1051841#abstract)."
 *Design and Culture*, 7.2 (2015): 264-5.

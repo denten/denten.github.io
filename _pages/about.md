@@ -4,7 +4,7 @@ permalink: /about/
 title: "about"
 ---
 
-[Curriculum Vitae][5]
+[Curriculum Vitae][5] | [Author Photo][6]
 
 > Dennis Tenen is an Assistant Professor in the [Department of English and
 Comparative Literature, Columbia University][1]. His teaching and research
@@ -21,8 +21,7 @@ algorithmic composition, unintelligent design, and history of data
 visualization. His next book concerns the creative limits of artificial
 intelligence.
 
-Please use my official [profile photo][6]. Submit all press queries in
-writing---I do not give transcribed interviews.
+Please submit press queries in writing---I do not give transcribed interviews.
 
 [1]: http://english.columbia.edu
 [2]: http://datascience.columbia.edu/new-media

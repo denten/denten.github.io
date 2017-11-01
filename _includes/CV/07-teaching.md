@@ -1,10 +1,15 @@
 
 ## Teaching
 
+#### 2017-18 (Columbia University)
+- [*Technologies of Dissent*](
+  https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).
+Media studies, critical computing. Mixed enrollment, fall.
+
 #### 2016-17 (Columbia University)
 - [*Form, Formula,
-  Format*](https://github.com/denten-courses/form-formula-format). Graduate
-Seminar, fall.
+  Format*](https://github.com/denten-courses/form-formula-format). Literary
+theory. Graduate Seminar, fall.
 - *[Critical Computing in the
   Humanities](https://github.com/denten-courses/critical-computing/tree/master/2016-spring)*.
 Undergraduate lecture, spring.
@@ -17,10 +22,10 @@ Undergraduate seminar. Columbia Core, year-long.
 - [*Computing in Context: Textual & Literary
   Scholarship.*](https://github.com/denten-courses/computing-context) w/ Matt
 Jones (History), Adam Cannon (Computer Science), and Karl Sigman (Economics).
-Lecture, spring.
+Computational approaches to the study of literature. Lecture, spring.
 - [*Code &
   Poetry*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
-Lecture. Topics in new media studies, fall.
+Lecture. Topics in new media studies and literary theory, fall.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
 Undergraduate seminar. Columbia Core, year-long.
@@ -33,7 +38,7 @@ Institute, summer 2015.
 
 - [*Illicit
   Knowledge*](https://github.com/denten-courses/critical-computing/tree/master/2014-spring).
-Seminar & DH lab, spring.
+Media theory, science and technology studies. Seminar & DH lab, spring.
 - *Media Archeology*. Seminar, topics in new media studies, fall.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).

@@ -5,6 +5,10 @@
 - [*Technologies of Dissent*](
   https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).
 Media studies, critical computing. Mixed enrollment, fall.
+- [Metaphor and
+  Media](https://github.com/denten-courses/metaphor-media/blob/master/README.md).
+A survey of major works on metaphor, beginning with Aristotle and ending with
+contemporary cognitive and media theory. Mixed enrollment, spring.
 
 #### 2016-17 (Columbia University)
 - [*Form, Formula,

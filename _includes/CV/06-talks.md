@@ -1,7 +1,7 @@
 
 ## Talks, Workshops, & Conferences
 
-- Principal convener of the Knowledge Architectures: Lahore conference at the
+- Principal convener of the Knowledge Architectures: Lahore. Conference at the
   Information Technology Institute, Pakistan on March 14-15, 2018.
 - "American Formalism and the Automation of Intellectual Labor." Lecture by
   invitation at the Becoming Media conference, UCLA on February 23, 2018.

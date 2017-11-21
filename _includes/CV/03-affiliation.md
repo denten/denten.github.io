@@ -1,4 +1,4 @@
-## Training, Awards,  & Affiliation
+## Training, Awards, & Affiliation
 
 ### Columbia University in the City of New York
 
@@ -10,9 +10,10 @@ September 2012--
 - Affiliated Faculty, Institute of Data Sciences and Engineering, New Media
   Center
 
-Awards: Presidential Global Innovation Fund, The Brown Center for Media Innovation
-Magic Grant and Flagship, Lenfest Junior Faculty Development, Heyman Center
-Faculty Fellowship.
+Awards: Presidential Global Innovation Fund, The Brown Center for Media
+Innovation Magic Grant and Flagship, Lenfest Junior Faculty Development,
+Heyman Center Faculty Fellowship, Research Fellowship at Center for Digital
+Cultures (Leuphana University, 2017).
 
 ### Berkman Center for Internet and Society at Harvard University
 

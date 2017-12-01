@@ -4,13 +4,15 @@
 
 1. *[Plain Text: The Poetics of
    Computation](http://www.sup.org/books/title/?id=26821).* Stanford
-University Press, 2017.
+University Press, 2017. Alienation of intellectual labor from the material
+contexts of the digital word.
 2. "An Inquiry Concerning the Creative Limits of Artificial Intelligence."
-   Manuscript in progress.
+   Manuscript in progress. The fetishism of "smart" commodities.
 3. *Literature and the Experimental Humanities* with Maria Sachiko Cecire.
    Under contract by invitation to "Literature and Contemporary Thought"
 series published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.
-Manuscript in progress.
+Manuscript in progress. Play, exploration, performance, and deviation from the
+established methodological procedures.
 
 ### Peer Reviewed Journals
 

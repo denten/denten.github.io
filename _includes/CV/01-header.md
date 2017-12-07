@@ -8,7 +8,7 @@ bio:
 - short: "My teaching and research happen at the intersection of people, texts,
   and technology."
 
-  long: "I am an Assistant Professor in the Department of English and
+  long: "I am an Associate Professor in the Department of English and
 Comparative Literature, Columbia University. A former software engineer at
 Microsoft and currently faculty associate at Columbia's Data Science
 Institute, I am the author of *Plain Text: The Poetics of Computation*

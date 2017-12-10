@@ -2,6 +2,7 @@
 
 #### Department
 
+- Dissertation prize committee, spring 2018.
 - Committee for Undergraduate Education, 2016--
 - Committee for Graduate Education, 2012--15.
 - Senior essay advising and undergraduate prize committee participation,

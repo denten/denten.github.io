@@ -32,7 +32,7 @@ CV.md: ${MDSOURCES}
 # Rule to create the latex files. It will be executed only if the global md file or the
 # template files are modifyed
 CV.tex: CV.md ${TEMPLATEFILES}
-	pandoc -S -s -H style.tex --template=template.tex  CV.md -o CV.tex
+	pandoc -s -H style.tex --template=template.tex  CV.md -o CV.tex
 
 # The rule to build the pdf using pdflatex.
 # It is run twice to typeset correctly any label/reference (they are not use in

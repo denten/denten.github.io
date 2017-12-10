@@ -18,4 +18,4 @@ cat [[:digit:]]*.md > temp.md
 
 # Convert into PDF
 
-pandoc -H style.tex -so "imprints/$cvName.pdf" temp.md
+pandoc -H style.tex -o "imprints/$cvName.pdf" temp.md

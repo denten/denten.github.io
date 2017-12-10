@@ -2,8 +2,8 @@
 
 ### Columbia University in the City of New York
 
-Assistant Professor, Department of English and Comparative Literature,
-September 2012--
+Associate Professor (effective July 2018), Department of English and
+Comparative Literature, September 2012--
 
 - Founder, Columbia's Group for Experimental Methods in the Humanities
 - Executive Committee, Institute for Comparative Literature and Society

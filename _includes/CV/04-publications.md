@@ -18,8 +18,8 @@ established methodological procedures.
 
 1. "Towards a Computational Archaeology of Fictional Space." Forthcoming in
    *New Literary History* (accepted in August, 2017).
-2. "Laminate Text: The Strata of Digital Inscription."
-   *Amodern*. Forthcoming, 2017.
+2. "[Laminate Text: The Strata of Digital Inscription](http://amodern.net/article/laminate-text/)."
+   *Amodern*. December, 2017.
 3. “[Unintelligent
    Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
 *Boundary 2* 44, no. 2 (May 1, 2017): 145–56.
@@ -31,8 +31,8 @@ established methodological procedures.
 *The Programming Historian* (2014). Translated into Spanish as "[Escritura
 sostenible en texto plano usando Pandoc y
 Markdown](http://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)"
-by Víctor Gayol y revisado por Antonio Rojas Castro y Maria José
-Afanador-Llach.
+by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José
+Afanador-Llach).
 6. "[Stalin’s
    PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
 *Modernism/modernity 21.1* (2014): 253–267.

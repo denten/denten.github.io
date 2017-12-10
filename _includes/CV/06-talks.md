@@ -1,12 +1,12 @@
 
 ## Talks, Workshops, & Conferences
 
-- Principal convener of the Knowledge Architectures: Lahore. Conference at the
+- Principal convener of Architectures of Knowledge: Lahore. Conference at the
   Information Technology Institute, Pakistan on March 14-15, 2018.
 - "American Formalism and the Automation of Intellectual Labor." Lecture by
   invitation at the Becoming Media conference, UCLA on February 23, 2018.
 - "Infrastructural Reading: Content, Medium, Context, History." Lecture by
-invitation to the Internet Cultures Symposium at Yale on December 2, 2017.
+  invitation to the Internet Cultures Symposium at Yale on December 2, 2017.
 - "Plain Text: The Poetics of Computation." Book launch and talk by invitation
   at the Berkman Klein Center for Internet & Society, Harvard University on
 November 28, 2017.
@@ -35,7 +35,7 @@ January 20, 2017.
 - "Experimental Methods in the Humanities." Lecture by invitation at the
   Scandinavian Modernism and Digital Resources workshop at Aaarhus University,
 Denmark on September 14, 2016.
-- Principal convener of the Knowledge Architectures: Mumbai conference at the
+- Principal convener of Architectures of Knowledge: Mumbai conference at the
   Tata Institute for Social Sciences on July 4-6, 2016.
 - "Literature Down to a Pixel." Conference presentation as part of the
   Ephemera and Ephemerality: Media, Archive, Memory panel at ACLA (Harvard

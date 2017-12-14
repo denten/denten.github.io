@@ -1,6 +1,6 @@
 My research happens at the intersection of texts, people, and technologies. I
 am one of the founders of Columbia's <a
-href="http://xpmethod.plaintext.in/strains.html">Group for Experimental
+href="http://xpmethod.plaintext.in/">Group for Experimental
 Methods in the Humanities</a> and author of <i><a href="
 http://www.sup.org/books/title/?id=26821">Plain Text: The Poetics of
 Computation</a></i> (Stanford UP, 2017). You can find me on Twitter <a

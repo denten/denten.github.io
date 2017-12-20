@@ -9,9 +9,6 @@
   Talk by invitation to the Center for Digital Cultures at Leuphana University
 (Germany) on December 20, 2017 and on January 5 at the School of Communication
 and Culture, Aarhus University (Denmark).
-- "Experimental Criticism: The Creative Limits of Artificial Intelligence."
-  Talk by invitation to the Center for Digital Cultures at Leuphana University
-(Germany) on January 20, 2017.
 - "Infrastructural Reading: Content, Medium, Context, History." Lecture by
   invitation to the Internet Cultures Symposium at Yale on December 2, 2017.
 - "Plain Text: The Poetics of Computation." Book launch and talk by invitation

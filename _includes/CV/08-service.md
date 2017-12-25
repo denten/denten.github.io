@@ -76,12 +76,12 @@ Commencement" campaign, funded by the College Dean's office.
 and Arts Computing*; *National Science Foundation*; *Modernism/Modernity*;
 *Science, Technology & Human Values*, & Association of Computational
 Linguistics (ACL).
+- Program Committee, International Conference of Computational Linguistics,
+  Workshop on Trolling, Aggression and Cyberbullying (2018).
 - Program Committee, Association for Computational Linguistics, Abusive
-  Language Workshop (August, 2017). Vancouver, Canada.
-- Knowledge design consulting for Diller Scofidio + Renfro.
-- 2 years as a managing editor of *Modernism/Modernity* (Modernist Studies
-  Association and John-Hopkins University Press, job following placement of
-manuscript).
+  Language Workshop (2017,2018).
+- Knowledge design consulting for Diller Scofidio + Renfro (2017).
+- 2 years as a managing editor of *Modernism/Modernity*.
 - 5+ years application development (Microsoft).
 - 5+ years web design with an emphasis on content management systems (clients
   include General Motors, The Greening of Detroit, MRI, MSU Libraries and

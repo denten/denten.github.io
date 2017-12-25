@@ -79,7 +79,7 @@ Linguistics (ACL).
 - Program Committee, International Conference of Computational Linguistics,
   Workshop on Trolling, Aggression and Cyberbullying (2018).
 - Program Committee, Association for Computational Linguistics, Abusive
-  Language Workshop (2017,2018).
+  Language Workshop (2017, 2018).
 - Knowledge design consulting for Diller Scofidio + Renfro (2017).
 - 2 years as a managing editor of *Modernism/Modernity*.
 - 5+ years application development (Microsoft).

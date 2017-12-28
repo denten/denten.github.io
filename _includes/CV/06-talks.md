@@ -14,10 +14,7 @@ and Culture, Aarhus University (Denmark).
 - "Plain Text: The Poetics of Computation." Book launch and talk by invitation
   at the Berkman Klein Center for Internet & Society, Harvard University on
 November 28, 2017.
-- "Networks of the Avant-Garde." Paper by invitation at the Mapping Literary
-  Influences: Combining Quantitative and Qualitative Approaches conference at
-UCLA on November 13-14, 2017.
-- "Technologies of Dissent: Hannah Arendt, Heidegger, and the Continual
+- "What is Enlightenment?: Immanuel Kant, Hannah Arendt, and the Continual
   Relevance of Columbia's Core Curriculum." Lecture in discussion with Dean
 Jim Valentini at the University of Chicago on November 6, 2017.
 - "Computational Approaches to Characterizing Fictional Space." Lecture by
@@ -28,7 +25,7 @@ October 13, 2017.
 Forum, Kansas University, on September 29, 2017.
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis."
   Lecture by invitation at the Analysing Text conference hosted by the Alan
-Turing Institute, London on September 22, 2017.
+Turing Institute at the British Library, London on September 22, 2017.
 - "Version Control for Textual Criticism." Lecture and workshop by invitation
   at the What is a Book in the 21st Century? seminar, Columbia University on
 January 20, 2017.

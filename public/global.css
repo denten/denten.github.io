@@ -92,3 +92,7 @@ p {
     font-size: .75em;
     padding-bottom: 0em;
 }
+
+strong {
+    font-weight: bold;
+}

@@ -93,6 +93,6 @@ p {
     padding-bottom: 0em;
 }
 
-strong {
+b, strong {
     font-weight: bold;
 }

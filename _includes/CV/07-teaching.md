@@ -9,6 +9,10 @@ Media studies, critical computing. Mixed enrollment, fall.
   Media](https://github.com/denten-courses/metaphor-media/blob/master/README.md).
 A survey of major works on metaphor, beginning with Aristotle and ending with
 contemporary cognitive and media theory. Mixed enrollment, spring.
+- [Literature
+  Humanities](https://github.com/denten-courses/lit-hum/tree/master/2018-spring).
+Masterpieces of Western Literature and Philosophy from Homer to Zora Neale
+Hurston. Undergraduate seminar. Columbia Core, year-long.
 
 #### 2016-17 (Columbia University)
 - [*Form, Formula,

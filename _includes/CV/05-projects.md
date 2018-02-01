@@ -1,5 +1,5 @@
 
-## Selected Projects, Grants, & Awards
+## Selected Projects
 
 - "Transforming Texts: Computational Approaches to Text Analysis and
   Visualization" (Spring 2019), co-PI with Pamela Smith (Columbia, History)
@@ -13,12 +13,12 @@ visualization, technologies of dissent, media archaeology, spatial humanities.
   Surveyor](http://xpmethod.plaintext.in/literary-modeling-and-visualization-lab/surveyor.html)*
 (2014--2016), co-PI with Marguerite Holloway (Columbia, Journalism), Dan
 Jurafsky (Stanford, Computer Science) and Daniel McFarland (Stanford,
-Sociology).  Visualizing the growth and decay of shared knowledge.  Recipient
-of Brown Center Media Innovation Award ($500k).
+Sociology). Visualizing the growth and decay of shared knowledge. Recipient of
+Brown Center Media Innovation Award ($500k).
 - *[Rikers Story
   Bot](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html)*,
 (2015--) in collaboration with Columbia's Center for Justice. Coding workshop
-+ algorithmic storytelling set in and about Rikers Island correctional
+and algorithmic storytelling event set in and about Rikers Island correctional
 facility, New York City's main jail complex. Featured in *Fast Company*.
 - *[dh-notes](https://github.com/denten/dhnotes)* (2013--), principal
   maintainer. Lab notebooks, local knowledge, journal lists, tutorials, and

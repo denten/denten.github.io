@@ -33,7 +33,7 @@ Spiegel Online*, *FiveThirtyEight*.
 - *[piracylab.org](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html)*
   (09/2013--08/2014), PI. Research group exploring the impact of piracy on the
 spread of knowledge around the world. Findings featured in *Le Monde*.
-- *[Studio at Butler](https://studio.cul.columbia.edu/)* (9/2013--), founding
+- *[Studio at Butler](https://studio.cul.columbia.edu/)* (09/2013--), founding
   member, faculty advisor. Planning, specification, and programming of the
 Butler Studio, a maker/lab space at the center of Butler Library. Hosting
 lectures, training workshops, and open labs.

@@ -37,21 +37,24 @@ Commencement" campaign, funded by the College Dean's office.
 
 #### Graduate Advising
 
-- Gabrielle Dacosta, "The Reading Self in George Jackson’s *Soledad Brother*,"
-  MA thesis, spring 2017.
+- Agie Markiewicz, "College Student Literacy Practices in Online Asynchronous
+  Discussion Spaces." Fourth reader, dissertation defense committee, spring
+2018.
+- Jonathan Reeve, "Computational Approaches to the Study of Literary Style."
+  Oral exam committee, 09/2017--06/2018.
+- Gabrielle Dacosta, "The Reading Self in George Jackson’s *Soledad Brother*."
+  MA thesis advisor, 09/2016--06/2017.
 - Maxine Arndt, "Women and Animals in *The Woman Warrior* and *My Year of
-  Meats*", MA thesis, spring 2017.
-- Jonathan Reeve. "Computational Approaches to the Study of Literary Style,"
-  reading list. Oral exam committee, 2017--
-- Sierra Eckert. "Sociology of Literature," reading list. Oral exam committee,
-  2016--2017. High pass.
-- Phillip Polefrone. "Technology and Society," reading list. Oral exam
-  committee, 2015-16. Pass.
-- Jessica Hallock. "Literary theory," reading list. Oral exam committee,
-  2015--
+  Meats*." MA thesis advisor, 09/2016--06/2017.
+- Sierra Eckert, "Sociology of Literature" reading list. Oral exam committee,
+  09/2016--06/2017.
+- Phillip Polefrone, "Technology and Society" reading list. Oral exam
+  committee, 09/2015--06/2016.
+- Jessica Hallock, "Literary Theory" reading list. Oral exam committee,
+  09/2015-- .
 - Alice Boone, "The Progress of Error: or, the Recursive 18th Century."
-  Dissertation defense only. Spring 2014.
-- Graham Sack. Dissertation committee, 2014--
+  Dissertation defense committee, spring 2014.
+- Graham Sack. Dissertation defense committee, 2014--
 - Florence Wan Yu Ang, academic advisor, 2017--18.
 - Isabel Guan, academic advisor, 2017--18.
 - Gianmarco Saretto, academic advisor, 2014--15.

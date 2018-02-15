@@ -1,7 +1,11 @@
 
 ## Talks, Workshops, & Conferences
 
-- Principal convener of Architectures of Knowledge: Lahore. Conference at the
+- "Character and Agency in Arthur Hailey's *Airport*." Talk by invitation at
+  the Harvard NHC Novel Theory seminar on April 2, 2018.
+- "Phenomenology of Time and Space in William Faulkner's *The Sound and the
+  Fury*." Lecture by invitation to Aarhus University on March 23, 2018.
+- Principal convener of "Architectures of Knowledge: Lahore" conference.
   Information Technology Institute, Pakistan on March 14-15, 2018.
 - "American Formalism and the Automation of Intellectual Labor." Lecture by
   invitation at the Becoming Media conference, UCLA on February 23, 2018.

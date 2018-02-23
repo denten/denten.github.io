@@ -18,10 +18,11 @@ established methodological procedures.
 
 1. "American Formalism and the Automation of Intellectual Labor." Under
    review, spring 2018.
-1. "Toward a Computational Archaeology of Fictional Space." *NLH* 49, no. 1
-   (2018).
-2. "[Laminate Text: The Strata of Digital Inscription](http://amodern.net/article/laminate-text/)."
-   *Amodern*. December, 2017.
+1. "Toward a Computational Archaeology of Fictional Space." *New Literary
+   History* 49, no. 1 (2018).
+2. "[Laminate Text: The Strata of Digital
+   Inscription](http://amodern.net/article/laminate-text/)." *Amodern*.
+December, 2017.
 3. “[Unintelligent
    Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
 *Boundary 2* 44, no. 2 (May 1, 2017): 145–56.

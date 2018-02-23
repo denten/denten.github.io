@@ -16,8 +16,10 @@ established methodological procedures.
 
 ### Peer Reviewed Journals
 
-1. "Towards a Computational Archaeology of Fictional Space." Forthcoming in
-   *New Literary History* (accepted in August, 2017).
+1. "American Formalism and the Automation of Intellectual Labor." Under
+   review, spring 2018.
+1. "Toward a Computational Archaeology of Fictional Space." *NLH* 49, no. 1
+   (2018).
 2. "[Laminate Text: The Strata of Digital Inscription](http://amodern.net/article/laminate-text/)."
    *Amodern*. December, 2017.
 3. “[Unintelligent
@@ -38,7 +40,7 @@ Afanador-Llach).
 *Modernism/modernity 21.1* (2014): 253–267.
 7. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
 
-### Contributed Essays & Chapters (PR)
+### Contributed Essays & Chapters (Refereed)
 
 1. "Anonymous, Massively Collaborative, Trans-human," forthcoming in
    *Rethinking Authorship in Comparative and Historical Perspectives*, ed.

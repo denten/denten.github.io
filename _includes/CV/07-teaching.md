@@ -5,12 +5,12 @@
 - [*Technologies of Dissent*](
   https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).
 Media studies, critical computing. Mixed enrollment, fall.
-- [Metaphor and
-  Media](https://github.com/denten-courses/metaphor-media/blob/master/README.md).
+- [*Metaphor and
+  Media*](https://github.com/denten-courses/metaphor-media/blob/master/README.md).
 A survey of major works on metaphor, beginning with Aristotle and ending with
 contemporary cognitive and media theory. Mixed enrollment, spring.
-- [Literature
-  Humanities](https://github.com/denten-courses/lit-hum/tree/master/2018-spring).
+- [*Literature
+  Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2018-spring).
 Masterpieces of Western Literature and Philosophy from Homer to Zora Neale
 Hurston. Undergraduate seminar. Columbia Core, year-long.
 
@@ -18,8 +18,8 @@ Hurston. Undergraduate seminar. Columbia Core, year-long.
 - [*Form, Formula,
   Format*](https://github.com/denten-courses/form-formula-format). Literary
 theory. Graduate Seminar, fall.
-- *[Critical Computing in the
-  Humanities](https://github.com/denten-courses/critical-computing/tree/master/2016-spring)*.
+- [*Critical Computing in the
+  Humanities*](https://github.com/denten-courses/critical-computing/tree/master/2016-spring).
 Undergraduate lecture, spring.
 - [*Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).

@@ -37,8 +37,11 @@ Commencement" campaign, funded by the College Dean's office.
 
 #### Graduate Advising
 
+- Yuliya Grinberg, "Sensored: Quantified Self, Self-Tracking, and the Limits
+  of Radical Transparency." External reader, dissertation defense committee,
+spring 2018.
 - Agie Markiewicz, "College Student Literacy Practices in Online Asynchronous
-  Discussion Spaces." Fourth reader, dissertation defense committee, spring
+  Discussion Spaces." External reader, dissertation defense committee, spring
 2018.
 - Jonathan Reeve, "Computational Approaches to the Study of Literary Style."
   Oral exam committee, 09/2017--06/2018.

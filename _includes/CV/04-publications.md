@@ -51,12 +51,12 @@ Haruo Shirane and Tomi Suzuki.  Iwanami Shoten, 2018.
 Adam Hammond, Cambridge University Press, 2018.
 3. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads
    Rosendahl Thomsen, et al. Bloomsbury, 2017.
-4. "Critical Computing in the Humanities" with John Simpson and Phillip
-   Polefrone in *Doing Digital Humanities: Practice, Training and Research*,
-Ed. Ray Siemens. Routledge, 2016.
 5. "Visual-quantitative Approaches to the Intellectual History of the Field"
    in *Futures of Comparative Literature*, ed. Ursula K. Heise, et al.
 Routledge, 2017.
+4. "Critical Computing in the Humanities" with John Simpson and Phillip
+   Polefrone in *Doing Digital Humanities: Practice, Training and Research*,
+Ed. Ray Siemens. Routledge, 2016.
 6. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed.
    Matthew K. Gold, et al. Minnesota UP, 2016.
 7. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und

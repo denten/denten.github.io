@@ -3,17 +3,22 @@
 
 - "Character and Agency in Arthur Hailey's *Airport*." Talk by invitation at
   the Harvard NHC Novel Theory seminar on April 2, 2018.
+- "Computational Archaeology of Fictional Space." Lecture by invitation at
+  Maryland Institute for Technology in the Humanities and Center for Literary
+& Comparative Studies, Maryland University on March 29, 2018.
 - "Phenomenological Models of Time in William Faulkner's *The Sound and the
-  Fury*." Lecture by invitation to Aarhus University on March 23, 2018.
+  Fury*." Workshop by invitation to Aarhus University on March 23, 2018.
 - Principal convener of "Architectures of Knowledge: Lahore" conference.
   "Archives Anonymous, Massively Collaborative, Trans-human," lecture.
 Information Technology Institute, Pakistan on March 14-15, 2018.
 - "American Formalism and the Automation of Intellectual Labor." Lecture by
   invitation at the Becoming Media conference, UCLA on February 23, 2018.
+- "Literary Modeling and Visualization." Lecture by invitation to the School
+  of Communication and Culture, Aarhus University (Denmark) on January 5,
+2018.
 - "Experimental Criticism: The Creative Limits of Artificial Intelligence."
   Talk by invitation to the Center for Digital Cultures at Leuphana University
-(Germany) on December 20, 2017 and on January 5 at the School of Communication
-and Culture, Aarhus University (Denmark).
+(Germany) on December 20, 2017.
 - "Infrastructural Reading: Content, Medium, Context, History." Lecture by
   invitation to the Internet Cultures Symposium at Yale on December 2, 2017.
 - "Plain Text: The Poetics of Computation." Book launch and talk by invitation

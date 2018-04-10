@@ -37,33 +37,33 @@ Commencement" campaign, funded by the College Dean's office.
 
 #### Graduate Advising
 
-- Yuliya Grinberg, "Sensored: Quantified Self, Self-Tracking, and the Limits
-  of Radical Transparency." External reader, dissertation defense committee,
-spring 2018.
-- Agie Markiewicz, "College Student Literacy Practices in Online Asynchronous
-  Discussion Spaces." External reader, dissertation defense committee, spring
-2018.
-- Jonathan Reeve, "Computational Approaches to the Study of Literary Style."
-  Oral exam committee, 09/2017--06/2018.
-- Gabrielle Dacosta, "The Reading Self in George Jackson’s *Soledad Brother*."
-  MA thesis advisor, 09/2016--06/2017.
-- Maxine Arndt, "Women and Animals in *The Woman Warrior* and *My Year of
-  Meats*." MA thesis advisor, 09/2016--06/2017.
-- Sierra Eckert, "Sociology of Literature" reading list. Oral exam committee,
-  09/2016--06/2017.
-- Phillip Polefrone, "Technology and Society" reading list. Oral exam
-  committee, 09/2015--06/2016.
-- Jessica Hallock, "Literary Theory" reading list. Oral exam committee,
-  09/2015-- .
-- Alice Boone, "The Progress of Error: or, the Recursive 18th Century."
-  Dissertation defense committee, spring 2014.
-- Graham Sack. Dissertation defense committee, 2014--
-- Florence Wan Yu Ang, academic advisor, 2017--18.
-- Isabel Guan, academic advisor, 2017--18.
-- Gianmarco Saretto, academic advisor, 2014--15.
-- Jeremy Stevens, academic advisor, 2014--15.
-- Erica Grove, academic advisor, 2013--14.
-- Becky Bort, academic advisor, 2013--14.
+- Yuliya Grinberg (Columbia Anthropology), "Sensored: Quantified Self,
+  Self-Tracking, and the Limits of Radical Transparency," external reader,
+dissertation defense committee, spring 2018.
+- Agie Markiewicz (Teachers College), "College Student Literacy Practices in
+  Online Asynchronous Discussion Spaces," external reader, dissertation
+defense committee, spring 2018.
+- Jonathan Reeve (Columbia English), "computational Approaches to the Study of
+  Literary Style," oral exam committee, 09/2017--06/2018.
+- Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s
+  *Soledad Brother*," MA thesis advisor, 09/2016--06/2017.
+- Maxine Arndt (Columbia English), "Women and Animals in *The Woman Warrior*
+  and *My Year of Meats*," MA thesis advisor, 09/2016--06/2017.
+- Sierra Eckert (Columbia English), "Sociology of Literature" reading list,
+  oral exam committee, 09/2016--06/2017.
+- Phillip Polefrone (Columbia English), "Technology and Society" reading list,
+  oral exam committee, 09/2015--06/2016.
+- Jessica Hallock (Columbia English), "Literary Theory" reading list, oral
+  exam committee, 09/2015-- .
+- Alice Boone (Columbia English), "The Progress of Error: or, the Recursive
+  18th Century," dissertation defense committee, spring 2014.
+- Graham Sack (Columbia English), dissertation defense committee, 2014--
+- Florence Wan Yu Ang (CU English), academic advisor, 2017--18.
+- Isabel Guan (CU English), academic advisor, 2017--18.
+- Gianmarco Saretto (CU English), academic advisor, 2014--15.
+- Jeremy Stevens (CU English), academic advisor, 2014--15.
+- Erica Grove (CU English), academic advisor, 2013--14.
+- Becky Bort (CU English), academic advisor, 2013--14.
 
 #### Misc. Theses, Independent Studies
 

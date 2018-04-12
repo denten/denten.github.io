@@ -2,11 +2,12 @@
 
 #### Department
 
-- Dissertation prize committee, spring 2018.
-- Committee for Undergraduate Education, 2016--
-- Committee for Graduate Education, 2012--15.
+- Associate Director of Graduate Studies, 2018/2019.
+- Dissertation prize committee, 2017/2018.
+- Committee for Undergraduate Education, 2016/2018.
+- Committee for Graduate Education, 2012/2015.
 - Senior essay advising and undergraduate prize committee participation,
-  2012--
+  yearly since 2012.
 - Weekly lab meetings with the [Group for Experimental Methods in the
   Humanities](http://xpmethod.plaintext.in/). Workshops and lecture series,
 2013--
@@ -30,7 +31,7 @@
 - Member of "Literary Theory" and "Theory and History of Media" [university
   seminars](http://universityseminars.columbia.edu/seminars/list-of-seminars/).
 - Multiple contributions to the "Strategic Plan for Humanities in the Arts and
-  Sciences," 2016-2017.
+  Sciences," 2016/2017.
 - Principal convener (along with Manan Ahmed and Roosevelt Montas) of the
   "Connected Core" pilot program as part of the university-wide "Core to
 Commencement" campaign, funded by the College Dean's office.

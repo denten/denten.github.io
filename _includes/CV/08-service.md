@@ -37,12 +37,15 @@ Commencement" campaign, funded by the College Dean's office.
 
 #### Graduate Advising
 
+- Maxwell Foxman (Columbia, Communications), "Playing with Virtual Reality:
+  Early Adopters of Commercial Immersive Technology," dissertation defense
+examiner, spring 2018.
 - Yuliya Grinberg (Columbia Anthropology), "Sensored: Quantified Self,
-  Self-Tracking, and the Limits of Radical Transparency," external reader,
-dissertation defense committee, spring 2018.
+  Self-Tracking, and the Limits of Radical Transparency," dissertation defense
+examiner, spring 2018.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in
-  Online Asynchronous Discussion Spaces," external reader, dissertation
-defense committee, spring 2018.
+  Online Asynchronous Discussion Spaces," dissertation defense examiner,
+spring 2018.
 - Jonathan Reeve (Columbia English), "computational Approaches to the Study of
   Literary Style," oral exam committee, 09/2017--06/2018.
 - Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s
@@ -56,7 +59,7 @@ defense committee, spring 2018.
 - Jessica Hallock (Columbia English), "Literary Theory" reading list, oral
   exam committee, 09/2015-- .
 - Alice Boone (Columbia English), "The Progress of Error: or, the Recursive
-  18th Century," dissertation defense committee, spring 2014.
+  18th Century," dissertation defense examiner, spring 2014.
 - Graham Sack (Columbia English), dissertation defense committee, 2014--
 - Florence Wan Yu Ang (CU English), academic advisor, 2017--18.
 - Isabel Guan (CU English), academic advisor, 2017--18.

@@ -7,19 +7,16 @@ title: "about"
 [Curriculum Vitae <img src="../public/pdf.png" />][5] --- [Author Photo][6]
 --- [Dept][7] --- [Lab][8]
 
-> Dennis Tenen is an Assistant Professor in the [Department of English and
-Comparative Literature, Columbia University][1]. His teaching and research
-happen at the intersection of people, texts, and technologies. A former software
-engineer at Microsoft and currently faculty associate at the [Center for Data,
-Media, and Society][2], he is the author of *[Plain Text: The Poetics of
-Computation][3]* (Stanford University Press, 2017) and co-founder of
-Columbia's [Group for Experimental Methods in the Humanities][4].
-
-> His recent work appears on the pages of *New Literary History*, *Amodern*,
-*boundary2*, *Computational Culture*, *Modernism/modernity*, *Public Books*,
-and *Los Angeles Review of Books* on topics that include literary theory, the
-sociology of literature, media history, and narratology. His next book
-concerns the creative limits of artificial intelligence.
+> Dennis Yi Tenen is associate professor of English and Comparative Literature
+at Columbia University. His teaching and research happen at the intersection
+of people, texts, and technologies. A co-founder of Columbia's Group for
+Experimental Methods in the Humanities, he is the author of *Plain Text: The
+Poetics of Computation* (Stanford University Press, 2017). His recent work
+appears on the pages of *New Literary History*, *Amodern*, *boundary2*,
+*Computational Culture*, and *Modernism/modernity* on topics that include
+literary theory, the sociology of literature, media history, and computational
+narratology. His next book concerns the creative limits of artificial
+intelligence.
 
 Please submit all press queries in writing---I do not give transcribed
 interviews.

@@ -9,9 +9,11 @@ title: "about"
 
 > Dennis Yi Tenen is associate professor of English and Comparative Literature
 at Columbia University. His teaching and research happen at the intersection
-of people, texts, and technologies. A co-founder of Columbia's Group for
-Experimental Methods in the Humanities, he is the author of *Plain Text: The
-Poetics of Computation* (Stanford University Press, 2017). His recent work
+of people, texts, and technologies. Tenen received his doctorate in
+Comparative Literature at Harvard University under the advisement of
+Professors Elaine Scarry and William Todd. A co-founder of Columbia's Group
+for Experimental Methods in the Humanities, he is the author of *Plain Text:
+The Poetics of Computation* (Stanford University Press, 2017). His recent work
 appears on the pages of *New Literary History*, *Amodern*, *boundary2*,
 *Computational Culture*, and *Modernism/modernity* on topics that include
 literary theory, the sociology of literature, media history, and computational

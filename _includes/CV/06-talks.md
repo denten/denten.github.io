@@ -14,8 +14,7 @@ Information Technology Institute, Pakistan on March 14-15, 2018.
 - "American Formalism and the Automation of Intellectual Labor." Lecture by
   invitation at the Becoming Media conference, UCLA on February 23, 2018.
 - "Literary Modeling and Visualization." Lecture by invitation to the School
-  of Communication and Culture, Aarhus University (Denmark) on January 5,
-2018.
+  of Communication and Culture, Aarhus University (Denmark) on January 5, 2018.
 - "Experimental Criticism: The Creative Limits of Artificial Intelligence."
   Talk by invitation to the Center for Digital Cultures at Leuphana University
 (Germany) on December 20, 2017.

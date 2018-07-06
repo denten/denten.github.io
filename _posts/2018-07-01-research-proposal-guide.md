@@ -75,5 +75,5 @@ take a picture, and include it in your proposal. Write a section-by-section
 *A plan of action.*
 
 Identify any gaps you have. Describe work completed (if any).  Come up with a
-reasonable timeline. Suggest per-week, per-month, per-semester goals and
+reasonable **schedule**. Suggest per-week, per-month, per-semester goals and
 milestones.

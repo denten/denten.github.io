@@ -64,7 +64,7 @@ What do you **expect** this material to tell you?  What possible problems
 (theoretical, practical, or otherwise) could stand in the way of your
 analysis?
 
-*How might you **structure** your writing?*
+*How might you structure your writing?*
 
 What form do you expect your thesis to take? What sections or subsections will
 be helpful in organizing your materials and your argument? Do you need to

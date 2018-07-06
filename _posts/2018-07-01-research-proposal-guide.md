@@ -24,31 +24,31 @@ document that poses questions, rather than answering them. To these ends, I
 suggest your proposal contain a concise treatment of all or some of the
 following questions:
 
-*What has prompted your interest in the topic?*
+- *What has prompted your interest in the topic?*
 
 The purpose of the first paragraph is to ease your audience into the field of
 your research. A small case-study, a quotation, or an anecdote can be used to
 create a reader-friendly "point-of-departure," which introduces the reader to
 the range of questions that motivate your work.
 
-*What kinds of questions will you be asking?*
+- *What kinds of questions will you be asking?*
 
 What is your **problematic**?  What philosophical, literary, social,
 ideological, or historical problems will your work engage? What kinds of
 questions do *not* interest you? What categories of thought and critical
 assumptions are involved?
 
-*How do your questions fit into the broader intellectual tradition?*
+- *How do your questions fit into the broader intellectual tradition?*
 
 What is the **tradition** of answering these types of questions?  Where do you
 expect to continue or break with that tradition?
 
-*How will you answer your questions?*
+- *How will you answer your questions?*
 
 What are your **methods**? Close reading?  Distant reading? Interviews?
 Archival research?  Text analysis?  Be practical and specific here.
 
-*Where will you look for your answers?*
+- *Where will you look for your answers?*
 
 Create a sense of your **archive**.  What kind of materials will you be
 looking for (literary, legal, scientific)?  What period?  What language?  What
@@ -58,13 +58,13 @@ collection at Butler Library, or as complicated as "Comparative traditions of
 Medieval Slavonic hagiography." What are the biases implicit in your archive
 or dataset? What kind of things are included or excluded?
 
-*What kind of answers do you anticipate?*
+- *What kind of answers do you anticipate?*
 
 What do you **expect** this material to tell you?  What possible problems
 (theoretical, practical, or otherwise) could stand in the way of your
 analysis?
 
-*How might you structure your writing?*
+- *How might you structure your writing?*
 
 What form do you expect your thesis to take? What sections or subsections will
 be helpful in organizing your materials and your argument? Do you need to
@@ -72,7 +72,7 @@ include some cultural or historical context? Make a diagram on a whiteboard,
 take a picture, and include it in your proposal. Write a section-by-section
 **outline**.
 
-*A plan of action.*
+- *A plan of action.*
 
 Identify any gaps you have. Describe work completed (if any).  Come up with a
 reasonable **schedule**. Suggest per-week, per-month, per-semester goals and

@@ -6,12 +6,13 @@ categories:
 published: true
 ---
 
-I wrote the following document for the [undergraduate concentration in
+> I wrote the following document for the [undergraduate concentration in
 Comparative Literature](https://perma.cc/HRR8-DA7M) at Harvard University a
 few years ago. I was glad to hear recently that students and faculty at
 University College London also found it useful. An updated and versioned copy
 of the document can be found here. Please feel free to reuse with appropriate
-acknowledgements, linking to this post or its sources.
+acknowledgements, linking to this post or [its
+sources](https://github.com/denten/denten.github.io/blob/master/_posts/2018-07-01-research-proposal-guide.md).
 
 ## How to Write a Good Research Proposal
 

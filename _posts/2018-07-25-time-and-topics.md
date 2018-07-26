@@ -6,8 +6,8 @@ categories:
 published: true
 ---
 
-I am always inspired by Ted Underwood's work and his research notes on his
-blog are no exception. "Do topic models wrap time?" he asks in a [recent
+I am always inspired by Ted Underwood's work and his research notes are no
+exception. "Do topic models wrap time?" he asks in a [recent blog
 entry](https://tedunderwood.com/2018/07/26/do-topic-models-warp-time/). At
 stake is a curious and somewhat troubling phenomenon, whereby all
 distributions of topics over time seem to show aberrations at the temporal

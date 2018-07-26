@@ -119,17 +119,7 @@ I suspect the temporal weirdness at the edges of historical topic modeling is
 indicative of deeper methodological problems and of the excitement of working
 at the intersection between qualitative and quantitative analysis.
 
-[^2]: Ted writes: "For instance, suppose we want to understand the pace of
-change in fiction between 1885 and 1984. To make sure that there is exactly
-the same amount of evidence in each decade, we might randomly select 750 works
-in each decade, and reduce each work to 10,000 randomly sampled words. We
-topic-model this corpus. Now, suppose we measure change across every year in
-the timeline by calculating the average cosine distance between the two
-previous years and the next two years. So, for instance, we measure change
-across the year 1911 by taking each work published in 1909 or 1910, and
-comparing its topic proportions (individually) to every work published in 1912
-or 1913. Then we’ll calculate the average of all those distances."
+[^1]: A supervised approach involves teaching the machine based on human categories. In other words: "computer, give me texts most similar to this pile I call 'detective fiction'."
 
-[^1]: A supervised approach involves teaching the machine based on human
-categories. In other words: "computer, give me texts most similar to this pile
-I call 'detective fiction'."
+[^2]: Ted writes: "For instance, suppose we want to understand the pace of change in fiction between 1885 and 1984. To make sure that there is exactly the same amount of evidence in each decade, we might randomly select 750 works in each decade, and reduce each work to 10,000 randomly sampled words. We topic-model this corpus. Now, suppose we measure change across every year in the timeline by calculating the average cosine distance between the two previous years and the next two years. So, for instance, we measure change across the year 1911 by taking each work published in 1909 or 1910, and comparing its topic proportions (individually) to every work published in 1912 or 1913. Then we’ll calculate the average of all those distances."
+

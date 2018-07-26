@@ -7,7 +7,7 @@ published: true
 ---
 
 I am always inspired by Ted Underwood's work and his research notes on his
-blog are no exception. "Do topic models wrap time?" he asks in a [a recent
+blog are no exception. "Do topic models wrap time?" he asks in a [recent
 entry](https://tedunderwood.com/2018/07/26/do-topic-models-warp-time/). At
 stake is an curious and somewhat troubling phenomenon, whereby all
 distributions of topics over time seem to show aberrations at the temporal
@@ -50,12 +50,12 @@ entirety of the corpus*. Yet these initial texts are also likely to contain
 topics not in the sample. The texts from the 1890s at the left-most edge
 contain past topics prominent in the 1880s, beyond the scope of our sample.
 The same is true for the last segment, which contains future topics again not
-included in the sample. Thus the drop off in similarity at the edges.
+included in the sample. Thus the decline in similarity at the edges.
 
 But wait, how did we get here? Like the authors of the [music styles paper](
 http://rsos.royalsocietypublishing.org/content/2/5/150081) Ted cites, we took
 the distribution of topics in the *whole corpus* as a *measuring stick for
-change between periods.*[^2] The weirdness at edges is indicative of that
+change between periods*![^2] The weirdness at edges is indicative of that
 decision. First, our measuring stick changes depending on our sample. Second,
 our sample is itself not a stable culture. And finally, even our medium has
 not be stabilized for long-historical observation.
@@ -80,9 +80,10 @@ view of the topics in the decade. For this reason, the study of change is more
 immediately convincing when we use simpler, more stable measures.  Although
 language changes, it is less volatile than literary fashion. For this reason,
 something like "the usage of definite particles over time" is a more robust
-marker than complex, derivative metrics such as "topics." "Topic proportions"
-as a measure of distance between texts are suspect at the least. The units of
-measure themselves depend on our sample.
+marker than complex, derivative metrics such as "topics." (A strategy that has
+been successful in authorship attribution.)  Overall "topic proportions" as a
+measure of distance between localized texts are suspect at the least. The unit
+of measure itself depends on our sample.
 
 2. Something like "agar" and "bacteria" have precise definitions in the world
    of biology. Not so with human culture. Because there is no precision as to

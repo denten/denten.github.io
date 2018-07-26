@@ -82,7 +82,7 @@ language changes, it is less volatile than literary fashion. For this reason,
 something like "the usage of definite particles over time" is a more robust
 marker than complex, derivative metrics such as "topics." (A strategy that has
 been successful in authorship attribution.)  Overall "topic proportions" as a
-measure of distance between localized texts are suspect at the least. The unit
+measure of distance between localized texts is suspect at the least. The unit
 of measure itself depends on our sample.
 
 2. Something like "agar" and "bacteria" have precise definitions in the world

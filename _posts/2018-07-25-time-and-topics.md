@@ -105,7 +105,7 @@ sample with "natural" boundaries, not dependant on the bias of the researcher.
 Fiction published in a particular journal forms similarly "naturalized"
 boundaries. Better. The petri dish of *The New Yorker* is more stable than
 that of "literature" in general.  Still, we understand that changes in
-formatting or editorial leadership will have dramatic effects the kinds of
+formatting or editorial leadership will have a dramatic effect on the kinds of
 fiction published in *The New Yorker* or selected for *The New York Times Best
 Sellers List*.  What looks like changes in topic distance---a bag of
 words---may really illustrate second order institutional effects. Clustering

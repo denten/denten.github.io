@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modeling Topic Distance Over Time With Ted Underwood"
+title: "Modeling Topic Distance Over Time with Ted Underwood"
 categories:
 - think.stack
 published: true

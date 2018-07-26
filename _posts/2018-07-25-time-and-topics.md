@@ -107,11 +107,12 @@ boundaries. Better. The petri dish of *The New Yorker* is more stable than
 that of "literature" in general.  Still, we understand that changes in
 formatting or editorial leadership will have dramatic effects the kinds of
 fiction published in *The New Yorker* or selected for *The New York Times Best
-Sellers List*.  Clustering topics by words alone will always miss such
-institutional changes.  Adding social features for classification, the way
-Bamman and Underwood have done in their "Mixed Effects Model of Literary
-Character" paper for example, again more closely tracks our theories of
-literary formation.
+Sellers List*.  What looks like changes in topic distance---a bag of
+words---may really illustrate second order institutional effects. Clustering
+topics by words alone will always miss such meta-literary changes. Adding
+social features for classification, the way Bamman and Underwood have done in
+their "Mixed Effects Model of Literary Character" paper for example, again
+more closely tracks our theories of literary formation.
 
 None of these are insurmountable obstacles for computational literary studies.
 I suspect the temporal weirdness at the edges of historical topic modeling is

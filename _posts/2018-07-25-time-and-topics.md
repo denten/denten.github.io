@@ -99,24 +99,24 @@ include film scripts? Historical novels? Autobiographies? What counts as
    topics cannot be reduced to the formal features of the text, much less to
 words alone. One way to deal with sample bias is to rely on external, socially
 constructed markers of distinction. Rather than argue about what "fiction" is,
-we can use the "The New York Times Best Sellers" list, which has been around
-since the 1930s. Stability at last! We have found a sample with "natural"
-boundaries, not dependant on the bias of the researcher. Fiction published in
-a particular journal forms similarly "naturalized" boundaries. The petri dish
-of *The New Yorker* is more stable than that of "literature" in general.
-Still, we understand that changes in formatting or editorial leadership will
-have dramatic effects the kinds of fiction published in *The New Yorker* or
-selected for *The New York Times Best Sellers List*. Clustering topics by
-words alone will always miss such institutional changes. Adding social
-features for classification, the way Bamman and Underwood have done in their
-"Mixed Effects Model of Literary Character" paper for example, again more
-closely tracks our theories of literary formation.
+we can use the "The New York Times Best Sellers" list in the fiction category,
+which has been around since the 1930s. Stability at last: We have found a
+sample with "natural" boundaries, not dependant on the bias of the researcher.
+Fiction published in a particular journal forms similarly "naturalized"
+boundaries. Better. The petri dish of *The New Yorker* is more stable than
+that of "literature" in general.  Still, we understand that changes in
+formatting or editorial leadership will have dramatic effects the kinds of
+fiction published in *The New Yorker* or selected for *The New York Times Best
+Sellers List*.  Clustering topics by words alone will always miss such
+institutional changes.  Adding social features for classification, the way
+Bamman and Underwood have done in their "Mixed Effects Model of Literary
+Character" paper for example, again more closely tracks our theories of
+literary formation.
 
-None of these are insurmountable obstacles for computational literary
-analysis. I suspect the temporal weirdness at the edges of historical topic
-modeling is indicative of deeper methodological problems and of a discipline
-that, after the low-hanging fruit has been plucked, is reaching for new and
-exciting theoretical heights.
+None of these are insurmountable obstacles for computational literary studies.
+I suspect the temporal weirdness at the edges of historical topic modeling is
+indicative of deeper methodological problems and of the excitement of working
+at the intersection between qualitative and quantitative analysis.
 
 [^2]: Ted writes: "For instance, suppose we want to understand the pace of
 change in fiction between 1885 and 1984. To make sure that there is exactly

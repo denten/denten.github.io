@@ -9,7 +9,7 @@ published: true
 I am always inspired by Ted Underwood's work and his research notes on his
 blog are no exception. "Do topic models wrap time?" he asks in a [recent
 entry](https://tedunderwood.com/2018/07/26/do-topic-models-warp-time/). At
-stake is an curious and somewhat troubling phenomenon, whereby all
+stake is a curious and somewhat troubling phenomenon, whereby all
 distributions of topics over time seem to show aberrations at the temporal
 edges of the sampled data. Please read his post before continuing, because
 what I am about to say only makes in the context of his observations. Ted and

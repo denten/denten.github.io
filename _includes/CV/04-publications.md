@@ -43,12 +43,14 @@ Afanador-Llach).
 
 ### Contributed Essays & Chapters (Refereed)
 
+1. "Migrant Media," forthcoming in *Understanding Flusser, Understanding Modernism*, 
+   ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
 1. "Anonymous, Massively Collaborative, Trans-human," forthcoming in
    *Rethinking Authorship in Comparative and Historical Perspectives*, ed.
-Haruo Shirane and Tomi Suzuki.  Iwanami Shoten, 2018.
+Haruo Shirane and Tomi Suzuki. Iwanami Shoten, 2018.
 2. "Digital Text" in *Cambridge Critical Concepts: Technology*, forthcoming as
    part of the Cambridge Critical Concepts in Literary Studies series, ed.
-Adam Hammond, Cambridge University Press, 2018.
+Adam Hammond. Cambridge University Press, 2018.
 3. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads
    Rosendahl Thomsen, et al. Bloomsbury, 2017.
 5. "Visual-quantitative Approaches to the Intellectual History of the Field"

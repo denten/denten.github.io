@@ -43,6 +43,8 @@ Afanador-Llach).
 
 ### Contributed Essays & Chapters (Refereed)
 
+1. "Reading Platforms," forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and  
+   Deidre Shauna Lynch. Oxford UP, 2019.
 1. "Migrant Media," forthcoming in *Understanding Flusser, Understanding Modernism*, 
    ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
 1. "Anonymous, Massively Collaborative, Trans-human," forthcoming in

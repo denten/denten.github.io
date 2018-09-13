@@ -87,7 +87,7 @@ spring 2018.
   *Digital Studies / Le champ numérique*; *International Journal of Humanities
 and Arts Computing*; *National Science Foundation*; *Modernism/Modernity*;
 *Science, Technology & Human Values*, & Association of Computational
-Linguistics (ACL).
+Linguistics (ACL), *Digital Scholarship in the Humanities* (DSH).
 - Program Committee, International Conference of Computational Linguistics,
   Workshop on Trolling, Aggression and Cyberbullying (2018).
 - Program Committee, Association for Computational Linguistics, Abusive

@@ -1,6 +1,11 @@
 
 ## Talks, Workshops, & Conferences
 
+- "Experimental Humanities." Talk by invitation at the Global Emergent Media
+  Lab at Concordia University on November 21, 2018.
+- "Techniques of Industrial Modernism: Plot Robot." Lecture by invitation at
+  the Puzzles, Bots, and Poetics symposium hosted by the Institute of the
+Humanities and Global Cultures, University of Virginia on October 27, 2018.
 - "Character and Agency in Arthur Hailey's *Airport*." Talk by invitation at
   the Harvard NHC Novel Theory seminar on April 2, 2018.
 - "Computational Archaeology of Fictional Space." Lecture by invitation at
@@ -14,7 +19,8 @@ Information Technology Institute, Pakistan on March 14-15, 2018.
 - "American Formalism and the Automation of Intellectual Labor." Lecture by
   invitation at the Becoming Media conference, UCLA on February 23, 2018.
 - "Literary Modeling and Visualization." Lecture by invitation to the School
-  of Communication and Culture, Aarhus University (Denmark) on January 5, 2018.
+  of Communication and Culture, Aarhus University (Denmark) on January 5,
+2018.
 - "Experimental Criticism: The Creative Limits of Artificial Intelligence."
   Talk by invitation to the Center for Digital Cultures at Leuphana University
 (Germany) on December 20, 2017.

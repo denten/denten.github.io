@@ -6,8 +6,8 @@
    Computation](http://www.sup.org/books/title/?id=26821).* Stanford
 University Press, 2017. Alienation of intellectual labor from the material
 contexts of the digital word.
-2. "An Inquiry Concerning the Creative Limits of Artificial Intelligence."
-   Manuscript in progress. The fetishism of "smart" commodities.
+2. "Author Function: An Inquiry Concerning the Creative Limits of Artificial
+   Intelligence." Under review. The fetishism of "smart" commodities.
 3. *Literature and the Experimental Humanities* with Maria Sachiko Cecire.
    Under contract by invitation to "Literature and Contemporary Thought"
 series published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.
@@ -16,10 +16,12 @@ established methodological procedures.
 
 ### Peer Reviewed Journals
 
+1. "Distributed Agency in the Novel." Under review, fall 2018.
 1. "American Formalism and the Automation of Intellectual Labor." Under
-   review, spring 2018.
-1. "Toward a Computational Archaeology of Fictional Space." *New Literary
-   History* 49, no. 1 (2018).
+   review, fall 2018.
+1. "[Toward a Computational Archaeology of Fictional
+   Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New
+Literary History* 49, no. 1 (2018).
 2. "[Laminate Text: The Strata of Digital
    Inscription](http://amodern.net/article/laminate-text/)." *Amodern*.
 December, 2017.

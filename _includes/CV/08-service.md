@@ -42,7 +42,7 @@ Commencement" campaign, funded by the College Dean's office.
   committee, 09/2018--.
 - Naomi Michalowicz (Columbia English), "Narratology," reading list, oral exam
   committee 09/2018--.
-- Maxwell Foxman (Columbia, Communications), "Playing with Virtual Reality:
+- Maxwell Foxman (Columbia Communications), "Playing with Virtual Reality:
   Early Adopters of Commercial Immersive Technology," dissertation defense
 examiner, spring 2018.
 - Yuliya Grinberg (Columbia Anthropology), "Sensored: Quantified Self,

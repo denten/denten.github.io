@@ -96,8 +96,9 @@ Linguistics (ACL), *Digital Scholarship in the Humanities* (DSH).
   Language Workshop (2017, 2018).
 - Knowledge design consulting for Diller Scofidio + Renfro (2017).
 - 2 years as a managing editor of *Modernism/Modernity*.
-- 5+ years application development (Microsoft).
-- 5+ years web design with an emphasis on content management systems (clients
-  include General Motors, The Greening of Detroit, MRI, MSU Libraries and
-Computing Provost).
-- 2+ years desktop publishing as editor/researcher for Physician's Press.
+- 5+ years application development (Microsoft, Windows Group).
+- 5+ years user interface design with an emphasis on content management
+  systems (clients include General Motors, The Greening of Detroit, MRI, MSU
+Libraries and Computing Provost).
+- 2+ years desktop publishing as assistant editor/researcher for Physician's
+  Press.

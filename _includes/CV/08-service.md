@@ -38,8 +38,10 @@ Commencement" campaign, funded by the College Dean's office.
 
 #### Graduate Advising
 
-- Naomi Michalowicz (Columbia English), "Narratology," minor list, oral exam
-  committee 04/2018--.
+- Milan Terlunen (Columbia English), "Literary Theory" reading list, oral exam
+  committee, 09/2018--.
+- Naomi Michalowicz (Columbia English), "Narratology," reading list, oral exam
+  committee 09/2018--.
 - Maxwell Foxman (Columbia, Communications), "Playing with Virtual Reality:
   Early Adopters of Commercial Immersive Technology," dissertation defense
 examiner, spring 2018.
@@ -50,16 +52,16 @@ examiner, spring 2018.
   Online Asynchronous Discussion Spaces," dissertation defense examiner,
 spring 2018.
 - Jonathan Reeve (Columbia English), "Computational Approaches to the Study of
-  Literary Style," minor list, oral exam committee, 09/2017--06/2018.
+  Literary Style," reading list, oral exam committee, 09/2017--06/2018.
 - Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s
   *Soledad Brother*," MA thesis advisor, 09/2016--06/2017.
 - Maxine Arndt (Columbia English), "Women and Animals in *The Woman Warrior*
   and *My Year of Meats*," MA thesis advisor, 09/2016--06/2017.
-- Sierra Eckert (Columbia English), "Sociology of Literature" minor list, oral
+- Sierra Eckert (Columbia English), "Sociology of Literature" reading list, oral
   exam committee, 09/2016--06/2017.
-- Phillip Polefrone (Columbia English), "Technology and Society" minor list,
+- Phillip Polefrone (Columbia English), "Technology and Society" reading list,
   oral exam committee, 09/2015--06/2016.
-- Jessica Hallock (Columbia English), "Literary Theory" minor list, oral exam
+- Jessica Hallock (Columbia English), "Literary Theory" reading list, oral exam
   committee, 09/2015-- .
 - Alice Boone (Columbia English), "The Progress of Error: or, the Recursive
   18th Century," dissertation defense examiner, spring 2014.

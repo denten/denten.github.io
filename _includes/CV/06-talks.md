@@ -6,6 +6,8 @@
 - "Techniques of Industrial Modernism: Plot Robot." Lecture by invitation at
   the Puzzles, Bots, and Poetics symposium hosted by the Institute of the
 Humanities and Global Cultures, University of Virginia on October 27, 2018.
+- "Platform Reading." Lecture and workshop by invitation to Digital Theory Lab
+at New York University.
 - "Character and Agency in Arthur Hailey's *Airport*." Talk by invitation at
   the Harvard NHC Novel Theory seminar on April 2, 2018.
 - "Computational Archaeology of Fictional Space." Lecture by invitation at

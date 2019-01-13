@@ -10,10 +10,17 @@ Comparative Literature, September 2012--
 - Affiliated Faculty, Institute of Data Sciences and Engineering, New Media
   Center
 
-Awards: Presidential Global Innovation Fund, The Brown Center for Media
-Innovation Magic Grant and Flagship, Lenfest Junior Faculty Development,
-Heyman Center Faculty Fellowship, Research Fellowship at Center for Digital
-Cultures (Leuphana University, 2017).
+Awards: Presidential Global Innovation Fund awarded for "Architectures of Knowledge: Mumbai"
+project (PI, 2015); The Brown Center for Media Innovation Magic Grant and Flagship Grants,
+~500,000$ in support of Science Surveyor, a joint project on the sociology of project with Dan
+Jurafsky (Stanford), Marguerite Holloway (CU Science Journalism), and Laura Kurgan (Spatial
+Information Design Lab), 2015--16; Lenfest Junior Faculty Development Grant in support of first
+book (2016); Media Studies Fellowship at the Center for Digital Cultures (Leuphana University,
+Germany 2017); Heyman Center Faculty Fellowship (Columbia, 2017--18); Collaboratory Curriculum
+Innovation in Data and Computational Literacy Fellows Fund award for a course on Literary
+Modeling and Visualization (co-PI with Pamela Smith, Center for Science and Society, 2019);
+Computational Narratology Research Fellowship at the Institute for Communication and Culture,
+with the Unearned Wealth research group (Aarhus University, Denmark 2019).
 
 ### Berkman Center for Internet and Society at Harvard University
 

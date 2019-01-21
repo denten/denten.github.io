@@ -1,6 +1,16 @@
 
 ## Teaching
 
+#### 2018-19 (Columbia University)
+- [Textual
+  Technology](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
+The physicality of text from characters, to words, sentences, paragraphs, pages, books, and
+archives.
+- [*Literature Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2019-spring).
+  Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
+Undergraduate seminar. Columbia Core, year-long.
+
+
 #### 2017-18 (Columbia University)
 - [*Technologies of Dissent*](
   https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).

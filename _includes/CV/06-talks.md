@@ -1,5 +1,4 @@
-
-## Talks, Workshops, & Conferences
+## I. Invited Talks, Workshops, & Conferences
 
 - "Authoring Artificial Intelligence: Chatbots and Story Generators of the 1960--1970s."
   Lecture by invitation at the Human Futures Research Program, Aarhus University, Denmark on
@@ -81,8 +80,7 @@ of the Association of American University Presses, hosted by Columbia University
 - "Civic Scholarship." Lecture by invitation at the Research Without Borders conference,
   Columbia University on February 27, 2014.
 - "Visualizing Book Piracy." Conference address by invitation at Detective: Advanced Data
-  Visualization Project, Graduate School of Architecture, Columbia University on February 3,
-2013.
+  Visualization Project, Graduate School of Architecture, Columbia University on February 3, 2013.
 - "Algorithmic Agency." Lecture by invitation at the Cognitive Theory and the Arts Seminar,
   Harvard Humanities Center on November 21, 2013.
 - "Authoring in Plain Text." Workshop by invitation at the Center for Science and the
@@ -97,8 +95,7 @@ Literature Colloquium at Harvard on November 22, 2013.
 - "Hacking the Archive." Lecture by invitation at the New Media in Education Conference,
   Columbia University on February 1, 2013.
 - "Digital Humanities at Columbia." Lecture by invitation at the Integrative Graduate Education
-  and Research Traineeship, Department of Computer Science, Columbia University on November 27,
-2012.
+  and Research Traineeship, Department of Computer Science, Columbia University on November 27, 2012.
 - "Growth and Decay of Shared Knowledge." Lecture at the Berkman Klein Center for Internet and
   Society, Harvard University on April 3, 2012.
 - "Reflections on the 'Laboratory' Paradigm in the Humanities." Lecture at the Berkman Klein
@@ -118,3 +115,4 @@ on October 26, 2011.
   AAASS Conference in Boston, MA on November 12, 2009.
 - "The Birth of Non-Fiction." Lecture at the Slavic Languages and Literatures Colloquium,
   Harvard University in October, 2006.
+

@@ -1,5 +1,4 @@
-
-## Teaching
+## Teaching Experience
 
 #### 2018-19 (Columbia University)
 - [Textual
@@ -86,4 +85,5 @@ Undergraduate seminar. Columbia Core, year-long.
 - 20th Century Russian Literature Survey, TF w/ Prof. Svetlana Boym, fall 2005.
 - *Self, Serenity, and Vulnerability*, TF w/ Profs. Roberto Unger & Michael Puett, fall 2007 and spring 2010. Moral reasoning.
 - *Self, Freedom, and Existence*, TF w/ Prof. Richard Moran, fall 2008. Moral reasoning.
+
 

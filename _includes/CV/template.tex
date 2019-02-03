@@ -145,13 +145,14 @@ $header-includes$
 $endfor$
 
 \begin{document}
-\maintitle{$author$}{$if(birthday)$$birthday$$endif$}
+\maintitle{$author$}{$if(birthday)$$birthday$$endif$}\hspace*{\fill} \texttt{\today}
 
-  \noindent\href{mailto:$email$}{$email$}\bull
-  \textsmaller{+}1 $telephone$\bull \href{http://www.$url$}{$url$}
+  \texttt{\href{mailto:$email$}{$email$}\bull
+  \textsmaller {+}1 $telephone$\bull
+  \href{http://www.$url$}{$url$}}
 
 $for(bio)$
-\subsection{Summary}
+\subsection{A. Field Specialization}
 $if(bio.short)$
 \noindent\emph{$bio.short$}
 $endif$
@@ -207,7 +208,7 @@ $include-after$
 $endfor$
 
 \begin{center}
-{\footnotesize Updated: \today}
+\texttt{last updated on \today}
 \end{center}
 
 \end{document}

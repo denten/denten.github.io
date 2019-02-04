@@ -1,4 +1,4 @@
-## Teaching Experience
+## D. Teaching Experience
 
 #### 2018-19 (Columbia University)
 - [Textual

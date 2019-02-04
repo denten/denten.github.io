@@ -21,12 +21,12 @@
 3. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
    *Boundary 2* 44, no. 2 (May 1, 2017): 145–56.
 4. "[Book Piracy as Peer
-   Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)."
-*Computational Culture 4* (2014).
+   Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation),"
+primary author with Maxwell Foxman *Computational Culture 4* (2014).
 5. "[Sustainable Authorship in Plain
    Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
-*The Programming Historian* (2014). Translated into Spanish as "[Escritura sostenible en texto
-plano usando Pandoc y
+*The Programming Historian* (2014). Primary author with Grant Wythoff. Translated into Spanish
+as "[Escritura sostenible en texto plano usando Pandoc y
 Markdown](http://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)"
 by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach).
 6. "[Stalin’s

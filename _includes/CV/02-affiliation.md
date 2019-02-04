@@ -28,8 +28,8 @@ Society.
 
 Member of metaLab and Cooperation research groups.  
 
-- Academic Fellow, 2011--2012.
-- Affiliated Faculty, 2012--2016.
+- Academic Fellow, 2011 -- 2012.
+- Affiliated Faculty, 2012 -- 2016.
 
 ### Harvard University (Cambridge, MA)
 
@@ -37,5 +37,5 @@ Lecturer in Comparative Literature, Spring 2012.
 
 ### Microsoft (Palo Alto, CA)
 
-Software Engineer. WebTV, Media Center, and subsequently Windows XP group. 2000--2004.
+Software Engineer. WebTV, Media Center, and subsequently Windows XP group, 2000--2004.
  

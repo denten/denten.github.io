@@ -37,5 +37,5 @@ Lecturer in Comparative Literature, Spring 2012.
 
 ### Microsoft (Palo Alto, CA)
 
-Software Engineer. WebTV, Media Center, and subsequently Windows XP group, 2000--2004.
+Software Engineer. WebTV, Media Center, and subsequently Windows XP group, 2000 -- 2004.
  

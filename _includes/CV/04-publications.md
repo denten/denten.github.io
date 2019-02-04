@@ -5,7 +5,7 @@
 1. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821).*
    Stanford University Press, 2017.
 2. *Author Function: Artificial Intelligence and the Automation of Literary Labor.* Manuscript
-   under contract with The University of Chicago Press as of February, 2019.
+   under review with The University of Chicago Press as of February, 2019.
 3. "And Others: The Evolution of Literary Cooperation." Manuscript in progress.
 4. "Computational Narratology: Time, Space, and Agency in the Novel." Manuscript in progress.
 

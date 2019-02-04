@@ -36,43 +36,6 @@
   "Connected Core" pilot program as part of the university-wide "Core to
 Commencement" campaign, funded by the College Dean's office.
 
-#### Graduate Advising
-
-- Milan Terlunen (Columbia English), "Literary Theory" reading list, oral exam
-  committee, 09/2018--.
-- Naomi Michalowicz (Columbia English), "Narratology," reading list, oral exam
-  committee 09/2018--.
-- Maxwell Foxman (Columbia Communications), "Playing with Virtual Reality:
-  Early Adopters of Commercial Immersive Technology," dissertation defense
-examiner, spring 2018.
-- Yuliya Grinberg (Columbia Anthropology), "Sensored: Quantified Self,
-  Self-Tracking, and the Limits of Radical Transparency," dissertation defense
-examiner, spring 2018.
-- Agie Markiewicz (Teachers College), "College Student Literacy Practices in
-  Online Asynchronous Discussion Spaces," dissertation defense examiner,
-spring 2018.
-- Jonathan Reeve (Columbia English), "Computational Approaches to the Study of
-  Literary Style," reading list, oral exam committee, 09/2017--06/2018.
-- Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s
-  *Soledad Brother*," MA thesis advisor, 09/2016--06/2017.
-- Maxine Arndt (Columbia English), "Women and Animals in *The Woman Warrior*
-  and *My Year of Meats*," MA thesis advisor, 09/2016--06/2017.
-- Sierra Eckert (Columbia English), "Sociology of Literature" reading list, oral
-  exam committee, 09/2016--06/2017.
-- Phillip Polefrone (Columbia English), "Technology and Society" reading list,
-  oral exam committee, 09/2015--06/2016.
-- Jessica Hallock (Columbia English), "Literary Theory" reading list, oral exam
-  committee, 09/2015-- .
-- Alice Boone (Columbia English), "The Progress of Error: or, the Recursive
-  18th Century," dissertation defense examiner, spring 2014.
-- Graham Sack (Columbia English), dissertation defense committee, 2014--
-- Florence Wan Yu Ang (CU English), academic advisor, 2017--18.
-- Isabel Guan (CU English), academic advisor, 2017--18.
-- Gianmarco Saretto (CU English), academic advisor, 2014--15.
-- Jeremy Stevens (CU English), academic advisor, 2014--15.
-- Erica Grove (CU English), academic advisor, 2013--14.
-- Becky Bort (CU English), academic advisor, 2013--14.
-
 #### Misc. Theses, Independent Studies
 
 - Elena Goldstein, "Big Brother all Grown Up," independent study, fall 2014.

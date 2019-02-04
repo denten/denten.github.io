@@ -1,14 +1,13 @@
-## D. Teaching Experience
+## D. Teaching and Advising
 
 #### 2018-19 (Columbia University)
 - [Textual
-  Technology](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
+  Transformations](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
 The physicality of text from characters, to words, sentences, paragraphs, pages, books, and
 archives.
 - [*Literature Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2019-spring).
   Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
-
 
 #### 2017-18 (Columbia University)
 - [*Technologies of Dissent*](
@@ -69,21 +68,56 @@ Undergraduate seminar. Columbia Core, year-long.
 - *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly, fall.
 - *Literature Humanities*. Undergraduate seminar. Columbia Core, year-long.
 
-#### 2011-12 (Harvard University)
+#### Before 2012 (Harvard University, Tufts University)
 
 - *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH
   lab, spring.
-
-#### Before 2011 (Harvard University, Tufts University)
-
-- *The Art of Numbers*, Teaching Fellow (TF) with Prof. Alyssa Goodman, spring
-  2008 & 2010. Undergraduate seminar, data visualization, quantitative reasoning.
-- *Future of the Book*, Tufts University Lecturer, Spring 2008, undergraduate seminar.
+- *The Art of Numbers*, Teaching Fellow (TF) with Prof. Alyssa Goodman, spring 2008 & 2010.
+  Undergraduate seminar, data visualization, quantitative reasoning.
 - *Literature Tutorial*, Harvard Tutor in the of fall 2007 through spring 2010.
+- *Self, Serenity, and Vulnerability*, TF w/ Profs. Roberto Unger & Michael Puett, fall 2007
+  and spring 2010. Moral reasoning.
 - 19th Century English Literature Survey, TF w/ Prof. Matthew Kaiser, spring 2009.
+- *Future of the Book*, Tufts University Lecturer, Spring 2008, undergraduate seminar.
+- *Self, Freedom, and Existence*, TF w/ Prof. Richard Moran, fall 2008. Moral reasoning.
 - 19th Century Russian Literature Survey, TF w/ Prof. William Mills Todd III, spring 2006.
 - 20th Century Russian Literature Survey, TF w/ Prof. Svetlana Boym, fall 2005.
-- *Self, Serenity, and Vulnerability*, TF w/ Profs. Roberto Unger & Michael Puett, fall 2007 and spring 2010. Moral reasoning.
-- *Self, Freedom, and Existence*, TF w/ Prof. Richard Moran, fall 2008. Moral reasoning.
 
+#### Graduate Advising
+
+- Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee,
+  09/2018--.
+- Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee
+  09/2018--.
+- Jonathan Reeve (Columbia English), Dissertation Defense Committee, Second reader, 09/2018--.
+- Maxwell Foxman (Columbia Communications), "Playing with Virtual Reality: Early Adopters of
+  Commercial Immersive Technology," Dissertation Defense Committee, Second reader, spring 2018.
+Assistant Professor of Media Studies/Game Studies at the University of Oregon.
+- Yuliya Grinberg (Columbia Anthropology), "Sensored: Quantified Self, Self-Tracking, and the
+  Limits of Radical Transparency," Dissertation Defense Committee, Third reader, spring 2018.
+Consultant at The Cooper Union for the Advancement of Science and Art.
+- Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
+  Asynchronous Discussion Spaces," Dissertation Defense Committee, Third reader, spring 2018.
+Director, Pace University Writing Center.
+- Jonathan Reeve (Columbia English), "Computational Approaches to the Study of Literary Style,"
+  Reading list, Oral Exam Committee, 09/2017--06/2018.
+- Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s *Soledad
+  Brother*," MA thesis advisor, 09/2016--06/2017.
+- Maxine Arndt (Columbia English), "Women and Animals in *The Woman Warrior* and *My Year of
+  Meats*," MA thesis advisor, 09/2016--06/2017.
+- Sierra Eckert (Columbia English), "Sociology of Literature" Reading list, Oral Exam
+  Committee, 09/2016--06/2017.
+- Phillip Polefrone (Columbia English), "Technology and Society" Reading list, Oral Exam
+  Committee, 09/2015--06/2016.
+- Jessica Hallock (Columbia English), "Literary Theory" Reading list, Oral Exam Committee,
+  09/2015-- .
+- Alice Boone (Columbia English), "The Progress of Error: or, the Recursive 18th Century,"
+  Dissertation Defense Committee, Third reader, spring 2014.
+- Graham Sack (Columbia English), Dissertation Defense Committee, Second reader, 2014--
+- Florence Wan Yu Ang (CU English), Academic advisor, 2017--18.
+- Isabel Guan (CU English), Academic advisor, 2017--18.
+- Gianmarco Saretto (CU English), Academic advisor, 2014--15.
+- Jeremy Stevens (CU English), Academic advisor, 2014--15.
+- Erica Grove (CU English), Academic advisor, 2013--14.
+- Becky Bort (CU English), Academic advisor, 2013--14.
 

@@ -1,15 +1,29 @@
-## E. Publications
+## E. Publications and Works in Progress
 
-### Monographs
+### Manuscripts in Progress
+
+1. "Author Function: Artificial Intelligence and the Automation of Literary Labor." Book
+   manuscript under review with The University of Chicago Press as of February, 2019.
+2. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
+   *Rethinking Authorship in Comparative and Historical Perspectives*, ed.  Haruo Shirane and
+Tomi Suzuki.  Iwanami Shoten, 2019.
+3. "Computational Narratology: Time, Space, and Agency in the Novel." Article manuscript under
+   review.
+4. "And Others: The Evolution of Literary Cooperation." Book manuscript in progress.
+5. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
+   Deidre Shauna Lynch. Oxford UP, 2019.
+6. "Literature and the Experimental Humanities" with Maria Sachiko Cecire.  Co-authored book
+   manuscript under contract by invitation to "Literature and Contemporary Thought" series
+published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.
+7. "Migrant Media," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
+   ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
+
+### Published Monographs
 
 1. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821).*
    Stanford University Press, 2017.
-2. *Author Function: Artificial Intelligence and the Automation of Literary Labor.* Manuscript
-   under review with The University of Chicago Press as of February, 2019.
-3. "And Others: The Evolution of Literary Cooperation." Manuscript in progress.
-4. "Computational Narratology: Time, Space, and Agency in the Novel." Manuscript in progress.
 
-### Peer Reviewed Journals
+### Peer Reviewed Publications
 
 1. "Distributed Agency in the Novel." Under review, spring 2019.
 1. "American Formalism and the Automation of Intellectual Labor." Under review, spring 2019.
@@ -36,19 +50,6 @@ by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach
 
 ### Contributed Essays & Chapters (Refereed)
 
-1. "Literature and the Experimental Humanities" with Maria Sachiko Cecire.  Under contract by
-   invitation to "Literature and Contemporary Thought" series published by Routledge, ed.
-Ursula K. Heise & Guillermina De Ferrari.
-1. "Reading Platforms," forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and  Deidre
-   Shauna Lynch. Oxford UP, 2019.
-1. "Migrant Media," forthcoming in *Understanding Flusser, Understanding Modernism*, ed. by
-   Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
-1. "Anonymous, Massively Collaborative, Trans-human," forthcoming in *Rethinking Authorship in
-   Comparative and Historical Perspectives*, ed.  Haruo Shirane and Tomi Suzuki. Iwanami
-Shoten, 2018.
-2. "Digital Text" in *Cambridge Critical Concepts: Technology*, forthcoming as part of the
-   Cambridge Critical Concepts in Literary Studies series, ed.  Adam Hammond. Cambridge
-University Press, 2018.
 3. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
    Thomsen, et al. Bloomsbury, 2017.
 5. "Visual-quantitative Approaches to the Intellectual History of the Field" in *Futures of

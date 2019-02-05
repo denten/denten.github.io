@@ -1,15 +1,14 @@
 ## D. Teaching and Advising
 
-#### 2018-19 (Columbia University)
-- [Textual
-  Transformations](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
+#### 2018 -- 19
+- [*Textual Formations*](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
 The physicality of text from characters, to words, sentences, paragraphs, pages, books, and
 archives.
 - [*Literature Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2019-spring).
   Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
-#### 2017-18 (Columbia University)
+#### 2017 -- 18
 - [*Technologies of Dissent*](
   https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).
 Media studies, critical computing. Mixed enrollment, fall.
@@ -22,7 +21,7 @@ contemporary cognitive and media theory. Mixed enrollment, spring.
 Masterpieces of Western Literature and Philosophy from Homer to Zora Neale
 Hurston. Undergraduate seminar. Columbia Core, year-long.
 
-#### 2016-17 (Columbia University)
+#### 2016 -- 17
 - [*Form, Formula,
   Format*](https://github.com/denten-courses/form-formula-format). Literary
 theory. Graduate Seminar, fall.
@@ -33,7 +32,7 @@ Undergraduate lecture, spring.
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
 Undergraduate seminar. Columbia Core, year-long.
 
-#### 2014-15 (Columbia University)
+#### 2014 -- 15
 
 - [*Computing in Context: Textual & Literary
   Scholarship.*](https://github.com/denten-courses/computing-context) w/ Matt
@@ -50,7 +49,7 @@ Undergraduate seminar. Columbia Core, year-long.
 Lecture & lab. University of Victoria, Canada. Digital Humanities Summer
 Institute, summer 2015.
 
-#### 2013-14 (Columbia University)
+#### 2013 -- 14
 
 - [*Illicit
   Knowledge*](https://github.com/denten-courses/critical-computing/tree/master/2014-spring).
@@ -62,7 +61,7 @@ Undergraduate seminar. Columbia Core, year-long.
 - *Foundations of Computing for Data Science Journalism*. Lecture & lab. Lede
   Program. Graduate School of Journalism, summer 2014.
 
-#### 2012-13 (Columbia University)
+#### 2012 -- 13
 
 - *Beyond the Human*. Seminar. Topics in new media studies, spring.
 - *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly, fall.
@@ -70,54 +69,61 @@ Undergraduate seminar. Columbia Core, year-long.
 
 #### Before 2012 (Harvard University, Tufts University)
 
-- *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH
-  lab, spring.
+- *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH lab, spring 2012.
 - *The Art of Numbers*, Teaching Fellow (TF) with Prof. Alyssa Goodman, spring 2008 & 2010.
   Undergraduate seminar, data visualization, quantitative reasoning.
 - *Literature Tutorial*, Harvard Tutor in the of fall 2007 through spring 2010.
 - *Self, Serenity, and Vulnerability*, TF w/ Profs. Roberto Unger & Michael Puett, fall 2007
   and spring 2010. Moral reasoning.
 - 19th Century English Literature Survey, TF w/ Prof. Matthew Kaiser, spring 2009.
-- *Future of the Book*, Tufts University Lecturer, Spring 2008, undergraduate seminar.
+- *Future of the Book*, Tufts University Lecturer, spring 2008, undergraduate seminar.
 - *Self, Freedom, and Existence*, TF w/ Prof. Richard Moran, fall 2008. Moral reasoning.
 - 19th Century Russian Literature Survey, TF w/ Prof. William Mills Todd III, spring 2006.
 - 20th Century Russian Literature Survey, TF w/ Prof. Svetlana Boym, fall 2005.
 
-#### Graduate Advising
+#### Doctoral Advising
 
-- Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee,
-  09/2018--.
-- Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee
-  09/2018--.
-- Jonathan Reeve (Columbia English), Dissertation Defense Committee, Second reader, 09/2018--.
+- Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2018 --
+- Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee 2018 --
+- Jonathan Reeve (Columbia English), Dissertation Defense Committee, Second reader, 2018 --
 - Maxwell Foxman (Columbia Communications), "Playing with Virtual Reality: Early Adopters of
-  Commercial Immersive Technology," Dissertation Defense Committee, Second reader, spring 2018.
+  Commercial Immersive Technology," Dissertation Defense Committee, Second reader, Spring 2018.
 Assistant Professor of Media Studies/Game Studies at the University of Oregon.
 - Yuliya Grinberg (Columbia Anthropology), "Sensored: Quantified Self, Self-Tracking, and the
-  Limits of Radical Transparency," Dissertation Defense Committee, Third reader, spring 2018.
+  Limits of Radical Transparency," Dissertation Defense Committee, Third reader, Spring 2018.
 Consultant at The Cooper Union for the Advancement of Science and Art.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
-  Asynchronous Discussion Spaces," Dissertation Defense Committee, Third reader, spring 2018.
+  Asynchronous Discussion Spaces," Dissertation Defense Committee, Third reader, Spring 2018.
 Director, Pace University Writing Center.
 - Jonathan Reeve (Columbia English), "Computational Approaches to the Study of Literary Style,"
-  Reading list, Oral Exam Committee, 09/2017--06/2018.
+  Reading list, Oral Exam Committee, 2017 -- 18.
 - Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s *Soledad
-  Brother*," MA thesis advisor, 09/2016--06/2017.
-- Maxine Arndt (Columbia English), "Women and Animals in *The Woman Warrior* and *My Year of
-  Meats*," MA thesis advisor, 09/2016--06/2017.
+  Brother*," MA thesis advisor, 2016 -- 17.
 - Sierra Eckert (Columbia English), "Sociology of Literature" Reading list, Oral Exam
-  Committee, 09/2016--06/2017.
+  Committee, 2016 -- 17.
 - Phillip Polefrone (Columbia English), "Technology and Society" Reading list, Oral Exam
-  Committee, 09/2015--06/2016.
-- Jessica Hallock (Columbia English), "Literary Theory" Reading list, Oral Exam Committee,
-  09/2015-- .
+  Committee, 2015 -- 16.
+- Jessica Hallock (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2015 --
 - Alice Boone (Columbia English), "The Progress of Error: or, the Recursive 18th Century,"
-  Dissertation Defense Committee, Third reader, spring 2014.
-- Graham Sack (Columbia English), Dissertation Defense Committee, Second reader, 2014--
-- Florence Wan Yu Ang (CU English), Academic advisor, 2017--18.
-- Isabel Guan (CU English), Academic advisor, 2017--18.
-- Gianmarco Saretto (CU English), Academic advisor, 2014--15.
+  Dissertation Defense Committee, Third reader, Spring 2014.
+- Graham Sack (Columbia English), Dissertation Defense Committee, Second reader, 2014 --
+
+#### Master Advising
+
+- Maxine Arndt (Columbia English), "Women and Animals in *The Woman Warrior* and *My Year of
+  Meats*," MA thesis advisor, 2016 -- 17.
+- Gianmarco Saretto (CU English), Academic advisor, 2014 -- 15.
+- Florence Wan Yu Ang (CU English), Academic advisor, 2017 -- 18.
+- Isabel Guan (CU English), Academic advisor, 2017 -- 18.
 - Jeremy Stevens (CU English), Academic advisor, 2014--15.
-- Erica Grove (CU English), Academic advisor, 2013--14.
-- Becky Bort (CU English), Academic advisor, 2013--14.
+- Erica Grove (CU English), Academic advisor, 2013 -- 14.
+- Becky Bort (CU English), Academic advisor, 2013 -- 14.
+
+#### Undergraduate Advising
+
+- Elena Goldstein, "Big Brother all Grown Up," Independent Study, 2014.
+- Christopher Brennan, "Personal Social Networks and Deliberative Democracy in the Russian
+  Anti-Putin Protest Movement," Senior Thesis, 2014.
+- Jessica Tyler, "The New Opposition, The Russian Language Blogosphere and its Impact on Public
+  Discourse," Senior Thesis, 2013.
 

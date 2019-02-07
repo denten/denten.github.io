@@ -1,4 +1,4 @@
-## F. Selected Grants and Collaborations
+## F. Selected Grants and Other Collaborations
 
 - "Transforming Texts: Computational Approaches to Text Analysis and Visualization" (2019),
   co-PI with Pamela Smith (Columbia, History) and Steven Feiner (Columbia, Computer Science).
@@ -8,30 +8,21 @@ Fund.
   international workshops on censorship and access to knowledge, leading to the "Architectures
 of Knowledge" conferences in Mumbai and Lahore. Events covered in *Daily Times*, *The Express
 Tribune*, and *Urdu Point*.
-- *[Group for Experimental Methods in the Humanities](http://xpmethod.github.io/)* (2014 --),
-  founding member. A research collective specializing in cultural analytics, literary modeling
-and visualization, technologies of dissent, media archaeology, spatial humanities.
-- *[Science
-  Surveyor](http://xpmethod.plaintext.in/literary-modeling-and-visualization-lab/surveyor.html)*
+- [*Science Surveyor*](http://xpmethod.plaintext.in/literary-modeling-and-visualization-lab/surveyor.html)
 (2014 -- 16), co-PI with Marguerite Holloway (Columbia, Journalism), Dan Jurafsky (Stanford,
 Computer Science) and Daniel McFarland (Stanford, Sociology). Visualizing the growth and decay
 of shared knowledge. Recipient of Brown Center Media Innovation Award ($500k).
-- *[Rikers Story Bot](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html)*,
+- [*Rikers Story Bot*](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html),
   (2015 --) in collaboration with Columbia's Center for Justice. Coding workshop and
 algorithmic storytelling event set in and about Rikers Island correctional facility, New York
 City's main jail complex. Featured in *Fast Company*.
-- *[Open Syllabus
-  Project](http://xpmethod.plaintext.in/knowledge-design-studio/open-syllabus-project.html)*
+- [*Open Syllabus Project*](http://xpmethod.plaintext.in/knowledge-design-studio/open-syllabus-project.html)
 (2013 -- 15), co-PI with Joe Karaganis (American Assembly) and Alison Head (Harvard,
 Information Science). Collecting and analyzing the world's largest corpus of academic syllabi.
 Recipient of $210k grant from the Sloan Foundation.  Research featured in *The New York Times*,
 *TIME Magazine*, *Der Spiegel Online*, *FiveThirtyEight*.
-- *[piracylab.org](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html)* (2013
-  -- 14), PI. Research group exploring the impact of piracy on the spread of knowledge around
+- [*piracylab.org*](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html) (2013 -- 14), PI. Research group exploring the impact of piracy on the spread of knowledge around
 the world. Findings featured in *Le Monde*.
-- *[Studio at Butler](https://studio.cul.columbia.edu/)* (2013 --), founding member, faculty
-  advisor. Planning, specification, and programming of the Butler Studio, a maker/lab space at
-the center of Butler Library. Hosting lectures, training workshops, and open labs.
 
 *For a curated portfolio of projects, awards, and press coverage please visit
 [xpmethod.plaintext.in/impact](https://xpmethod.plaintext.in/impact.html).*

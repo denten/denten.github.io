@@ -11,7 +11,7 @@ January 17, 2019.
   Puzzles, Bots, and Poetics symposium hosted by the Institute of the Humanities and Global
 Cultures, University of Virginia on October 27, 2018.
 - "Platform Reading." Lecture and workshop by invitation to Digital Theory Lab at New York
-  University.
+  University on October 23, 2018.
 - "Character and Agency in Arthur Hailey's *Airport*." Talk by invitation at the Harvard NHC
   Novel Theory seminar on April 2, 2018.
 - "Computational Archaeology of Fictional Space." Lecture by invitation at Maryland Institute
@@ -57,7 +57,7 @@ British Library, London on September 22, 2017.
   Ephemerality: Media, Archive, Memory panel at ACLA (Harvard University) on March 17-19, 2016.
 - "Metaphor Machines." Lecture by invitation at the Digital Poetics Conference, CUNY Graduate
   Center on February 5, 2016. Presented also at Possibilities: Works-in-Progress seminar,
-Institute for Comparative Literature and Society, Columbia on 14 November, 2016.
+Institute for Comparative Literature and Society, Columbia on November 14, 2016.
 - "Rapid Prototyping of Speculative Thought." Talk by invitation at Digging Deep: Ecosystems,
   Institutions and Processes for Critical Making, CUNY Graduate Center on December 1, 2015.
 - "Scene Detection in Literary Fiction." Paper by invitation at the New Digital Resources and
@@ -80,7 +80,8 @@ of the Association of American University Presses, hosted by Columbia University
 - "Civic Scholarship." Lecture by invitation at the Research Without Borders conference,
   Columbia University on February 27, 2014.
 - "Visualizing Book Piracy." Conference address by invitation at Detective: Advanced Data
-  Visualization Project, Graduate School of Architecture, Columbia University on February 3, 2013.
+  Visualization Project, Graduate School of Architecture, Columbia University on February 3,
+2014.
 - "Algorithmic Agency." Lecture by invitation at the Cognitive Theory and the Arts Seminar,
   Harvard Humanities Center on November 21, 2013.
 - "Authoring in Plain Text." Workshop by invitation at the Center for Science and the
@@ -95,7 +96,8 @@ Literature Colloquium at Harvard on November 22, 2013.
 - "Hacking the Archive." Lecture by invitation at the New Media in Education Conference,
   Columbia University on February 1, 2013.
 - "Digital Humanities at Columbia." Lecture by invitation at the Integrative Graduate Education
-  and Research Traineeship, Department of Computer Science, Columbia University on November 27, 2012.
+  and Research Traineeship, Department of Computer Science, Columbia University on November 27,
+2012.
 - "Growth and Decay of Shared Knowledge." Lecture at the Berkman Klein Center for Internet and
   Society, Harvard University on April 3, 2012.
 - "Reflections on the 'Laboratory' Paradigm in the Humanities." Lecture at the Berkman Klein

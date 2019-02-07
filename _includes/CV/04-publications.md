@@ -7,16 +7,18 @@
 2. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
    *Rethinking Authorship in Comparative and Historical Perspectives*, ed.  Haruo Shirane and
 Tomi Suzuki.  Iwanami Shoten, 2019.
-3. "Computational Narratology: Time, Space, and Agency in the Novel." Article manuscript under
-   review.
-4. "And Others: The Evolution of Literary Cooperation." Book manuscript in progress.
-5. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
+3. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
    Deidre Shauna Lynch. Oxford UP, 2019.
-6. "Literature and the Experimental Humanities" with Maria Sachiko Cecire.  Co-authored book
+4. "Distributed Agency in the Novel." Under review, spring 2019.
+5. "American Formalism and the Automation of Intellectual Labor." Under review, spring 2019.
+6. "And Others: The Evolution of Literary Cooperation." Book manuscript in progress.
+8. "Literature and the Experimental Humanities" with Maria Sachiko Cecire.  Co-authored book
    manuscript under contract by invitation to "Literature and Contemporary Thought" series
 published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.
-7. "Migrant Media," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
+9. "Migrant Media," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
    ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
+10. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript under
+    review.
 
 ### Published Monographs
 
@@ -25,11 +27,9 @@ published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.
 
 ### Peer Reviewed Publications
 
-1. "Distributed Agency in the Novel." Under review, spring 2019.
-1. "American Formalism and the Automation of Intellectual Labor." Under review, spring 2019.
 1. "[Toward a Computational Archaeology of Fictional
    Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New Literary History*
-49, no. 1 (2018).
+49, no. 1 (2018): 119-47.
 2. "[Laminate Text: The Strata of Digital
    Inscription](http://amodern.net/article/laminate-text/)." *Amodern*.  December, 2017.
 3. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
@@ -51,13 +51,14 @@ by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach
 ### Contributed Essays & Chapters (Refereed)
 
 3. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
-   Thomsen, et al. Bloomsbury, 2017.
+   Thomsen, et al. Bloomsbury, 2017: 299-310.
 5. "Visual-quantitative Approaches to the Intellectual History of the Field" in *Futures of
-   Comparative Literature*, ed. Ursula K. Heise, et al.  Routledge, 2017.
+   Comparative Literature*, ed. Ursula K. Heise, et al.  Routledge, 2017: 258-266.
 4. "Critical Computing in the Humanities" with John Simpson and Phillip Polefrone in *Doing
-   Digital Humanities: Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016.
+   Digital Humanities: Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016:
+85-103.
 6. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed.  Matthew K. Gold, et al.
-   Minnesota UP, 2016.
+   Minnesota UP, 2016: 83-91.
 7. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und Verortung,* ed.
    Klaus Müller-Richter and Ramona Uritescu-Lombard.  Transcript-Verlag, 2007: 99-111.
 

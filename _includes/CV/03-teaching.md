@@ -1,6 +1,6 @@
 ## D. Teaching and Advising
 
-#### 2018 -- 19
+### 2018 -- 19 Courses
 - [ENGL/HIST W84031 *Textual
   Formations*](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
 The physicality of text from characters, to words, sentences, paragraphs, pages, books, and
@@ -10,7 +10,7 @@ archives. Graduate and undergraduate seminar with a lab component.
 Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
-#### 2017 -- 18
+### 2017 -- 18 Courses
 - [ENGL W4911 *Technologies of Dissent*](
   https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).  Media
 studies, critical computing. Graduate and undergraduate enrollment, fall.
@@ -23,14 +23,14 @@ media theory. Graduate and undergraduate enrollment, spring.
 Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
-#### 2016 -- 17
+### 2016 -- 17 Courses
 - [CLEN G6537 *Form, Formula, Format*](https://github.com/denten-courses/form-formula-format).
   Literary theory. Graduate Seminar, fall.  Undergraduate lecture, spring.
 - [COCI C1101/2 *Contemporary
   Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
 Undergraduate seminar. Columbia Core, year-long.
 
-#### 2014 -- 15
+### 2014 -- 15 Courses
 
 - [CSEN W1002 *Computing in Context: Textual & Literary
   Scholarship.*](https://github.com/denten-courses/computing-context) w/ Matt Jones (History),
@@ -45,7 +45,7 @@ Undergraduate seminar. Columbia Core, year-long.
 - [*Coding for Human(s|ists)*](https://github.com/denten-workshops/dhsi-coding-fundamentals).
   Lecture & lab. University of Victoria, Canada. Digital Humanities Summer Institute, summer 2015.
 
-#### 2013 -- 14
+### 2013 -- 14 Courses
 
 - [ENGL G6915/3915 *Illicit
   Knowledge*](https://github.com/denten-courses/critical-computing/tree/master/2014-spring).
@@ -57,13 +57,13 @@ Undergraduate seminar. Columbia Core, year-long.
 - JOUR J4001 *Foundations of Computing for Data Science Journalism*. Lecture & lab. Lede
   Program. Graduate School of Journalism, summer 2014.
 
-#### 2012 -- 13
+### 2012 -- 13 Courses
 
 - CLEN W3770 *Beyond the Human*. Seminar. Topics in new media studies, spring.
 - ENHS W4983 *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly, fall.
 - HUMA C1001 *Literature Humanities*. Undergraduate seminar. Columbia Core, year-long.
 
-#### Doctoral Advising
+### Doctoral Advising
 
 - Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2018 --
 - Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee 2018 --
@@ -88,7 +88,7 @@ Director, Pace University Writing Center.
   Dissertation Defense Committee, Spring 2014.
 - Graham Sack (Columbia English), Dissertation Committee, Second reader, 2014 --
 
-#### MA Advising
+### MA Advising
 
 - Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s *Soledad
   Brother*," MA thesis advisor, 2016 -- 17.
@@ -101,7 +101,7 @@ Director, Pace University Writing Center.
 - Erica Grove (CU English), Academic advisor, 2013 -- 14.
 - Becky Bort (CU English), Academic advisor, 2013 -- 14.
 
-#### Undergraduate Advising
+### Undergraduate Advising
 
 - Elena Goldstein, "Big Brother all Grown Up," Independent Study, 2014.
 - Christopher Brennan, "Personal Social Networks and Deliberative Democracy in the Russian
@@ -109,7 +109,7 @@ Director, Pace University Writing Center.
 - Jessica Tyler, "The New Opposition, The Russian Language Blogosphere and its Impact on Public
   Discourse," Senior Thesis, 2013.
 
-#### Before 2012 (Harvard University, Tufts University)
+### Before 2012 (Harvard University, Tufts University)
 
 - *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH lab, spring 2012.
 - *The Art of Numbers*, Teaching Fellow (TF) with Prof. Alyssa Goodman, spring 2008 & 2010.

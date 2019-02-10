@@ -32,9 +32,8 @@ on March 14-15, 2018.
   Internet Cultures Symposium at Yale on December 2, 2017.
 - "Plain Text: The Poetics of Computation." Book launch and talk by invitation at the Berkman
   Klein Center for Internet & Society, Harvard University on November 28, 2017.
-- "What is Enlightenment?: Immanuel Kant, Hannah Arendt, and the Continual Relevance of
-  Columbia's Core Curriculum." Lecture in discussion with Dean Jim Valentini at the University
-of Chicago on November 6, 2017.
+- "What is Enlightenment? Kant, Arendt, and the Relevance of Columbia's Core Today." Lecture at
+  at the Core to Commencement Campaign event in Chicago on November 6, 2017.
 - "Computational Approaches to Characterizing Fictional Space." Lecture by invitation at the
   Theory and Media Studies Colloquium, Yale University on October 13, 2017.
 - "Sustainable Authorship in Plain Text" and "Plain Text: The Poetics of Computation." A

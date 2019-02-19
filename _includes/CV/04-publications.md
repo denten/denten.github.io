@@ -7,26 +7,28 @@
 
 ### Peer-reviewed Publications
 
-1. "[Toward a Computational Archaeology of Fictional
+1. "American Formalism and the Automation of Intellectual Labor." Accepted to *Modern
+   Philology*, spring 2019.
+2. "[Toward a Computational Archaeology of Fictional
    Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New Literary History*
 49, no. 1 (2018): 119-47.
-2. "[Laminate Text: The Strata of Digital
+3. "[Laminate Text: The Strata of Digital
    Inscription](http://amodern.net/article/laminate-text/)." *Amodern*.  December, 2017.
-3. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
+4. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
    *Boundary 2* 44, no. 2 (May 1, 2017): 145–56.
-4. "[Book Piracy as Peer
+5. "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation),"
 primary author with Maxwell Foxman *Computational Culture 4* (2014).
-5. "[Sustainable Authorship in Plain
+6. "[Sustainable Authorship in Plain
    Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
 *The Programming Historian* (2014). Primary author with Grant Wythoff. Translated into Spanish
 as "[Escritura sostenible en texto plano usando Pandoc y
 Markdown](http://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)"
 by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach).
-6. "[Stalin’s
+7. "[Stalin’s
    PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
 *Modernism/modernity 21.1* (2014): 253–267.
-7. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
+8. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
 
 ### Contributed Essays & Chapters (Refereed)
 
@@ -71,8 +73,6 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 3. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
    Deidre Shauna Lynch. Oxford UP, 2019.
 4. "Distributed Agency in the Novel." Article under review, spring 2019.
-5. "American Formalism and the Automation of Intellectual Labor." Article under review, spring
-   2019.
 6. "And Others: The Evolution of Literary Cooperation." Book manuscript in progress.
 8. "Literature and the Experimental Humanities" with Maria Sachiko Cecire.  Co-authored book
    manuscript under contract by invitation to "Literature and Contemporary Thought" series

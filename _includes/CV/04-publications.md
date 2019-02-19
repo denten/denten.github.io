@@ -73,7 +73,7 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 3. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
    Deidre Shauna Lynch. Oxford UP, 2019.
 4. "Distributed Agency in the Novel." Article under review, spring 2019.
-6. "And Others: The Evolution of Literary Cooperation." Book manuscript in progress.
+6. "The Evolution of Literary Cooperation." Book manuscript in progress.
 8. "Literature and the Experimental Humanities" with Maria Sachiko Cecire.  Co-authored book
    manuscript under contract by invitation to "Literature and Contemporary Thought" series
 published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.

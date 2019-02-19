@@ -69,7 +69,7 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 ### Manuscripts in Progress
 
 1. "Author Function: Artificial Intelligence and the Automation of Literary Labor." Book
-   manuscript under review with The University of Chicago Press as of February, 2019.
+   manuscript under contract with The University of Chicago Press as of February, 2019.
 3. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
    Deidre Shauna Lynch. Oxford UP, 2019.
 4. "Distributed Agency in the Novel." Article under review, spring 2019.

@@ -41,8 +41,8 @@ College Dean's office.
 - Peer review for national and international journals including *Computational Culture*;
   *Digital Studies / Le champ numérique*; *International Journal of Humanities and Arts
 Computing*; *Modernism/Modernity*; [*Science, Technology & Human
-Values*](https://journals.sagepub.com/doi/full/10.1177/0162243919825887), *Association of
-Computational Linguistics* (ACL), and *Digital Scholarship in the Humanities* (DSH).
+Values*](https://journals.sagepub.com/doi/full/10.1177/0162243919825887); *Association of
+Computational Linguistics* (ACL); and *Digital Scholarship in the Humanities* (DSH).
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference of Computational Linguistics, Workshop on
   Trolling, Aggression and Cyberbullying, 2018.

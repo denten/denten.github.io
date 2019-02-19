@@ -40,13 +40,14 @@ College Dean's office.
 - Book manuscript reviews for Cambridge UP, Columbia UP, MIT Press, and Princeton UP.
 - Peer review for national and international journals including *Computational Culture*;
   *Digital Studies / Le champ numérique*; *International Journal of Humanities and Arts
-Computing*; *Modernism/Modernity*; *Science, Technology & Human Values*, *Association of
+Computing*; *Modernism/Modernity*; [*Science, Technology & Human
+Values*](https://journals.sagepub.com/doi/full/10.1177/0162243919825887), *Association of
 Computational Linguistics* (ACL), and *Digital Scholarship in the Humanities* (DSH).
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference of Computational Linguistics, Workshop on
   Trolling, Aggression and Cyberbullying, 2018.
-- Program Committee, Association for Computational Linguistics, Abusive Language Workshop,
-  2017 -- 18.
+- Program Committee, Association for Computational Linguistics, Abusive Language Workshop, 2017
+  -- 18.
 - Member of A. Owen Aldridge Prize Committee, American Comparative Literature Association, 2017
   -- 2019.
 - Knowledge design consulting for Diller Scofidio + Renfro, 2017.

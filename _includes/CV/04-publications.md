@@ -7,7 +7,7 @@
 
 ### Peer-reviewed Publications
 
-1. "American Formalism and the Automation of Intellectual Labor." Accepted to *Modern
+1. "American Formalism and the Automation of Literary Labor." Accepted to *Modern
    Philology*, spring 2019.
 2. "[Toward a Computational Archaeology of Fictional
    Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New Literary History*
@@ -68,7 +68,7 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 
 ### Manuscripts in Progress
 
-1. "Author Function: Artificial Intelligence and the Automation of Literary Labor." Book
+1. "Author Function: Artificial Intelligence in the Automation of Literary Labor." Book
    manuscript under contract with The University of Chicago Press as of February, 2019.
 3. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
    Deidre Shauna Lynch. Oxford UP, 2019.

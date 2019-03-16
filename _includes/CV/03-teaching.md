@@ -103,6 +103,8 @@ Director, Pace University Writing Center.
 
 ### Undergraduate Advising
 
+- Gabrielle Agnes Kloppers, "*Fallout: New Vegas* and Conflicting Representations of
+  Temporality," Senior Thesis, Spring 2019.
 - Elena Goldstein, "Big Brother all Grown Up," Independent Study, 2014.
 - Christopher Brennan, "Personal Social Networks and Deliberative Democracy in the Russian
   Anti-Putin Protest Movement," Senior Thesis, 2014.
@@ -111,15 +113,15 @@ Director, Pace University Writing Center.
 
 ### Before 2012 (Harvard University, Tufts University)
 
-- *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH lab, spring 2012.
-- *The Art of Numbers*, Teaching Fellow (TF) with Prof. Alyssa Goodman, spring 2008 & 2010.
+- *Experimental Criticism*, Lecturer w/ Prof. Jeffrey Schnapp. Seminar & DH lab, Spring 2012.
+- *The Art of Numbers*, Teaching Fellow (TF) with Prof. Alyssa Goodman, Spring 2008 & 2010.
   Undergraduate seminar, data visualization, quantitative reasoning.
-- *Literature Tutorial*, Harvard Tutor in the of fall 2007 through spring 2010.
-- *Self, Serenity, and Vulnerability*, TF w/ Profs. Roberto Unger & Michael Puett, fall 2007
-  and spring 2010. Moral reasoning.
-- 19th Century English Literature Survey, TF w/ Prof. Matthew Kaiser, spring 2009.
-- *Future of the Book*, Tufts University Lecturer, spring 2008, undergraduate seminar.
-- *Self, Freedom, and Existence*, TF w/ Prof. Richard Moran, fall 2008. Moral reasoning.
-- 19th Century Russian Literature Survey, TF w/ Prof. William Mills Todd III, spring 2006.
-- 20th Century Russian Literature Survey, TF w/ Prof. Svetlana Boym, fall 2005.
+- *Literature Tutorial*, Harvard Tutor in the of Fall 2007 through Spring 2010.
+- *Self, Serenity, and Vulnerability*, TF w/ Profs. Roberto Unger & Michael Puett, Fall 2007
+  and Spring 2010. Moral reasoning.
+- 19th Century English Literature Survey, TF w/ Prof. Matthew Kaiser, Spring 2009.
+- *Future of the Book*, Tufts University Lecturer, Spring 2008, undergraduate seminar.
+- *Self, Freedom, and Existence*, TF w/ Prof. Richard Moran, Fall 2008. Moral reasoning.
+- 19th Century Russian Literature Survey, TF w/ Prof. William Mills Todd III, Spring 2006.
+- 20th Century Russian Literature Survey, TF w/ Prof. Svetlana Boym, Fall 2005.
 

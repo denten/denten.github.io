@@ -2,6 +2,8 @@
 
 - "The Hermeneutics of Computer-generated Text." Talk by invitation at the "Poetic Critique"
   conference, Indiana University Global, Berlin on June 27 -- 29, 2019.
+- "Technology and Literary Studies." Seminar by invitation to the Rifkind Center for Humanities
+  and the Arts at the City College of New York on March 14, 2019.
 - "Authoring Artificial Intelligence: Chatbots and Story Generators of the 1950--1970s."
   Lecture by invitation at the Human Futures Research Program, Aarhus University, Denmark on
 January 17, 2019.

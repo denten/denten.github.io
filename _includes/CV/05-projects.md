@@ -1,27 +1,45 @@
 ## F. Selected Grants and Other Collaborations
 
-- "Transforming Texts: Computational Approaches to Text Analysis and Visualization" (2019),
-  co-PI with Pamela Smith (Columbia, History) and Steven Feiner (Columbia, Computer Science).
-Team-taught course initiative, recipient of $150k award from Columbia's Collaboratory Fellows
-Fund.
-- "Digital Justice" (2015), Presidential Global Innovation Fund ($20k) in support of
-  international workshops on censorship and access to knowledge, leading to the "Architectures
-of Knowledge" conferences in Mumbai and Lahore. Events covered in *Daily Times*, *The Express
-Tribune*, and *Urdu Point*.
-- [*Science Surveyor*](http://xpmethod.plaintext.in/literary-modeling-and-visualization-lab/surveyor.html)
-(2014 -- 16), co-PI with Marguerite Holloway (Columbia, Journalism), Dan Jurafsky (Stanford,
-Computer Science) and Daniel McFarland (Stanford, Sociology). Visualizing the growth and decay
-of shared knowledge. Recipient of Brown Center Media Innovation Award ($500k).
-- [*Rikers Story Bot*](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html),
-  (2015 --) in collaboration with Columbia's Center for Justice. Coding workshop and
-algorithmic storytelling event set in and about Rikers Island correctional facility, New York
-City's main jail complex. Featured in *Fast Company*.
-- [*Open Syllabus Project*](http://xpmethod.plaintext.in/knowledge-design-studio/open-syllabus-project.html)
-(2013 -- 15), co-PI with Joe Karaganis (American Assembly) and Alison Head (Harvard,
-Information Science). Collecting and analyzing the world's largest corpus of academic syllabi.
-Recipient of $210k grant from the Sloan Foundation.  Research featured in *The New York Times*,
-*TIME Magazine*, *Der Spiegel Online*, *FiveThirtyEight*.
-- [*piracylab.org*](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html) (2013 -- 14), PI. Research group exploring the impact of piracy on the spread of knowledge around
+- "Data, Algorithms, and Social Justice." Co-PI with Matt Jones (CU, History) and Chris Wiggins
+  (CU, Data Science). An award in the amount of $17,500 from the Center for the Study of Social
+Difference to support a graduate working group organized by Nikita Shepard (CU, History),
+Spring 2019. In progress.
+
+- "Transforming Texts: Computational Approaches to Text Analysis and Visualization." Co-PI with
+  Pamela Smith (CU, History) and Steven Feiner (CU, Computer Science). Team-taught course
+initiative, recipient of $150,000 award from Columbia's Collaboratory Fellows Fund in 2018.
+[Course taught](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU) in the
+Spring of 2019.
+
+- "Digital Justice." PI. $20,000 in support of international workshops on censorship and access
+  to knowledge from the Presidential Global Innovation Fund in 2015.  Convened under the title
+"Architectures of Knowledge" in [Mumbai, India on July 4, 2016](http://xpmethod.plaintext.in/events/dissent.html) and [Lahore, Pakistan on March 12,
+2018](http://xpmethod.plaintext.in/events/lahore.html). Events covered in *Daily Times*, *The
+Express Tribune*, and *Urdu Point*.
+
+- "[*Rikers Story Bot*](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html)."
+  Coding workshop and algorithmic storytelling event set in and about Rikers Island
+correctional facility, New York City's main jail complex. Principle convener and co-instructor
+in collaboration with Columbia's Center for Justice. Featured in *Fast Company* and *Prison
+Education*. Three four-day workshops completed. [Twitter bot](https://twitter.com/rikersbot)
+operational for over a year in the period between 2015 -- 18.
+
+- "[*Science
+  Surveyor*](http://xpmethod.plaintext.in/literary-modeling-and-visualization-lab/surveyor.html)."
+Co-PI with Marguerite Holloway (CU, Journalism), Laura Kurgan (CU, Architecture), Dan Jurafsky
+(Stanford, Computer Science) and Daniel McFarland (Stanford, Sociology). Award in the amount of
+$500,000 from the Brown Center for Media Innovation to facilitate the study of scientific
+knowledge production. Multiple students funded in 2014 -- 16.
+
+- [*Open Syllabus
+  Project*](http://xpmethod.plaintext.in/knowledge-design-studio/open-syllabus-project.html)
+(2013 -- 15), co-PI with Joe Karaganis (American Assembly) and Alison Head (University of
+Washington, Information Science). Collecting and analyzing the world's largest corpus of
+academic syllabi.  Recipient of $210,000 grant from the Sloan Foundation. Research featured in
+*The New York Times*, *TIME Magazine*, *Der Spiegel Online*, *FiveThirtyEight*.
+
+- [*piracylab.org*](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html) (2013
+  -- 14), PI. Research group exploring the impact of piracy on the spread of knowledge around
 the world. Findings featured in *Le Monde*.
 
 *For a curated portfolio of projects, awards, and press coverage please visit

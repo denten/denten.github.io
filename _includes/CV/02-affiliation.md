@@ -19,10 +19,11 @@ under the advisement of Elaine Scarry, William Todd, and Michel Chaouli.
 Associate Professor, 2018.  
 Assistant Professor, Department of English and Comparative Literature, 2012.  
 
-- Founder, Columbia's Group for Experimental Methods in Humanistic Research.
-- Executive Committee, Institute for Comparative Literature and Society.
+- Editor, Experimental Methods book series, Columbia University Press (2019 -- ).
+- Executive Committee, Institute for Comparative Literature and Society (2018 -- ).
 - Affiliated Faculty, Institute of Data Sciences and Engineering, Center for Data, Media, and
-Society.
+  Society (2015 -- ).
+- Founder, Columbia's Group for Experimental Methods in Humanistic Research (2014 -- ).
 
 ### Berkman Center for Internet and Society at Harvard University
 

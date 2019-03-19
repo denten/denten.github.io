@@ -16,9 +16,9 @@ series.
 
 - Executive Committee, [Institute for Comparative Literature and
   Society](http://icls.columbia.edu/), 2016 --
-- *[Studio at Butler](https://studio.cul.columbia.edu/)* (2013 --), founding member, faculty
-  advisor. Planning, specification, and programming of the Butler Studio, a maker/lab space at
-the center of Butler Library. Hosting lectures, training workshops, and open labs.
+- *[Studio at Butler](https://studio.cul.columbia.edu/)*, founding member, faculty advisor.
+  Planning, specification, and programming of the Butler Studio, a maker/lab space at the
+center of Butler Library. Hosting lectures, training workshops, and open labs. 2013 --
 - Faculty Working Group on [Computational Humanities and Social
   Science](http://datascience.columbia.edu/computational-social-science), 2016 --
 - [Collaboratory](http://collaboratory.columbia.edu/) Proposal Selection Committee, 2016.
@@ -29,8 +29,8 @@ the center of Butler Library. Hosting lectures, training workshops, and open lab
   2013 --
 - Member of "Literary Theory" and "Theory and History of Media" [University
   Seminars](http://universityseminars.columbia.edu/seminars/list-of-seminars/).
-- Multiple contributions to the "Strategic Plan for Humanities in the Arts and Sciences,"
-  2016/2017.
+- Multiple contributions to the "Strategic Plan for Humanities in the Arts and Sciences," 2016
+  -- 17.
 - Principal convener (along with Manan Ahmed and Roosevelt Montas) of the "Connected Core"
   pilot program as part of the university-wide "Core to Commencement" campaign, funded by the
 College Dean's office.

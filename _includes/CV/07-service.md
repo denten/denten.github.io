@@ -2,10 +2,10 @@
 
 #### Department
 
-- *[Group for Experimental Methods in the Humanities](http://xpmethod.github.io/)* (2014 --),
-  founding member. A research collective specializing in literary modeling and visualization,
-spatial humanities, and knowledge design. Weekly lab meetings, monthly workshops, and lecture
-series.
+- *[Group for Experimental Methods in the Humanities](http://xpmethod.github.io/)*, founding
+  member. A research collective specializing in literary modeling and visualization, spatial
+humanities, and knowledge design. Weekly lab meetings, monthly workshops, and lecture series.
+2014 --
 - Associate Director of Graduate Studies, 2018 -- 19.
 - Dissertation Prize Committee, 2017 -- 18.
 - Committee for Undergraduate Education, 2016 -- 18.

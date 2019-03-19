@@ -1,5 +1,9 @@
 ## I. Invited Talks, Workshops, & Conferences
 
+
+- "Literary Production on an Industrial Scale." Keynote address by invitation to The Korean
+  Society of East West Comparative Literature, Third International Conference on "Digital
+Humanities and World Literature" at Pohang University, Korea on October 26, 2019.
 - "The Hermeneutics of Computer-generated Text." Talk by invitation at the "Poetic Critique"
   conference, Indiana University Global, Berlin on June 27 -- 29, 2019.
 - "Technology and Literary Studies." Seminar by invitation to the Rifkind Center for Humanities

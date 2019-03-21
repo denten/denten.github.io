@@ -74,9 +74,6 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
    Deidre Shauna Lynch. Oxford UP, 2019.
 4. "Distributed Agency in the Novel." Article under review, spring 2019.
 6. "The Evolution of Literary Cooperation." Book manuscript in progress.
-8. "Literature and the Experimental Humanities" with Maria Sachiko Cecire.  Co-authored book
-   manuscript under contract by invitation to "Literature and Contemporary Thought" series
-published by Routledge, ed.  Ursula K. Heise & Guillermina De Ferrari.
 9. "Migrant Media," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
    ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
 10. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early

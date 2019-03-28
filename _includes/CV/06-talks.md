@@ -1,11 +1,13 @@
 ## I. Invited Talks, Workshops, & Conferences
 
 
-- "The Rise of Literary Machines." Keynote address by invitation to The Korean
-  Society of East West Comparative Literature, Third International Conference on "Digital
-Humanities and World Literature" at Pohang University, Korea on October 26, 2019.
+- "The Rise of Literary Machines." Keynote lecture by invitation to The Korean Society of East
+  West Comparative Literature, Third International Conference on "Digital Humanities and World
+Literature" at Pohang University, Korea on October 26, 2019.
 - "The Hermeneutics of Computer-generated Text." Talk by invitation at the "Poetic Critique"
   conference, Indiana University Global, Berlin on June 27 -- 29, 2019.
+- "Minimal Computing in Plain Text." Keynote lecture by invitation to the Computer-Assisted
+  Text Analysis for Resource-Scarce Literatures conference at the University of Miami on April 25, 2019.
 - "Technology and Literary Studies." Seminar by invitation to the Rifkind Center for Humanities
   and the Arts at the City College of New York on March 14, 2019.
 - "Authoring Artificial Intelligence: Chatbots and Story Generators of the 1950--1970s."

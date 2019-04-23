@@ -21,8 +21,9 @@ humanities, and knowledge design. Weekly lab meetings, monthly workshops, and le
 center of Butler Library. Hosting lectures, training workshops, and open labs. 2013 --
 - Faculty Working Group on [Computational Humanities and Social
   Science](http://datascience.columbia.edu/computational-social-science), 2016 --
-- [Collaboratory](http://collaboratory.columbia.edu/) Proposal Selection Committee, 2016.
-- Data Science Taskforce, 2015 --
+- [Collaboratory](http://collaboratory.columbia.edu/) Proposal Selection Committee, Spring 2016
+  and 2019.
+- Data Science Taskforce, 2015 -- 2017.
 - Ad-hoc Exploratory Committee for the Center for Culture and Computation, 2014 -- 15.
 - Founding Member. [Digital Storytelling Lab](http://www.digitalstorytellinglab.com/), 2013 --
 - Advisory Board. [Studio at Butler Library](https://studio.cul.columbia.edu/) (maker space),

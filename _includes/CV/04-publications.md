@@ -15,8 +15,8 @@ Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.co
 
 ### Peer-reviewed Publications
 
-1. "American Formalism and the Automation of Literary Labor." Accepted to *Modern
-   Philology*, spring 2019.
+1. "The Rise of American Formalism." Accepted to *Modern
+   Philology*, Spring 2019.
 2. "[Toward a Computational Archaeology of Fictional
    Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New Literary History*
 49, no. 1 (2018): 119-47.
@@ -76,13 +76,13 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 
 ### Manuscripts in Progress
 
-1. "Author Function: Artificial Intelligence in the Automation of Literary Labor." Book
+1. "Author Function: Artificial Intelligence and the Automation of Literary Labor." Book
    manuscript under contract with The University of Chicago Press as of February, 2019.
 3. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
    Deidre Shauna Lynch. Oxford UP, 2019.
-4. "Distributed Agency in the Novel." Article under review, spring 2019.
+4. "Distributed Agency in the Novel." Article under review, Spring 2019.
 6. "The Evolution of Literary Cooperation." Book manuscript in progress.
-9. "Migrant Media," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
+9. "Media Migrant," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
    ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
 10. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
     stages of development.

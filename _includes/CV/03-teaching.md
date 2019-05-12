@@ -1,4 +1,4 @@
-## D. Teaching and Advising
+## Teaching and Advising
 
 ### 2018 -- 19 Courses
 - [ENGL/HIST W84031 *Textual
@@ -65,9 +65,10 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
-- Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2018 --
-- Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee 2018 --
-- Jonathan Reeve (Columbia English), Dissertation Committee, Second reader, 2018 --
+- Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2018 -- 19.
+- Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee 2018 -- 19.
+- Jonathan Reeve (Columbia English), "Computational Approaches to the Study of Literary Style,"
+  Reading list, Oral Exam Committee, 2017 -- 18. Dissertation Committee, Second reader, 2018 --
 - Maxwell Foxman (Columbia Communications), "Playing with Virtual Reality: Early Adopters of
   Commercial Immersive Technology," Dissertation Committee, Third reader, Spring 2018.
 Assistant Professor of Media Studies/Game Studies at the University of Oregon.
@@ -77,8 +78,6 @@ Consultant at The Cooper Union for the Advancement of Science and Art.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
   Asynchronous Discussion Spaces," Dissertation Defense Committee, Spring 2018.
 Director, Pace University Writing Center.
-- Jonathan Reeve (Columbia English), "Computational Approaches to the Study of Literary Style,"
-  Reading list, Oral Exam Committee, 2017 -- 18.
 - Sierra Eckert (Columbia English), "Sociology of Literature" Reading list, Oral Exam
   Committee, 2016 -- 17.
 - Phillip Polefrone (Columbia English), "Technology and Society" Reading list, Oral Exam

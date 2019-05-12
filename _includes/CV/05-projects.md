@@ -1,4 +1,4 @@
-## F. Selected Grants and Other Collaborations
+## Selected Grants and Other Collaborations
 
 - "Data, Algorithms, and Social Justice." Co-PI with Matt Jones (CU, History) and Chris Wiggins
   (CU, Data Science). An award in the amount of $17,500 from the Center for the Study of Social
@@ -70,7 +70,7 @@ Maxwell Foxman in *Computational Culture 4* (2014).
 *For a curated portfolio of projects, awards, and press coverage please visit
 [xpmethod.plaintext.in/impact](https://xpmethod.plaintext.in/impact.html).*
 
-## H. Honors, Prizes, and Fellowships
+## Honors, Prizes, and Fellowships
 
 - Computational Narratology Research Fellowship and residency at the Institute for
   Communication and Culture, with the Unearned Wealth research group at Aarhus University,

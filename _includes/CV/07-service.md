@@ -1,4 +1,4 @@
-## J. Service & Community Development
+## Service & Community Development
 
 #### Department
 

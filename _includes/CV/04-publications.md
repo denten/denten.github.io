@@ -1,4 +1,4 @@
-## E. Publications and Works in Progress
+## Publications and Works in Progress
 
 ### Published Monographs
 
@@ -72,7 +72,6 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
    East European Journal* 56.2 (2012): 309.
 5. "*Vokzal, Garazh, Angar: Vladimir Nabokov I Poetika Russkogo Urbanizma* by
    Yuri Leving." *The Slavic and East European Journal 49.4* (2005): 688–89.
-
 
 ### Manuscripts in Progress
 

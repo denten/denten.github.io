@@ -1,4 +1,4 @@
-## I. Invited Talks, Workshops, & Conferences
+## Invited Talks, Workshops, & Conferences
 
 
 - "The Rise of Literary Machines." Keynote lecture by invitation to The Korean Society of East

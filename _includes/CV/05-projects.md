@@ -72,13 +72,14 @@ Maxwell Foxman in *Computational Culture 4* (2014).
 
 ## Honors, Prizes, and Fellowships
 
-- Computational Narratology Research Fellowship and residency at the Institute for
-  Communication and Culture, with the Unearned Wealth research group at Aarhus University,
-Denmark, 2019.
+- Schoff Publication Fund award recipient in support of second book, Fall 2019.
+- Hettleman Junior Faculty Summer Research Grant, Summer 2019 and 2015.
+- Computational Narratology Research Fellowship and residency, Unearned Wealth Research Group,
+  Institute for Communication and Culture, Aarhus University, Denmark, 2019.
 - Heyman Center Faculty Fellowship, Columbia University, academic year 2017 -- 18.
-- Media Studies Fellowship and residency at the Center for Digital Cultures, Leuphana
+- Media Studies Fellowship and Residency at the Center for Digital Cultures, Leuphana
   University, Germany, 2017.
-- Columbia Lenfest Junior Faculty Development Grant in support of first book, 2015 -- 16.
+- Lenfest Junior Faculty Development Grant in support of first book, 2016 -- 17.
 - Harvard Presidential Scholar, 2004 -- 2012.
 - Whiting Dissertation Completion Fellowship in the Humanities (declined), 2011.
 - Harvard Merit Grant, 2009.

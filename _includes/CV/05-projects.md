@@ -72,7 +72,8 @@ Maxwell Foxman in *Computational Culture 4* (2014).
 
 ## Honors, Prizes, and Fellowships
 
-- Schoff Publication Fund award recipient in support of second book, Fall 2019.
+- Schoff Publication Fund award recipient in support of second book, Spring 2019.
+- Schofield Fund Publication Award (Harvard, Comparative Literature), Spring 2019 and 2016.
 - Hettleman Junior Faculty Summer Research Grant, Summer 2019 and 2015.
 - Computational Narratology Research Fellowship and residency, Unearned Wealth Research Group,
   Institute for Communication and Culture, Aarhus University, Denmark, 2019.

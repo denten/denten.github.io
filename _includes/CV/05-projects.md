@@ -1,5 +1,8 @@
 ## Selected Grants and Other Collaborations
 
+- Google Cloud Platform Research Credits Grant. $6,000 to support computational work related to
+the second book manuscript. Summer 2019.
+
 - "Data, Algorithms, and Social Justice." Co-PI with Matt Jones (CU, History) and Chris Wiggins
   (CU, Data Science). An award in the amount of $17,500 from the Center for the Study of Social
 Difference to support a graduate working group organized by Nikita Shepard (CU, History),

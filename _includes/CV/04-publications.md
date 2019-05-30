@@ -15,15 +15,14 @@ Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.co
 
 ### Peer-reviewed Publications
 
-1. "The Rise of American Formalism." Accepted to *Modern
-   Philology*, Spring 2019.
+1. "The Rise of American Formalism." *Modern Philology* 117, no. 2 (November 2019): pages TBA.
 2. "[Toward a Computational Archaeology of Fictional
    Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New Literary History*
 49, no. 1 (2018): 119-47.
 3. "[Laminate Text: The Strata of Digital
-   Inscription](http://amodern.net/article/laminate-text/)." *Amodern*.  December, 2017.
+   Inscription](http://amodern.net/article/laminate-text/)." *Amodern* (December, 2017).
 4. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
-   *Boundary 2* 44, no. 2 (May 1, 2017): 145–56.
+   *Boundary 2* 44, no. 2 (May, 2017): 145–56.
 5. "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation),"
 primary author with Maxwell Foxman *Computational Culture 4* (2014).

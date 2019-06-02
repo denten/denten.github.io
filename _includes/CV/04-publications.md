@@ -39,18 +39,21 @@ by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach
 
 ### Contributed Essays & Chapters (Refereed)
 
-1. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
+1. "Reading Platforms: A Brief History of the Electronic Book," chapter submitted and
+   forthcoming in *The Unfinished Book*, ed. Alexandra Gillespie and Deidre Shauna Lynch.
+Oxford UP, 2020.
+2. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
    *Rethinking Authorship in Comparative and Historical Perspectives*, ed.  Haruo Shirane and
 Tomi Suzuki.  Iwanami Shoten, 2019.
-2. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
+3. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
    Thomsen, et al. Bloomsbury, 2017: 299-310.
-3. "Visual-quantitative Approaches to the Intellectual History of the Field" in *Futures of
+4. "Visual-quantitative Approaches to the Intellectual History of the Field" in *Futures of
    Comparative Literature*, ed. Ursula K. Heise, et al.  Routledge, 2017: 258-266.
-4. "Critical Computing in the Humanities" with John Simpson and Phillip Polefrone in *Doing
+5. "Critical Computing in the Humanities" with John Simpson and Phillip Polefrone in *Doing
    Digital Humanities: Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016: 85-103.
-5. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed. Matthew K. Gold, et al.
+6. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed. Matthew K. Gold, et al.
    Minnesota UP, 2016: 83-91.
-6. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und Verortung,* ed.
+7. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und Verortung,* ed.
    Klaus Müller-Richter and Ramona Uritescu-Lombard.  Transcript-Verlag, 2007: 99-111.
 
 ### Book Reviews
@@ -76,12 +79,10 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 
 1. "Author Function: Artificial Intelligence and the Automation of Literary Labor." Book
    manuscript under contract with The University of Chicago Press as of February, 2019.
-3. "Reading Platforms," chapter forthcoming in *The Unfinished Book*, ed. by Alex Gillespie and
-   Deidre Shauna Lynch. Oxford UP, 2019.
-4. "Distributed Agency in the Novel." Article under review, Spring 2019.
-6. "The Evolution of Literary Cooperation." Book manuscript in progress.
-9. "Media Migrant," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
+2. "Distributed Agency in the Novel." Article under review, Spring 2019.
+3. "The Evolution of Literary Cooperation." Book manuscript in progress.
+4. "Media Migrant," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
    ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
-10. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
+5. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
     stages of development.
 

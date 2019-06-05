@@ -1,5 +1,11 @@
 ## Selected Grants and Other Collaborations
 
+- "Craft, Literature, and Data: Interdisciplinary Methodologies and Analyses of Technical
+  Texts." Co-PI with Pamela Smith (CU, History). Provost’s Interdisciplinary Teaching Award in
+the amount of $20,000 for faculty who are looking to integrate new educational approaches and
+technologies into their classrooms, or to develop jointly-taught interdisciplinary courses.
+Spring 2020.
+
 - Google Cloud Platform Research Credits Grant. $6,000 to support computational work related to
 the second book manuscript. Summer 2019.
 

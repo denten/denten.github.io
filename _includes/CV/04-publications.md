@@ -39,7 +39,7 @@ by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach
 
 ### Contributed Essays & Chapters (Refereed)
 
-1. "Reading Platforms: A Brief History of the Electronic Book," chapter submitted and
+1. "Reading Platforms: A Concise History of the Electronic Book," chapter submitted and
    forthcoming in *The Unfinished Book*, ed. Alexandra Gillespie and Deidre Shauna Lynch.
 Oxford UP, 2020.
 2. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in

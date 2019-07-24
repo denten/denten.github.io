@@ -1,4 +1,4 @@
-## Selected Grants and Other Collaborations
+## F. Selected Grants and Other Collaborations
 
 - "Craft, Literature, and Data: Interdisciplinary Methodologies and Analyses of Technical
   Texts." Co-PI with Pamela Smith (CU, History). Provost’s Interdisciplinary Teaching Award in
@@ -79,7 +79,7 @@ Maxwell Foxman in *Computational Culture 4* (2014).
 *For a curated portfolio of projects, awards, and press coverage please visit
 [xpmethod.plaintext.in/impact](https://xpmethod.plaintext.in/impact.html).*
 
-## Honors, Prizes, and Fellowships
+## G. Honors, Prizes, and Fellowships
 
 - Schoff Publication Fund award recipient in support of second book, Spring 2019.
 - Schofield Fund Publication Award (Harvard, Comparative Literature), Spring 2019 and 2016.

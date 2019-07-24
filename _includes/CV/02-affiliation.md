@@ -1,4 +1,4 @@
-## Education
+## B. Education
 
 ### Harvard University (Cambridge, MA)
 

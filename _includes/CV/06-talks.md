@@ -4,6 +4,8 @@
 - "The Rise of Literary Machines." Keynote lecture by invitation to The Korean Society of East
   West Comparative Literature, Third International Conference on "Digital Humanities and World
 Literature" at Pohang University, Korea on October 26, 2019.
+- "The Morphology of Formalism." Talk by invitation at the Prehistory of Computational Analysis
+  Workshop,  Center for Humanities and Information, Penn State on August 22--25.
 - "The Hermeneutics of Computer-generated Text." Talk by invitation at the "Poetic Critique"
   conference, Indiana University Global, Berlin on June 27 -- 29, 2019.
 - "Minimal Computing in Plain Text." Keynote lecture by invitation to the Computer-Assisted

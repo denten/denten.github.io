@@ -65,6 +65,8 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
+- Sean Thomas O'Neil (Columbia History), "The Art of Signs: Symbolic Notation and Visual
+Thinking in Early Modern Europe, 1600--1800," Dissertation Defense Committee, August 2019.
 - Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2018 -- 19.
 - Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee 2018 -- 19.
 - Jonathan Reeve (Columbia English), "Computational Approaches to the Study of Literary Style,"

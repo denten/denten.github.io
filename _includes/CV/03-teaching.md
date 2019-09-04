@@ -2,8 +2,8 @@
 
 
 ### 2019 -- 20
-- [ENGL GR5001 English MA
-  Seminar](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
+- [ENGL GR5001 *English MA
+  Seminar*](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
 comprehensive introduction to the field of literary studies for graduate students.
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.

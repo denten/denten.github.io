@@ -1,5 +1,13 @@
 ## D. Teaching and Advising
 
+
+### 2019 -- 20 Courses
+- [ENGL GR5001 English MA
+  Seminar](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
+comprehensive introduction to the field of literary studies for graduate students.
+- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
+
 ### 2018 -- 19 Courses
 - [ENGL/HIST W84031 *Textual
   Formations*](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).

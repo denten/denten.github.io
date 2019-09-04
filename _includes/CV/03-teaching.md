@@ -27,7 +27,7 @@ Undergraduate seminar. Columbia Core, year-long.
 - [CLEN G6537 *Form, Formula, Format*](https://github.com/denten-courses/form-formula-format).
   Literary theory. Graduate Seminar, fall.  Undergraduate lecture, spring.
 - [COCI C1101/2 *Contemporary
-  Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
+  Civilization*](https://github.com/denten-courses/con-civ).
 Undergraduate seminar. Columbia Core, year-long.
 
 ### 2014 -- 15 Courses
@@ -40,7 +40,7 @@ study of literature. Lecture, spring.
   Poetry*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
 Lecture. Topics in new media studies and literary theory, fall.
 - [COCI C1101/2 *Contemporary
-  Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
+  Civilization*](https://github.com/denten-courses/con-civ).
 Undergraduate seminar. Columbia Core, year-long.
 - [*Coding for Human(s|ists)*](https://github.com/denten-workshops/dhsi-coding-fundamentals).
   Lecture & lab. University of Victoria, Canada. Digital Humanities Summer Institute, summer 2015.
@@ -52,7 +52,7 @@ Undergraduate seminar. Columbia Core, year-long.
 Media theory, science and technology studies. Seminar & DH lab, spring.
 - ENGL G6921 *Media Archeology*. Graduate seminar, topics in new media studies, fall.
 - [COCI C1101/2 *Contemporary
-  Civilization*](https://github.com/denten-courses/con-civ/blob/master/2014-fall/2014-fall-sched.md).
+  Civilization*](https://github.com/denten-courses/con-civ).
 Undergraduate seminar. Columbia Core, year-long.
 - JOUR J4001 *Foundations of Computing for Data Science Journalism*. Lecture & lab. Lede
   Program. Graduate School of Journalism, summer 2014.

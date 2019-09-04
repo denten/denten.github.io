@@ -1,14 +1,14 @@
 ## D. Teaching and Advising
 
 
-### 2019 -- 20 Courses
+### 2019 -- 20
 - [ENGL GR5001 English MA
   Seminar](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
 comprehensive introduction to the field of literary studies for graduate students.
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.
 
-### 2018 -- 19 Courses
+### 2018 -- 19
 - [ENGL/HIST W84031 *Textual
   Formations*](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
 The physicality of text from characters, to words, sentences, paragraphs, pages, books, and
@@ -18,7 +18,7 @@ archives. Graduate and undergraduate seminar with a lab component.
 Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
-### 2017 -- 18 Courses
+### 2017 -- 18 
 - [ENGL W4911 *Technologies of Dissent*](
   https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).  Media
 studies, critical computing. Graduate and undergraduate enrollment, fall.
@@ -31,14 +31,14 @@ media theory. Graduate and undergraduate enrollment, spring.
 Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
-### 2016 -- 17 Courses
+### 2016 -- 17
 - [CLEN G6537 *Form, Formula, Format*](https://github.com/denten-courses/form-formula-format).
   Literary theory. Graduate Seminar, fall.  Undergraduate lecture, spring.
 - [COCI C1101/2 *Contemporary
   Civilization*](https://github.com/denten-courses/con-civ).
 Undergraduate seminar. Columbia Core, year-long.
 
-### 2014 -- 15 Courses
+### 2014 -- 15
 
 - [CSEN W1002 *Computing in Context: Textual & Literary
   Scholarship.*](https://github.com/denten-courses/computing-context) w/ Matt Jones (History),
@@ -53,7 +53,7 @@ Undergraduate seminar. Columbia Core, year-long.
 - [*Coding for Human(s|ists)*](https://github.com/denten-workshops/dhsi-coding-fundamentals).
   Lecture & lab. University of Victoria, Canada. Digital Humanities Summer Institute, summer 2015.
 
-### 2013 -- 14 Courses
+### 2013 -- 14
 
 - [ENGL G6915/3915 *Illicit
   Knowledge*](https://github.com/denten-courses/critical-computing/tree/master/2014-spring).
@@ -65,7 +65,7 @@ Undergraduate seminar. Columbia Core, year-long.
 - JOUR J4001 *Foundations of Computing for Data Science Journalism*. Lecture & lab. Lede
   Program. Graduate School of Journalism, summer 2014.
 
-### 2012 -- 13 Courses
+### 2012 -- 13
 
 - CLEN W3770 *Beyond the Human*. Seminar. Topics in new media studies, spring.
 - ENHS W4983 *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly, fall.

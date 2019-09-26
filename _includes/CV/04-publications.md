@@ -15,14 +15,14 @@ Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.co
 
 ### Peer-reviewed Publications
 
-1. "The Rise of American Formalism." *Modern Philology* 117, no. 2 (November 2019): 257-283.
+1. "The Rise of American Formalism." *Modern Philology* 117, no. 2 (November 2019): 257--283.
 2. "[Toward a Computational Archaeology of Fictional
    Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New Literary History*
-49, no. 1 (2018): 119-47.
+49, no. 1 (2018): 119--47.
 3. "[Laminate Text: The Strata of Digital
    Inscription](http://amodern.net/article/laminate-text/)." *Amodern* (December, 2017).
 4. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
-   *Boundary 2* 44, no. 2 (May, 2017): 145–56.
+   *Boundary 2* 44, no. 2 (May, 2017): 145--56.
 5. "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation),"
 primary author with Maxwell Foxman *Computational Culture 4* (2014).
@@ -34,8 +34,8 @@ Markdown](http://programminghistorian.org/es/lecciones/escritura-sostenible-usan
 by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach).
 7. "[Stalin’s
    PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
-*Modernism/modernity 21.1* (2014): 253–267.
-8. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24-25.
+*Modernism/modernity 21.1* (2014): 253--267.
+8. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24--25.
 
 ### Contributed Essays & Chapters (Refereed)
 

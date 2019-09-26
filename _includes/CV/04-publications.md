@@ -77,7 +77,7 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 
 ### Manuscripts in Progress
 
-1. "Author Function: Artificial Intelligence and the Automation of Literary Labor." Book
+1. "Author Function: The Literary History of Artificial Intelligence." Book
    manuscript under contract with The University of Chicago Press as of February, 2019.
 2. "Distributed Agency in the Novel." Article under review, Spring 2019.
 3. "The Evolution of Literary Cooperation." Book manuscript in progress.

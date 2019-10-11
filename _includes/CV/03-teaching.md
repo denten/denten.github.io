@@ -2,6 +2,9 @@
 
 
 ### 2019 -- 20
+- [ENGL 4xxx *Literature in the Age of Artificial
+  Intelligence*](https://github.com/denten-courses/machine-lit/blob/master/README.md). The long
+history of literature composed with, for, and by machines.
 - [ENGL GR5001 *English MA
   Seminar*](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
 comprehensive introduction to the field of literary studies for graduate students.

@@ -106,9 +106,9 @@ University Writing Center.
 
 ### MA Advising
 
-- Gabrielle Dacosta (Columbia English), "The Reading Self in George Jackson’s *Soledad
+- Gabrielle Dacosta (CU English), "The Reading Self in George Jackson’s *Soledad
   Brother*," MA thesis advisor, 2016 -- 17.
-- Maxine Arndt (Columbia English), "Women and Animals in *The Woman Warrior* and *My Year of
+- Maxine Arndt (CU English), "Women and Animals in *The Woman Warrior* and *My Year of
   Meats*," MA thesis advisor, 2016 -- 17.
 - Gianmarco Saretto (CU English), Academic advisor, 2014 -- 15.
 - Florence Wan Yu Ang (CU English), Academic advisor, 2017 -- 18.

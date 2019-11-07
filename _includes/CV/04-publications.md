@@ -15,7 +15,7 @@ Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.co
 
 ### Peer-reviewed Publications
 
-1. "[The Rise of American
+1. "[The Emergence of American
    Formalism](https://www-journals-uchicago-edu.ezproxy.cul.columbia.edu/doi/abs/10.1086/705672)."
 *Modern Philology* 117, no. 2 (November 2019): 257--283.
 2. "[Toward a Computational Archaeology of Fictional

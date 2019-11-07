@@ -76,29 +76,33 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
-- Sean Thomas O'Neil (Columbia History), "The Art of Signs: Symbolic Notation and Visual
-Thinking in Early Modern Europe, 1600--1800," Dissertation Defense Committee, August 2019.
-- Milan Terlunen (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2018 -- 19.
-- Naomi Michalowicz (Columbia English), "Narratology," Reading list, Oral Exam Committee 2018 -- 19.
-- Jonathan Reeve (Columbia English), "Computational Approaches to the Study of Literary Style,"
+- Neil Ziolkowski (CU Germanic), "Reading Orientation: Two Case Studies in Modernist Prose,"
+  Dissertation Defense Committee, November 2019.
+- Vera Senina (CU Slavic), Minor Colloquium on Discourse Analysis, Committee Member, November
+  2019.
+- Sean Thomas O'Neil (CU History), "The Art of Signs: Symbolic Notation and Visual Thinking in
+  Early Modern Europe, 1600--1800," Dissertation Defense Committee, August 2019.
+- Milan Terlunen (CU English), "Literary Theory" Reading list, Oral Exam Committee, 2018 -- 19.
+- Naomi Michalowicz (CU English), "Narratology," Reading list, Oral Exam Committee 2018 -- 19.
+- Jonathan Reeve (CU English), "Computational Approaches to the Study of Literary Style,"
   Reading list, Oral Exam Committee, 2017 -- 18. Dissertation Committee, Second reader, 2018 --
-- Maxwell Foxman (Columbia Communications), "Playing with Virtual Reality: Early Adopters of
+- Maxwell Foxman (CU Communications), "Playing with Virtual Reality: Early Adopters of
   Commercial Immersive Technology," Dissertation Committee, Third reader, Spring 2018.
 Assistant Professor of Media Studies/Game Studies at the University of Oregon.
-- Yuliya Grinberg (Columbia Anthropology), "Sensored: Quantified Self, Self-Tracking, and the
-  Limits of Radical Transparency," Dissertation Defense Committee, Spring 2018.
-Consultant at The Cooper Union for the Advancement of Science and Art.
+- Yuliya Grinberg (CU Anthropology), "Sensored: Quantified Self, Self-Tracking, and the Limits
+  of Radical Transparency," Dissertation Defense Committee, Spring 2018.  Consultant at The
+Cooper Union for the Advancement of Science and Art.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
-  Asynchronous Discussion Spaces," Dissertation Defense Committee, Spring 2018.
-Director, Pace University Writing Center.
-- Sierra Eckert (Columbia English), "Sociology of Literature" Reading list, Oral Exam
-  Committee, 2016 -- 17.
-- Phillip Polefrone (Columbia English), "Technology and Society" Reading list, Oral Exam
-  Committee, 2015 -- 16.
-- Jessica Hallock (Columbia English), "Literary Theory" Reading list, Oral Exam Committee, 2015 --
-- Alice Boone (Columbia English), "The Progress of Error: or, the Recursive 18th Century,"
+  Asynchronous Discussion Spaces," Dissertation Defense Committee, Spring 2018.  Director, Pace
+University Writing Center.
+- Sierra Eckert (CU English), "Sociology of Literature" Reading list, Oral Exam Committee, 2016
+  -- 17.
+- Phillip Polefrone (CU English), "Technology and Society" Reading list, Oral Exam Committee,
+  2015 -- 16.
+- Jessica Hallock (CU English), "Literary Theory" Reading list, Oral Exam Committee, 2015 --
+- Alice Boone (CU English), "The Progress of Error: or, the Recursive 18th Century,"
   Dissertation Defense Committee, Spring 2014.
-- Graham Sack (Columbia English), Dissertation Committee, Second reader, 2014 --
+- Graham Sack (CU English), Dissertation Committee, Second reader, 2014 --
 
 ### MA Advising
 

@@ -45,7 +45,7 @@ Computing*; *Modernism/Modernity*; [*Science, Technology & Human
 Values*](https://journals.sagepub.com/doi/full/10.1177/0162243919825887); *Association of
 Computational Linguistics* (ACL); and *Digital Scholarship in the Humanities* (DSH).
 - Grant review for The American Academy in Berlin and the National Science Foundation.
-- Program Committee, International Conference of Computational Linguistics, [Workshop on
+- Program Committee, International Conference on Computational Linguistics (COLING), [Workshop on
   Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018.
 - Program Committee, Association for Computational Linguistics, [Abusive Language
   Workshop](https://web.archive.org/web/20190219200248/https://www.aclweb.org/portal/content/1st-workshop-abusive-language-online),

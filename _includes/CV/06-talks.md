@@ -1,6 +1,9 @@
 ## H. Invited Talks, Workshops, & Conferences
 
 
+- "File Cabinet Realism: Structure and Texture in Modernist Prose." Lecture by invitation to
+  the "Office Supplies, Bureaucratic Cultures, and the Material History of Inscription"
+conference at the University of Pittsburgh, March 26--27, 2020.
 - "The Rise of Literary Machines." Keynote lecture by invitation to The Korean Society of East
   West Comparative Literature, Third International Conference on "Digital Humanities and World
 Literature" at Pohang University, Korea on October 26, 2019.
@@ -9,7 +12,8 @@ Literature" at Pohang University, Korea on October 26, 2019.
 - "The Hermeneutics of Computer-generated Text." Talk by invitation at the "Poetic Critique"
   conference, Indiana University Global, Berlin on June 27 -- 29, 2019.
 - "Minimal Computing in Plain Text." Keynote lecture by invitation to the Computer-Assisted
-  Text Analysis for Resource-Scarce Literatures conference at the University of Miami on April 25, 2019.
+  Text Analysis for Resource-Scarce Literatures conference at the University of Miami on April
+25, 2019.
 - "Technology and Literary Studies." Seminar by invitation to the Rifkind Center for Humanities
   and the Arts at the City College of New York on March 14, 2019.
 - "Authoring Artificial Intelligence: Chatbots and Story Generators of the 1950--1970s."
@@ -54,7 +58,8 @@ September 29, 2017.
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis." Lecture by
   invitation at the [Analysing
 Text](https://web.archive.org/web/20190219200545/https://dongpng.github.io/attached/index.html)
-conference hosted by the Alan Turing Institute at the British Library, London on September 22, 2017.
+conference hosted by the Alan Turing Institute at the British Library, London on September 22,
+2017.
 - "Version Control for Textual Criticism." Lecture and workshop by invitation at the What is a
   Book in the 21st Century? seminar, Columbia University on January 20, 2017.
 - "Technologies of Dissent: Shadow Libraries." Lecture by invitation at the The Black Sea
@@ -92,7 +97,8 @@ of the Association of American University Presses, hosted by Columbia University
 - "Civic Scholarship." Lecture by invitation at the Research Without Borders conference,
   Columbia University on February 27, 2014.
 - "Visualizing Book Piracy." Conference address by invitation at Detective: Advanced Data
-  Visualization Project, Graduate School of Architecture, Columbia University on February 3, 2014.
+  Visualization Project, Graduate School of Architecture, Columbia University on February 3,
+2014.
 - "Algorithmic Agency." Lecture by invitation at the Cognitive Theory and the Arts Seminar,
   Harvard Humanities Center on November 21, 2013.
 - "Authoring in Plain Text." Workshop by invitation at the Center for Science and the
@@ -107,7 +113,8 @@ Literature Colloquium at Harvard on November 22, 2013.
 - "Hacking the Archive." Lecture by invitation at the New Media in Education Conference,
   Columbia University on February 1, 2013.
 - "Digital Humanities at Columbia." Lecture by invitation at the Integrative Graduate Education
-  and Research Traineeship, Department of Computer Science, Columbia University on November 27, 2012.
+  and Research Traineeship, Department of Computer Science, Columbia University on November 27,
+2012.
 - "Growth and Decay of Shared Knowledge." Lecture at the Berkman Klein Center for Internet and
   Society, Harvard University on April 3, 2012.
 - "Reflections on the 'Laboratory' Paradigm in the Humanities." Lecture at the Berkman Klein

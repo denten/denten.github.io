@@ -81,10 +81,8 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 
 1. "Author Function: A Literary History of Artificial Intelligence." Book
    manuscript under contract with The University of Chicago Press as of February, 2019.
-2. "Distributed Agency in the Novel." Article under review, Spring 2019.
+2. "Distributed Agency in the Novel." Article under review at *Novel*, Spring 2019.
 3. "The Evolution of Literary Cooperation." Book manuscript in progress.
-4. "Media Migrant," chapter forthcoming in *Understanding Flusser, Understanding Modernism*,
-   ed. by Aaron Jaffe , Rodrigi Martini, and Michael F. Miller. Bloomsbury, 2019.
-5. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
+4. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
     stages of development.
 

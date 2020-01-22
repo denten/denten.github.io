@@ -78,8 +78,7 @@ Undergraduate seminar. Columbia Core, year-long.
 
 - Neil Ziolkowski (CU Germanic), "Reading Orientation: Two Case Studies in Modernist Prose,"
   Dissertation Defense Committee, November 2019.
-- Vera Senina (CU Slavic), Minor Colloquium on Discourse Analysis, Committee Member, November
-  2019.
+- Vera Senina (CU Slavic), Minor Colloquium on Discourse Analysis, Committee Member, November 2019.
 - Sean Thomas O'Neil (CU History), "The Art of Signs: Symbolic Notation and Visual Thinking in
   Early Modern Europe, 1600--1800," Dissertation Defense Committee, August 2019.
 - Milan Terlunen (CU English), "Literary Theory" Reading list, Oral Exam Committee, 2018 -- 19.
@@ -88,17 +87,15 @@ Undergraduate seminar. Columbia Core, year-long.
   Reading list, Oral Exam Committee, 2017 -- 18. Dissertation Committee, Second reader, 2018 --
 - Maxwell Foxman (CU Communications), "Playing with Virtual Reality: Early Adopters of
   Commercial Immersive Technology," Dissertation Committee, Third reader, Spring 2018.
-Assistant Professor of Media Studies/Game Studies at the University of Oregon.
+  Assistant Professor of Media Studies/Game Studies at the University of Oregon.
 - Yuliya Grinberg (CU Anthropology), "Sensored: Quantified Self, Self-Tracking, and the Limits
   of Radical Transparency," Dissertation Defense Committee, Spring 2018.  Consultant at The
-Cooper Union for the Advancement of Science and Art.
+  Cooper Union for the Advancement of Science and Art.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
   Asynchronous Discussion Spaces," Dissertation Defense Committee, Spring 2018.  Director, Pace
-University Writing Center.
-- Sierra Eckert (CU English), "Sociology of Literature" Reading list, Oral Exam Committee, 2016
-  -- 17.
-- Phillip Polefrone (CU English), "Technology and Society" Reading list, Oral Exam Committee,
-  2015 -- 16.
+  University Writing Center.
+- Sierra Eckert (CU English), "Sociology of Literature" Reading list, Oral Exam Committee, 2016 -- 17.
+- Phillip Polefrone (CU English), "Technology and Society" Reading list, Oral Exam Committee, 2015 -- 16.
 - Jessica Hallock (CU English), "Literary Theory" Reading list, Oral Exam Committee, 2015 --
 - Alice Boone (CU English), "The Progress of Error: or, the Recursive 18th Century,"
   Dissertation Defense Committee, Spring 2014.

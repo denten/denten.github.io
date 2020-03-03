@@ -89,8 +89,9 @@ Undergraduate seminar. Columbia Core, year-long.
   Commercial Immersive Technology," Dissertation Committee, Third reader, Spring 2018.
   Assistant Professor of Media Studies/Game Studies at the University of Oregon.
 - Yuliya Grinberg (CU Anthropology), "Sensored: Quantified Self, Self-Tracking, and the Limits
-  of Radical Transparency," Dissertation Defense Committee, Spring 2018.  Consultant at The
-  Cooper Union for the Advancement of Science and Art.
+  of Radical Transparency," Dissertation Defense Committee, Spring 2018.  Former consultant at The
+  Cooper Union for the Advancement of Science and Art, as of 2020 holding a tenure-track
+appointment in the Department of Anthropology at Drew University.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
   Asynchronous Discussion Spaces," Dissertation Defense Committee, Spring 2018.  Director, Pace
   University Writing Center.

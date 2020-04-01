@@ -41,21 +41,23 @@ by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach
 
 ### Contributed Essays & Chapters (Refereed)
 
-1. "Reading Platforms: A Concise History of the Electronic Book," chapter submitted and
+1. "Materiality," forthcoming in *The Cambridge Companion to Literature in a Digital Age*, ed.
+   Adam Hammond. Cambridge UP, 2021.
+2. "Reading Platforms: A Concise History of the Electronic Book," chapter submitted and
    forthcoming in *The Unfinished Book*, ed. Alexandra Gillespie and Deidre Shauna Lynch.
 Oxford UP, 2020.
-2. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
+3. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
    *Rethinking Authorship in Comparative and Historical Perspectives*, ed.  Haruo Shirane and
 Tomi Suzuki.  Iwanami Shoten, 2019.
-3. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
+4. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
    Thomsen, et al. Bloomsbury, 2017: 299-310.
-4. "Visual-quantitative Approaches to the Intellectual History of the Field" in *Futures of
+5. "Visual-quantitative Approaches to the Intellectual History of the Field" in *Futures of
    Comparative Literature*, ed. Ursula K. Heise, et al.  Routledge, 2017: 258-266.
-5. "Critical Computing in the Humanities" with John Simpson and Phillip Polefrone in *Doing
+6. "Critical Computing in the Humanities" with John Simpson and Phillip Polefrone in *Doing
    Digital Humanities: Practice, Training and Research*, Ed. Ray Siemens. Routledge, 2016: 85-103.
-6. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed. Matthew K. Gold, et al.
+7. "Blunt Instrumentalism" in *Debates in the Digital Humanities*, ed. Matthew K. Gold, et al.
    Minnesota UP, 2016: 83-91.
-7. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und Verortung,* ed.
+8. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und Verortung,* ed.
    Klaus Müller-Richter and Ramona Uritescu-Lombard.  Transcript-Verlag, 2007: 99-111.
 
 ### Book Reviews

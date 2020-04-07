@@ -33,11 +33,11 @@ an agent and "non-profits" don't. Is this true? I don't know and didn't learn fr
 It could also be that those who choose to publish with a non-profit are a self-selected group
 of wealthy male authors. The opposite could be the case also. Or that some of the smaller
 presses specialize in particular audiences while the larger do not. Any number of such
-confounding factors could explain the difference and tested empirically. But whatever the
-explanation, it would rely on contextual information about the book market. This understanding
-of the context cannot be reduced to a "model" used to isolate purely textual, predicative
-features. None of them lead to an answer about change much less about the reasons, the how, of
-capitalism and its effects. The method does not live up to its implied theories.
+confounding factors could explain the difference or tested empirically. Whatever the
+explanation, it would rely on detailed contextual information about the book market. This
+understanding of the context cannot be reduced to intra-textual, predicative features. None of
+them lead to an answer about change much less about the reasons---the how---of capitalism or
+its effects. The method does not live up to its implied hypotheses.
 
 > I built this model to investigate whether nonprofits are, as they claim, more literary than
 > conglomerates. The results allow me to extend recent computational studies into literariness

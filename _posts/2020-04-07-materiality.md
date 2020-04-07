@@ -24,15 +24,16 @@ text---which serves as a conduit for the transmission of information. Aristotle,
 mode of mimesis. Prose describing the way a bird sings, for example, finds its object of
 imitation in actual bird songs, further expressed in the medium of written language.  Charlie
 Parker's style of playing imitated birds musically, through his saxophone, where the American
-ornithologist John James Audubon painted his birds in watercolor. Yet even this distinction
-between media fails to capture the difference in the modality of perception (and comprehension
-also). Of the mode Aristotle mentions only the contrast between an author "speaking in one's
-own person" and speaking with "other people engaged" in mimesis.  Consider, for example, a film
-actor turning to the camera to address their audience, thus shifting the interpretive
-perspective from an intra-diegetic vantage to an extra-diegetic one. Sit still, our actor says.
-The directive plays with the convention of theater-going.  Contemplated in somber silence of an
-art house theater it almost gains a philosophical significance, though I would prefer to watch
-it amongst the clamor of a local pub movie night.
+ornithologist John James Audubon painted his birds in watercolor.
+
+Yet even this distinction between media fails to capture the difference in the modality of
+perception (and comprehension also). Of the mode Aristotle mentions only the contrast between
+an author "speaking in one's own person" and speaking with "other people engaged" in mimesis.
+Consider, for example, a film actor turning to the camera to address their audience, thus
+shifting the interpretive perspective from an intra-diegetic vantage to an extra-diegetic one.
+Sit still, our actor says.  The directive plays with the convention of theater-going.
+Contemplated in somber silence of an art house theater it almost gains a philosophical
+significance, though I would prefer to watch it amongst the clamor of a local pub movie night.
 
 Some of you might similarly prefer to read a novel in the comfort of your own home, while
 others enjoy the sense of a community and deep discussion that happens in book clubs, on online

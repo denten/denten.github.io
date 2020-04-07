@@ -7,7 +7,7 @@ published: true
 ---
 
 I was recently asked to contribute a chapter on historical materialism for the *Cambridge
-Companion to Literature in the Digital Age*, edited by the [inimitable][1] Adam Hammond.
+Companion to Literature in the Digital Age*, edited by the inimitable<sup>1</sup> Adam Hammond.
 
 Given the topic, I worry about writing a theoretical piece that strays too far from actual
 material realities. Too often, a discussion on materialism in literary studies is inverted to
@@ -74,6 +74,7 @@ own various limits and conditions, incommensurate to the lived experience of ano
 materialist method entails hermeneutics embedded and embodied. To think in one's head is
 insufficient for understanding: we must also walk, touch, make, and be discomforted.
 
-[1]: See for example Julian Brooke, Adam Hammond, Graeme Hirst. “[Distinguishing Voices in The
-Waste Land Using Computational Stylistics](http://www.adamhammond.com/wp-content/uploads/2015/05/55-158-1-pb-3.pdf).”
-Linguistic Issues in Language Technology 12.2 (October 2015): 1-43.
+<sup>1. See for example his “[Distinguishing Voices in The Waste Land Using Computational
+Stylistics](http://www.adamhammond.com/wp-content/uploads/2015/05/55-158-1-pb-3.pdf).” in
+*Linguistic Issues in Language Technology* 12.2 (October 2015): 1-43, co-authored with
+Julian Brooke and Graeme Hirst.</sup>

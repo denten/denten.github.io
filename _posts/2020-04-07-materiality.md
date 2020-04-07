@@ -3,7 +3,7 @@ layout: post
 title: "Historical Materialism: Introduction"
 categories:
 - think.stack
-published: false
+published: true
 ---
 
 I was recently asked to contribute a chapter on historical materialism for the *Cambridge

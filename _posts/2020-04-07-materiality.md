@@ -11,7 +11,7 @@ Companion to Literature in the Digital Age*, edited by the inimitable<sup>1</sup
 
 Given the topic, I worry about writing a theoretical piece that strays too far from actual
 material realities. Too often, a discussion on materialism in literary studies is inverted to
-to privilege the "representation of," and therefore, ultimately, ideology over things, economic
+privilege the "representation of," and therefore, ultimately, ideology over things, economic
 inequities, or labor conditions. In the following several posts I would like to draft a cogent
 alternative.
 

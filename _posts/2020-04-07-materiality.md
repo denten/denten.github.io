@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Historical Materialism: Introduction"
+title: "Historical Materialism (1/4): Intro"
 categories:
 - think.stack
 published: true
@@ -75,6 +75,6 @@ materialist method entails hermeneutics embedded and embodied. To think in one's
 insufficient for understanding: we must also walk, touch, make, and be discomforted.
 
 <sup>1. See for example his “[Distinguishing Voices in The Waste Land Using Computational
-Stylistics](http://www.adamhammond.com/wp-content/uploads/2015/05/55-158-1-pb-3.pdf).” in
+Stylistics](http://www.adamhammond.com/wp-content/uploads/2015/05/55-158-1-pb-3.pdf)” in
 *Linguistic Issues in Language Technology* 12.2 (October 2015): 1-43, co-authored with
 Julian Brooke and Graeme Hirst.</sup>

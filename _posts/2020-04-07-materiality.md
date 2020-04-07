@@ -15,7 +15,7 @@ privilege the "representation of," and therefore, ultimately, ideology over thin
 inequities, or labor conditions. In the following several posts I would like to draft a cogent
 alternative.
 
-## Introduction
+### Introduction
 
 The interpretation of texts is complicated by the fact that ideas take shape in matter. My
 words thus reach you within a specific medium---paper, audio file, or an electronic

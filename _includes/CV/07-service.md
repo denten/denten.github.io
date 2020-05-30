@@ -38,7 +38,7 @@
 
 - Book manuscript reviews for Cambridge UP, Columbia UP, MIT Press, and Princeton UP.
 - Peer review for national and international journals including *Computational Culture*;
-  *Digital Humanities Qarterly* (DHQ); *Digital Studies / Le champ numérique*; *History of
+  *Digital Humanities Quarterly* (DHQ); *Digital Studies / Le champ numérique*; *History of
 Humanities*; *International Journal of Humanities and Arts Computing*; *Modernism/Modernity*;
 [*Science, Technology & Human
 Values*](https://journals.sagepub.com/doi/full/10.1177/0162243919825887); *Association of

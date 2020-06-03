@@ -76,6 +76,7 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
+- Sierra Eckert (CU Enlish), Title TBD, Second Reader, Dis. Def. Com., July 2020.
 - Tracy O'Neill (CU Journalism), "The Politics and Aesthetics of the Popular Creative Writing
   Manual," External Reader, Dis. Def. Com., April 2020.
 - Neil Ziolkowski (CU Germanic), "Reading Orientation: Two Case Studies in Modernist Prose,"
@@ -105,7 +106,7 @@ Director, Pace University Writing Center.
 - Jessica Hallock (CU English), "Literary Theory" Reading list, Oral Exam Com., 2015 --
 - Alice Boone (CU English), "The Progress of Error: or, the Recursive 18th Century," Dis. Def.
   Com., Spring 2014.
-- Graham Sack (CU English), Dissertation Committee, Second reader, 2014 --
+- Graham Sack (CU English), Dissertation Committee, Second Reader, 2014 --
 
 ### MA Advising
 

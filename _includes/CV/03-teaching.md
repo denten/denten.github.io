@@ -122,6 +122,9 @@ Director, Pace University Writing Center.
 
 ### Undergraduate Advising
 
+- Jungwoo Park, Laidlaw Scholar, Summer 2020.
+- Valeria Arbonies (University of Puerto Rico), Columbia Leadership Alliance Mellon Mays
+  Initiative Scholar, Summer 2020.
 - Gabrielle Agnes Kloppers, "*Fallout: New Vegas* and Conflicting Representations of
   Temporality," Senior Thesis, Spring 2019.
 - Elena Goldstein, "Big Brother all Grown Up," Independent Study, 2014.

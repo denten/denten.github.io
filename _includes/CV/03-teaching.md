@@ -76,6 +76,7 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
+- Eduardo Pavez, "Metaphor Theory" Reading List, Oral Exam Com., 2020 -- 2021.
 - Sierra Eckert (CU Enlish), Title TBD, Second Reader, Dis. Def. Com., July 2020.
 - Tracy O'Neill (CU Journalism), "The Politics and Aesthetics of the Popular Creative Writing
   Manual," External Reader, Dis. Def. Com., April 2020.

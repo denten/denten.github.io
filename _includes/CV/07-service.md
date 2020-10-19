@@ -42,16 +42,16 @@ COVID-19 pandemic and the consequent shift to a three-semester system.
 - Peer review for national and international journals including *Computational Culture*;
   *Digital Humanities Quarterly* (DHQ); *Digital Studies / Le champ numérique*; *History of
 Humanities*; *International Journal of Humanities and Arts Computing*; *Modernism/Modernity*;
-[*Science, Technology & Human
-Values*](https://journals.sagepub.com/doi/full/10.1177/0162243919825887); *Association of
-Computational Linguistics* (ACL); and *Digital Scholarship in the Humanities* (DSH).
+*Science, Technology & Human Values*; *Association of Computational Linguistics* (ACL);
+*Digital Scholarship in the Humanities* (DSH); and *Communication Theory*.
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018.
 - Program Committee, Association for Computational Linguistics, [Abusive Language
   Workshop](https://web.archive.org/web/20190219200248/https://www.aclweb.org/portal/content/1st-workshop-abusive-language-online),
 2017 -- 18.
-- Member of A. Owen Aldridge Prize Committee, American Comparative Literature Association, 2017 -- 2019.
+- Member of A. Owen Aldridge Prize Committee, American Comparative Literature Association, 2017
+  -- 2019.
 - Knowledge design consulting for Diller Scofidio + Renfro, 2017.
 - 2 years as a managing editor of *Modernism/Modernity*, 2010 -- 12.
 - 10+ years software development and user interface design, with employees including Microsoft,

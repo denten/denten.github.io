@@ -68,12 +68,16 @@ lexicon, the Harlem Renaissance, her problematic stance toward it, her time at C
 University spent with Franz Boas and Margaret Mead, her wealth and her literary patronage, her
 sometime poverty, the socio-economic realities of black publishing, or, in her own words, "what
 white publishers won't print" (the title of an essay she published in the *Negro Digest* in
-1950). These things interfere with my physical complacency. They force me to stand and to
-travel. They fracture the unity of meaning. Where I presumed to interpret and to explain,
-instead I find a multiplicity of competing possibilities, errors, and emendations along with my
-own various limits and conditions, incommensurate to the lived experience of another. The
-materialist method entails hermeneutics embedded and embodied. To think in one's head is
-insufficient for understanding: we must also walk, touch, make, and be discomforted.
+1950).
+
+These things interfere with my physical complacency. They force me to stand and to travel. They
+fracture any hope for a unity of meaning. Where I presumed to interpret and to explain, instead
+I find a multiplicity of competing possibilities, errors, and emendations along with my own
+various limits and conditions, incommensurate to the lived experience of another. The
+materialist method entails hermeneutics so embedded and embodied. Embedded where? Across time,
+in the context of history. Embodied how? Within the shared sensation of pain and vulnerability.
+To think in one's head is insufficient for understanding: we must also walk, touch, make, feel,
+and be discomforted.
 
 <sup>1. See for example his “[Distinguishing Voices in The Waste Land Using Computational
 Stylistics](http://www.adamhammond.com/wp-content/uploads/2015/05/55-158-1-pb-3.pdf)” in

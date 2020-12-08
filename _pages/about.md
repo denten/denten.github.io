@@ -21,8 +21,7 @@ Culture*, and *Modernism/modernity* on topics that include literary theory, the 
 literature, media history, and computational narratology. His next book concerns the creative
 limits of artificial intelligence.
 
-Please submit all press queries in writing---I do not give transcribed
-interviews.
+Please submit all press queries in writing---I prefer to give interviews in writing.
 
 [1]: http://english.columbia.edu
 [2]: http://datascience.columbia.edu/new-media

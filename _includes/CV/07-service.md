@@ -3,7 +3,7 @@
 #### Department
 
 - Associate Chair, 2020 -- 2021. Responsible for curriculum planning in response to the
-COVID-19 pandemic and the consequent shift to a three-semester system.
+COVID-19 pandemic.
 - *[Group for Experimental Methods in the Humanities](http://xpmethod.github.io/)*, founding
   member. A research collective specializing in literary modeling and visualization, spatial
   humanities, and knowledge design. Weekly lab meetings, monthly workshops, and lecture series. 2014 --

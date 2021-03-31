@@ -76,6 +76,8 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
+- Graham Sack (CU English), "Simulation Fiction: Models of Narrative & Literary Culture,"
+  Dissertation Committee Chair, 2014 -- 2021
 - Eduardo Pavez, "Metaphor Theory" Reading List, Oral Exam Com., 2020 -- 2021.
 - Sierra Eckert (CU Enlish), Title TBD, Second Reader, Dis. Def. Com., July 2020.
 - Tracy O'Neill (CU Journalism), "The Politics and Aesthetics of the Popular Creative Writing
@@ -107,7 +109,6 @@ Director, Pace University Writing Center.
 - Jessica Hallock (CU English), "Literary Theory" Reading list, Oral Exam Com., 2015 --
 - Alice Boone (CU English), "The Progress of Error: or, the Recursive 18th Century," Dis. Def.
   Com., Spring 2014.
-- Graham Sack (CU English), Dissertation Committee, Second Reader, 2014 --
 
 ### MA Advising
 

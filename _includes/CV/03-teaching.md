@@ -1,5 +1,11 @@
 ## D. Teaching and Advising
 
+### 2020 -- 21
+- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
+- [ENGL GR5001 *English MA
+  Seminar*](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
+comprehensive introduction to the field of literary studies for graduate students.
 
 ### 2019 -- 20
 - [ENGL 4728 *Literature in the Age of Artificial
@@ -125,6 +131,9 @@ Director, Pace University Writing Center.
 
 ### Undergraduate Advising
 
+- Sharla Kirkpatrick, GSAS Summer Research Program, Summer 2021.
+- Bethel Ikenna Adiele, Laidlaw Foundation Scholar, Summer 2021.
+- Adiba Hussein, Barnard Summer Research Institute, Summer 2021.
 - Jungwoo Park, Laidlaw Scholar, Summer 2020.
 - Valeria Arbonies (University of Puerto Rico), Columbia Leadership Alliance Mellon Mays
   Initiative Scholar, Summer 2020.

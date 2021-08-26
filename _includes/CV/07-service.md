@@ -17,6 +17,7 @@ COVID-19 pandemic.
 
 - Executive Committee, [Institute for Comparative Literature and
   Society](http://icls.columbia.edu/), 2016 --
+- Harriman Institute Executive Committee, 2021 -- 22.
 - *[Studio at Butler](https://studio.cul.columbia.edu/)*, founding member, faculty advisor.
   Planning, specification, and programming of the Butler Studio, a maker/lab space at the
   center of Butler Library. Hosting lectures, training workshops, and open labs. 2013 --

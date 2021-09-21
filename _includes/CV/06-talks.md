@@ -1,8 +1,8 @@
 ## H. Invited Talks, Workshops, & Conferences
 
 - "Media and Metaphor (Or How Literary Theory Figures in the Study of Human Computer
-  Interaction)." Talk by invitation at the Department of Comparative Literature, *Virtually So,
-Virtually Here* lecture series on September 23, 2021.
+  Interaction)." Talk by invitation at Princeton University, Department of Comparative
+Literature, *Virtually So, Virtually Here* lecture series on September 23, 2021.
 - "File Cabinet Realism: Structure and Texture in Modernist Prose." Lecture by invitation to
   the "Office Supplies, Bureaucratic Cultures, and the Material History of Inscription"
 conference at the University of Pittsburgh, March 26--27, 2020. Postponed due to the COVID-19

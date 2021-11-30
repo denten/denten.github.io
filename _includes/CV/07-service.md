@@ -39,12 +39,13 @@ COVID-19 pandemic.
 
 #### Professional Service
 
-- Book manuscript reviews for Cambridge UP, Columbia UP, MIT Press, and Princeton UP.
-- Peer review for national and international journals including *Computational Culture*;
-  *Digital Humanities Quarterly* (DHQ); *Digital Studies / Le champ numérique*; *History of
-Humanities*; *International Journal of Humanities and Arts Computing*; *Modernism/Modernity*;
-*Science, Technology & Human Values*; *Association of Computational Linguistics* (ACL);
-*Digital Scholarship in the Humanities* (DSH); and *Communication Theory*.
+- Manuscript reviews for Cambridge, Columbia, Duke, MIT, and Princeton university presses.
+- Peer review for national and international journals including the *Association of
+  Computational Linguistics* (ACL); *Computational Culture*; *Communication Theory*; *Critical
+AI*; *Digital Humanities Quarterly* (DHQ); *Digital Scholarship in the Humanities* (DSH);
+*Digital Studies / Le champ numérique*; *History of Humanities*; *International Journal of
+Humanities and Arts Computing*; *Modernism/Modernity*; *Project Information Literacy*; and
+*Science, Technology & Human Values*.
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018.

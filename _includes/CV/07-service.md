@@ -48,7 +48,7 @@ Humanities and Arts Computing*; *Modernism/Modernity*; *Project Information Lite
 *Science, Technology & Human Values*.
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
-  on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018.
+  on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.
 - Program Committee, Association for Computational Linguistics, [Abusive Language
   Workshop](https://web.archive.org/web/20190219200248/https://www.aclweb.org/portal/content/1st-workshop-abusive-language-online),
 2017 -- 18.

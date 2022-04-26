@@ -83,8 +83,9 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 
 1. "Author Function: A Literary History of Artificial Intelligence." Book
    manuscript under contract with The University of Chicago Press as of February, 2019.
-2. "Distributed Agency in the Novel." Article under review at *Novel*, Spring 2019.
-3. "The Evolution of Literary Cooperation." Book manuscript in progress.
-4. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
+2. "Literary Theory for Robots." Book manuscript under contract with Norton as of Fall 2021.
+3. "Distributed Agency in the Novel." Article under review at the *New Literary History*, Spring 2021.
+4. "The Evolution of Literary Cooperation." Book manuscript in progress.
+5. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
     stages of development.
 

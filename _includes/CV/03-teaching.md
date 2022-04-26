@@ -85,7 +85,7 @@ Undergraduate seminar. Columbia Core, year-long.
 - Graham Sack (CU English), "Simulation Fiction: Models of Narrative & Literary Culture,"
   Dissertation Committee Chair, 2014 -- 2021
 - Eduardo Pavez, "Metaphor Theory" Reading List, Oral Exam Com., 2020 -- 2021.
-- Sierra Eckert (CU Enlish), Title TBD, Second Reader, Dis. Def. Com., July 2020.
+- Sierra Eckert (CU English), Title TBD, Second Reader, Dis. Def. Com., July 2020.
 - Tracy O'Neill (CU Journalism), "The Politics and Aesthetics of the Popular Creative Writing
   Manual," External Reader, Dis. Def. Com., April 2020.
 - Neil Ziolkowski (CU Germanic), "Reading Orientation: Two Case Studies in Modernist Prose,"

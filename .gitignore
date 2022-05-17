@@ -11,3 +11,4 @@ auto/
 temp/
 temp.md
 archive/
+.jekyll-cache/

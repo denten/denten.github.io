@@ -44,8 +44,8 @@ COVID-19 pandemic.
   Computational Linguistics* (ACL); *Computational Culture*; *Communication Theory*; *Critical
 AI*; *Digital Humanities Quarterly* (DHQ); *Digital Scholarship in the Humanities* (DSH);
 *Digital Studies / Le champ numérique*; *History of Humanities*; *International Journal of
-Humanities and Arts Computing*; *Modernism/Modernity*; *Project Information Literacy*; and
-*Science, Technology & Human Values*.
+Humanities and Arts Computing*; *Modernism/Modernity*; *Post45*, *Project Information
+Literacy*; and *Science, Technology & Human Values*.
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.

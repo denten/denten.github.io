@@ -39,13 +39,13 @@ COVID-19 pandemic.
 
 #### Professional Service
 
-- Manuscript reviews for Cambridge, Columbia, Duke, MIT, and Princeton university presses.
-- Peer review for national and international journals including the *Association of
-  Computational Linguistics* (ACL); *Computational Culture*; *Communication Theory*; *Critical
-AI*; *Digital Humanities Quarterly* (DHQ); *Digital Scholarship in the Humanities* (DSH);
-*Digital Studies / Le champ numérique*; *History of Humanities*; *International Journal of
-Humanities and Arts Computing*; *Modernism/Modernity*; *Post45*, *Project Information
-Literacy*; and *Science, Technology & Human Values*.
+- Manuscript reviews for Cambridge, Columbia, Duke, MIT, Princeton, and W.W. Norton presses.
+- Article peer review for the *Association of Computational Linguistics* (ACL); *Computational
+  Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
+*Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*; *History
+of Humanities*; *International Journal of Humanities and Arts Computing*;
+*Modernism/Modernity*; *Post45*, *Project Information Literacy*; and *Science, Technology &
+Human Values*.
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.
@@ -54,7 +54,7 @@ Literacy*; and *Science, Technology & Human Values*.
 2017 -- 18.
 - Member of A. Owen Aldridge Prize Committee, American Comparative Literature Association, 2017
   -- 2019.
-- Knowledge design consulting for Diller Scofidio + Renfro, 2017.
+- Design consulting for Diller Scofidio + Renfro, 2017.
 - 2 years as a managing editor of *Modernism/Modernity*, 2010 -- 12.
 - 10+ years software development and user interface design, with employees including Microsoft,
   General Motors, The Greening of Detroit, MRI, MSU Libraries and Computing Provost 1996 -- 04.

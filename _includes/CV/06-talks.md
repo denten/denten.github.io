@@ -1,8 +1,8 @@
 ## H. Invited Talks, Workshops, & Conferences
 
 - "The Folklore of Vaccine Resistance." Talk and discussion by invitation at the Center for
-  American Literary Studies, Penn State as part of "The Role of the Humanities in Addressing
-Vaccine Hesitancy" panel in the *Unprecedented* Webinar Series.
+  American Literary Studies, Penn State as part of "[The Role of the Humanities in Addressing
+Vaccine Hesitancy](https://web.archive.org/web/20220830014517/https://cals.la.psu.edu/events/the-role-of-the-humanities-in-addressing-vaccine-hesitancy/)" panel in the *Unprecedented* Webinar Series on January 21, 2022.
 - "Media and Metaphor (Or How Literary Theory Figures in the Study of Human Computer
   Interaction)." Talk by invitation at Princeton University, Department of Comparative
 Literature, *Virtually So, Virtually Here* lecture series on September 23, 2021.

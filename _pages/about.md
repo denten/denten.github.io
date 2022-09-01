@@ -28,4 +28,4 @@ limits of artificial intelligence.
 [5]: https://github.com/denten/denten.github.io/raw/master/_includes/CV/imprints/denten-CV.pdf
 [6]: https://github.com/denten/denten.github.io/blob/master/public/denten-profile-photo.jpg
 [7]: http://english.columbia.edu/people/profile/453
-[8]: http://xpmethod.plaintext.in/
+[8]: http://xpmethod.columbia.edu/

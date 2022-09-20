@@ -15,40 +15,40 @@ Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.co
 
 ### Peer-reviewed Publications
 
-1. "[The Emergence of American
+1. "Distributed Agency in the Novel." Forthcoming in the *New Literary History*, Fall 2022.
+2. "[The Emergence of American
    Formalism](https://academiccommons.columbia.edu/doi/10.7916/d8-8spe-nn29)."
 *Modern Philology* 117, no. 2 (November 2019): 257--283.
-2. "[Toward a Computational Archaeology of Fictional
+3. "[Toward a Computational Archaeology of Fictional
    Space](https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D)." *New Literary History*
 49, no. 1 (2018): 119--47.
-3. "[Laminate Text: The Strata of Digital
+4. "[Laminate Text: The Strata of Digital
    Inscription](http://amodern.net/article/laminate-text/)." *Amodern* (December, 2017).
-4. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
+5. “[Unintelligent Design](http://boundary2.dukejournals.org/content/44/2/145.abstract).”
    *Boundary 2* 44, no. 2 (May, 2017): 145--56.
-5. "[Book Piracy as Peer
+6. "[Book Piracy as Peer
    Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation),"
 primary author with Maxwell Foxman *Computational Culture 4* (2014).
-6. "[Sustainable Authorship in Plain
+7. "[Sustainable Authorship in Plain
    Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
 *The Programming Historian* (2014). Primary author with Grant Wythoff. Translated into Spanish
 as "[Escritura sostenible en texto plano usando Pandoc y
 Markdown](http://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown)"
 by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach).
-7. "[Stalin’s
+8. "[Stalin’s
    PowerPoint](http://muse.jhu.edu/journals/modernism-modernity/v021/21.1.tenen.html)."
 *Modernism/modernity 21.1* (2014): 253--267.
-8. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24--25.
+9. "Three Notes on *Mary*." *The Nabokovian 46* (2001): 24--25.
 
 ### Contributed Essays & Chapters (Refereed)
 
 1. "Materiality," forthcoming in *The Cambridge Companion to Literature in a Digital Age*, ed.
-   Adam Hammond. Cambridge UP, 2021.
-2. "Reading Platforms: A Concise History of the Electronic Book," chapter submitted and
-   forthcoming in *The Unfinished Book*, ed. Alexandra Gillespie and Deidre Shauna Lynch.
-Oxford UP, 2020.
-3. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
+   Adam Hammond. Cambridge UP, 2022.
+2. "Anonymous, Massively Collaborative, Trans-human," chapter submitted and forthcoming in
    *Rethinking Authorship in Comparative and Historical Perspectives*, ed.  Haruo Shirane and
-Tomi Suzuki.  Iwanami Shoten, 2019.
+Tomi Suzuki.  Iwanami Shoten, 2022.
+3. "Reading Platforms: A Concise History of the Electronic Book" in *The Unfinished Book*, ed.
+Alexandra Gillespie and Deidre Shauna Lynch. Oxford UP, 2021.
 4. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
    Thomsen, et al. Bloomsbury, 2017: 299-310.
 5. "Visual-quantitative Approaches to the Intellectual History of the Field" in *Futures of
@@ -82,9 +82,8 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 ### Manuscripts in Progress
 
 1. "Author Function: A Literary History of Artificial Intelligence." Book
-   manuscript under contract with The University of Chicago Press as of February, 2019.
-2. "Literary Theory for Robots." Book manuscript under contract with Norton as of Fall 2021.
-3. "Distributed Agency in the Novel." Article under review at the *New Literary History*, Spring 2021.
+   manuscript under contract with The University of Chicago Press as of February, 2020.
+2. "Literary Theory for Robots." Book manuscript under contract with W.W. Norton as of Fall 2021.
 4. "The Evolution of Literary Cooperation." Book manuscript in progress.
 5. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
     stages of development.

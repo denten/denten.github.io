@@ -1,8 +1,12 @@
 ## H. Invited Talks, Workshops, & Conferences
 
+- "Algorithmic Imagination and Literary Study." Keynote address as part of NRF Korea
+  *Artificial Intelligence avec Digital Humanities* Symposium on September 24th, 2022.
 - "The Folklore of Vaccine Resistance." Talk and discussion by invitation at the Center for
   American Literary Studies, Penn State as part of "[The Role of the Humanities in Addressing
-Vaccine Hesitancy](https://web.archive.org/web/20220830014517/https://cals.la.psu.edu/events/the-role-of-the-humanities-in-addressing-vaccine-hesitancy/)" panel in the *Unprecedented* Webinar Series on January 21, 2022.
+Vaccine
+Hesitancy](https://web.archive.org/web/20220830014517/https://cals.la.psu.edu/events/the-role-of-the-humanities-in-addressing-vaccine-hesitancy/)"
+panel in the *Unprecedented* Webinar Series on January 21, 2022.
 - "Media and Metaphor (Or How Literary Theory Figures in the Study of Human Computer
   Interaction)." Talk by invitation at Princeton University, Department of Comparative
 Literature, *Virtually So, Virtually Here* lecture series on September 23, 2021.
@@ -63,7 +67,8 @@ September 29, 2017.
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis." Lecture by
   invitation at the [Analysing
 Text](https://web.archive.org/web/20190219200545/https://dongpng.github.io/attached/index.html)
-conference hosted by the Alan Turing Institute at the British Library, London on September 22, 2017.
+conference hosted by the Alan Turing Institute at the British Library, London on September 22,
+2017.
 - "Version Control for Textual Criticism." Lecture and workshop by invitation at the What is a
   Book in the 21st Century? seminar, Columbia University on January 20, 2017.
 - "Technologies of Dissent: Shadow Libraries." Lecture by invitation at the The Black Sea
@@ -101,7 +106,8 @@ of the Association of American University Presses, hosted by Columbia University
 - "Civic Scholarship." Lecture by invitation at the Research Without Borders conference,
   Columbia University on February 27, 2014.
 - "Visualizing Book Piracy." Conference address by invitation at Detective: Advanced Data
-  Visualization Project, Graduate School of Architecture, Columbia University on February 3, 2014.
+  Visualization Project, Graduate School of Architecture, Columbia University on February 3,
+2014.
 - "Algorithmic Agency." Lecture by invitation at the Cognitive Theory and the Arts Seminar,
   Harvard Humanities Center on November 21, 2013.
 - "Authoring in Plain Text." Workshop by invitation at the Center for Science and the
@@ -116,7 +122,8 @@ Literature Colloquium at Harvard on November 22, 2013.
 - "Hacking the Archive." Lecture by invitation at the New Media in Education Conference,
   Columbia University on February 1, 2013.
 - "Digital Humanities at Columbia." Lecture by invitation at the Integrative Graduate Education
-  and Research Traineeship, Department of Computer Science, Columbia University on November 27, 2012.
+  and Research Traineeship, Department of Computer Science, Columbia University on November 27,
+2012.
 - "Growth and Decay of Shared Knowledge." Lecture at the Berkman Klein Center for Internet and
   Society, Harvard University on April 3, 2012.
 - "Reflections on the 'Laboratory' Paradigm in the Humanities." Lecture at the Berkman Klein

@@ -1,7 +1,8 @@
 ## H. Invited Talks, Workshops, & Conferences
 
-- "Algorithmic Imagination and Literary Study." Keynote address as part of NRF Korea
-  *Artificial Intelligence avec Digital Humanities* Symposium on September 24th, 2022.
+- "Algorithmic Imagination and Literary Study." Keynote address as part NRF Korea *Artificial
+  Intelligence avec Digital Humanities* Symposium at the Transmedia World Literature Institute,
+Dongguk University on September 24th, 2022.
 - "The Folklore of Vaccine Resistance." Talk and discussion by invitation at the Center for
   American Literary Studies, Penn State as part of "[The Role of the Humanities in Addressing
 Vaccine

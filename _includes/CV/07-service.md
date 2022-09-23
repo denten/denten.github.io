@@ -16,10 +16,11 @@ COVID-19 pandemic.
 #### University
 
 - Provost's Advisory Committee on the Libraries, 2022 --
+- Senior Job Search Committee, Department of Slavic Languages and Literatures, AY 2022/23.
 - Executive Committee, [Institute for Comparative Literature and
   Society](http://icls.columbia.edu/), 2016 --
 - Harriman Institute Executive Committee, 2021 --
-- Dean Search Committee, School of Professional Studies, AE 2020/21.
+- Dean Search Committee, School of Professional Studies, AY 2020/21.
 - *[Studio at Butler](https://studio.cul.columbia.edu/)*, founding member, faculty advisor.
   Planning, specification, and programming of the Butler Studio, a maker/lab space at the
   center of Butler Library. Hosting lectures, training workshops, and open labs. 2013 --
@@ -28,14 +29,14 @@ COVID-19 pandemic.
 - [Collaboratory](http://collaboratory.columbia.edu/) Proposal Selection Committee, Spring 2016
   and 2019.
 - Data Science Taskforce, 2015 -- 2017.
-- Ad-hoc Exploratory Committee for the Center for Culture and Computation, AE 2014/15.
+- Ad-hoc Exploratory Committee for the Center for Culture and Computation, AY 2014/15.
 - Founding Member. [Digital Storytelling Lab](http://www.digitalstorytellinglab.com/), 2013 --
 - Member of "Literary Theory" and "Theory and History of Media" [University
   Seminars](http://universityseminars.columbia.edu/seminars/list-of-seminars/) 2013 --
-- Multiple contributions to the "Strategic Plan for Humanities in the Arts and Sciences," AE 2016/17.
+- Multiple contributions to the "Strategic Plan for Humanities in the Arts and Sciences," AY 2016/17.
 - Principal convener (along with Manan Ahmed and Roosevelt Montas) of the "Connected Core"
   pilot program as part of the university-wide "Core to Commencement" campaign, funded by the
-  College Dean's office, AE 2016.
+  College Dean's office, AY 2016.
 - Advisory Board. [Studio at Butler Library](https://studio.cul.columbia.edu/) (maker space),
   2013 --
 

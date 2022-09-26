@@ -15,7 +15,7 @@ COVID-19 pandemic.
 
 #### University
 
-- Provost's Advisory Committee on the Libraries, 2022 --
+- Provost's Advisory Committee on the Libraries, 2022 -- 2026.
 - Senior Job Search Committee, Department of Slavic Languages and Literatures, AY 2022/23.
 - Executive Committee, [Institute for Comparative Literature and
   Society](http://icls.columbia.edu/), 2016 --

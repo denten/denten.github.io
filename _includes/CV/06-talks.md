@@ -1,12 +1,12 @@
 ## H. Invited Talks, Workshops, & Conferences
 
+- "Chat Bots Among Us." Talk by invitation to Coding and the New Human Phenotype Roundtable,
+  at the Helix Center, New York Psychoanalytic Society on October 16, 2022.
 - "Algorithmic Imagination and Literary Study." Keynote address as part NRF Korea *Artificial
   Intelligence avec Digital Humanities* Symposium at the Transmedia World Literature Institute,
 Dongguk University on September 24th, 2022.
 - "The Folklore of Vaccine Resistance." Talk and discussion by invitation at the Center for
-  American Literary Studies, Penn State as part of "[The Role of the Humanities in Addressing
-Vaccine
-Hesitancy](https://web.archive.org/web/20220830014517/https://cals.la.psu.edu/events/the-role-of-the-humanities-in-addressing-vaccine-hesitancy/)"
+  American Literary Studies, Penn State as part of "[The Role of the Humanities in Addressing Vaccine Hesitancy](https://web.archive.org/web/20220830014517/https://cals.la.psu.edu/events/the-role-of-the-humanities-in-addressing-vaccine-hesitancy/)"
 panel in the *Unprecedented* Webinar Series on January 21, 2022.
 - "Media and Metaphor (Or How Literary Theory Figures in the Study of Human Computer
   Interaction)." Talk by invitation at Princeton University, Department of Comparative

@@ -1,4 +1,4 @@
-## D. Teaching and Advising
+## IV. Teaching and Advising
 
 ### 2020 -- 21
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
@@ -90,8 +90,7 @@ Undergraduate seminar. Columbia Core, year-long.
   Manual," External Reader, Dis. Def. Com., April 2020.
 - Neil Ziolkowski (CU Germanic), "Reading Orientation: Two Case Studies in Modernist Prose,"
   External Reader, Dis. Def. Com., November 2019.
-- Vera Senina (CU Slavic), Minor Colloquium on Discourse Analysis, Committee Member, November
-  2019.
+- Vera Senina (CU Slavic), Minor Colloquium on Discourse Analysis, Committee Member, November 2019.
 - Sean Thomas O'Neil (CU History), "The Art of Signs: Symbolic Notation and Visual Thinking in
   Early Modern Europe, 1600--1800," External Reader, Dis. Def. Com., August 2019.
 - Milan Terlunen (CU English), "Literary Theory" Reading list, Oral Exam Committee, 2018 -- 19.
@@ -108,10 +107,8 @@ appointment in the Department of Anthropology at Drew University.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
   Asynchronous Discussion Spaces," External Reader, Dis. Def. Com., Spring 2018. Placed as
 Director, Pace University Writing Center.
-- Sierra Eckert (CU English), "Sociology of Literature" Reading list, Oral Exam Com., 2016 --
-  17.
-- Phillip Polefrone (CU English), "Technology and Society" Reading list, Oral Exam Com., 2015
-  -- 16.
+- Sierra Eckert (CU English), "Sociology of Literature" Reading list, Oral Exam Com., 2016 -- 17.
+- Phillip Polefrone (CU English), "Technology and Society" Reading list, Oral Exam Com., 2015 -- 16.
 - Jessica Hallock (CU English), "Literary Theory" Reading list, Oral Exam Com., 2015 --
 - Alice Boone (CU English), "The Progress of Error: or, the Recursive 18th Century," Dis. Def.
   Com., Spring 2014.

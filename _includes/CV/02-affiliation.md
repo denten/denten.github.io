@@ -1,4 +1,4 @@
-## B. Education
+## II. Education
 
 ### Harvard University (Cambridge, MA)
 
@@ -12,7 +12,7 @@ under the advisement of Elaine Scarry, William Todd, and Michel Chaouli.
 - B.A. with High Honors in Comparative Literature, 2001.
 - B.A. with High Honors in Political Science (Theory Concentration), 2001.
 
-## C. Appointments and Affiliations
+## III. Appointments and Affiliations
 
 ### Columbia University in the City of New York
 

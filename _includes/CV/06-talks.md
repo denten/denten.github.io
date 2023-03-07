@@ -18,9 +18,6 @@ panel in the *Unprecedented* Webinar Series on January 21, 2022.
 - "Media and Metaphor (Or How Literary Theory Figures in the Study of Human Computer
   Interaction)." Talk by invitation at Princeton University, Department of Comparative
 Literature, *Virtually So, Virtually Here* lecture series on September 23, 2021.
-- "File Cabinet Realism: The Furnishings of Modernist Prose." Lecture by invitation to the
-  "Office Supplies, Bureaucratic Cultures, and the Material History of Inscription" conference
-at the University of Pittsburgh, March 26--27, 2020. Postponed due to the COVID-19 outbreak.
 - "The Rise of Literary Machines." Keynote lecture by invitation to The Korean Society of East
   West Comparative Literature, Third International Conference on "Digital Humanities and World
 Literature" at Pohang University, Korea on October 26, 2019.

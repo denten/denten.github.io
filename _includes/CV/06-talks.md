@@ -1,5 +1,11 @@
 ## VIII. Invited Talks, Workshops, & Conferences
 
+- "Literature in the Age of AI." Lecture by invitation at the American University of Central
+Asia, Bishkek (Kyrgyzstan), March 16, 2023.
+- "AI in Humanities Education." Faculty-student round table at AUCA Technical School of
+  Innovation, Bishkek (Kyrgyzstan), March 15, 2023.
+- "Computational Philology." Lecture by invitation to Bishkek State University (Kyrgyzstan),
+  March 15, 2023.
 - "Filing Technique in the Manufacture of Realism." Talk by invitation to a conference on
   [*Office Supplies: The Material History of
 Writing*](https://web.archive.org/web/20230307032620/https://sites.google.com/view/japan-studies-at-pitt/office-supplies),

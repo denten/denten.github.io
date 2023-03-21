@@ -1,7 +1,9 @@
 ## VIII. Invited Talks, Workshops, & Conferences
 
+- "The Anatomy of Vaccine Hesitancy." Computational Formalism Workshop at the Neukom Institute,
+  Dartmouth, Spring 2023.
 - "Literature in the Age of AI." Lecture by invitation at the American University of Central
-Asia, Bishkek (Kyrgyzstan), March 16, 2023.
+  Asia, Bishkek (Kyrgyzstan), March 16, 2023.
 - "AI in Humanities Education." Faculty-student round table at AUCA Technical School of
   Innovation, Bishkek (Kyrgyzstan), March 15, 2023.
 - "Computational Philology." Lecture by invitation to Bishkek State University (Kyrgyzstan),

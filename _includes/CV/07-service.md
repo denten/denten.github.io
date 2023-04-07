@@ -51,6 +51,7 @@ COVID-19 pandemic.
 of Humanities*; *International Journal of Humanities and Arts Computing*;
 *Modernism/Modernity*; *Post45*, *Project Information Literacy*; and *Science, Technology &
 Human Values*.
+- Advisory Board member, *Critical AI*.
 - Grant review for The American Academy in Berlin and the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.

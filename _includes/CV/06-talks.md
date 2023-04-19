@@ -2,6 +2,8 @@
 
 - "The Anatomy of Vaccine Hesitancy." Computational Formalism Workshop at the Neukom Institute,
   Dartmouth, Spring 2023.
+- "Literary Theory for Robots." [2023 Renato Poggioli Lecture](/assets/images/poggioli.pdf) at
+  the Department of Comparative Literature, Harvard University on April 20th, 2023.
 - "Literature in the Age of AI." Lecture by invitation at the American University of Central
   Asia, Bishkek (Kyrgyzstan), March 16, 2023.
 - "AI in Humanities Education." Faculty-student round table at AUCA Technical School of

@@ -15,11 +15,11 @@ millions of personal computers worldwide. Tenen received his doctorate in Compar
 Literature at Harvard University under the advisement of Professors Elaine Scarry and William
 Todd. A co-founder of Columbia's Group for Experimental Methods in Humanistic Research and the
 editor of the *On Method* book series at Columbia University Press, he is the author of *Plain
-Text: The Poetics of Computation* (Stanford University Press, 2017). His recent work appears on
-the pages of *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational
-Culture*, and *Modernism/modernity* on topics that include literary theory, the sociology of
-literature, media history, and computational narratology. His next book concerns the creative
-limits of artificial intelligence.
+Text: The Poetics of Computation* (Stanford University Press, 2017) and *Literary Theory for
+Robots* forthcoming in 2023 from W.W. Norton. His recent work appears on the pages of *Modern
+Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational Culture*, and
+*Modernism/modernity* on topics that include literary theory, the sociology of literature,
+media history, and computational narratology.
 
 [1]: http://english.columbia.edu
 [2]: http://datascience.columbia.edu/new-media

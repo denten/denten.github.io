@@ -1,5 +1,22 @@
 ## IV. Teaching and Advising
 
+### 2023 -- 24
+
+- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
+- [Formal Methods in Text Analysis I](https://github.com/denten-courses/formal-methods-one).
+  Formal methods in literary / text analysis for graduate students, alongside a gentle
+introduction to NLP in Python.
+
+### Summer 2023
+- [The Business Story](https://github.com/denten-courses/business-story). Works in this genre
+  will lead us to profound philosophical questions about collective intelligence, personal
+belonging, the emergence of institutional agency, and the feeling of personal powerlessness in
+the face of large bureaucracies.
+- [Introduction to Language and
+  Computation](https://github.com/denten-courses/intro-lang-comp). Textual analytics for
+undergrads, from word to sentence, story, and corpus.
+
 ### 2020 -- 21
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.

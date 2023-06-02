@@ -99,10 +99,12 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
-- Naomi Michalowicz (CU English), "Narratology," Reading list, Oral Exam Com. 2018 -- 19.
-  "Psychometrics and the Twentieth-Century Novel," Dissertation Defense Com., June 2023.
+- Naomi Michalowicz (CU English), "Psychometrics and the Twentieth-century Novel," Dissertation
+  Defense Com., June 2023.  "Narratology," Reading list, Oral Exam Com. 2018 -- 19.
+- Jonathan Reeve (CU English), "Computational Approaches to the Study of Literary Style,"
+  Reading list. Oral Exam Com., 2017 -- 18. Dissertation Com., Second reader, April 2023.
 - Graham Sack (CU English), "Simulation Fiction: Models of Narrative & Literary Culture,"
-  Dissertation Com. Chair, 2014 -- 2021
+  Dissertation Com. Chair, 2014 -- 2021.
 - Eduardo Pavez, "Metaphor Theory" Reading List, Oral Exam Com., 2020 -- 2021.
 - Sierra Eckert (CU English), Title TBD, Second Reader, Dissertation Defense Com., July 2020.
 - Tracy O'Neill (CU Journalism), "The Politics and Aesthetics of the Popular Creative Writing
@@ -114,8 +116,6 @@ Undergraduate seminar. Columbia Core, year-long.
 - Sean Thomas O'Neil (CU History), "The Art of Signs: Symbolic Notation and Visual Thinking in
   Early Modern Europe, 1600--1800," External Reader, Dis. Def. Com., August 2019.
 - Milan Terlunen (CU English), "Literary Theory" Reading list, Oral Exam Com., 2018 -- 19.
-- Jonathan Reeve (CU English), "Computational Approaches to the Study of Literary Style,"
-  Reading list, Oral Exam Com., 2017 -- 18. Dissertation Committee, Second reader, 2018 --
 - Maxwell Foxman (CU Communications), "Playing with Virtual Reality: Early Adopters of
   Commercial Immersive Technology," External Reader, Dis. Def. Com., Spring 2018.  Assistant
 Professor of Media Studies/Game Studies at the University of Oregon.

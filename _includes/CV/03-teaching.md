@@ -99,21 +99,23 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
+- Naomi Michalowicz (CU English), "Narratology," Reading list, Oral Exam Com. 2018 -- 19.
+  "Psychometrics and the Twentieth-Century Novel," Dissertation Defense Com., June 2023.
 - Graham Sack (CU English), "Simulation Fiction: Models of Narrative & Literary Culture,"
-  Dissertation Committee Chair, 2014 -- 2021
+  Dissertation Com. Chair, 2014 -- 2021
 - Eduardo Pavez, "Metaphor Theory" Reading List, Oral Exam Com., 2020 -- 2021.
-- Sierra Eckert (CU English), Title TBD, Second Reader, Dis. Def. Com., July 2020.
+- Sierra Eckert (CU English), Title TBD, Second Reader, Dissertation Defense Com., July 2020.
 - Tracy O'Neill (CU Journalism), "The Politics and Aesthetics of the Popular Creative Writing
   Manual," External Reader, Dis. Def. Com., April 2020.
 - Neil Ziolkowski (CU Germanic), "Reading Orientation: Two Case Studies in Modernist Prose,"
   External Reader, Dis. Def. Com., November 2019.
-- Vera Senina (CU Slavic), Minor Colloquium on Discourse Analysis, Committee Member, November 2019.
+- Vera Senina (CU Slavic), Minor Colloquium on Discourse Analysis, Committee Member, November
+  2019.
 - Sean Thomas O'Neil (CU History), "The Art of Signs: Symbolic Notation and Visual Thinking in
   Early Modern Europe, 1600--1800," External Reader, Dis. Def. Com., August 2019.
-- Milan Terlunen (CU English), "Literary Theory" Reading list, Oral Exam Committee, 2018 -- 19.
-- Naomi Michalowicz (CU English), "Narratology," Reading list, Oral Exam Committee 2018 -- 19.
+- Milan Terlunen (CU English), "Literary Theory" Reading list, Oral Exam Com., 2018 -- 19.
 - Jonathan Reeve (CU English), "Computational Approaches to the Study of Literary Style,"
-  Reading list, Oral Exam Committee, 2017 -- 18. Dissertation Committee, Second reader, 2018 --
+  Reading list, Oral Exam Com., 2017 -- 18. Dissertation Committee, Second reader, 2018 --
 - Maxwell Foxman (CU Communications), "Playing with Virtual Reality: Early Adopters of
   Commercial Immersive Technology," External Reader, Dis. Def. Com., Spring 2018.  Assistant
 Professor of Media Studies/Game Studies at the University of Oregon.
@@ -124,8 +126,10 @@ appointment in the Department of Anthropology at Drew University.
 - Agie Markiewicz (Teachers College), "College Student Literacy Practices in Online
   Asynchronous Discussion Spaces," External Reader, Dis. Def. Com., Spring 2018. Placed as
 Director, Pace University Writing Center.
-- Sierra Eckert (CU English), "Sociology of Literature" Reading list, Oral Exam Com., 2016 -- 17.
-- Phillip Polefrone (CU English), "Technology and Society" Reading list, Oral Exam Com., 2015 -- 16.
+- Sierra Eckert (CU English), "Sociology of Literature" Reading list, Oral Exam Com., 2016 --
+  17.
+- Phillip Polefrone (CU English), "Technology and Society" Reading list, Oral Exam Com., 2015
+  -- 16.
 - Jessica Hallock (CU English), "Literary Theory" Reading list, Oral Exam Com., 2015 --
 - Alice Boone (CU English), "The Progress of Error: or, the Recursive 18th Century," Dis. Def.
   Com., Spring 2014.

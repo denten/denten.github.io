@@ -15,7 +15,9 @@ Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.co
 
 ### Peer-reviewed Publications
 
-1. "Distributed Agency in the Novel." Forthcoming in the *New Literary History*, Fall 2022.
+1. "[Distributed Agency in the
+Novel](https://academiccommons.columbia.edu/doi/10.7916/m7xd-2q67)." New Literary History 54,
+no. 1 (2022): 903-937.
 2. "[The Emergence of American
    Formalism](https://academiccommons.columbia.edu/doi/10.7916/d8-8spe-nn29)."
 *Modern Philology* 117, no. 2 (November 2019): 257--283.

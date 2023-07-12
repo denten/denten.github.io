@@ -41,7 +41,6 @@ COVID-19 pandemic.
 - Advisory Board. [Studio at Butler Library](https://studio.cul.columbia.edu/) (maker space),
   2013 --
 
-
 #### Professional Service
 
 - Manuscript reviews for Cambridge, Columbia, Duke, MIT, Princeton, Stanford, and W.W. Norton
@@ -53,7 +52,8 @@ of Humanities*; *International Journal of Humanities and Arts Computing*;
 *Modernism/Modernity*; *Post45*, *Project Information Literacy*; and *Science, Technology &
 Human Values*.
 - Advisory Board member, *Critical AI*.
-- Grant review for The American Academy in Berlin and the National Science Foundation.
+- Grant review for The American Academy in Berlin, National Endowment for the Humanities, and
+  the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.
 - Program Committee, Association for Computational Linguistics, [Abusive Language

@@ -12,11 +12,12 @@ Inquiry*](https://web.archive.org/web/20190322221432/https://criticalinquiry.uch
 (November 2017), and [*Textual
 Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.com/doi/abs/10.1080/0950236X.2018.1496662?journalCode=rtpr20)
 (July 2018).
+2. *Literary Theory for Robots*, W.W. Norton, 2023 (in production).
 
 ### Peer-reviewed Publications
 
 1. "[Distributed Agency in the
-Novel](https://academiccommons.columbia.edu/doi/10.7916/m7xd-2q67)." New Literary History 54,
+Novel](https://academiccommons.columbia.edu/doi/10.7916/m7xd-2q67)." *New Literary History* 54,
 no. 1 (2022): 903-937.
 2. "[The Emergence of American
    Formalism](https://academiccommons.columbia.edu/doi/10.7916/d8-8spe-nn29)."
@@ -84,9 +85,8 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 ### Manuscripts in Progress
 
 1. "Author Function: A Literary History of Artificial Intelligence." Book
-   manuscript under contract with The University of Chicago Press as of February, 2020.
-2. "Literary Theory for Robots." Book manuscript under contract with W.W. Norton as of Fall 2021.
-4. "The Evolution of Literary Cooperation." Book manuscript in progress.
-5. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
+   manuscript under contract with The University of Chicago Press as of February, 2021.
+2. "The Evolution of Literary Cooperation." Book manuscript in progress.
+3. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
     stages of development.
 

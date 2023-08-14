@@ -8,17 +8,23 @@ highlighter:      rouge
 permalink:        /:categories/:title
 
 # Setup
-title:            Dennis Tenen
+title:            Dennis Yi Tenen
 tagline:          ''
 description:      ''
-url:              http://denten.plaintext.in/
+url:              http://dennistenen.com/
+
+# Collections
+collections_dir: collections
+collections:
+  books:
+    output: true
 
 # Required if you want to move pages into a a separate directory
 include: ['_pages']
 relative_permalinks: false
 
 author:
-  name:           'Dennis Tenen'
+  name:           'Dennis Yi Tenen'
   url:            https://twitter.com/dennistenen
 
 # number of posts on each page

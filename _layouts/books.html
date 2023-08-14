@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% for book in site.books %}
+
+    <a href="{{ book.url }}">{{ book.title }}</a>
+        ({{ book.publisher }}: {{ book.year }})
+
+    <p><i>{{ book.subtitle }}</i></p>
+
+    <!-- <p>{{ book.content | markdownify }}</p> -->
+    </p>
+
+{% endfor %}

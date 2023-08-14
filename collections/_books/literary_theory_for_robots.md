@@ -5,4 +5,4 @@ publisher: "W. W. Norton"
 year: 2024
 ---
 
-Description of Literary Theory Here
+Description of Literary Theory here.

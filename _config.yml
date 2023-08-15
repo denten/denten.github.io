@@ -19,7 +19,7 @@ collections:
   books:
     output: true
 
-# Required if you want to move pages into a a separate directory
+# Required if you want to move pages into a separate directory
 include: ['_pages']
 relative_permalinks: false
 

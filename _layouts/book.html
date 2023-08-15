@@ -25,6 +25,37 @@ layout: default
                  }}">
             </div>
 
+    <div class="mt3">
+       {% if page.amazon %} 
+            <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.amazon }}">
+                <i class="fa-brands fa-amazon fa-xl"></i>
+            </a>
+        {% endif %}
+
+        {% if page.bookshop%}
+            <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.bookshop }}">Bookshop</a>
+        {% endif %}
+
+        {% if page.hudson %}
+            <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href=" {{ page.hudson }}">Hudson</a>
+        {% endif %}
+
+        {% if page.bam %}
+            <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.bam }}">BAM!</a>
+        {% endif %}
+
+        {% if page.bn %}
+            <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.bn }}">B&N</a>
+        {% endif %}
+
+        {% if page.walmart %}
+            <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.walmart }}">Walmart</a>
+        {% endif %}
+
+
+    </div>
+
+
         </header>
 
   <div class="fn fl-ns w-50-ns pt0">

@@ -2,6 +2,12 @@
 title: Literary Theory for Robots
 subtitle: How Machines Learned to Write
 publisher: "W. W. Norton"
+bookshop: "https://bookshop.org/p/books/literary-theory-for-robots-how-computers-learned-to-write-dennis-yi-tenen/20059969?ean=9780393882186"
+hudson: "https://www.hudsonbooksellers.com/book/9780393882186"
+bam: "https://www.booksamillion.com/p/9780393882186"
+amazon: "https://www.amazon.com/dp/0393882187/ref=cm_sw_su_dp"
+bn: "http://www.barnesandnoble.com/s/9780393882186"
+walmart: "https://www.walmart.com/search/?query=9780393882186"
 year: 2024
 cover: "/assets/images/ltfr-cover.jpg"
 presslink: "https://wwnorton.com/books/literary-theory-for-robots"

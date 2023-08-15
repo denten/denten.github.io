@@ -6,12 +6,24 @@ layout: default
 
 {% for book in site.books %}
 
-    <a href="{{ book.url }}">{{ book.title }}</a>
-        ({{ book.publisher }}: {{ book.year }})
+    <span class="red">📚 </span>
+    <a href="{{ book.url }}" class="f2 black">
+        {{ book.title }}
+    </a>
 
-    <p><i>{{ book.subtitle }}</i></p>
+    <p class="i black-80 f3 indent">
+
+        {{ book.subtitle }}
+
+     </p>
+
+     <p class="indent">
+
+        <span class="black-60 f5 indent light-blue"> &nbsp;&nbsp;{{ book.publisher }}, {{ book.year }}</span>
+
+     </p>
+
+     </p>
 
     <!-- <p>{{ book.content | markdownify }}</p> -->
-    </p>
-
 {% endfor %}

@@ -6,6 +6,23 @@ year: 2017
 amazon: "https://www.amazon.com/Plain-Text-Computation-Dennis-Tenen-ebook/dp/B072FGMXLY"
 cover: "/assets/images/plain-text-cover.jpg"
 layout: book
+excerpt: |
+
+    This book challenges the ways we read, write, store, and retrieve information in the digital
+    age.
+
+    Computers—from electronic books to smart phones—play an active role in our social lives. Our
+    technological choices thus entail theoretical and political commitments. Dennis Tenen takes up
+    today's strange enmeshing of humans, texts, and machines to argue that our most ingrained
+    intuitions about texts are profoundly alienated from the physical contexts of their
+    intellectual production. Drawing on a range of primary sources from both literary theory and
+    software engineering, he makes a case for a more transparent practice of human–computer
+    interaction.
+
+    *Plain Text* is thus a rallying call, a frame of mind as much as a file format. It reminds us,
+    ultimately, that our devices also encode specific modes of governance and control that must
+    remain available to interpretation.
+
 ---
 
 <div class="pa4">

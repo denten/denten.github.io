@@ -47,10 +47,10 @@ COVID-19 pandemic.
   Stanford, and W.W. Norton presses.
 - Article peer review for the *Association of Computational Linguistics* (ACL); *Computational
   Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
-*Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*; *History
-of Humanities*; *International Journal of Humanities and Arts Computing*;
-*Modernism/Modernity*; *Post45*, *Project Information Literacy*; and *Science, Technology &
-Human Values*.
+  *Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*;
+  *Endeavour*; *History of Humanities*; *International Journal of Humanities and Arts
+  Computing*; *Modernism/Modernity*; *Post45*, *Project Information Literacy*; and *Science,
+  Technology & Human Values*.
 - Advisory Board member, *Critical AI*.
 - Grant review for The American Academy in Berlin, National Endowment for the Humanities, and
   the National Science Foundation.
@@ -58,7 +58,7 @@ Human Values*.
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.
 - Program Committee, Association for Computational Linguistics, [Abusive Language
   Workshop](https://web.archive.org/web/20190219200248/https://www.aclweb.org/portal/content/1st-workshop-abusive-language-online),
-2017 -- 18.
+  2017 -- 18.
 - Member of A. Owen Aldridge Prize Committee, American Comparative Literature Association, 2017
   -- 2019.
 - Design consulting for Diller Scofidio + Renfro, 2017.

@@ -4,15 +4,17 @@
 
 1. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821).*
    Stanford University Press, 2017. Reviewed in [*Critical
-Inquiry*](https://web.archive.org/web/20190322221432/https://criticalinquiry.uchicago.edu/n._katherine_hayles_reviews_plain_text)
-(September 2017),
-[*Leonardo*](https://web.archive.org/web/20171126230920/https://www.leonardo.info/review/2017/10/review-of-plain-text-the-poetics-of-computation)
-(October 2017),
-[*LARB*](https://web.archive.org/web/20171126230526/https://lareviewofbooks.org/article/computation-de-texte/)
-(November 2017), and [*Textual
-Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.com/doi/abs/10.1080/0950236X.2018.1496662?journalCode=rtpr20)
-(July 2018).
-2. *Literary Theory for Robots*, W.W. Norton, 2023 (in production).
+   Inquiry*](https://web.archive.org/web/20190322221432/https://criticalinquiry.uchicago.edu/n._katherine_hayles_reviews_plain_text)
+   (September 2017),
+   [*Leonardo*](https://web.archive.org/web/20171126230920/https://www.leonardo.info/review/2017/10/review-of-plain-text-the-poetics-of-computation)
+   (October 2017),
+   [*LARB*](https://web.archive.org/web/20171126230526/https://lareviewofbooks.org/article/computation-de-texte/)
+   (November 2017), and [*Textual
+   Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.com/doi/abs/10.1080/0950236X.2018.1496662?journalCode=rtpr20)
+   (July 2018).
+2. *Literary Theory for Robots*, W.W. Norton, 2023.
+3. "Author Function: A Literary History of Artificial Intelligence." Forthcoming and University
+   of Chicago Press, 2024.
 
 ### Peer-reviewed Publications
 
@@ -82,11 +84,10 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 5. "*Vokzal, Garazh, Angar: Vladimir Nabokov I Poetika Russkogo Urbanizma* by
    Yuri Leving." *The Slavic and East European Journal 49.4* (2005): 688–89.
 
-### Manuscripts in Progress
+### Projects in Progress
 
-1. "Author Function: A Literary History of Artificial Intelligence." Book
-   manuscript under contract with The University of Chicago Press as of February, 2021.
-2. "The Evolution of Literary Cooperation." Book manuscript in progress.
-3. "Computational Narratology: Time, Space, and Agency in the Novel." Book manuscript in early
-    stages of development.
+1. "Writers' Room," book manuscript in progress.
+2. "Formal Methods in Text Analysis," book manuscript in development.
+3. "Competing Models of Soft Power through National Reading Rooms," article in progress.
+4. "The Stories of Vaccination," article in progress.
 

@@ -52,7 +52,8 @@ COVID-19 pandemic.
   *Endeavour*; *History of Humanities*; *International Journal of Humanities and Arts
   Computing*; *Modernism/Modernity*; *Post45*, *Project Information Literacy*; and *Science,
   Technology & Human Values*.
-- Advisory Board member, *Critical AI*.
+- Multiple (2--3 per year) promotion reviews for peer institutions, including Dartmouth,
+  Toronto, Berkeley and others.
 - Grant review for The American Academy in Berlin, National Endowment for the Humanities, and
   the National Science Foundation.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
@@ -62,6 +63,7 @@ COVID-19 pandemic.
   2017 -- 18.
 - Member of A. Owen Aldridge Prize Committee, American Comparative Literature Association, 2017
   -- 2019.
+- Advisory Board member, *Critical AI*.
 - Design consulting for Diller Scofidio + Renfro, 2017.
 - 2 years as a managing editor of *Modernism/Modernity*, 2010 -- 12.
 - 10+ years software development and user interface design, with employees including Microsoft,

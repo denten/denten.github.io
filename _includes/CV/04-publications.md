@@ -88,6 +88,6 @@ Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books
 
 1. "Writers' Room," book manuscript in progress.
 2. "Formal Methods in Text Analysis," book manuscript in development.
-3. "Competing Models of Soft Power through National Reading Rooms," article in progress.
+3. "Soft Power through State Reading Rooms," article in progress.
 4. "The Stories of Vaccination," article in progress.
-
+5. "LARPing as a National Security Threat," article in progress.

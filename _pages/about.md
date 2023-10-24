@@ -7,19 +7,20 @@ title: "about"
 [Curriculum Vitae <img src="../public/pdf.png" />][5] --- [Author Photo][6] --- [Dept][7] ---
 [Lab][8]
 
-> Dennis Yi Tenen is an associate professor of English and Comparative Literature
-at Columbia University. His research happens at the intersection of people, text, and
-technology. A long-time affiliate of Columbia’s Data Science Institute and formerly a Microsoft
-engineer and a Berkman Center for Internet and Society Fellow, his code runs on millions of
-personal computers worldwide. Tenen received his doctorate in Comparative Literature at Harvard
-University under the advisement of Professors Elaine Scarry and William Todd. A co-founder of
-Columbia's Group for Experimental Methods in Humanistic Research and the editor of the *On
-Method* book series at Columbia University Press, he is the author of *Plain Text: The Poetics
-of Computation* (Stanford University Press, 2017), *Literary Theory for Robots* forthcoming in
-2023 from W.W. Norton, and *Author Function* under contract with Chicago UP. His recent work
-appears on the pages of *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*,
-*Computational Culture*, and *Modernism/modernity* on topics that include literary theory, the
-sociology of literature, media history, and computational narratology.
+> Dennis Yi Tenen is an associate professor of English at Columbia University, where he also
+co-directs the Center for Comparative Media. His research happens at the intersection of
+people, text, and technology. A long-time affiliate of Columbia’s Data Science Institute,
+formerly a Microsoft engineer in the Windows group and fellow at the Berkman Center for
+Internet and Society, his code runs on millions of personal computers worldwide. Tenen received
+his doctorate in Comparative Literature at Harvard University under the advisement of Elaine
+Scarry and William Todd. The founder of Columbia's *Literary Modeling and Visualization Lab*,
+he co-edits the *On Method* book series at Columbia University Press. His published work can be
+found in monographs including *Plain Text: The Poetics of Computation* (Stanford University
+Press, 2017), *Literary Theory for Robots* forthcoming in 2023 from W.W. Norton, and *Author
+Function* under contract with Chicago UP. His recent articles appear on the pages of *Modern
+Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational Culture*, and
+*Modernism/modernity* on topics that span literary theory, the sociology of literature, media
+history, and computational narratology.
 
 [1]: http://english.columbia.edu
 [2]: http://datascience.columbia.edu/new-media

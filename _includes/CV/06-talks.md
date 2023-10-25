@@ -1,5 +1,7 @@
 ## VIII. Invited Talks, Workshops, & Conferences
 
+- "Digital Philology." Lecture by invitation to Tsinghua University, Beijing October 25th,
+2023.
 - "The Anatomy of Vaccine Hesitancy." Computational Formalism Workshop at the Neukom Institute,
   Dartmouth, Spring 2023.
 - "Literary Theory for Robots." [2023 Renato Poggioli Lecture](/assets/images/poggioli.pdf) at

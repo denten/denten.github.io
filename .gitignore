@@ -4,7 +4,7 @@ _site/
 *.log
 *.out
 CV.md
-CV.pdf
+*.pdf
 CV.tex
 auto/
 *Temp/

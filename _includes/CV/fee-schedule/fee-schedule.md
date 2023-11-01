@@ -32,16 +32,16 @@ Columbia University in the City of New York
 
 
 ### Retainer
-Upfront, non-refundable fee at the rate of $2,100.
+Upfront, non-refundable fee at the rate of $2,500.
 
 ### Research, Review, Consultation
-$350 per hour.
+$390 per hour.
 
 ### Deposition, Trial
-$2,100 per day, in 1/2 day increments.
+$2,500 per day, in 1/2 day increments.
 
 ### Travel
-$175 per hour from portal to portal, in one hour increments in addition to reasonable room and
+$195 per hour from portal to portal, in one hour increments in addition to reasonable room and
 board coverage.
 
 ### Billing

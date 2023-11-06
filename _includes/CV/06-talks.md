@@ -1,6 +1,6 @@
 ## VIII. Invited Talks, Workshops, & Conferences
 
-- "[What is Machine Literature?](https://www.youtube.com/watch?v=UUcznqGsea4)." Lecture by
+- "[What is Machine Literature?](https://www.youtube.com/watch?v=UUcznqGsea4)" Lecture by
   invitation to the [2023 World Humanities Forum in
   Busan](https://web.archive.org/web/20231106150157/https://whf.kr/eng/program/program02.php),
   Korea, November 9th 2023. Poster [1](/assets/images/busan-whf-2023.png).

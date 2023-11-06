@@ -3,7 +3,7 @@
 - "[What is Machine Literature?](https://www.youtube.com/watch?v=UUcznqGsea4)." Lecture by
   invitation to the [2023 World Humanities Forum in
   Busan](https://web.archive.org/web/20231106150157/https://whf.kr/eng/program/program02.php),
-  Korea, November 9th 2023. Poster [One](/assets/images/busan-whf-2023.png).
+  Korea, November 9th 2023. Poster [1](/assets/images/busan-whf-2023.png).
 - "[Seriously Entertaining: Literary Theory for
   Robots](https://web.archive.org/web/20231106155718/https://publictheater.org/productions/joes-pub/2023/h/house-of-speakeasy-fall/),"
   literary cabaret as part of W. W. Norton's 100th anniversary and the launch of Norton Shorts,

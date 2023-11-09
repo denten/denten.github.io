@@ -1,5 +1,7 @@
 ## VIII. Invited Talks, Workshops, & Conferences
 
+- "Literary Theory for Robots." In conversation with TBA at the The Program for Media and
+  Modernity, Princeton University on February 16th, 2024.
 - "[What is Machine Literature?](https://www.youtube.com/watch?v=UUcznqGsea4)" Lecture by
   invitation to the [2023 World Humanities Forum in
   Busan](https://web.archive.org/web/20231106150157/https://whf.kr/eng/program/program02.php),
@@ -8,7 +10,8 @@
   Robots](https://web.archive.org/web/20231106155718/https://publictheater.org/productions/joes-pub/2023/h/house-of-speakeasy-fall/),"
   literary cabaret as part of W. W. Norton's 100th anniversary and the launch of Norton Shorts,
   a new series of short books by leading scholars. Public Theater, New York, November 7th 2023.
-  Poster [1](/assets/images/pub1.png), [2](/assets/images/pub2.png), [3](/assets/images/pub3.png).
+  Poster [1](/assets/images/pub1.png), [2](/assets/images/pub2.png),
+  [3](/assets/images/pub3.png).
 - "Digital Philology." Lecture by invitation to Tsinghua University, Beijing October 25th,
   2023.
 - "The Anatomy of Vaccine Hesitancy." Computational Formalism Workshop at the Neukom Institute,

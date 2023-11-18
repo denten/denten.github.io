@@ -15,7 +15,7 @@
   literary cabaret as part of W. W. Norton's 100th anniversary and the launch of Norton Shorts,
   a new series of short books by leading scholars. Public Theater, New York, November 7th 2023.
   Poster [1](/assets/images/pub1.png), [2](/assets/images/pub2.png),
-  [3](/assets/images/pub3.png).
+  [3](/assets/images/pub3.png). [Sketch](/assets/images/pub4.png) by Joan Chiverton.
 - "Digital Philology." Lecture by invitation to Tsinghua University, Beijing October 25th,
   2023.
   [Slides](https://docs.google.com/presentation/d/1CImZQbZtuF5L3mmpwBdoO3kauDQuS81igz3ISh7XdYU/edit#slide=id.p).

@@ -2,10 +2,10 @@
 
 - "Literary Theory for Robots." In conversation with TBA at the The Program for Media and
   Modernity, Princeton University on February 16th, 2024.
-- "Literary Theory for Robots," keynote address at the 2023 Wenshan International Conference,
-  National Chengchi University in Taipei, Taiwan on November 18, 2023.
+- "Literary Modeling and Visualization," keynote address at the 2023 Wenshan International
+  Conference, National Chengchi University in Taipei, Taiwan on November 18, 2023.
   [Program](https://drive.google.com/file/d/1bAB0okmc3eBysNbPIxhwjC2MUugxl2AB/view?usp=sharing).
-  Slides. [Slides](https://docs.google.com/presentation/d/16Cr_m4L9K1MY3GyR0fbBti-IzFcgCt1qgkXweoJCLFo/edit?usp=sharing).
+  [Slides](https://docs.google.com/presentation/d/16Cr_m4L9K1MY3GyR0fbBti-IzFcgCt1qgkXweoJCLFo/edit?usp=sharing).
 - "[What is Machine Literature?](https://www.youtube.com/watch?v=UUcznqGsea4)" Lecture by
   invitation to the [2023 World Humanities Forum in
   Busan](https://web.archive.org/web/20231106150157/https://whf.kr/eng/program/program02.php),

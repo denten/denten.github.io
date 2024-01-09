@@ -13,7 +13,7 @@ Season 6 Ep. 13
 
 [Scene in a Midwestern restaurant] Mother: Now, Bree, please tell us what you are eating
 for your last meal. Bree: Last meal with the family? This wasn’t planned---I got the “Fresh
-and Naked Basil Pesto.” Mother” Fresh and naked?  [Father smiles.] Bree: Mmm, yeah,
+and Naked Basil Pesto.” Mother: Fresh and naked?  [Father smiles.] Bree: Mmm, yeah,
 hopefully I’ll be fresh and naked when I get there.
 
 [Cut to Clarence] Okay, lets get real. My name is Clarence and I am homeless. I’ve been

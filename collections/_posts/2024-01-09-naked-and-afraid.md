@@ -4,7 +4,6 @@ title: |
     Naked and Afraid
 categories:
 - think.stack
-- ukraine
 published: true
 ---
 
@@ -22,4 +21,3 @@ homeless for a little over ten years now. I do work. Usually as a survivor instr
 But, I don’t make enough money to have my own place. When I am not living where I work, I
 am crashing on friends couches. I may not have a home, But, I have a heart. And home is
 where the heart is. And that's everywhere. That's earth. My address is earth.
-

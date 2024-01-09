@@ -9,7 +9,7 @@ published: true
 
 Season 6 Ep. 13
 
-[Off-screen] NATURE WILL KICK YOUR!
+[Off-screen] NATURE WILL KICK YOUR ASS!
 
 [Scene in a Midwestern restaurant] Mother: Now, Bree, please tell us what you are eating
 for your last meal. Bree: Last meal with the family? This wasn’t planned---I got the “Fresh

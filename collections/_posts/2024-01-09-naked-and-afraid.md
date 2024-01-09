@@ -7,9 +7,9 @@ categories:
 published: true
 ---
 
-Season 6 Ep. 13 test
+Season 6 Ep. 13
 
-[Off-screen]: NATURE WILL KICK YOUR test!
+[Off-screen] NATURE WILL KICK YOUR!
 
 [Scene in a Midwestern restaurant] Mother: Now, Bree, please tell us what you are eating
 for your last meal. Bree: Last meal with the family? This wasn’t planned---I got the “Fresh

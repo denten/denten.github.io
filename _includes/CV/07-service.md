@@ -17,8 +17,10 @@ COVID-19 pandemic.
 #### University
 
 - Co-Director, Center for Comparative media, 2023 --
-- Provost's Advisory Committee on the Libraries, 2022 -- 2026.
-- Senior Job Search Committee, Department of Slavic Languages and Literatures, AY 2022/23.
+- Provost's Advisory Committee on the Libraries, 2022 -- 26.
+- Hiring Committee, Film and Media Studies, 2023 -- 24.
+- Postdoc Committee, Harriman Institute, Spring 2024.
+- Senior Job Search Committee, Department of Slavic Languages and Literatures, 2022 -- 23.
 - Executive Committee, [Institute for Comparative Literature and
   Society](http://icls.columbia.edu/), 2016 --
 - Harriman Institute Executive Committee, 2021 --

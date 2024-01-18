@@ -1,12 +1,14 @@
 ## IV. Teaching and Advising
 
 ### 2023 -- 24
-
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.
-- [Formal Methods in Text Analysis I](https://github.com/denten-courses/formal-methods-one).
-  Formal methods in literary / text analysis for graduate students, alongside a gentle
-introduction to NLP in Python.
+- [Formal Methods in Text Analysis
+  I](https://github.com/denten-courses/formal-methods-one). Formal methods in literary /
+  text analysis for graduate students, alongside a gentle introduction to NLP in Python.
+- [ENGL 4728 *Literature in the Age of Artificial
+  Intelligence*](https://github.com/denten-courses/LITAI/tree/master/2024). The long
+  history of literature composed with, for, and by machines.
 
 ### Summer 2023
 - [The Business Story](https://github.com/denten-courses/business-story). Works in this genre

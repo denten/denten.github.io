@@ -10,10 +10,19 @@ bn: "http://www.barnesandnoble.com/s/9780393882186"
 walmart: "https://www.walmart.com/search/?query=9780393882186"
 year: 2024
 cover: "/assets/images/ltfr-cover.jpg"
+images:
+    - /assets/images/ltfr-harpers.png
 presslink: "https://wwnorton.com/books/literary-theory-for-robots"
 layout: book
-excerpt: |
+reviews:
+    - source: "Kirkus Reviews"
+      date: "01/01/2024"
+      file: /assets/reviews/kirkus.pdf
+      quote: |
+        An eclectic and erudite tale of how wide-eyed visions become smart,
+        interactive tools.
 
+excerpt: |
     Two German baroque poets walked into a bar. Well, more like, one was a poet and the other a
     scholar. And they corresponded by letter. Athanasius Kircher, a neat man in his forties,
     spoke and dressed plainly. An established figure by the time of their virtual meeting, he

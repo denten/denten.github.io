@@ -48,7 +48,7 @@ by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach
 ### Contributed Essays & Chapters (Refereed)
 
 1. "Materiality," forthcoming in *The Cambridge Companion to Literature in a Digital Age*, ed.
-   Adam Hammond. Cambridge UP, 2023.
+   Adam Hammond. Cambridge UP, 2024.
 2. "Anonymous, Massively Collaborative, Trans-human," in *Rethinking Authorship in Comparative
 and Historical Perspectives* [in Japanese], ed.  Haruo Shirane and Tomi Suzuki.  Iwanami
 Shoten, 2022.

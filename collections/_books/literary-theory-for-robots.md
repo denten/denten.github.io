@@ -24,7 +24,7 @@ reviews:
   - source: "Publishers Weekly"
     quote: |
         Timely and original, this is an essential resource on the history of text
-        generating AI, and its future."
+        generating AI, and its future.
 
   - source: "Sean Michaels, The Baffler"
     url: https://web.archive.org/web/20240228215439/https://thebaffler.com/latest/critique-of-artificial-reason-michaels
@@ -47,8 +47,7 @@ reviews:
     quote: |
         Literary Theory for Robots helps us recognize that over time, the seemingly extraordinary
         fades into the ordinary, becoming yet another tool through which we think and write in
-        conversation with others."
-
+        conversation with others.
 
 excerpt: |
     Two German baroque poets walked into a bar. Well, more like, one was a poet and the other a

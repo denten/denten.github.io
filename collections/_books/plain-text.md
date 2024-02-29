@@ -7,6 +7,36 @@ amazon: "https://www.amazon.com/Plain-Text-Computation-Dennis-Tenen-ebook/dp/B07
 presslink: "https://www.sup.org/books/title/?id=26821"
 cover: "/assets/images/plain-text-cover.jpg"
 layout: book
+reviews:
+  - source: "James Edward Draney, Los Angeles Review of Books"
+    quote: |
+        Lucid and legible map to our often vertiginous computational climate.
+
+  - source: "N. Katherine Hayles, Critical Inquiry"
+    quote: |
+        A clear, forceful case for computational poetics as a necessary literary practice
+        in the digital age.
+
+  - source: "Jan Baetens, Leonardo"
+    quote: |
+        A vibrant call to rethink the two culture debate in broad cultural and political
+        terms.
+
+  - source: "Matthew Fuller, Goldsmiths, University of London"
+    quote: |
+        A sharp and imaginative contribution to the debates around what it means to
+        produce, read, and process texts in the era of digital culture.
+
+  - source: "Ray Siemens, University of Victoria"
+    quote: |
+        An essential read for those interested in text.
+
+  - source: "Johanna Drucker, UCLA"
+    quote: |
+        Valuable connections between long-standing critical engagements with poetic
+        composition and current digital writing practices emerge from precise and informed
+        attention to [historical] sources.
+
 excerpt: |
 
     This book challenges the ways we read, write, store, and retrieve information in the digital

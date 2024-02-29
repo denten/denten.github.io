@@ -32,7 +32,7 @@ reviews:
         Lucid, nuanced, and expert, with a fizzy sense of humor [...] over these swift 141 pages,
         Tenen describes a new lineage for machine intelligence, one that absorbs everything from
         Medieval Islamic astrology to Chomskyan grammar to the industrial manufacture of
-        vermicelli."
+        vermicelli.
 
   - source: "Kirkus Reviews"
     date: "01/01/2024"

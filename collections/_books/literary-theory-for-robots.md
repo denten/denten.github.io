@@ -16,18 +16,23 @@ presslink: "https://wwnorton.com/books/literary-theory-for-robots"
 layout: book
 reviews:
   - source: "Jennifer Szalai, New York Times Book Review"
-    date: "01/01/2024"
     file: /assets/reviews/kirkus.pdf
     quote: |
         Surprising, funny and resolutely unintimidating… Tenen has figured out how to
         present a web of complex ideas at human scale.
 
   - source: "Publishers Weekly"
-    date: "01/01/2024"
-    file: /assets/reviews/kirkus.pdf
     quote: |
         Timely and original, this is an essential resource on the history of text
         generating AI, and its future."
+
+  - source: "Sean Michaels, The Baffler"
+    url: https://web.archive.org/web/20240228215439/https://thebaffler.com/latest/critique-of-artificial-reason-michaels
+    quote: |
+        Lucid, nuanced, and expert, with a fizzy sense of humor [...] over these swift 141 pages,
+        Tenen describes a new lineage for machine intelligence, one that absorbs everything from
+        Medieval Islamic astrology to Chomskyan grammar to the industrial manufacture of
+        vermicelli."
 
   - source: "Kirkus Reviews"
     date: "01/01/2024"
@@ -43,6 +48,7 @@ reviews:
         Literary Theory for Robots helps us recognize that over time, the seemingly extraordinary
         fades into the ordinary, becoming yet another tool through which we think and write in
         conversation with others."
+
 
 excerpt: |
     Two German baroque poets walked into a bar. Well, more like, one was a poet and the other a

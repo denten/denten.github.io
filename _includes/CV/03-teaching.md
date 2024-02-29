@@ -101,6 +101,8 @@ Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
+- Ramathi Bandaranayake (CU English), History and Philosophy of Science reading list, 2024.
+- Alijan Ozkiral (NYU English), "Iteration, New Media," dissertation committee, 2023--
 - Naomi Michalowicz (CU English), "Psychometrics and the Twentieth-century Novel," Dissertation
   Defense Com., June 2023.  "Narratology," Reading list, Oral Exam Com. 2018 -- 19.
 - Jonathan Reeve (CU English), "Computational Approaches to the Study of Literary Style,"
@@ -138,6 +140,7 @@ Director, Pace University Writing Center.
 
 ### MA Advising
 
+- Nicola Green (CU English), "Design Fiction to Product," MA thesis advisor 2024.
 - Gabrielle Dacosta (CU English), "The Reading Self in George Jackson’s *Soledad
   Brother*," MA thesis advisor, 2016 -- 17.
 - Maxine Arndt (CU English), "Women and Animals in *The Woman Warrior* and *My Year of
@@ -151,19 +154,20 @@ Director, Pace University Writing Center.
 
 ### Undergraduate Advising
 
-- Sharla Kirkpatrick, GSAS Summer Research Program, Summer 2021.
-- Bethel Ikenna Adiele, Laidlaw Foundation Scholar, Summer 2021.
-- Adiba Hussein, Barnard Summer Research Institute, Summer 2021.
-- Jungwoo Park, Laidlaw Scholar, Summer 2020.
+- Rahmah Amjad Badran, digital ethnography, senior thesis, Spring 2024.
+- Sharla Kirkpatrick, GSAS Summer Research Program, 2021.
+- Bethel Ikenna Adiele, Laidlaw Foundation Scholar, 2021.
+- Adiba Hussein, Barnard Summer Research Institute, 2021.
+- Jungwoo Park, Laidlaw Scholar, summer 2020.
 - Valeria Arbonies (University of Puerto Rico), Columbia Leadership Alliance Mellon Mays
-  Initiative Scholar, Summer 2020.
+  Initiative Scholar, summer 2020.
 - Gabrielle Agnes Kloppers, "*Fallout: New Vegas* and Conflicting Representations of
-  Temporality," Senior Thesis, Spring 2019.
-- Elena Goldstein, "Big Brother all Grown Up," Independent Study, 2014.
+  Temporality," Senior Thesis, spring 2019.
+- Elena Goldstein, "Big Brother all Grown Up," independent study, 2014.
 - Christopher Brennan, "Personal Social Networks and Deliberative Democracy in the Russian
   Anti-Putin Protest Movement," Senior Thesis, 2014.
-- Jessica Tyler, "The New Opposition, The Russian Language Blogosphere and its Impact on Public
-  Discourse," Senior Thesis, 2013.
+- Jessica Tyler, "The New Opposition, The Russian Language Blogosphere and its Impact on
+  Public Discourse," Senior Thesis, 2013.
 
 ### Before 2012 (Harvard University, Tufts University)
 

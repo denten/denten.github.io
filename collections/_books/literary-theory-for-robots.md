@@ -15,12 +15,34 @@ images:
 presslink: "https://wwnorton.com/books/literary-theory-for-robots"
 layout: book
 reviews:
-    - source: "Kirkus Reviews"
-      date: "01/01/2024"
-      file: /assets/reviews/kirkus.pdf
-      quote: |
-        An eclectic and erudite tale of how wide-eyed visions become smart,
-        interactive tools.
+  - source: "Jennifer Szalai, New York Times Book Review"
+    date: "01/01/2024"
+    file: /assets/reviews/kirkus.pdf
+    quote: |
+        Surprising, funny and resolutely unintimidating… Tenen has figured out how to
+        present a web of complex ideas at human scale.
+
+  - source: "Publishers Weekly"
+    date: "01/01/2024"
+    file: /assets/reviews/kirkus.pdf
+    quote: |
+        Timely and original, this is an essential resource on the history of text
+        generating AI, and its future."
+
+  - source: "Kirkus Reviews"
+    date: "01/01/2024"
+    file: /assets/reviews/kirkus.pdf
+    quote: |
+            An eclectic and erudite tale of how wide-eyed visions become smart,
+            interactive tools.
+
+  - source: "Washington Post"
+    date: "01/01/2024"
+    file: /assets/reviews/kirkus.pdf
+    quote: |
+        Literary Theory for Robots helps us recognize that over time, the seemingly extraordinary
+        fades into the ordinary, becoming yet another tool through which we think and write in
+        conversation with others."
 
 excerpt: |
     Two German baroque poets walked into a bar. Well, more like, one was a poet and the other a

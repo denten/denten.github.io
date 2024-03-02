@@ -60,8 +60,13 @@ layout: default
 
             {% for r in page.reviews %}
                 <blockquote><small>
-                        <i> {{ r.quote }} </i> </br>
-                    <span class="red mt0"> — {{ r.source }} </span>
+                    <i> {{ r.quote }} </i> </br>
+                    <span> — 
+                        {% if r.link %}
+                            <a class="red mt0" href="{{ r.link }}">
+                        {% endif %}
+                        {{ r.source }}
+                    </a></span>
                 </small></blockquote>
             {% endfor %}
 

@@ -154,6 +154,7 @@ Director, Pace University Writing Center.
 
 ### Undergraduate Advising
 
+- Sandra Eunsol Han, Gendered AI, senior thesis, Spring 2024.
 - Rahmah Amjad Badran, digital ethnography, senior thesis, Spring 2024.
 - Sharla Kirkpatrick, GSAS Summer Research Program, 2021.
 - Bethel Ikenna Adiele, Laidlaw Foundation Scholar, 2021.

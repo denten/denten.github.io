@@ -50,6 +50,10 @@ reviews:
         fades into the ordinary, becoming yet another tool through which we think and write in
         conversation with others.
 
+  - source: "Ben Schneiderman, Human-Centered AI "
+    link: https://web.archive.org/web/20240228215439/https://thebaffler.com/latest/critique-of-artificial-reason-michaels
+    quote: "A delightfully fresh perspective on AI."
+
 excerpt: |
     Two German baroque poets walked into a bar. Well, more like, one was a poet and the other a
     scholar. And they corresponded by letter. Athanasius Kircher, a neat man in his forties,

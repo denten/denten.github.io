@@ -50,8 +50,8 @@ reviews:
         fades into the ordinary, becoming yet another tool through which we think and write in
         conversation with others.
 
-  - source: "Ben Schneiderman, Human-Centered AI "
-    link: https://web.archive.org/web/20240228215439/https://thebaffler.com/latest/critique-of-artificial-reason-michaels
+  - source: "Ben Schneiderman, 118th Note on Human-Centered AI "
+    link: /assets/reviews/hcai.pdf
     quote: "A delightfully fresh perspective on AI."
 
 excerpt: |

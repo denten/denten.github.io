@@ -50,6 +50,15 @@ reviews:
         fades into the ordinary, becoming yet another tool through which we think and write in
         conversation with others.
 
+  - source: "John Warner, *Chicago Tribune*"
+    date: "01/01/2024"
+    link: https://web.archive.org/save/https://www.chicagotribune.com/2024/03/16/biblioracle-literary-theory-for-robots-dennis-yi-tenen/
+    quote: |
+        Through his use of history and philosophy, Yi Tenen reminds us that technology cannot
+        exist independently of its creators and users, and ultimately it is we humans who hold the
+        final responsibility for technology’s impact on the world. This is a book that makes you a
+        little wiser in realizing that responsibility.
+
   - source: "Ben Schneiderman, 118th Note on Human-Centered AI "
     link: /assets/reviews/hcai.pdf
     quote: "A delightfully fresh perspective on AI."

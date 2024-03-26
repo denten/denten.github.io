@@ -15,19 +15,19 @@ images:
 presslink: "https://wwnorton.com/books/literary-theory-for-robots"
 layout: book
 reviews:
-  - source: "Jennifer Szalai, New York Times Book Review"
+  - source: "Jennifer Szalai, *New York Times Book Review*"
     link: https://web.archive.org/web/20240218015149/https://www.nytimes.com/2024/02/07/books/review/literary-theory-for-robots-dennis-yi-tenen.html
     quote: |
         Surprising, funny and resolutely unintimidating… Tenen has figured out how to
         present a web of complex ideas at human scale.
 
-  - source: "Publishers Weekly"
+  - source: "*Publishers Weekly*"
     link: https://web.archive.org/web/20240302193456/https://www.publishersweekly.com/978-0-393-88218-6
     quote: |
         Timely and original, this is an essential resource on the history of text
         generating AI, and its future.
 
-  - source: "Sean Michaels, The Baffler"
+  - source: "Sean Michaels, *The Baffler*"
     link: https://web.archive.org/web/20240228215439/https://thebaffler.com/latest/critique-of-artificial-reason-michaels
     quote: |
         Lucid, nuanced, and expert, with a fizzy sense of humor [...] over these swift 141 pages,
@@ -35,14 +35,14 @@ reviews:
         Medieval Islamic astrology to Chomskyan grammar to the industrial manufacture of
         vermicelli.
 
-  - source: "Kirkus Reviews"
+  - source: "*Kirkus Reviews*"
     date: "01/01/2024"
     link: /assets/reviews/kirkus.pdf
     quote: |
             An eclectic and erudite tale of how wide-eyed visions become smart,
             interactive tools.
 
-  - source: "Washington Post"
+  - source: "*The Washington Post*"
     date: "01/01/2024"
     link: https://web.archive.org/save/https://www.washingtonpost.com/books/2024/02/08/literary-theory-robots-tenen-review/
     quote: |

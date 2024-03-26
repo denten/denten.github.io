@@ -59,18 +59,19 @@ layout: default
     <span class="f5 lh-copy measure mt0-ns">
 
             {% for r in page.reviews %}
-                <blockquote><small>
-                    <i> {{ r.quote }} </i> </br>
-                    <span> — 
+                <blockquote>
+                    <span class="georgia f6 i"> {{ r.quote }} </span> </br>
+                    <span>
                         {% if r.link %}
-                            <a class="red mt0" href="{{ r.link }}">
+                            <a class="red mt0 f6" href="{{ r.link }}">
                         {% endif %}
-                        {{ r.source }}
+                        {% capture heading %} --- {{ r.source  }}{% endcapture %}
+                        {{ heading | markdownify }}
                     </a></span>
-                </small></blockquote>
+                </blockquote>
             {% endfor %}
 
-        {{ page.excerpt | markdownify }}
+            {{ page.excerpt | markdownify }}
 
     </span>
   </div>

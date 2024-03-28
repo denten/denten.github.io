@@ -3,7 +3,7 @@ author: denten
 comments: false
 layout: post
 published: true
-title: Belgorod — Moscow after Crocus City Mall
+title: A Message from Belgorod after the Terror Attack at the Crocus City Mall, Moscow
 snippet: 150
 categories:
 - think.stack

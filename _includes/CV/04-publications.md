@@ -2,7 +2,10 @@
 
 ### Published Monographs
 
-1. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821).*
+1. "Author Function: A Literary History of Artificial Intelligence." Forthcoming and University
+   of Chicago Press, 2024.
+2. *Literary Theory for Robots*, W.W. Norton, 2024.
+3. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821).*
    Stanford University Press, 2017. Reviewed in [*Critical
    Inquiry*](https://web.archive.org/web/20190322221432/https://criticalinquiry.uchicago.edu/n._katherine_hayles_reviews_plain_text)
    (September 2017),
@@ -12,9 +15,6 @@
    (November 2017), and [*Textual
    Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.com/doi/abs/10.1080/0950236X.2018.1496662?journalCode=rtpr20)
    (July 2018).
-2. *Literary Theory for Robots*, W.W. Norton, 2023.
-3. "Author Function: A Literary History of Artificial Intelligence." Forthcoming and University
-   of Chicago Press, 2024.
 
 ### Peer-reviewed Publications
 

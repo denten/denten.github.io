@@ -68,7 +68,7 @@ Alexandra Gillespie and Deidre Shauna Lynch. Oxford UP, 2021.
 ### Book Reviews & Miscellany
 
 1. "[Drowning in a Mechanical
-   Chorus](https://dennistenen.com/think.stack/belgorod-moscow)," a response to Jill
+   Chorus](https://dennistenen.com/think.stack/chorus)," a response to Jill
    Walker Rettberg's "How Generative AI Endangers Cultural Narratives." *Issues in Science
    and Technology* Volume XL.3, Spring 2024: 15.
 1. "[Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age* by Bernard

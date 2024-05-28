@@ -65,24 +65,27 @@ Alexandra Gillespie and Deidre Shauna Lynch. Oxford UP, 2021.
 8. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und Verortung,* ed.
    Klaus Müller-Richter and Ramona Uritescu-Lombard.  Transcript-Verlag, 2007: 99-111.
 
-### Book Reviews
+### Book Reviews & Miscellany
 
-1. "[Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age* by
-   Bernard Harcourt](https://lareviewofbooks.org/review/opt-out)." *Los
-Angeles Review of Books* (2016). Included in the [*The Digital Revolution:
-Debating the Promise and Perils of the Internet in the Last Years of the Obama
-Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books-digital-editions-the-digital-revolution-debating-the-promise-and-perils-of-the-internet-and-algorithmic-lives-in-the-last-years-of-the-obama-administration/)
-(LARB, 2017), ed.  Michele Pridmore-Brown & Julien Crockett.
+1. "[Drowning in a Mechanical
+   Chorus](https://dennistenen.com/think.stack/belgorod-moscow)," a response to Jill
+   Walker Rettberg's "How Generative AI Endangers Cultural Narratives." *Issues in Science
+   and Technology* Volume XL.3, Spring 2024: 15.
+1. "[Dennis Tenen on *Exposed: Desire and Disobedience in the Digital Age* by Bernard
+   Harcourt](https://lareviewofbooks.org/review/opt-out)." *Los Angeles Review of Books*
+   (2016). Included in the [*The Digital Revolution: Debating the Promise and Perils of
+   the Internet in the Last Years of the Obama
+   Administration*](https://lareviewofbooks.org/article/los-angeles-review-of-books-digital-editions-the-digital-revolution-debating-the-promise-and-perils-of-the-internet-and-algorithmic-lives-in-the-last-years-of-the-obama-administration/)
+   (LARB, 2017), ed.  Michele Pridmore-Brown & Julien Crockett.
 2. "[What Is? Nine Epistemological Essays by Johanna
    Drucker](http://www.tandfonline.com/doi/full/10.1080/17547075.2015.1051841#abstract)."
-*Design and Culture*, 7.2 (2015): 264-5.
-3. "[Writing Technology: *The Circle* by David Eggers and *Mad About a Boy* by
-   Bridget Jones](http://www.publicbooks.org/fiction/writing-technology)."
-*Public Books* (2014).
-4. "*History and Poetics of Intertextuality* by Marko Juvan." *The Slavic and
-   East European Journal* 56.2 (2012): 309.
-5. "*Vokzal, Garazh, Angar: Vladimir Nabokov I Poetika Russkogo Urbanizma* by
-   Yuri Leving." *The Slavic and East European Journal 49.4* (2005): 688–89.
+   *Design and Culture*, 7.2 (2015): 264-5.
+3. "[Writing Technology: *The Circle* by David Eggers and *Mad About a Boy* by Bridget
+   Jones](http://www.publicbooks.org/fiction/writing-technology)." *Public Books* (2014).
+4. "*History and Poetics of Intertextuality* by Marko Juvan." *The Slavic and East
+   European Journal* 56.2 (2012): 309.
+5. "*Vokzal, Garazh, Angar: Vladimir Nabokov I Poetika Russkogo Urbanizma* by Yuri
+   Leving." *The Slavic and East European Journal 49.4* (2005): 688–89.
 
 ### Projects in Progress
 

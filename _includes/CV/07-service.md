@@ -2,7 +2,7 @@
 
 #### Department
 
-- Personnel and Policy Committee, 2023 -- 2024.
+- Personnel and Policy Committee, 2023 -- 2025.
 - Associate Chair, 2020 -- 2021. Responsible for curriculum planning in response to the
 COVID-19 pandemic.
 - *[Group for Experimental Methods in the Humanities](http://xpmethod.github.io/)*, founding

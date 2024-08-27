@@ -2,7 +2,7 @@
 
 ### Published Monographs
 
-1. "Author Function: A Literary History of Artificial Intelligence." Forthcoming and University
+1. "Author Function: A Literary History of Artificial Intelligence." Forthcoming, University
    of Chicago Press, 2024.
 2. *Literary Theory for Robots*, W.W. Norton, 2024.
 3. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821).*

@@ -1,5 +1,12 @@
 ## IV. Teaching and Advising
 
+### 2024 -- 25
+- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
+- [ENGL GR5001 *English MA
+  Seminar*](https://github.com/denten-courses/masters-seminar/tree/master/2024-fall). A
+comprehensive introduction to the field of literary studies for graduate students.
+
 ### 2023 -- 24
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.
@@ -23,7 +30,7 @@ undergrads, from word to sentence, story, and corpus.
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.
 - [ENGL GR5001 *English MA
-  Seminar*](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
+  Seminar*](https://github.com/denten-courses/masters-seminar/tree/master/2020-fall). A
 comprehensive introduction to the field of literary studies for graduate students.
 
 ### 2019 -- 20
@@ -31,7 +38,7 @@ comprehensive introduction to the field of literary studies for graduate student
   Intelligence*](https://github.com/denten-courses/LITAI/tree/master/2022). The long
 history of literature composed with, for, and by machines.
 - [ENGL GR5001 *English MA
-  Seminar*](https://github.com/denten-courses/masters-seminar/blob/master/README.md). A
+  Seminar*](https://github.com/denten-courses/masters-seminar/tree/master/2019-fall). A
 comprehensive introduction to the field of literary studies for graduate students.
 - [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.
@@ -43,7 +50,7 @@ The physicality of text from characters, to words, sentences, paragraphs, pages,
 archives. Graduate and undergraduate seminar with a lab component.
 - [HUMA C1001/2 *Literature
   Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2019-spring).
-Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
+Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
 ### 2017 -- 18 
@@ -56,7 +63,7 @@ major works on metaphor, beginning with Aristotle and ending with contemporary c
 media theory. Graduate and undergraduate enrollment, spring.
 - [HUMA C1002 *Literature
   Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2018-spring).
-Masterpieces of Western Literature and Philosophy from Homer to Zora Neale Hurston.
+Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
 ### 2016 -- 17

@@ -1,21 +1,21 @@
 ## IV. Teaching and Advising
 
 ### 2024 -- 25
-- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
-  Undergraduate seminar. Columbia Core, year-long.
-- [ENGL GR5001 *English MA
-  Seminar*](https://github.com/denten-courses/masters-seminar/tree/master/2024-fall). A
+- [*Narrative*]. Graduate seminar on narrative theory from literary studies to sociology and
+the philosophy of mind and language.
+- [*English MA Seminar* ENGL GR5001](https://github.com/denten-courses/masters-seminar/tree/master/2024-fall). A
 comprehensive introduction to the field of literary studies for graduate students.
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
 
 ### 2023 -- 24
-- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
-  Undergraduate seminar. Columbia Core, year-long.
-- [Formal Methods in Text Analysis
-  I](https://github.com/denten-courses/formal-methods-one). Formal methods in literary /
-  text analysis for graduate students, alongside a gentle introduction to NLP in Python.
-- [ENGL 4728 *Literature in the Age of Artificial
-  Intelligence*](https://github.com/denten-courses/LITAI/tree/master/2024). The long
+- [*Literature in the Age of Artificial
+  Intelligence* ENGL 4728](https://github.com/denten-courses/LITAI/tree/master/2024). The long
   history of literature composed with, for, and by machines.
+- [Formal Methods in Text Analysis](https://github.com/denten-courses/formal-methods-one). Formal methods in literary /
+  text analysis for graduate students, alongside a gentle introduction to NLP in Python.
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
 
 ### Summer 2023
 - [The Business Story](https://github.com/denten-courses/business-story). Works in this genre
@@ -27,87 +27,74 @@ the face of large bureaucracies.
 undergrads, from word to sentence, story, and corpus.
 
 ### 2020 -- 21
-- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
-  Undergraduate seminar. Columbia Core, year-long.
-- [ENGL GR5001 *English MA
-  Seminar*](https://github.com/denten-courses/masters-seminar/tree/master/2020-fall). A
+- [*English MA Seminar* ENGL GR5001](https://github.com/denten-courses/masters-seminar/tree/master/2020-fall). A
 comprehensive introduction to the field of literary studies for graduate students.
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
 
 ### 2019 -- 20
-- [ENGL 4728 *Literature in the Age of Artificial
-  Intelligence*](https://github.com/denten-courses/LITAI/tree/master/2022). The long
+- [*Literature in the Age of Artificial
+  Intelligence* ENGL 4728](https://github.com/denten-courses/LITAI/tree/master/2022). The long
 history of literature composed with, for, and by machines.
-- [ENGL GR5001 *English MA
-  Seminar*](https://github.com/denten-courses/masters-seminar/tree/master/2019-fall). A
+- [*English MA
+  Seminar* ENGL GR5001](https://github.com/denten-courses/masters-seminar/tree/master/2019-fall). A
 comprehensive introduction to the field of literary studies for graduate students.
-- [COCI C1101/2 *Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, year-long.
 
 ### 2018 -- 19
-- [ENGL/HIST W84031 *Textual
-  Formations*](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
+- [*Textual Formations* ENGL/HIST W84031](https://docs.google.com/document/d/1bXizmvk-NwnyC8-vWQz5UsQXGsWW_Mh62x3jbdX79ZU/edit?usp=sharing).
 The physicality of text from characters, to words, sentences, paragraphs, pages, books, and
 archives. Graduate and undergraduate seminar with a lab component.
-- [HUMA C1001/2 *Literature
-  Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2019-spring).
+- [*Literature Humanities* HUMA C1001/2](https://github.com/denten-courses/lit-hum/tree/master/2019-spring).
 Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
-### 2017 -- 18 
-- [ENGL W4911 *Technologies of Dissent*](
+### 2017 -- 18
+- [*Technologies of Dissent* ENGL W4911](
   https://github.com/denten-courses/technologies-of-dissent/tree/master/2017-fall).  Media
 studies, critical computing. Graduate and undergraduate enrollment, fall.
-- [CLEN W4910 *Metaphor and
-  Media*](https://github.com/denten-courses/metaphor-media/blob/master/README.md).  A survey of
+- [*Metaphor and
+  Media* CLEN W4910](https://github.com/denten-courses/metaphor-media/blob/master/README.md).  A survey of
 major works on metaphor, beginning with Aristotle and ending with contemporary cognitive and
 media theory. Graduate and undergraduate enrollment, spring.
-- [HUMA C1002 *Literature
-  Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2018-spring).
+- [*Literature Humanities*](https://github.com/denten-courses/lit-hum/tree/master/2018-spring).
 Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, year-long.
 
 ### 2016 -- 17
-- [CLEN G6537 *Form, Formula, Format*](https://github.com/denten-courses/form-formula-format).
+- [*Form, Formula, Format* CLEN G6537](https://github.com/denten-courses/form-formula-format).
   Literary theory. Graduate Seminar, fall.  Undergraduate lecture, spring.
-- [COCI C1101/2 *Contemporary
-  Civilization*](https://github.com/denten-courses/con-civ).
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).
 Undergraduate seminar. Columbia Core, year-long.
 
 ### 2014 -- 15
-
-- [CSEN W1002 *Computing in Context: Textual & Literary
-  Scholarship.*](https://github.com/denten-courses/computing-context) w/ Matt Jones (History),
+- [*Computing in Context: Textual & Literary
+  Scholarship.* CSEN W1002](https://github.com/denten-courses/computing-context) w/ Matt Jones (History),
 Adam Cannon (Computer Science), and Karl Sigman (Economics).  Computational approaches to the
 study of literature. Lecture, spring.
-- [ENGL W4911 *Code &
-  Poetry*](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
+- [*Code & Poetry* ENGLW4911](https://github.com/denten-courses/code-poetry/blob/master/2014-fall/course-sched.md).
 Lecture. Topics in new media studies and literary theory, fall.
-- [COCI C1101/2 *Contemporary
-  Civilization*](https://github.com/denten-courses/con-civ).
-Undergraduate seminar. Columbia Core, year-long.
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ). Undergraduate seminar. Columbia Core, year-long.
 - [*Coding for Human(s|ists)*](https://github.com/denten-workshops/dhsi-coding-fundamentals).
   Lecture & lab. University of Victoria, Canada. Digital Humanities Summer Institute, summer 2015.
 
 ### 2013 -- 14
-
-- [ENGL G6915/3915 *Illicit
-  Knowledge*](https://github.com/denten-courses/critical-computing/tree/master/2014-spring).
+- [*Illicit Knowledge* ENGL G6915/3915](https://github.com/denten-courses/critical-computing/tree/master/2014-spring).
 Media theory, science and technology studies. Seminar & DH lab, spring.
-- ENGL G6921 *Media Archeology*. Graduate seminar, topics in new media studies, fall.
-- [COCI C1101/2 *Contemporary
-  Civilization*](https://github.com/denten-courses/con-civ).
-Undergraduate seminar. Columbia Core, year-long.
-- JOUR J4001 *Foundations of Computing for Data Science Journalism*. Lecture & lab. Lede
+- *Media Archeology* ENGL G6921. Graduate seminar, topics in new media studies, fall.
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ). Undergraduate seminar. Columbia Core, year-long.
+- *Foundations of Computing for Data Science Journalism* JOUR J4001. Lecture & lab. Lede
   Program. Graduate School of Journalism, summer 2014.
 
 ### 2012 -- 13
-
-- CLEN W3770 *Beyond the Human*. Seminar. Topics in new media studies, spring.
-- ENHS W4983 *Hacking the Archive*. Seminar & DH lab w/ Matthew Connelly, fall.
-- HUMA C1001 *Literature Humanities*. Undergraduate seminar. Columbia Core, year-long.
+- *Beyond the Human* CLEN W3770. Seminar. Topics in new media studies, spring.
+- *Hacking the Archive* ENHS W4983. Seminar & DH lab w/ Matthew Connelly, fall.
+- *Literature Humanities* HUMA C1001. Undergraduate seminar. Columbia Core, year-long.
 
 ### Doctoral Advising
 
+- Julia Walton (CU English), Game Theory / Media Studies reading list 2024.
 - Ramathi Bandaranayake (CU English), History and Philosophy of Science reading list, 2024.
 - Alijan Ozkiral (NYU English), "Iteration, New Media," dissertation committee, 2023--
 - Naomi Michalowicz (CU English), "Psychometrics and the Twentieth-century Novel," Dissertation

@@ -1,7 +1,7 @@
 ## IV. Teaching and Advising
 
 ### 2024 -- 25
-- [*Narrative*]. Graduate seminar on narrative theory from literary studies to sociology and
+- [*Narrative*](https://github.com/denten-courses/narrative/blob/main/README.md). Graduate seminar on narrative theory from literary studies to sociology and
 the philosophy of mind and language.
 - [*English MA Seminar* ENGL GR5001](https://github.com/denten-courses/masters-seminar/tree/master/2024-fall). A
 comprehensive introduction to the field of literary studies for graduate students.

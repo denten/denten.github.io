@@ -56,7 +56,7 @@ COVID-19 pandemic.
   Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
   *Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*;
   *Endeavour*; *History of Humanities*; *International Journal of Humanities and Arts
-  Computing*; *Modernism/Modernity*; *Post45*, *Project Information Literacy*; and *Science,
+  Computing*; *Modernism/Modernity*; *Narrative*; *Post45*, *Project Information Literacy*; and *Science,
   Technology & Human Values*.
 - Multiple (2--3 per year) promotion reviews for peer institutions, including Dartmouth,
   Toronto, Berkeley and others.

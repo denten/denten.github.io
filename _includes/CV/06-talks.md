@@ -1,9 +1,13 @@
 ## VIII. Selected Talks, Workshops, & Conferences
 
-- "Story Machines," lecture by invitation to the narrative research group (Situation Lecture Series) on September 27th, 2024 at Concordia University.
+- "Early Story Generators," Keynote address at the Chungbuk National University on October 12, 2024.
+- "Manufacturing Creativity," lecture by invitation to Korea Advanced Institute of Science &
+Technology (KAIST), Daejeon on October 10, 2024.
+- "Story Machines," lecture by invitation to the narrative research group (Situation Lecture
+Series) on September 27th, 2024 at Concordia University.
 - "Author Function," lecture by invitation from the International Council for Philosophy and
 Human Sciences in Beijing on September 21, 2024.
-- "The Myth of Creativity: Measuring Text Reuse in Fiction," lecture by invitation from the
+- "Measuring Text Reuse in Fiction," lecture by invitation from the
 Special Advisor to the Provost for AI at Dartmouth College on September 19th, 2024.
 - "Literary Theory for Robots," lecture by invitation from the Program for Media and
   Modernity, Princeton University on February 16th, 2024.

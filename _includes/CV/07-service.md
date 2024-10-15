@@ -50,9 +50,9 @@ COVID-19 pandemic.
 
 #### Professional Service
 
-- Manuscript reviews for Cambridge, Columbia, Duke, MIT, University of Michigan, Princeton,
+- Book manuscript reviews for Cambridge, Columbia, Duke, MIT, University of Michigan, Princeton,
   Stanford, and W.W. Norton presses.
-- Article peer review for the *Association of Computational Linguistics* (ACL); *Computational
+- Article manuscript review for the *Association of Computational Linguistics* (ACL); *Computational
   Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
   *Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*;
   *Endeavour*; *History of Humanities*; *International Journal of Humanities and Arts

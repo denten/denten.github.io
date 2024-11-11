@@ -3,16 +3,22 @@ author: denten
 comments: false
 layout: post
 published: true
-title: Human Intelligence
+title: An Interview with di Luca De Biase for <i>Il Sole 24 Ore</i>
 snippet: 150
 categories:
 - think.stack
 ---
 
+*Il Sole 24 Ore* is the leading Italian financial newspaper of record, owned by Confindustria,
+the Italian employers' federation.
 
 L’intelligenza non sta dentro le macchine, è umana Nel suo ultimo libro Yi Tenen, docente
 di letteratura alla Columbia University, pone l’intelligenza artificiale dentro un contesto
 critico di Luca De Biase.
+
+Full text in Italian
+[here](https://drive.google.com/file/d/1vB58OZE9-d2Nk8FWgfCvsFtUJbvj3sOZ/). Automated
+translation as follows:
 
 > "There is no denying it, artificial intelligence automates many tasks of intellectual work. We
 need to prepare." How? "Work that is automated loses value," says Tenen. "But work that serves
@@ -39,4 +45,3 @@ commons. And intelligence belongs to humanity. It's a bit like a public library.
 must overcome hyperbole. AI is more complex than a parrot. But it is the result of collective,
 centuries-old, human work. It does not change, deterministically, everything. But today it is
 an essential dimension of the evolution of humans.
-

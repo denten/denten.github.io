@@ -66,11 +66,14 @@ Alexandra Gillespie and Deidre Shauna Lynch. Oxford UP, 2021.
 8. "Travelogue as Fact and Fiction." *Imaginäre Topografien: Migration und Verortung,* ed.
    Klaus Müller-Richter and Ramona Uritescu-Lombard.  Transcript-Verlag, 2007: 99-111.
 
-### Reviews, Editorials, Popular Press
+### Reviews, Editorials, Interviews, Popular Press
 
 1. "[Automi autori dai dizionari a
 ChatGpt](https://drive.google.com/file/d/1NB90Wc08dA1rRC3vmk05vhSEoJGiNrHT/view?usp=sharing),"
-*L'Espresso* November 8, 2024: p80--82. English translation [here](https://docs.google.com/document/d/1Gc4NmkjMWPZwaUkuSsjfSS0xE4SniLrrGPZR71ULeA0/edit?usp=sharing).
+*L'Espresso* November 8, 2024: p80--82. English translation [here](https://docs.google.com/document/d/1Gc4NmkjMWPZwaUkuSsjfSS0xE4SniLrrGPZR71ULeA0/).
+1. An [interview with Luca De
+Biase](https://drive.google.com/file/d/1vB58OZE9-d2Nk8FWgfCvsFtUJbvj3sOZ/) for *Il Sole 24
+Ore*. November 3, 2024.
 1. "[Drowning in a Mechanical
    Chorus](https://dennistenen.com/think.stack/chorus)," a response to Jill
    Walker Rettberg's "How Generative AI Endangers Cultural Narratives." *Issues in Science

@@ -30,5 +30,3 @@ ChatGpt](https://drive.google.com/file/d/1NB90Wc08dA1rRC3vmk05vhSEoJGiNrHT/view?
 pages 80--82. Full English translation
 [here](https://docs.google.com/document/d/1Gc4NmkjMWPZwaUkuSsjfSS0xE4SniLrrGPZR71ULeA0/edit?usp
 =sharing).
-
-

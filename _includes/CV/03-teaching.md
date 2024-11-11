@@ -148,7 +148,7 @@ Director, Pace University Writing Center.
 
 ### Undergraduate Advising
 
-- Jenny Leana Fotso Ngompe, Deep Fakes, senior thesis, AO 2024--25.
+- Jenny Leana Fotso Ngompe, Deep Fakes (digital ethnography), senior thesis, AO 2024--25.
 - Sandra Eunsol Han, Gendered AI, senior thesis, AO 2023-24.
 - Rahmah Amjad Badran, digital ethnography, senior thesis, Spring 2024.
 - Sharla Kirkpatrick, GSAS Summer Research Program, 2021.

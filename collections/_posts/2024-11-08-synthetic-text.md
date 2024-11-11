@@ -3,7 +3,7 @@ author: denten
 comments: false
 layout: post
 published: true
-title: Synthetic Text in *L'Espresso*
+title: Synthetic Text in <i>L'Espresso</i>
 snippet: 150
 categories:
 - think.stack

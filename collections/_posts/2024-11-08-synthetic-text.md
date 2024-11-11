@@ -25,9 +25,9 @@ long-term devaluation of artisanal labor in favor of the mass produced. Fast fic
 inevitable as fast fashion, and just as irresistible to the consumer. The mistake was ever to
 think creative work to be exempt from the advent of automation.
 
-As appeared in "[Automi autori dai dizionari a
+As appeared in *L'Espresso* November 8, 2024: "[Automi autori dai dizionari a
 ChatGpt](https://drive.google.com/file/d/1NB90Wc08dA1rRC3vmk05vhSEoJGiNrHT/view?usp=sharing),"
-*L'Espresso* November 8, 2024 pages 80--82. Full English translation
+pages 80--82. Full English translation
 [here](https://docs.google.com/document/d/1Gc4NmkjMWPZwaUkuSsjfSS0xE4SniLrrGPZR71ULeA0/edit?usp
 =sharing).
 

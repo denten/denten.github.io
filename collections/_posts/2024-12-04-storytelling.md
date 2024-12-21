@@ -14,7 +14,7 @@ in the creative process with AI, Dennis says: "Your body needs to go through the
 exercise to derive the benefits. Let's extend this to intellectual capacities... Maybe we need
 to get to the mental gym".
 
-Many thanks to Paul Skinner and team for making it happen. Full interview [here].
+Many thanks to Paul Skinner and team for making it happen. Full interview [here][SINTAI].
 
 [SINTAI]: https://web.archive.org/web/20241221042129/https://www.marketingkind.org/blog/dennis-yi-tenen-on-storytelling-in-the-age-of-ai
 

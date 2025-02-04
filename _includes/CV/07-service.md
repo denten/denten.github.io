@@ -16,8 +16,10 @@ COVID-19 pandemic.
 
 #### University
 
+
 - Co-Director, Center for Comparative media, 2023 --
-- Provost's Advisory Committee on the Libraries, 2022 -- 26.
+- Undergraduate Writing Program Faculty Advisory Committee, 2025 --
+- Provost's Advisory Committee on the Libraries, 2022 --
 - Hiring Committee, Film and Media Studies, 2023 -- 24.
 - Postdoc Committee, Harriman Institute, Spring 2024.
 - Senior Job Search Committee, Department of Slavic Languages and Literatures, 2022 -- 23.

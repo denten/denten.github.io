@@ -61,6 +61,7 @@ Macmillan, Princeton, Stanford, and W.W. Norton presses.
   Computing*; *Modernism/Modernity*; *Narrative*; *Post45*, *PMLA*, *Project Information Literacy*; and *Science,
   Technology & Human Values*.
 - Multiple (2--3 per year) promotion reviews for peer institutions, including Dartmouth,
+- Member of editorial board, *Narrative* (the International Society for the Study of Narrative).
   Toronto, Berkeley and others.
 - Grant review for The American Academy in Berlin, National Endowment for the Humanities, and
   the National Science Foundation.

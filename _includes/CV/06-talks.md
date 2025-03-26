@@ -1,5 +1,7 @@
 ## VIII. Selected Talks, Workshops, & Conferences
 
+- "The Lifecycle of Synthetic Objects," Keynote address at the *Sandbjerg Seminar: Methods and
+Materials*, Graduate School of the Arts at Aarhus University on March 26, 2025.
 - "Early Story Generators," Keynote address at the Chungbuk National University on October 12, 2024.
 - "Manufacturing Creativity," lecture by invitation to Korea Advanced Institute of Science &
 Technology (KAIST), Daejeon on October 10, 2024.

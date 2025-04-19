@@ -10,14 +10,14 @@ title: "about"
 ## Short Bio (50 words):
 
 > Dennis Yi Tenen is an associate professor of English and comparative literature at Columbia
-University, where he also co-directs the Center for Comparative Media. His recent publications
-include Literary Theory for Robots (Norton, 2024). He lives, writes, and codes in New York
+University, where he also directs the [Narrative Intelligence Lab][12]. His recent publications
+include *Literary Theory for Robots* (Norton, 2024). He lives, writes, and codes in New York
 City.
 
 ## Longer Bio (175 words):
 
 >  Dennis Yi Tenen is an associate professor of English at Columbia University, where he also
-> co-directs the [Center for Comparative Media][12]. His research happens at the intersection of
+> co-directs the [Narrative Intelligence Lab][12]. His research happens at the intersection of
 > people, text, and technology. A long-time affiliate of Columbia’s Data Science Institute,
 > formerly a Microsoft engineer in the Windows group and fellow at the Berkman Center for
 > Internet and Society, his code runs on personal computers worldwide.
@@ -38,5 +38,5 @@ City.
 [7]: http://english.columbia.edu/people/profile/453
 [8]: http://xpmethod.columbia.edu/
 [11]: https://wwnorton.com/books/9780393882186
-[12]: https://comparativemedia.columbia.edu/
+[12]: https://nil.columbia.edu/
 [22]: https://academiccommons.columbia.edu/search?f%5Bauthor_ssim%5D%5B%5D=Tenen%2C+Dennis

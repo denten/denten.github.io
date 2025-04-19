@@ -1,5 +1,13 @@
 ## IV. Teaching and Advising
 
+
+### 2025 -- 26
+
+- [Writing AI](https://docs.google.com/document/d/1E6FtQ6CidyvLaDKRpsUPa-T5Om0ocnxEiVEQPz9dZqs).
+- [Conspiratorial Thought in American Culture](https://github.com/denten-courses/conspiracy-theory).
+- [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).
+  Undergraduate seminar. Columbia Core, year-long.
+
 ### 2024 -- 25
 - [*Narrative*](https://github.com/denten-courses/narrative/blob/main/README.md). Graduate seminar on narrative theory from literary studies to sociology and
 the philosophy of mind and language.

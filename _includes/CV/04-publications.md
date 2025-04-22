@@ -53,7 +53,7 @@ by Víctor Gayol (revisado por Antonio Rojas Castro y Maria José Afanador-Llach
 2. "Anonymous, Massively Collaborative, Trans-human," in *Rethinking Authorship in Comparative
 and Historical Perspectives* [in Japanese], ed.  Haruo Shirane and Tomi Suzuki.  Iwanami
 Shoten, 2022.
-3. "Reading Platforms: A Concise History of the Electronic Book" in *The Unfinished Book*, ed.
+3. "[Reading Platforms: A Concise History of the Electronic Book](https://academiccommons.columbia.edu/doi/10.7916/d8-6ebr-b673)" in *The Unfinished Book*, ed.
 Alexandra Gillespie and Deidre Shauna Lynch. Oxford UP, 2021.
 4. "Archive" in *Literature: An Introduction to Theory and Analysis*, ed. Mads Rosendahl
    Thomsen, et al. Bloomsbury, 2017: 299-310.

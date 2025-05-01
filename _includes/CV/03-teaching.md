@@ -1,5 +1,4 @@
-## IV. Teaching and Advising
-
+## Teaching & Advising
 
 ### 2025 -- 26
 

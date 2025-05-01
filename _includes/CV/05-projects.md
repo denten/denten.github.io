@@ -1,4 +1,4 @@
-## VI. Selected Grants and Other Collaborations
+## Selected Grants & Other Collaborations
 
 - "Craft, Literature, and Data: Interdisciplinary Methodologies and Analyses of Technical
   Texts." Co-PI with Pamela Smith (CU, History). Provost’s Interdisciplinary Teaching Award in

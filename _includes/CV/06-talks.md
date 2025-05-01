@@ -1,4 +1,4 @@
-## VIII. Selected Talks, Workshops, & Conferences
+## Selected Talks, Workshops & Conferences
 
 - "Collective Intelligence," lecture by invitation to the Ethics Seminar, Department of
 Philosophy at St. Joseph's University on April 15, 2025.

@@ -1,4 +1,4 @@
-## V. Publications and Works in Progress
+## Publications and Works in Progress
 
 ### Published Monographs
 

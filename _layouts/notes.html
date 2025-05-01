@@ -4,17 +4,7 @@ layout: default
 
 {{ content }}
 
-<!-- sometimes we land here from the home page -->
-<!-- in that case display bio as well -->
-{% if page.url contains page.title %}
-{% else %}
-    <div class="mb3">
-        {% include CV/bios/bio.md %}
-        Read some of my recent notes here:
-    </div>
-{% endif %}
-
-<div class="fl w-100">
+<div class="fl mt3 w-100">
 {% for post in site.posts %}
     <time class="di-ns f5 ttu tracked gray code">
         {{ post.date | date_to_string }}

@@ -4,7 +4,7 @@ email: "dt2406@columbia.edu"
 url: "https://dennistenen.com"
 telephone: "(415) 215-3315"
 bio:
-  short: "The confluence of people, text, and technology."
+  short: "The confluence of texts, people, and technology."
   long: >
 
     Dennis Yi Tenen is an associate professor of English at Columbia University, where he also

@@ -5,7 +5,7 @@ title: "about"
 ---
 
 [Curriculum Vitae <img src="../public/pdf.png" />][5] --- [Author Photo][6] --- [Dept][7] ---
-[Lab][8]
+[Lab][8] --- [ORCID][9]
 
 ## Short Bio (50 words):
 
@@ -38,6 +38,7 @@ City.
 [6]: https://github.com/denten/denten.github.io/blob/master/public/denten-profile-photo.jpg
 [7]: http://english.columbia.edu/people/profile/453
 [8]: http://xpmethod.columbia.edu/
+[9]: https://orcid.org/0009-0008-7162-8459
 [11]: https://wwnorton.com/books/9780393882186
 [12]: https://nil.columbia.edu/
 [22]: https://academiccommons.columbia.edu/search?f%5Bauthor_ssim%5D%5B%5D=Tenen%2C+Dennis

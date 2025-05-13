@@ -60,15 +60,15 @@ of our recent presidents---Bollinger, Shafik, Armstrong, Shipman. These are sing
 who must nevertheless embody the metaphor of a sprawling leviathan. To demand unity from them
 implies the unification of the underlying constituency. At best, such a process must involve
 careful political deliberation. At worst, the demand for unilateral action risks creating the
-appearance of a consensus where none exists. In other words, ethics (or love) isn't something
+appearance of consensus where none exists. In other words, ethics (or love) isn't something
 that can be demanded of the university nor dispensed from above by decree. Love is something
 that we can only ask of each other.
 
 So what can it possibly mean to love or hate an institution? In reflecting on my own
 experiences, I think fondly of the people who welcomed me here a little over a decade ago
 and made me feel at home. I think of colleagues in the English Department and the Institute
-of Comparative literature. I think of the care with which we discuss problems, the amount of
-quietly satisfying work that goes into mentoring our students. I think of the Core, and the
+of Comparative literature. I think of the care with which we discuss problems, the amount
+of quietly satisfying work that goes into mentoring students. I think of the Core, and the
 people who make it special, from the staff to the students---students who still keep in touch
 (hello Sunny and Elena!) after many years. I think of friends in the Journalism school like
 Mark Hansen and Marguerite Holloway, who encouraged my early work. I think of our library,
@@ -82,7 +82,7 @@ all filed mentally under "Columbia."
 
 Back at the listening table, I wish I could have made these points more clearly: In times
 of trouble, under immense political pressure from every side, all we can do in turn to each
-other for support. I know it's sappy to say---it must the allergies speaking---but Columbia is
+other for support. I know it's sappy to say---it must be the allergies speaking---but Columbia is
 us. There isn't some other "they" standing in opposition. Let's not mistake the difficulty of
 collective action for negligence or malice. It's just us here. And we are an uniquely varied,
 scrappy, sometimes frustrating, but always excellent bunch of New Yorkers.

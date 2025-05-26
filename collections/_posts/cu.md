@@ -80,12 +80,12 @@ support of our students and of professional organizations like the AAUP which ar
 defense of the university. I think of many more people and communities that touched my life,
 all filed mentally under "Columbia."
 
-Back at the listening table, I wish I could have made these points more clearly: In times
-of trouble, under immense political pressure from every side, all we can do in turn to each
-other for support. I know it's sappy to say---it must be the allergies speaking---but Columbia is
+Back at the listening table, I wish I could have made these points more clearly: In times of
+trouble, under immense political pressure from every side, all we can do in turn to each other
+for support. I know it's sappy to say---it must be the allergies speaking---but Columbia is
 us. There isn't some other "they" standing in opposition. Let's not mistake the difficulty of
-collective action for negligence or malice. It's just us here. And we are an uniquely varied,
-scrappy, sometimes frustrating, but always excellent bunch of New Yorkers.
+collective action for negligence or malice. It's just us here. And we are a bunch of uniquely
+varied, scrappy, sometimes frustrating, but always excellent New Yorkers.
 
 There's a blessed moment in early spring, just as the weather gets nice, but before the
 commencement takes over campus, where people take to the steps at Low library. From that

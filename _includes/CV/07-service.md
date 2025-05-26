@@ -16,7 +16,6 @@ COVID-19 pandemic.
 
 #### University
 
-
 - Co-Director, Center for Comparative media, 2023 --
 - Undergraduate Writing Program Faculty Advisory Committee, 2025 --
 - Provost's Advisory Committee on the Libraries, 2022 --
@@ -53,7 +52,7 @@ COVID-19 pandemic.
 #### Professional Service
 
 - Book manuscript reviews for Cambridge, Columbia, Duke, MIT, University of Michigan, Palgrave
-Macmillan, Princeton, Stanford, and W.W. Norton presses.
+Macmillan, Princeton, Stanford, Ubiquity, and W.W. Norton presses.
 - Article manuscript review for the *Association of Computational Linguistics* (ACL); *Computational
   Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
   *Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*;

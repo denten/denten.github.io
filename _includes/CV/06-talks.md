@@ -1,7 +1,9 @@
 ## Selected Talks, Workshops & Conferences
 
-- "Collective Intelligence," lecture by invitation to the Ethics Seminar, Department of
-Philosophy at St. Joseph's University on April 15, 2025.
+- "Narrative Intelligence," lecture by invitation to the Ethics Seminar, Department of
+Philosophy at St. Joseph's University on April 15, 2025; Language and Intelligence seminar,
+University of Sarajevo, Faculty of Philosophy June 3, 2025; Forms of Intelligence seminar,
+Harvard University, September 2025.
 - "The Lifecycle of Synthetic Objects," Keynote address at the *Sandbjerg Seminar: Methods and
 Materials*, Graduate School of the Arts at Aarhus University on March 26, 2025.
 - "Early Story Generators," Keynote address at the Chungbuk National University on October 12, 2024.

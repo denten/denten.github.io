@@ -68,6 +68,8 @@ Alexandra Gillespie and Deidre Shauna Lynch. Oxford UP, 2021.
 
 ### Reviews, Editorials, Interviews, Popular Press
 
+1. "[Translation
+   Machines](https://web.archive.org/save/https://imminent.translated.com/perspectives-on-translation-machines)" for *Imminent Newsletter*, May 2025.
 1. "[Automi autori dai dizionari a
 ChatGpt](https://drive.google.com/file/d/1NB90Wc08dA1rRC3vmk05vhSEoJGiNrHT/view?usp=sharing),"
 *L'Espresso* November 8, 2024: p80--82. English translation [here](https://docs.google.com/document/d/1Gc4NmkjMWPZwaUkuSsjfSS0xE4SniLrrGPZR71ULeA0/).

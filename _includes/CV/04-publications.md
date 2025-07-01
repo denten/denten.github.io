@@ -68,6 +68,9 @@ Alexandra Gillespie and Deidre Shauna Lynch. Oxford UP, 2021.
 
 ### Reviews, Editorials, Interviews, Popular Press
 
+1. ["Writing Was Always Magical: An Interview with Dennis Yi
+Tenen"](https://web.archive.org/save/https://publicseminar.org/2025/06/writing-technology-artif
+icial-intelligence/) with Tsering Dolka Gurung in *Public Seminar* on June 12, 2025.
 1. "[Translation
    Machines](https://web.archive.org/save/https://imminent.translated.com/perspectives-on-translation-machines)" for *Imminent Newsletter*, May 2025.
 1. "[Automi autori dai dizionari a

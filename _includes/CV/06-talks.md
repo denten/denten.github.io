@@ -1,5 +1,7 @@
 ## Selected Talks, Workshops & Conferences
 
+- "The Limits of Machine Translation," keynote address at the Kyungpook National University
+International Symposium on Human-AI Collaboration, on July 17 2025.
 - "Narrative Intelligence," lecture by invitation to the Ethics Seminar, Department of
 Philosophy at St. Joseph's University on April 15, 2025; Language and Intelligence seminar,
 University of Sarajevo, Faculty of Philosophy June 3, 2025; Forms of Intelligence seminar,

@@ -53,7 +53,7 @@ COVID-19 pandemic.
 
 - Book manuscript reviews for Cambridge, Columbia, Duke, MIT, University of Michigan, Palgrave
 Macmillan, Princeton, Stanford, Ubiquity, and W.W. Norton presses.
-- Article manuscript review for the *Association of Computational Linguistics* (ACL); *Computational
+- Article manuscript review for *archipelagos journal*, the *Association of Computational Linguistics* (ACL); *Computational
   Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
   *Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*;
   *Endeavour*; *History of Humanities*; *International Journal of Humanities and Arts

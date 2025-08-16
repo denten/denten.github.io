@@ -1,8 +1,14 @@
 ## Selected Talks, Workshops & Conferences
 
+- "Computational Humanities," inter-lab seminar at the Department of Digital Humanities and
+Computational Social Sciences, KAIST, South Korea on July 30, 2025.
+- "Narrative Intelligence," lecture at SKKU Global Colloquium, *Innovation and
+Humanity*, Sungkyunkwan University, Seoul on July 24, 2025.
 - "The Limits of Machine Translation," keynote address at the Kyungpook National University
 International Symposium on Human-AI Collaboration, on July 17 2025.
-- "Narrative Intelligence," lecture by invitation to the Ethics Seminar, Department of
+- "AI for Cultural Research" seminar lecture at the Seoul Advanced Methods in Scholarly
+Computation Institute (SAMSCI) at Sungkyunkwan University, on July 11, 2025.
+- "Narrative Intelligence," lecture to the Ethics Seminar, Department of
 Philosophy at St. Joseph's University on April 15, 2025; Language and Intelligence seminar,
 University of Sarajevo, Faculty of Philosophy June 3, 2025; Forms of Intelligence seminar,
 Harvard University, September 2025.

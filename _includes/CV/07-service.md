@@ -57,7 +57,7 @@ Macmillan, Princeton, Stanford, Ubiquity, and W.W. Norton presses.
   Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
   *Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*;
   *Endeavour*; *History of Humanities*; *International Journal of Humanities and Arts
-  Computing*; *Modernism/Modernity*; *Narrative*; *Post45*, *PMLA*, *Project Information Literacy*; and *Science,
+  Computing*; *Journal of Cultural Analytics*; *Modernism/Modernity*; *Narrative*; *Post45*, *PMLA*, *Project Information Literacy*; and *Science,
   Technology & Human Values*.
 - Multiple (2--3 per year) promotion reviews for peer institutions, including Dartmouth,
 - Member of editorial board, *Narrative* (the International Society for the Study of Narrative).

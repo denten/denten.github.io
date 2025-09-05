@@ -1,5 +1,5 @@
 ## Teaching & Advising
-
+  
 ### 2025 -- 26
 
 - [Writing AI](https://docs.google.com/document/d/1TqURG2C7vC-yvp1EdaUt5v91M7Zm0JZSxawmF1jUEQw/edit?usp=sharing).

@@ -1,5 +1,11 @@
 ## Selected Talks, Workshops & Conferences
 
+- "An Introduction to Writing with AI," seminar at the Dubai International Libraries &
+Publishing Summit on November 1, 2025.
+- "Literary Theory for Robots," keynote address at the Dubai International Libraries &
+Publishing Summit on October 31, 2025.
+- "Narrative Intelligence," lecture at the Forms of Intelligence Seminar, Harvard
+University, September 23, 2025.
 - "Computational Humanities," inter-lab seminar at the Department of Digital Humanities and
 Computational Social Sciences, KAIST, South Korea on July 30, 2025.
 - "Narrative Intelligence," lecture at SKKU Global Colloquium, *Innovation and

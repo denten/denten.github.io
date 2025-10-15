@@ -53,12 +53,13 @@ COVID-19 pandemic.
 
 - Book manuscript reviews for Cambridge, Columbia, Duke, MIT, University of Michigan, Palgrave
 Macmillan, Princeton, Stanford, Ubiquity, and W.W. Norton presses.
-- Article manuscript review for *archipelagos journal*, the *Association of Computational Linguistics* (ACL); *Computational
-  Culture*; *Communication Theory*; *Critical AI*; *Digital Humanities Quarterly* (DHQ);
-  *Digital Scholarship in the Humanities* (DSH); *Digital Studies / Le champ numérique*;
-  *Endeavour*; *History of Humanities*; *International Journal of Humanities and Arts
-  Computing*; *Journal of Cultural Analytics*; *Modernism/Modernity*; *Narrative*; *Post45*, *PMLA*, *Project Information Literacy*; and *Science,
-  Technology & Human Values*.
+- Article manuscript review for *archipelagos journal*, the *Association of Computational
+Linguistics* (ACL); *Computational Culture*; *Communication Theory*; *Critical AI*; *Digital
+Humanities Quarterly* (DHQ); *Digital Scholarship in the Humanities* (DSH); *Digital Studies /
+Le champ numérique*; *Endeavour*; *History of Humanities*; *International Journal of Humanities
+and Arts Computing*; *Journal of Cultural Analytics*; *Modernism/Modernity*; *Narrative*;
+*Poetics Today*; *Post45*, *PMLA*, *Project Information Literacy*; and *Science, Technology &
+Human Values*.
 - Multiple (2--3 per year) promotion reviews for peer institutions, including Dartmouth,
 - Member of editorial board, *Narrative* (the International Society for the Study of Narrative).
   Toronto, Berkeley and others.

@@ -4,19 +4,22 @@
 Publishing Summit on November 1, 2025.
 - "Literary Theory for Robots," keynote address at the Dubai International Libraries &
 Publishing Summit on October 31, 2025.
+- "The Importance of Shadow Libraries to the History and Future of Artificial Intelligence,"
+keynote address at the Document Society Conference, University of Barcelona on October 20,
+2025.
 - "Narrative Intelligence," lecture at the Forms of Intelligence Seminar, Harvard
-University, September 23, 2025.
+University on September 23, 2025.
 - "Computational Humanities," inter-lab seminar at the Department of Digital Humanities and
 Computational Social Sciences, KAIST, South Korea on July 30, 2025.
 - "Narrative Intelligence," lecture at SKKU Global Colloquium, *Innovation and
 Humanity*, Sungkyunkwan University, Seoul on July 24, 2025.
 - "The Limits of Machine Translation," keynote address at the Kyungpook National University
-International Symposium on Human-AI Collaboration, on July 17 2025.
+International Symposium on Human-AI Collaboration on July 17 2025.
 - "AI for Cultural Research" seminar lecture at the Seoul Advanced Methods in Scholarly
-Computation Institute (SAMSCI) at Sungkyunkwan University, on July 11, 2025.
+Computation Institute (SAMSCI) at Sungkyunkwan University on July 11, 2025.
 - "Narrative Intelligence," lecture to the Ethics Seminar, Department of
 Philosophy at St. Joseph's University on April 15, 2025; Language and Intelligence seminar,
-University of Sarajevo, Faculty of Philosophy June 3, 2025; Forms of Intelligence seminar,
+University of Sarajevo, Faculty of Philosophy on June 3, 2025; Forms of Intelligence seminar,
 Harvard University, September 2025.
 - "The Lifecycle of Synthetic Objects," Keynote address at the *Sandbjerg Seminar: Methods and
 Materials*, Graduate School of the Arts at Aarhus University on March 26, 2025.

@@ -18,6 +18,8 @@
 
 ### Peer-reviewed Publications
 
+
+1. "AI-First Authorship." In peer-review at *Modern Fiction Studies* (2025).
 1. "[Author—Anonymous and Distributed](https://doi.org/10.1016/j.techum.2024.07.001)." *New
    Techno Humanities* 4.1 (2024).
 1. "[Distributed Agency in the

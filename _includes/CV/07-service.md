@@ -60,11 +60,12 @@ Le champ numérique*; *Endeavour*; *History of Humanities*; *International Journ
 and Arts Computing*; *Journal of Cultural Analytics*; *Modernism/Modernity*; *Narrative*;
 *Poetics Today*; *Post45*, *PMLA*, *Project Information Literacy*; and *Science, Technology &
 Human Values*.
-- Multiple (2--3 per year) promotion reviews for peer institutions, including Dartmouth,
-- Member of editorial board, *Narrative* (the International Society for the Study of Narrative).
-  Toronto, Berkeley and others.
-- Grant review for The American Academy in Berlin, National Endowment for the Humanities, and
-  the National Science Foundation.
+- Multiple (2--3 per year) promotion reviews for peer institutions, including Dartmouth, Toronto, Yale,
+and Berkeley.
+- Member of journal editorial boards including *Narrative* (the International Society for the Study of
+Narrative) and *Critical AI Studies*.
+- Grant review for The American Academy in Berlin, National Endowment for the Humanities,
+  the National Science Foundation, and the Austrian Science Fund.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.
 - Program Committee, Association for Computational Linguistics, [Abusive Language
@@ -72,7 +73,6 @@ Human Values*.
   2017 -- 18.
 - Member of A. Owen Aldridge Prize Committee, American Comparative Literature Association, 2017
   -- 2019.
-- Advisory Board member, *Critical AI*.
 - Design consulting for Diller Scofidio + Renfro, 2017.
 - 2 years as a managing editor of *Modernism/Modernity*, 2010 -- 12.
 - 10+ years software development and user interface design, with employees including Microsoft,

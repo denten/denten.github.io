@@ -4,6 +4,8 @@
 Publishing Summit on November 1, 2025.
 - "Literary Theory for Robots," keynote address at the Dubai International Libraries &
 Publishing Summit on October 31, 2025.
+- "Writing Machines," lecture by invitation to the Interactive Telecommunications Program (ITP)
+at the Tisch School of the Arts, New York University on October 22, 20225.
 - "The Importance of Shadow Libraries to the History and Future of Artificial Intelligence,"
 keynote address at the Document Society Conference, University of Barcelona on October 20,
 2025.

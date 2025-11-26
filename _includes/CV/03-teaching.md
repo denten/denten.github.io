@@ -3,6 +3,7 @@
 ### 2025 -- 26
 
 - [Writing AI](https://docs.google.com/document/d/1TqURG2C7vC-yvp1EdaUt5v91M7Zm0JZSxawmF1jUEQw/edit?usp=sharing).
+- [Sociology of Literature](https://github.com/denten-courses/sociology-lit)
 - ~~[Conspiratorial Thought in American Culture](https://github.com/denten-courses/conspiracy-theory).~~
 - [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).
   Undergraduate seminar. Columbia Core, yearlong.

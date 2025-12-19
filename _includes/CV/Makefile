@@ -1,52 +1,38 @@
-# The following 2 variables define the files on which the target (the CV) depends.
-# If one of this files is changed make will execute the necesary commands.
+# Deterministic CV build (Markdown -> Pandoc -> LaTeX -> PDF)
 
-# cat [[:digit:]]*.md > temp.md
+# Files to include (sorted for stable order)
+MDSOURCES := $(sort $(wildcard [0-9][0-9]-*.md))
+TEMPLATEFILES := template.tex style.tex structure.tex
 
-MDSOURCES = *.md
-# MDSOURCES = 01-header.md 03-affiliation.md 05-publications.md 07-teaching.md 04-projects.md 06-talks.md 08-service.md
-TEMPLATEFILES = template.tex style.tex structure.tex
+# Output + temp dirs
+TEMPDIR := temp
+OUTPUTDIR := imprints
+TARGET := denten-CV-$(shell date +%F)
 
-# Here we define the name of the output and the temporal directories
-TEMPDIR = temp
-OUTPUTDIR = imprints
+.PHONY: clean build_pdf pdf html
+.DELETE_ON_ERROR:
 
-# Final name of the pdf CV.
-TARGET = denten-CV-`date +%Y-%m-%d`
+build_pdf: clean
+	mkdir -p $(TEMPDIR)
+	cp $(MDSOURCES) $(TEMPLATEFILES) Makefile $(TEMPDIR)/
+	$(MAKE) -C $(TEMPDIR) pdf
+	mkdir -p $(OUTPUTDIR)
+	mv $(TEMPDIR)/CV.pdf $(OUTPUTDIR)/$(TARGET).pdf
 
-# This rules has all the needed command to create the CV.
-build_pdf:
-#       make the temporary dir and copy files ther
-	mkdir -p ${TEMPDIR}
-	cp ${MDSOURCES} ${TEMPLATEFILES} Makefile ${TEMPDIR}
-#       Execute the rules in the temp directory ( -C option of make)
-	make -C ${TEMPDIR} pdf
-#       make the output directory and mv the CV there with the new name
-	mkdir -p ${OUTPUTDIR}
-	mv ${TEMPDIR}/CV.pdf ${OUTPUTDIR}/${TARGET}.pdf
+CV.md: $(MDSOURCES)
+	cat $(MDSOURCES) > $@
 
-# Rule the build the md file. It will be executed only if depending md files are modfied.
-CV.md: ${MDSOURCES}
-	cat [[:digit:]]*.md > CV.md
+CV.tex: CV.md $(TEMPLATEFILES)
+	pandoc -s -H style.tex --template=template.tex CV.md -o CV.tex
 
-# Rule to create the latex files. It will be executed only if the global md file or the
-# template files are modifyed
-CV.tex: CV.md ${TEMPLATEFILES}
-	pandoc -s -H style.tex --template=template.tex  CV.md -o CV.tex
-
-# The rule to build the pdf using pdflatex.
-# It is run twice to typeset correctly any label/reference (they are not use in
-# the CV at the moment, but just in case)
 pdf: CV.tex
-	pdflatex CV.tex
-	pdflatex CV.tex
+	pdflatex -halt-on-error -interaction=nonstopmode CV.tex
+	pdflatex -halt-on-error -interaction=nonstopmode CV.tex
 
-clean:
-	rm -rf ${TEMPDIR}
-
-# build the html
 html: CV.tex
 	htlatex CV.tex
 
-# This says that those rules are not files to be generated.
-.PHONY: build_pdf clean pdf html
+clean:
+	rm -rf $(TEMPDIR)
+	rm -f CV.md CV.tex CV.aux CV.log CV.out CV.toc
+

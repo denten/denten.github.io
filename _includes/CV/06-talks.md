@@ -5,10 +5,9 @@ Publishing Summit on November 1, 2025.
 - "Literary Theory for Robots," keynote address at the Dubai International Libraries &
 Publishing Summit on October 31, 2025.
 - "Writing Machines," lecture by invitation to the Interactive Telecommunications Program (ITP)
-at the Tisch School of the Arts, New York University on October 22, 20225.
+at the Tisch School of the Arts, New York University on October 22, 2025.
 - "The Importance of Shadow Libraries to the History and Future of Artificial Intelligence,"
-keynote address at the Document Society Conference, University of Barcelona on October 20,
-2025.
+keynote address at the Document Society Conference, University of Barcelona on October 20, 2025.
 - "Narrative Intelligence," lecture at the Forms of Intelligence Seminar, Harvard
 University on September 23, 2025.
 - "Computational Humanities," inter-lab seminar at the Department of Digital Humanities and
@@ -50,8 +49,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
   Shorts, a new series of short books by leading scholars. Public Theater, New York,
   November 7th 2023. Poster [1](/assets/images/pub1.png), [2](/assets/images/pub2.png),
   [3](/assets/images/pub3.png). [Sketch](/assets/images/pub4.png) by Joan Chiverton.
-- "Digital Philology." Lecture by invitation to Tsinghua University, Beijing October 25th,
-  2023.
+- "Digital Philology." Lecture by invitation to Tsinghua University, Beijing October 25th, 2023.
   [Slides](https://docs.google.com/presentation/d/1CImZQbZtuF5L3mmpwBdoO3kauDQuS81igz3ISh7XdYU/edit#slide=id.p).
 - "The Anatomy of Vaccine Hesitancy." Computational Formalism Workshop at the Neukom
   Institute, Dartmouth, Spring 2023.
@@ -68,7 +66,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
   [*Office Supplies: The Material History of
   Writing*](https://web.archive.org/web/20230307032620/https://sites.google.com/view/japan-studies-at-pitt/office-supplies),
   at the University of Pittsburgh, February 24th, 2023.
-- "Chat Bots Among Us." [Roundatble by invitation to Coding and the New Human
+- "Chat Bots Among Us." [Roundtable by invitation to Coding and the New Human
   Phenotype](https://www.youtube.com/watch?v=LwIvfQBE9bk&t=1408s), at the Helix Center,
   New York Psychoanalytic Society on October 16, 2022.
 - "Algorithmic Imagination and Literary Study." Keynote address as part NRF Korea
@@ -98,7 +96,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
   Lecture by invitation at the Human Futures Research Program, Aarhus University, Denmark
   on January 17, 2019.
 - "Distributed Agency in the Novel." Lecture by invitation at the Institute of
-  Communication and Culture, Aaarhus University, Denmark on January 9, 2019.
+  Communication and Culture, Aarhus University, Denmark on January 9, 2019.
 - "Experimental Humanities." Talk by invitation at the Global Emergent Media Lab at
   Concordia University on November 21, 2018.
 - "Techniques of Industrial Modernism: Plot Genie / Plot Robot." Lecture by invitation at
@@ -128,7 +126,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
 - "Plain Text: The Poetics of Computation." Book launch and talk by invitation at the
   Berkman Klein Center for Internet & Society, Harvard University on November 28, 2017.
 - "What is Enlightenment? Kant, Arendt, and the Relevance of Columbia's Core Today."
-  Lecture at at the Core to Commencement Campaign event in Chicago on November 6, 2017.
+  Lecture at the Core to Commencement Campaign event in Chicago on November 6, 2017.
 - "Computational Approaches to Characterizing Fictional Space." Lecture by invitation at
   the Theory and Media Studies Colloquium, Yale University on October 13, 2017.
 - "Sustainable Authorship in Plain Text" and "Plain Text: The Poetics of Computation." A
@@ -146,17 +144,14 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
 - "The Sociology of Book Piracy." Lecture by invitation at the Digital Humanities
   Symposium, Yale University Library on November 12, 2016.
 - "Experimental Methods in the Humanities." Lecture by invitation at the Scandinavian
-  Modernism and Digital Resources workshop at Aaarhus University, Denmark on September 14,
-  2016.
+  Modernism and Digital Resources workshop at Aarhus University, Denmark on September 14, 2016.
 - Principal convener of Architectures of Knowledge: Mumbai conference at the Tata
   Institute for Social Sciences on July 4-6, 2016.
 - "Literature Down to a Pixel." Conference presentation as part of the Ephemera and
-  Ephemerality: Media, Archive, Memory panel at ACLA (Harvard University) on March 17-19,
-  2016.
+  Ephemerality: Media, Archive, Memory panel at ACLA (Harvard University) on March 17-19, 2016.
 - "Metaphor Machines." Lecture by invitation at the Digital Poetics Conference, CUNY
   Graduate Center on February 5, 2016. Presented also at Possibilities: Works-in-Progress
-  seminar, Institute for Comparative Literature and Society, Columbia on November 14,
-  2016.
+  seminar, Institute for Comparative Literature and Society, Columbia on November 14, 2016.
 - "Rapid Prototyping of Speculative Thought." Talk by invitation at Digging Deep:
   Ecosystems, Institutions and Processes for Critical Making, CUNY Graduate Center on
   December 1, 2015.
@@ -164,8 +159,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
   and Computational Methods for the Study of Literature in a Global Context Conference,
   UCLA on November 4-5, 2015.
 - "Digital Humanities: Core Skills and Foundations." Workshop by invitation at the
-  Polonsky Foundation Graduate Student Workshops in Digital Humanities, NYU on May 29,
-  2015.
+  Polonsky Foundation Graduate Student Workshops in Digital Humanities, NYU on May 29, 2015.
 - "Version Control for Library Use." Workshop by invitation at Columbia Center for New
   Media Teaching and Learning on February 5, 2015.
 - "The Ethics of Writing in Plain Text," with Grant Wythoff. Lecture by invitation at the
@@ -182,8 +176,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
 - "Civic Scholarship." Lecture by invitation at the Research Without Borders conference,
   Columbia University on February 27, 2014.
 - "Visualizing Book Piracy." Conference address by invitation at Detective: Advanced Data
-  Visualization Project, Graduate School of Architecture, Columbia University on February
-  3, 2014.
+  Visualization Project, Graduate School of Architecture, Columbia University on February 3, 2014.
 - "Algorithmic Agency." Lecture by invitation at the Cognitive Theory and the Arts
   Seminar, Harvard Humanities Center on November 21, 2013.
 - "Authoring in Plain Text." Workshop by invitation at the Center for Science and the
@@ -195,8 +188,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
   Columbia University on February 21, 2013.
 - "Interpretive Communities over Time." Lecture by invitation at the Big Data and Digital
   Scholarship Seminar, Columbia University on February 11, 2013.
-- "Hacking the Archive." Lecture by invitation at the New Media in Education Conference,
-  Columbia University on February 1, 2013.
+- "Hacking the Archive." Lecture by invitation at the New Media in Education Conference, Columbia University on February 1, 2013.
 - "Digital Humanities at Columbia." Lecture by invitation at the Integrative Graduate
   Education and Research Traineeship, Department of Computer Science, Columbia University
   on November 27, 2012.
@@ -208,8 +200,7 @@ Special Advisor to the Provost for AI at Dartmouth College on September 19th, 20
   invitation at the Graduate Professional Development Seminar, Mahindra Humanities Center,
   Harvard University on October 26, 2011.
 - "Experimental Criticism: Is Knowledge Aggregation in the Humanities Possible?"
-  Conference presentation at ACL(x), Data Mining Panel, Penn State University on October
-  1, 2011.
+  Conference presentation at ACL(x), Data Mining Panel, Penn State University on October 1, 2011.
 - "The Premise of Machine Literature." Lectures by invitation at the University of Iowa,
   Loyola University, University of Rochester on multiple dates in 2011.
 - "Recursive Encounters with Ourselves." Lecture by invitation at the Department of

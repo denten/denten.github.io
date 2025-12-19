@@ -34,7 +34,7 @@ Point*](https://web.archive.org/web/20180315021822/https://www.urdupoint.com/en/
 
 - "[Rikers Story Bot](http://xpmethod.plaintext.in/technologies-of-dissent/rikersbot.html)."
   Coding workshop and algorithmic storytelling event set in and about Rikers Island
-correctional facility, New York City's main jail complex. Principle convener and co-instructor
+correctional facility, New York City's main jail complex. Principal convener and co-instructor
 in collaboration with Columbia's Center for Justice. Featured in [*Fast
 Company*](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter)
 and [*Prison
@@ -79,7 +79,7 @@ Maxwell Foxman in *Computational Culture 4* (2014).
 *For a curated portfolio of projects, awards, and press coverage please visit
 [xpmethod.columbia.edu/impact](https://xpmethod.columbia.edu/impact.html).*
 
-## VII. Honors, Prizes, and Fellowships
+## Honors, Prizes, and Fellowships
 
 - Schoff Publication Fund award recipient in support of second book, Spring 2019.
 - Schofield Fund Publication Award (Harvard, Comparative Literature), Spring 2019 and 2016.

@@ -67,7 +67,7 @@ media theory. Graduate and undergraduate enrollment, spring.
 Western Literature and Philosophy from Homer to Zora Neale Hurston.
 Undergraduate seminar. Columbia Core, yearlong.
 
-### Pre-2017
+### Earlier Teaching (Pre-2017)
 - [*Form, Formula, Format* CLEN G6537](https://github.com/denten-courses/form-formula-format).
   Literary theory. Graduate Seminar, fall.  Undergraduate lecture, spring.
 - [*Contemporary Civilization*](https://github.com/denten-courses/con-civ).

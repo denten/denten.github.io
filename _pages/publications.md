@@ -4,4 +4,4 @@ permalink: /publications/
 title: "publications"
 ---
 
-{% include CV/04-publications.md %}
+{% include CV/03-publish.md %}

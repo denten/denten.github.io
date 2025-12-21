@@ -2,6 +2,22 @@
 layout: default
 ---
 
-<h2 class="f3 pa0 ma0">{{ page.title }}</h2>
-<time class="code f5">{{ page.date | date_to_string }}</time>
-<article>{{ content }}</article>
+{% if page.title %}
+<h2 class="f3 pa0 ma0">
+  {{ page.title }}
+</h2>
+{% endif %}
+
+{% if page.subtitle %}
+  <div class="f5 gray mt1 mb2">
+    {{ page.subtitle }}
+  </div>
+{% endif %}
+
+<time class="code f5 gray">
+  {{ page.date | date_to_string }}
+</time>
+
+<article>
+  {{ content }}
+</article>

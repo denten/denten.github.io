@@ -4,6 +4,7 @@ comments: false
 layout: post
 published: true
 title: A Message from Belgorod after the Terror Attack at the Crocus City Mall, Moscow
+subtitle: War, Translation
 snippet: 150
 categories:
 - think.stack

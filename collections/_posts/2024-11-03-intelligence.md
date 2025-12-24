@@ -3,7 +3,8 @@ author: denten
 comments: false
 layout: post
 published: true
-title: An Interview with di Luca De Biase for <i>Il Sole 24 Ore</i>
+title: Human Intelligence
+subtitle: Interview with di Luca De Biase for <i>Il Sole 24 Ore</i>
 snippet: 150
 categories:
 - think.stack

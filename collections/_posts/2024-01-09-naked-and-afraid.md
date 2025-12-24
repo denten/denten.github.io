@@ -1,7 +1,7 @@
 ---
 layout: post
-title: | 
-    Naked and Afraid
+title: Naked and Afraid
+subtitle: Reality TV, Transcription
 categories:
 - think.stack
 published: true

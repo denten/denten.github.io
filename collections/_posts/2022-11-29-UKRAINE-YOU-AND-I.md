@@ -1,10 +1,9 @@
 ---
 layout: post
-title: | 
-    UKRAINE, YOU AND I... THE WORLD
+title: UKRAINE, YOU AND I... THE WORLD
+subtitle: War, Transcription
 categories:
 - think.stack
-- ukraine
 published: true
 ---
 

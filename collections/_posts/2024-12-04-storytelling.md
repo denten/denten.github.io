@@ -3,7 +3,8 @@ author: denten
 comments: false
 layout: post
 published: true
-title: Storytelling in the age of AI /w Paul Skinner
+title: Writing Stories for AI
+subtitle: Interview for MarketingKind with Paul Skinner
 snippet: 150
 categories:
 - think.stack

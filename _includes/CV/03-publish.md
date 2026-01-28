@@ -2,8 +2,8 @@
 
 ### Books
 
-1. "Author Function: A Literary History of Artificial Intelligence." Forthcoming, University
-   of Chicago Press, 2024.
+1. "Author Function: A Literary History of Artificial Intelligence." Under review, University
+   of Chicago Press, 2025.
 2. *Literary Theory for Robots*, W.W. Norton, 2024.
 3. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821).*
    Stanford University Press, 2017. Reviewed in [*Critical
@@ -88,7 +88,10 @@
 ### Projects in Progress
 
 1. "Ghost Writer," book manuscript in progress.
-2. "The Textual Laboratory," book manuscript in development.
+2. "Experimental Humanities in the Laboratory," book manuscript in development.
+3. "Writers Room," book manuscript in development.
 3. "Soft Power through State Reading Rooms," article in progress.
-4. "Vaccine Hesitancy as Literary Form," article in progress.
+4. "Misguided Maze: Benchmarking Undetected Influence in Large Language Models," article in
+   progress.
+5. "What is Digital Ethnography?" and "Digital Ethnography in the Shadows," articles in progress.
 

@@ -16,7 +16,8 @@ COVID-19 pandemic.
 
 #### University
 
-- Co-Director, Center for Comparative Media, 2023 --
+- Co-Chair, AI in the Core Faculty Working Group, 2026 --
+- Co-Director, Center for Comparative Media, 2023 -- 2025
 - Undergraduate Writing Program Faculty Advisory Committee, 2025 --
 - Provost's Advisory Committee on the Libraries, 2022 --
 - Hiring Committee, Film and Media Studies, 2023 -- 24.

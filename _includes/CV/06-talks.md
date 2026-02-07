@@ -1,5 +1,7 @@
 ## Selected Talks, Workshops & Conferences
 
+- "'Frontières du récit' by Gérard Genette," *Communications* 8 at 60, Yale
+University on February 6, 2026.
 - "An Introduction to Writing with AI," seminar at the Dubai International Libraries &
 Publishing Summit on November 1, 2025.
 - "Literary Theory for Robots," keynote address at the Dubai International Libraries &

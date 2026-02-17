@@ -63,10 +63,12 @@
 
 ### Public Scholarship & Commentary
 
+1. ["The Collective Mind"](https://web.archive.org/save/https://imminent.translated.com/the-collective-mind),
+interview with *Imminent*, February 2026.
 1. ["Writing Was Always Magical: An Interview with Dennis Yi Tenen"](https://web.archive.org/save/https://publicseminar.org/2025/06/writing-technology-artificial-intelligence/) 
    with Tsering Dolka Gurung in *Public Seminar*, June 12, 2025.
 2. "[Translation Machines](https://web.archive.org/save/https://imminent.translated.com/perspectives-on-translation-machines)" 
-   for *Imminent Newsletter*, May 2025.
+   for *Imminent*, May 2025.
 3. "[Automi autori dai dizionari a ChatGpt](https://drive.google.com/file/d/1NB90Wc08dA1rRC3vmk05vhSEoJGiNrHT/view?usp=sharing)," 
    *L'Espresso*, November 8, 2024: 80–82. English translation 
    [here](https://docs.google.com/document/d/1Gc4NmkjMWPZwaUkuSsjfSS0xE4SniLrrGPZR71ULeA0/).

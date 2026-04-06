@@ -93,8 +93,11 @@ Media theory, science and technology studies. Seminar & DH lab, spring.
 
 ### Doctoral Advising
 
+
+- Liza Senatorova (CU Slavic), Immigrant Art, Second reader, 2026 --
+- Aleksandar Momcilovic (CU Slavic), Socialist World Literature, Second reader, 2026 --
 - Chelsey Barbar (Teachers College), "Cyborg Composing: Feeling Specters in the Web of AI Intra-Actions," dissertation defense, outside reader.
-- Julia Walton (CU English), Game Theory / Media Studies reading list 2024.
+- Julia Walton (CU English), Game Theory / Media Studies reading list, 2024.
 - Ramathi Bandaranayake (CU English), History and Philosophy of Science reading list, 2024.
 - Alijan Ozkiral (NYU English), "Iteration, New Media," dissertation committee, 2023--
 - Naomi Michalowicz (CU English), "Psychometrics and the Twentieth-century Novel," Dissertation

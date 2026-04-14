@@ -1,10 +1,14 @@
 ## Selected Talks, Workshops & Conferences
 
+- "Collective Authorship," Benson Memorial Lecture at the Center for Excellence in the Arts &
+Humanities, Iowa State University on April 9th, 2026.
+- "Artifice and Intellect," Denbo Center for Humanities at the University of Tennessee on
+February 19th, 2026.
+- "Narrative Intelligence," Institute for Advanced Studies in the Humanities at SUNY
+Binghamton on February 12, 2026.
 - "'Frontières du récit' by Gérard Genette," *Communications* 8 at 60, Yale
 University on February 6, 2026.
-- "An Introduction to Writing with AI," seminar at the Dubai International Libraries &
-Publishing Summit on November 1, 2025.
-- "Literary Theory for Robots," keynote address at the Dubai International Libraries &
+- "Literary Theory for Robots," keynote address and workshop at the Dubai International Libraries &
 Publishing Summit on October 31, 2025.
 - "Writing Machines," lecture by invitation to the Interactive Telecommunications Program (ITP)
 at the Tisch School of the Arts, New York University on October 22, 2025.

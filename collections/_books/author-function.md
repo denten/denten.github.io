@@ -7,38 +7,27 @@ layout: book
 
 excerpt: |
 
-    I hold these truths to be self-evident then, that barring solipsism, a writer's mind is
-    full of other people's ideas: quotes, idioms, devices, styles, structures, and formulas.
-    Whatever its inner, cognitive dynamics---fade in circulation. Authorship undeniably
-    becomes a social craft as soon as thought leaves brain. A delicate operation, the
-    extraction commands sophisticated instruments. For most contemporary authors today,
-    writing employs word processing, a treatment, which like food processing, implicates the
-    practice of industrial, as opposed to artisanal, manufacture.
-
-    More radically, the function of authorship can be and is often delegated to automated agents.
-    Smart tools like spell checkers, grammar correctors, word and sentence completors, among other
-    forms of "intelligent" assistants crowd a writer's desktop. Microsoft Editor, to quote one of
-    the most popular of these, "runs in Word to analyze your document and offer suggestions for
-    spelling, grammar, and stylistic issues, like making sentences more concise, choosing simpler
-    words, or writing with more formality" [@microsoft_support_check_2023]. At the yet farther end
-    of the automation spectrum we find authorial agents that seem to operate autonomously,
-    independent from immediate human input.
-
-    I write "seem," "immediate," and put "intelligent" in scare quotes because much of the
-    contemporary hype surrounding artificial intelligence (AI) promotes a pernicious
-    theoretical fallacy. The very association of words, artifice and intellect, conjures an
-    obverse natural quality, somehow extant in its unencumbered state. You'll be pained to
-    find that creature in the wild. Whatever our natural capacities, we usually know---learn,
-    think, reason---with assistance. I understand, for example, what planets are, roughly, in
-    my head. But press me on any detail and I will reach for a reference. Most things I know,
-    I know in the sense of wielding the complex techniques of knowing, techniques that include
-    methods for searching, retrieving, and processing information outside of my bodily
-    confines. Ordinary intellect thus already routinely implicates artifice. It rarely dances
-    alone. More than private faculty of mind, it constitutes an immersive corporeal
-    performance, extended socially and instrumentally, embodied and embedded tightly into its
-    environment. Much of what I know points to what we know---very little of it I, me,
-    mine.
+  A word out of tense agreement appears underlined in red on my screen as I type. I hesitate,
+  accept the suggested correction, and move on. The interruption lasts less than a second.
+  Nothing about the gesture feels remarkable. It registers as a minor convenience, barely worth
+  noticing. And yet, without that intervention, the sentence would appear less competent—and so
+  would I in writing it. I do not pause to ask where the correction came from, or whose judgment
+  it reflects. I treat it as an ordinary feature of “word processing” today and move on.
+  
+  Moments like this are easy to dismiss, especially when writing. Spelling and grammar checks
+  feel too trivial to merit reflection. Yet, here, on the margins of human cognition, they also
+  hold an important lesson: collective labor recedes from notice once it becomes ubiquitous.
+  A single red underline condenses the work of linguists, lexicographers, editors, software
+  engineers, and interface designers, only to vanish in print. An illusion of immediacy remains,
+  and with it the sense that competence had issued naturally from the individual at the keyboard.
+  
+  The social complexity of a seemingly simple task such as spelling or grammar correction becomes
+  easy to overlook in part because it is masked by a convenient transfer of agency. The software
+  did it, we say, often naming the technological agent by its brand, adding another layer of
+  personification. The illusion resolves, exposing a collaborative practice---the work of many
+  hands and minds, each contributing a small part toward a greater project. In that condensed
+  form, I receive my correctly formed sentence.
 
 ---
 
-Coming soon!
+Coming soon with Chicago University Press!

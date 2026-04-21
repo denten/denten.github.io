@@ -35,7 +35,7 @@ past and present techniques of composition. Rather than treating these tools as 
 or exceptional, I regard them as part of the long-standing infrastructure of collective
 intellectual labor that this book seeks to describe.
 
-To put it more simply: This document was created with the assistance of AI. 
+To put it more simply: This document was created using human intelligence.
 
 A detailed manifest of labor and specific contributions can be found on [my Github
 pages](https://github.com/denten), and soon at [Lab Notes](https://labnotesjournal.org/)---a

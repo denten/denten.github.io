@@ -1,5 +1,6 @@
 ## Selected Talks, Workshops & Conferences
 
+- "Human First, AI Aware," Kean University, April 28, 2026.
 - "Collective Authorship," Benson Memorial Lecture at the Center for Excellence in the Arts &
 Humanities, Iowa State University on April 9th, 2026.
 - "Artifice and Intellect," Denbo Center for Humanities at the University of Tennessee on

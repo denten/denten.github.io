@@ -21,7 +21,7 @@ out soon at Chicago University Press.
 I include the following disclosure at the end of my manuscript, which I now believe should
 cover all of my intellectual output:
 
-> This book was written using contemporary digital writing tools, including spelling and grammar
+> This work was written using contemporary digital writing tools, including spelling and grammar
 checkers, reference management software, and, on a limited basis, large language models. Such
 systems were used as editorial aids: to rephrase sentences, test alternative formulations,
 summarize notes, and assist with transitions during revision. They were not used to generate

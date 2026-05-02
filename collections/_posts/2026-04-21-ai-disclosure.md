@@ -3,7 +3,7 @@ author: denten
 comments: false
 layout: post
 published: true
-title: Author’s Note on AI-Assisted Reearch
+title: Author’s Note on AI-Assisted Research
 subtitle: Academic Policy
 snippet: 150
 categories:

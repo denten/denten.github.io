@@ -9,21 +9,21 @@ title: "about"
 
 ## Short Bio (50 words):
 
-> Dennis Yi Tenen is an associate professor of English and comparative literature at Columbia
+> Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
 University, where he also directs the [Narrative Intelligence Lab][12]. His recent publications
 include *Literary Theory for Robots* (Norton, 2024). He lives, writes, and codes in New York
 City.
 
 ## Longer Bio (175 words):
 
->  Dennis Yi Tenen is an associate professor of English at Columbia University, where he
-> also co-directs the [Narrative Intelligence Lab][12]. His published work can be found in
-> monographs including [*Plain Text: The Poetics of Computation*][3] (Stanford University
-> Press, 2017), [*Literary Theory for Robots*][11] (W.W. Norton, 2024) and *Author Function*
-> under contract with Chicago UP. His [recent articles][22] appear on the pages of *Modern
-> Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational Culture*, and
-> *Modernism/modernity* on topics that span literary theory, the sociology of literature, media
-> history, and computational narratology.
+>  Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
+> where he also co-directs the [Narrative Intelligence Lab][12]. His published work can be
+> found in monographs including [*Plain Text: The Poetics of Computation*][3] (Stanford
+> University Press, 2017), [*Literary Theory for Robots*][11] (W.W. Norton, 2024) and *Author
+> Function* under contract with Chicago UP. His [recent articles][22] appear on the pages of
+> *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational Culture*,
+> and *Modernism/modernity* on topics that span literary theory, the sociology of literature,
+> media history, and computational narratology.
 >
 >A long-time affiliate of Columbia’s Data Science Institute, formerly a Microsoft engineer in
 >the Windows group and fellow at the Berkman Center for Internet and Society, his code runs on

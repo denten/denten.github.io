@@ -4,7 +4,7 @@
 
 Ph.D. Comparative Literature, 2004 -- 2012
 
-"The Poetics of Human-Computer Interaction," Unpublished PhD Dissertation defended in 2012
+"The Poetics of Human-Computer Interaction," PhD Dissertation defended in 2012
 under the advisement of Elaine Scarry, William Todd, and Michel Chaouli.
 
 ### University of Michigan (Ann Arbor, MI)
@@ -16,16 +16,16 @@ under the advisement of Elaine Scarry, William Todd, and Michel Chaouli.
 
 ### Columbia University in the City of New York
 
-Associate Professor, 2018 --
-Assistant Professor, Department of English and Comparative Literature, 2012
-
-- Lenfest Distinguished Faculty Award, 2026 -- 2029
+- Professor of English and Comparative Literature, 2026 --
+- Associate Professor of English and Comparative Literature, 2018
+- Assistant Professor of English and Comparative Literature, 2012
 - Director, Columbia's Narrative Intelligence Lab, 2014 --
-- Executive Committee, Institute for Comparative Literature and Society, 2018 --
+- Lenfest Distinguished Faculty Award, 2026 -- 2029
+- Faculty Affiliate at metaLab, Harvard University, 2025 --
 - Executive Committee, Harriman Institute, 2018 --
 - Faculty Affiliate, Institute of Data Sciences and Engineering, Center for Data, Media, and
   Society, 2015 --
-- Faculty Affiliate at metaLab, Harvard University, 2025 --
+- Executive Committee, Institute for Comparative Literature and Society, 2018 -- 2026
 
 ### Berkman Center for Internet and Society at Harvard University
 

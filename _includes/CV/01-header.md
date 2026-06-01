@@ -8,13 +8,13 @@ bio:
 
   long: >
 
-    Dennis Yi Tenen is an associate professor of English at Columbia University, where he also
-    co-directs the Narrative Intelligence Lab. His published work includes *Plain Text: The Poetics
-    of Computation* (Stanford University Press, 2017), *Literary Theory for Robots* (W.W. Norton,
-    2024), and *Author Function* under contract with Chicago UP. His recent articles appear on the
-    pages of *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational
-    Culture*, and *Modernism/modernity*, on topics that span literary theory, the sociology of
-    literature, media history, and computational narratology.
+    Dennis Yi Tenen is Professor of English at Columbia University, where he co-directs the
+    Narrative Intelligence Lab. His books include *Plain Text: The Poetics of Computation*
+    (Stanford University Press, 2017), *Literary Theory for Robots* (W.W. Norton, 2024),
+    and *Author Function* under contract with Chicago UP. His work on literary theory, the
+    sociology of literature, media history, and computational narratology appears on the pages
+    of *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational
+    Culture*, and *Modernism/modernity*.
 
 papersize: letterpaper
 ---

@@ -22,7 +22,7 @@ header-includes:
 ---
 
 ```
-Associate Professor of English and Comparative Literature  
+Professor of English and Comparative Literature  
 Columbia University  
 dt2406@columbia.edu  
 https://dennistenen.com  
@@ -36,10 +36,11 @@ B.A. Political Science, University of Michigan, 2001
 
 # Appointments (Columbia University)
 
-Associate Professor, English and Comparative Literature, 2018–present  
+Professor, English and Comparative Literature, 2026--  
+Associate Professor, English and Comparative Literature, 2018–2026  
 Assistant Professor, English and Comparative Literature, 2012–2018  
 
-Founder and Director, Narrative Intelligence Lab, 2014–present  
+Founder and Director, Narrative Intelligence Lab, 2014--  
 
 Affiliated Faculty, Institute of Data Science and Engineering  
 Center for Data, Media, and Society  

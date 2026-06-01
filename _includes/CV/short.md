@@ -21,7 +21,7 @@ papersize: letterpaper
 
 ## Appointments
 
-* **Columbia University** | Associate Professor, English and Comparative Literature (2018–Present)
+* **Columbia University** | Professor, English and Comparative Literature (2026--)
 
   * Co-Director, Narrative Intelligence Lab
   * Executive Committee, Institute for Comparative Literature and Society
@@ -52,6 +52,7 @@ papersize: letterpaper
 
 ## Selected Honors
 
+* Lenfest Distinguished Faculty (2026)
 * Schoff Publication Fund Award (2019)
 * Heyman Center Faculty Fellowship, Columbia (2017–18)
 * Lenfest Junior Faculty Development Grant (2016–17)

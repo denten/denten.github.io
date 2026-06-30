@@ -2,6 +2,8 @@
 
 - "Artifice and Intellect" talk at the Computational Writing and the Media of Language
 Symposium, Monash University, Malaysia on July 8, 2027.
+- Panel discussion with Katherine Hayles, Lai-Tze Fan, Davis Schneiderman, and others
+moderated by Dr. Uzma Imtiaz, Fatima Jinnah Women University, Pakistan on June 29th, 2026.
 - "Human First, AI Aware," lecture at Kean University, April 28, 2026.
 - "Collective Authorship," Benson Memorial Lecture at the Center for Excellence in the Arts &
 Humanities, Iowa State University on April 9th, 2026.

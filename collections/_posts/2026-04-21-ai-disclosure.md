@@ -21,13 +21,13 @@ out soon at Chicago University Press.
 I include the following disclosure at the end of my manuscript, which I now believe should
 cover all of my intellectual output:
 
-> This work was written using contemporary digital writing tools, including spelling and grammar
-checkers, reference management software, and, on a limited basis, large language models. Such
-systems were used as editorial aids: to rephrase sentences, test alternative formulations,
-summarize notes, and assist with transitions during revision. They were not used to generate
-archival claims, historical interpretations, or original arguments. All sources were selected,
-verified, and cited by the author. The responsibility for the text’s claims, structure, and
-conclusions rests entirely with me.
+> This work was written using contemporary digital writing tools, including spelling and
+grammar checkers, reference management software, and, on a limited basis, large language
+models. Such systems were used as editorial and exploratory aids: to rephrase sentences, test
+alternative formulations, summarize notes, discuss methodological alternatives, and assist
+with transitions during revision. They were not used to generate archival claims or historical
+evidence. All sources were selected and verified by the author, who takes responsibility for
+the study design, interpretations, and conclusions.
 
 > Given that this study examines the history of literary automation, distributed cognition,
 and machine-assisted authorship, the writing process itself reflects the continuity between

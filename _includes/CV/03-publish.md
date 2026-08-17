@@ -16,9 +16,11 @@
    Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.com/doi/abs/10.1080/0950236X.2018.1496662?journalCode=rtpr20)
    (July 2018).
 
-### Peer-Reviewed Journal Articles
+### Journal Articles and Conference Proceedings (Peer-reviewed)
 
-1. "AI-First Authorship." In peer-review at *Modern Fiction Studies* (2025).
+1. "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and Rhetoric of
+Online Communities," with Arden Hegele, Rishi Goyal, and Elena Fratto. Accepted to *Narrative*
+in August, 2026.
 2. "[Author—Anonymous and Distributed](https://doi.org/10.1016/j.techum.2024.07.001)." *New
    Techno Humanities* 4.1 (2024).
 3. "[Distributed Agency in the Novel](https://academiccommons.columbia.edu/doi/10.7916/m7xd-2q67)." 
@@ -89,11 +91,13 @@ interview with *Imminent*, February 2026.
 
 ### Projects in Progress
 
+1. "Text Reuse in the Pulp Magazine Archive: Methods" registered protocol under review in
+   Computational Humanities Research as of September 2026.
+1. "The Standardization of Fast Fiction: Bayesian Holdout Study Design" short paper, under review in the *Anthology of Computers and the
+Humanities*, Computational Humanities Research 2027 as of August, 2026.
 1. "Ghost Writer," book manuscript in progress.
 2. "Experimental Humanities in the Laboratory," book manuscript in development.
-3. "Writers Room," book manuscript in development.
 3. "Soft Power through State Reading Rooms," article in progress.
 4. "Misguided Maze: Benchmarking Undetected Influence in Large Language Models," article in
    progress.
 5. "What is Digital Ethnography?" and "Digital Ethnography in the Shadows," articles in progress.
-

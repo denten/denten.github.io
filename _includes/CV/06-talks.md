@@ -1,5 +1,12 @@
 ## Selected Talks, Workshops & Conferences
 
+- "The Standardization of Fast Fiction," workshop on the Novel and AI at Brown University
+on November 5, 2026.
+- "Agency and Academic Integrity: What does it Mean to Acknowledge AI Use?" Monash
+University, Malaysia on October 12, 2026.
+- "From Confluence to Influence: Modeling Text Reuse Across Genres and Periods" with Linda
+Qu, Special Interest Group in Digital Literary Studies, The Alliance of Digital Humanities
+Organizations 2026 in Daejeon, South Korea.
 - "Artifice and Intellect" talk at the [Computational Writing and the Media of Language
 Symposium](https://web.archive.org/save/https://literaryai.org/#programme), Monash University,
 Malaysia on July 8, 2027.

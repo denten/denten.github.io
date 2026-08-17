@@ -93,6 +93,9 @@ interview with *Imminent*, February 2026.
 
 1. "Text Reuse in the Pulp Magazine Archive: Methods" registered protocol under review in
    Computational Humanities Research as of September 2026.
+1. "Vice City Bangla: Patching and Play in the Early 2000s of India" under review in *Digital
+Creativity* Special Issue on Interactive Digital Narratives: Creativity, Theory, and Emerging
+Practices as of September, 2026.
 1. "The Standardization of Fast Fiction: Bayesian Holdout Study Design" short paper, under review in the *Anthology of Computers and the
 Humanities*, Computational Humanities Research 2027 as of August, 2026.
 1. "Ghost Writer," book manuscript in progress.

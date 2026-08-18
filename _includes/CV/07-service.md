@@ -67,7 +67,7 @@ and Berkeley.
 - Member of journal editorial boards including *Narrative* (the International Society for the Study of
 Narrative) and *Critical AI Studies*.
 - Grant review for The American Academy in Berlin, National Endowment for the Humanities,
-  the National Science Foundation, and the Austrian Science Fund.
+  the National Science Foundation, European Research Council, and the Austrian Science Fund.
 - Program Committee, International Conference on Computational Linguistics (COLING), [Workshop
   on Trolling, Aggression and Cyberbullying](http://aclweb.org/anthology/W18-4400), 2018, 2022.
 - Program Committee, Association for Computational Linguistics, [Abusive Language

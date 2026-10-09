@@ -16,8 +16,9 @@
    Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.com/doi/abs/10.1080/0950236X.2018.1496662?journalCode=rtpr20)
    (July 2018).
 
-### Journal Articles and Conference Proceedings (Peer-reviewed)
+### Journal Articles and Conference Proceedings
 
+1. "Agency as Metaphor." Accepted to *Harvard Review of Philosophy*, September 2026.
 1. "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and Rhetoric of
 Online Communities," with Arden Hegele, Rishi Goyal, and Elena Fratto. Accepted to *Narrative*
 in August, 2026.

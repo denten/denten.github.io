@@ -53,7 +53,7 @@
 
 #### Professional Service
 
-- Book manuscript reviews for Cambridge, Columbia, Duke, MIT, University of Michigan, Palgrave
+- Book manuscript reviews for Cambridge, Columbia, Duke, Exter, MIT, University of Michigan, Palgrave
 Macmillan, Princeton, Stanford, Ubiquity, and W.W. Norton presses.
 - Article manuscript review for *archipelagos journal*, the *Association of Computational
 Linguistics* (ACL); *Computational Culture*; *Communication Theory*; *Critical AI*; *Digital

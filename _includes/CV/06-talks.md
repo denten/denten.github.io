@@ -1,9 +1,10 @@
 ## Selected Talks, Workshops & Conferences
 
-- "The Standardization of Fast Fiction," workshop on the Novel and AI at Brown University
-on November 5, 2026.
-- "Agency and Academic Integrity: What does it Mean to Acknowledge AI Use?" Monash
-University, Malaysia on October 12, 2026.
+- "The Standardization of Fast Fiction," workshop on the Novel and AI at Brown University on
+November 5, 2026.
+- "Autonomous Narratology," Symposium on Narratology and Narrative in the Arabic Literary
+Tradition: Cross-Cultural Perspectives from the Classical to the Modern at Columbia
+University on October 23, 2026.
 - "From Confluence to Influence: Modeling Text Reuse Across Genres and Periods" with Linda
 Qu, Special Interest Group in Digital Literary Studies, The Alliance of Digital Humanities
 Organizations 2026 in Daejeon, South Korea.

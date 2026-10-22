@@ -1,5 +1,7 @@
 ## Selected Talks, Workshops & Conferences
 
+- "Emergent Style in Generative Fiction," International Symposium on Intelligence Humanities:
+Authorship, Auctoritas, and Generative AI at Northwestern University on November 19, 2026.
 - "The Standardization of Fast Fiction," workshop on the Novel and AI at Brown University on
 November 5, 2026.
 - "Autonomous Narratology," Symposium on Narratology and Narrative in the Arabic Literary

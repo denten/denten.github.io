@@ -30,4 +30,4 @@ excerpt: |
 
 ---
 
-Coming soon with Chicago University Press!
+Under review with University of Chicago Press.

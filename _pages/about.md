@@ -20,7 +20,7 @@ City.
 > where he also co-directs the [Narrative Intelligence Lab][12]. His published work can be
 > found in monographs including [*Plain Text: The Poetics of Computation*][3] (Stanford
 > University Press, 2017), [*Literary Theory for Robots*][11] (W.W. Norton, 2024) and *Author
-> Function* under contract with Chicago UP. His [recent articles][22] appear on the pages of
+> Function* under review with University of Chicago Press. His [recent articles][22] appear on the pages of
 > *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational Culture*,
 > and *Modernism/modernity* on topics that span literary theory, the sociology of literature,
 > media history, and computational narratology.

@@ -5,6 +5,9 @@ Authorship, Auctoritas, and Generative AI at Northwestern University on November
 - "When Grammar Wasn't Enough: Machine Storytelling in the 1960s and 1970s," Ninth Annual Ink
 and Electricity lecture at Monmouth University on November 17, 2026
 ([poster](https://dennistenen.com/assets/posters/ink-electricity-tenen-flier-2026.jpg)).
+- "Author as Metaphor: Personal and Collective Style in Generative Prose," talk and workshop at
+[Writing as Struggle: Process after AI](https://web.archive.org/web/20261116231402/https://campuspress.yale.edu/struggle/),
+Yale University on November 12, 2026.
 - "The Standardization of Fast Fiction," workshop on the Novel and AI at Brown University on
 November 5, 2026.
 - "Autonomous Narratology," Symposium on Narratology and Narrative in the Arabic Literary

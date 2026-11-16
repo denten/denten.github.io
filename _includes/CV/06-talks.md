@@ -2,6 +2,9 @@
 
 - "Emergent Style in Generative Fiction," International Symposium on Intelligence Humanities:
 Authorship, Auctoritas, and Generative AI at Northwestern University on November 19, 2026.
+- "When Grammar Wasn't Enough: Machine Storytelling in the 1960s and 1970s," Ninth Annual Ink
+and Electricity lecture at Monmouth University on November 17, 2026
+([poster](https://dennistenen.com/assets/posters/ink-electricity-tenen-flier-2026.jpg)).
 - "The Standardization of Fast Fiction," workshop on the Novel and AI at Brown University on
 November 5, 2026.
 - "Autonomous Narratology," Symposium on Narratology and Narrative in the Arabic Literary
@@ -12,7 +15,7 @@ Qu, Special Interest Group in Digital Literary Studies, The Alliance of Digital 
 Organizations 2026 in Daejeon, South Korea.
 - "Artifice and Intellect" talk at the [Computational Writing and the Media of Language
 Symposium](https://web.archive.org/save/https://literaryai.org/#programme), Monash University,
-Malaysia on July 8, 2027.
+Malaysia on July 8, 2026.
 - Panel discussion with Katherine Hayles, Lai-Tze Fan, Davis Schneiderman, and others
 moderated by Dr. Uzma Imtiaz, Fatima Jinnah Women University, Pakistan on June 29th, 2026.
 - "Human First, AI Aware," lecture at Kean University, April 28, 2026.

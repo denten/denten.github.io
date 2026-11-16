@@ -18,6 +18,10 @@
 
 ### Journal Articles and Conference Proceedings
 
+1. "The Standardization of Fast Fiction: Study Design," Et. al in the *Proceedings of
+Computational Humanities Research 2027, Anthology of Computers and the Humanities* (forthcoming
+2027).
+1. 
 1. "Agency as Metaphor." Accepted to *Harvard Review of Philosophy*, September 2026.
 1. "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and Rhetoric of
 Online Communities," with Arden Hegele, Rishi Goyal, and Elena Fratto. Accepted to *Narrative*

@@ -1,6 +1,6 @@
 ---
 title: Author Function
-publisher: "Chicago UP"
+publisher: "University of Chicago Press"
 year: "ETA 2024"
 cover: "/assets/images/sample-cover.jpg"
 layout: book

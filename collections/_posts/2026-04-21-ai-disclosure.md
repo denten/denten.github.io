@@ -16,7 +16,7 @@ the same time, the call to disclose can be complicated by the sheer ubiquity of 
 operating silently in the background of everyday scholarly activity, such as search or grammar
 correction. The transparency of intellectual labor has also been a major part of my [recent
 work](https://dennistenen.com/books/author-function), a book called *Author Function* coming
-out soon at Chicago University Press.
+out soon at University of Chicago Press.
 
 I include the following disclosure at the end of my manuscript, which I now believe should
 cover all of my intellectual output:

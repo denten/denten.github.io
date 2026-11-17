@@ -46,9 +46,10 @@
   Collaboration, Kyungpook National University, South Korea, July 17, 2025.
 - "AI for Cultural Research." Seoul Advanced Methods in Scholarly Computation Institute
   (SAMSCI), Sungkyunkwan University, Seoul, July 11, 2025.
+- "Narrative Intelligence." Language and Intelligence Seminar, Faculty of Philosophy,
+  University of Sarajevo, June 3, 2025.
 - "Narrative Intelligence." Ethics Seminar, Department of Philosophy, Saint Joseph's
-  University, April 15, 2025. Also presented at the Language and Intelligence Seminar, Faculty
-  of Philosophy, University of Sarajevo, June 3, 2025.
+  University, April 15, 2025.
 - "The Lifecycle of Synthetic Objects." Keynote, Sandbjerg Seminar: Methods and Materials,
   Graduate School of Arts, Aarhus University, Denmark, March 26, 2025.
 - "Early Story Generators." Keynote, Chungbuk National University, South Korea, October 12,

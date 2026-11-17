@@ -1,7 +1,7 @@
 ---
 title: Author Function
 publisher: "University of Chicago Press"
-year: "ETA 2024"
+year: "under review"
 cover: "/assets/images/sample-cover.jpg"
 layout: book
 

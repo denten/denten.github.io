@@ -2,7 +2,7 @@
 
 ### Books
 
-1. "Author Function: A Literary History of Artificial Intelligence." Under review at University
+1. "Author Function: Literary Labor in the History of Machine Intelligence." Under review at University
    of Chicago Press, 2026.
 1. *Literary Theory for Robots: How Computers Learned to Write*. W. W. Norton, 2024.
 1. *[Plain Text: The Poetics of Computation](http://www.sup.org/books/title/?id=26821)*.

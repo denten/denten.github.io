@@ -29,7 +29,7 @@ papersize: letterpaper
 
 ## Publications
 
-* *Author Function: A Literary History of AI* (University of Chicago Press, forthcoming 2024)
+* "Author Function: Literary Labor in the History of Machine Intelligence" (under review at University of Chicago Press, 2026)
 * *Literary Theory for Robots* (W\.W. Norton, 2024)
 * *Plain Text: The Poetics of Computation* (Stanford UP, 2017)
 * "Author—Anonymous and Distributed," *New Techno Humanities* (2024)

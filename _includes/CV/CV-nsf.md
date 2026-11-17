@@ -48,8 +48,8 @@ Computational Social Science Committee
 
 # Relevant Products
 
-**Author Function: A Literary History of Artificial Intelligence**  
-University of Chicago Press, forthcoming  
+**Author Function: Literary Labor in the History of Machine Intelligence**  
+Under review at University of Chicago Press, 2026  
 Traces the historical and institutional conditions under which automated authorship and collective intelligence emerge.
 
 **Literary Theory for Robots**  

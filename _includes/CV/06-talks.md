@@ -52,7 +52,7 @@
 - "Writing Machines." Interactive Telecommunications Program (ITP), Tisch School of the Arts,
   New York University, October 22, 2025.
 - "The Importance of Shadow Libraries to the History and Future of Artificial Intelligence."
-  Keynote, [Document Society
+  Keynote and co-organizer, [Document Society
   Conference](https://web.archive.org/web/20251011183651/https://documentsociety.org/),
   University of Barcelona, October 20, 2025.
 - "Narrative Intelligence." [Forms of Intelligence
@@ -77,6 +77,9 @@
 - "Early Story Generators." Keynote, Multi-ConTEXT: Interdisciplinary Conference, Chungbuk
   National University, South Korea, October 12, 2024.
   [Program](https://dennistenen.com/assets/posters/chungbuk-multi-context-2024.jpg).
+- Session chair, "Exploring Human-Nonhuman Relations in Literature, Film, and Digital
+  Worlds," Multi-ConTEXT: Interdisciplinary Conference, Chungbuk National University, South
+  Korea, October 11, 2024.
 - "Manufacturing Creativity." Korea Advanced Institute of Science and Technology (KAIST),
   Daejeon, South Korea, October 10, 2024.
 - "Story Machines." Situation Lecture Series, Narrative Research Group, Concordia University,
@@ -85,8 +88,9 @@
   September 21, 2024.
 - "Measuring Text Reuse in Fiction." Office of the Special Advisor to the Provost for AI,
   Dartmouth College, September 19, 2024.
-- "Literary Theory for Robots." Program in Media and Modernity, Princeton University,
-  February 16, 2024.
+- "Literary Theory for Robots." [Program in Media and
+  Modernity](https://web.archive.org/web/20260120192109/https://humanities.princeton.edu/event/literary-theory-for-robots/),
+  Princeton University, March 5, 2024.
 - "Literary Modeling and Visualization." Keynote, Wenshan International Conference, National
   Chengchi University, Taipei, Taiwan, November 18, 2023.
   [Program](https://drive.google.com/file/d/1bAB0okmc3eBysNbPIxhwjC2MUugxl2AB/view?usp=sharing).
@@ -105,12 +109,12 @@
 - "Digital Philology." Tsinghua University, Beijing, October 25, 2023.
   [Slides](https://docs.google.com/presentation/d/1CImZQbZtuF5L3mmpwBdoO3kauDQuS81igz3ISh7XdYU/edit#slide=id.p).
 - "The Anatomy of Vaccine Hesitancy." Computational Formalism Workshop, Neukom Institute,
-  Dartmouth College, Spring 2023.
+  Dartmouth College, April 28, 2023.
 - "Literary Theory for Robots." Renato Poggioli Lecture, Department of Comparative Literature,
   Harvard University, April 20, 2023.
   [Poster](https://dennistenen.com/assets/images/poggioli.pdf).
 - "Literature in the Age of AI." American University of Central Asia, Bishkek, Kyrgyzstan,
-  March 16, 2023.
+  March 16, 2023. [Poster](https://dennistenen.com/assets/posters/auca-tenen-2023.jpg).
 - "AI in Humanities Education." Roundtable, AUCA Technical School of Innovation, Bishkek,
   Kyrgyzstan, March 15, 2023.
 - "Computational Philology." Bishkek State University, Kyrgyzstan, March 15, 2023.

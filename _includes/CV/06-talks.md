@@ -135,9 +135,11 @@
 - "Media and Metaphor (Or How Literary Theory Figures in the Study of Human Computer
   Interaction)." Virtually So, Virtually Here Lecture Series, Department of Comparative
   Literature, Princeton University, September 23, 2021.
+  [Poster](https://dennistenen.com/assets/posters/princeton-complit-2021.jpg).
 - "The Rise of Literary Machines." Keynote, Third International Conference on Digital
   Humanities and World Literature, Korean Society of East West Comparative Literature, Pohang
   University, South Korea, October 26, 2019.
+  [Program](https://dennistenen.com/assets/posters/pohang-world-literature-dh-2019.jpg).
 - "The Morphology of Formalism." Prehistory of Computational Analysis Workshop, Center for
   Humanities and Information, Penn State University, August 22–25, 2019.
 - "The Hermeneutics of Computer-Generated Text." Poetic Critique Conference, Indiana
@@ -154,7 +156,7 @@
   2018.
 - "Techniques of Industrial Modernism: Plot Genie / Plot Robot." Puzzles, Bots, and Poetics
   Symposium, Institute of the Humanities and Global Cultures, University of Virginia, October
-  27, 2018.
+  27, 2018. [Program](https://dennistenen.com/assets/posters/uva-puzzles-bots-poetics-2018.jpg).
 - "Platform Reading." Lecture and workshop, Digital Theory Lab, New York University, October
   23, 2018.
 - "Character and Agency in Arthur Hailey's *Airport*." Harvard NHC Novel Theory Seminar,
@@ -176,14 +178,17 @@
   Cultures, Leuphana University, Germany, December 20, 2017.
 - "Infrastructural Reading: Content, Medium, Context, History." Internet Cultures Symposium,
   Yale University, December 2, 2017.
-- "Plain Text: The Poetics of Computation." Book launch, Berkman Klein Center for Internet and
-  Society, Harvard University, November 28, 2017.
+- "Plain Text: The Poetics of Computation." Book launch, [Berkman Klein Center for Internet and
+  Society](https://web.archive.org/web/20171208214847/https://cyber.harvard.edu/events/2017/luncheon/11/Tenen),
+  Harvard University, November 28, 2017.
 - "What Is Enlightenment? Kant, Arendt, and the Relevance of Columbia's Core Today." Core to
   Commencement Campaign, Columbia University, Chicago, November 6, 2017.
 - "Computational Approaches to Characterizing Fictional Space." Theory and Media Studies
   Colloquium, Yale University, October 13, 2017.
 - "Sustainable Authorship in Plain Text" and "Plain Text: The Poetics of Computation."
-  Workshop and lecture, Digital Humanities Forum, University of Kansas, September 29, 2017.
+  Keynote and workshop, [Digital Humanities
+  Forum](https://web.archive.org/web/20170926142006/https://idrh.ku.edu/dhforum2017), University
+  of Kansas, September 29, 2017.
 - "Modeling Space: Quantitative Parsimony in Computational Literary Analysis." [Analysing
   Text](https://web.archive.org/web/20190219200545/https://dongpng.github.io/attached/index.html)
   Conference, Alan Turing Institute, British Library, London, September 22, 2017.

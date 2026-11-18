@@ -60,7 +60,7 @@
   Harvard University, September 23, 2025.
 - "Computational Humanities." Inter-lab seminar, Department of Digital Humanities and
   Computational Social Sciences, KAIST, Daejeon, South Korea, July 30, 2025.
-- "Narrative Intelligence." SKKU Global Colloquium: Innovation and Humanity, Sungkyunkwan
+- "Translation Machines." SKKU Global Colloquium: Innovation and Humanity, Sungkyunkwan
   University, Seoul, July 24, 2025.
   [Poster](https://dennistenen.com/assets/posters/skku-global-colloquium-2025.jpg).
 - "The Limits of Machine Translation." Keynote, International Symposium on Human-AI
@@ -74,8 +74,8 @@
   University, April 15, 2025.
 - "The Lifecycle of Synthetic Objects." Keynote, Sandbjerg Seminar: Methods and Materials,
   Graduate School of Arts, Aarhus University, Denmark, March 26, 2025.
-- "Early Story Generators." Keynote, Multi-ConTEXT: Interdisciplinary Conference, Chungbuk
-  National University, South Korea, October 12, 2024.
+- "The Myth of Creativity: Text Generators in Fiction." Keynote, Multi-ConTEXT:
+  Interdisciplinary Conference, Chungbuk National University, South Korea, October 12, 2024.
   [Program](https://dennistenen.com/assets/posters/chungbuk-multi-context-2024.jpg).
 - Session chair, "Exploring Human-Nonhuman Relations in Literature, Film, and Digital
   Worlds," Multi-ConTEXT: Interdisciplinary Conference, Chungbuk National University, South
@@ -108,7 +108,7 @@
   [Sketch](https://dennistenen.com/assets/images/pub4.png) by Joan Chiverton.
 - "Digital Philology." Tsinghua University, Beijing, October 25, 2023.
   [Slides](https://docs.google.com/presentation/d/1CImZQbZtuF5L3mmpwBdoO3kauDQuS81igz3ISh7XdYU/edit#slide=id.p).
-- "The Anatomy of Vaccine Hesitancy." Computational Formalism Workshop, Neukom Institute,
+- "Distributed Agency in the Novel." Computational Formalism Workshop, Neukom Institute,
   Dartmouth College, April 28, 2023.
 - "Literary Theory for Robots." Renato Poggioli Lecture, Department of Comparative Literature,
   Harvard University, April 20, 2023.

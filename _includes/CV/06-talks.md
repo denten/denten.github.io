@@ -2,6 +2,7 @@
 
 - "Emergent Style in Generative Fiction." International Symposium on Intelligence Humanities:
   Authorship, Auctoritas, and Generative AI, Northwestern University, November 19, 2026.
+  [Program](https://dennistenen.com/assets/posters/intelligence-humanities-2026.jpg).
 - "When Grammar Wasn't Enough: Machine Storytelling in the 1960s and 1970s." Ninth Annual Ink
   and Electricity Lecture, Monmouth University, November 17, 2026.
   [Poster](https://dennistenen.com/assets/posters/ink-electricity-tenen-flier-2026.jpg).

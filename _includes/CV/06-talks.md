@@ -15,7 +15,7 @@
   University of Pittsburgh, November 9, 2026.
 - "The Standardization of Fast Fiction." The Novel in the Age of AI, John Nicholas Brown
   Center for Advanced Study and *Novel: A Forum on Fiction*, Brown University, November 6, 2026.
-- "Autonomous Narratology." [Symposium on Narratology and Narrative in the Arabic Literary
+- "The Combinatorial Plot Device in Pulp Fiction." [Symposium on Narratology and Narrative in the Arabic Literary
   Tradition: Cross-Cultural Perspectives from the Classical to the
   Modern](https://web.archive.org/web/20261118151308/https://universityseminars.columbia.edu/event/narratology-and-narrative-in-the-arabic-literary-tradition-cross-cultural-perspectives-from-the-classical-to-the-modern/),
   Columbia University, October 23, 2026.

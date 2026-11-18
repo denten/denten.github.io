@@ -2,7 +2,7 @@
 
 # Files to include (sorted for stable order)
 MDSOURCES := $(sort $(wildcard [0-9][0-9]-*.md))
-TEMPLATEFILES := template.tex style.tex structure.tex
+TEMPLATEFILES := template.tex style.tex structure.tex pdf.lua
 
 # Output + temp dirs
 TEMPDIR := temp
@@ -23,7 +23,7 @@ CV.md: $(MDSOURCES)
 	cat $(MDSOURCES) > $@
 
 CV.tex: CV.md $(TEMPLATEFILES)
-	pandoc -s -H style.tex --template=template.tex CV.md -o CV.tex
+	pandoc -s -H style.tex --template=template.tex --lua-filter=pdf.lua CV.md -o CV.tex
 
 pdf: CV.tex
 	pdflatex -halt-on-error -interaction=nonstopmode CV.tex

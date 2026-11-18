@@ -102,10 +102,10 @@
 - "Seriously Entertaining: Literary Theory for Robots." Literary cabaret, [The Public
   Theater](https://web.archive.org/web/20231106155718/https://publictheater.org/productions/joes-pub/2023/h/house-of-speakeasy-fall/),
   New York, November 7, 2023. Part of W. W. Norton's 100th anniversary and the launch of
-  Norton Shorts. Posters: [1](https://dennistenen.com/assets/posters/public-theater-2023-1.jpg),
-  [2](https://dennistenen.com/assets/posters/public-theater-2023-2.jpg),
-  [3](https://dennistenen.com/assets/posters/public-theater-2023-3.jpg).
-  [Sketch](https://dennistenen.com/assets/posters/public-theater-2023-sketch.jpg) by Joan Chiverton.
+  Norton Shorts. [Poster 1](https://dennistenen.com/assets/posters/public-theater-2023-1.jpg).
+  [Poster 2](https://dennistenen.com/assets/posters/public-theater-2023-2.jpg).
+  [Poster 3](https://dennistenen.com/assets/posters/public-theater-2023-3.jpg).
+  [Sketch by Joan Chiverton](https://dennistenen.com/assets/posters/public-theater-2023-sketch.jpg).
 - "Digital Philology." Tsinghua University, Beijing, October 25, 2023.
   [Slides](https://docs.google.com/presentation/d/1CImZQbZtuF5L3mmpwBdoO3kauDQuS81igz3ISh7XdYU/edit#slide=id.p).
 - "Distributed Agency in the Novel." Computational Formalism Workshop, Neukom Institute,

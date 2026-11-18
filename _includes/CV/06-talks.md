@@ -52,25 +52,31 @@
 - "Writing Machines." Interactive Telecommunications Program (ITP), Tisch School of the Arts,
   New York University, October 22, 2025.
 - "The Importance of Shadow Libraries to the History and Future of Artificial Intelligence."
-  Keynote, Document Society Conference, University of Barcelona, October 20, 2025.
-- "Narrative Intelligence." Forms of Intelligence Seminar, Harvard University, September 23,
-  2025.
+  Keynote, [Document Society
+  Conference](https://web.archive.org/web/20251011183651/https://documentsociety.org/),
+  University of Barcelona, October 20, 2025.
+- "Narrative Intelligence." [Forms of Intelligence
+  Seminar](https://web.archive.org/web/20251013160157/https://complit.fas.harvard.edu/lecture/forms-of-intelligence-lecture-series-dennis-yi-tenen/),
+  Harvard University, September 23, 2025.
 - "Computational Humanities." Inter-lab seminar, Department of Digital Humanities and
   Computational Social Sciences, KAIST, Daejeon, South Korea, July 30, 2025.
 - "Narrative Intelligence." SKKU Global Colloquium: Innovation and Humanity, Sungkyunkwan
   University, Seoul, July 24, 2025.
+  [Poster](https://dennistenen.com/assets/posters/skku-global-colloquium-2025.jpg).
 - "The Limits of Machine Translation." Keynote, International Symposium on Human-AI
-  Collaboration, Kyungpook National University, South Korea, July 17, 2025.
+  Collaboration, Kyungpook National University, South Korea, July 18, 2025.
 - "AI for Cultural Research." Seoul Advanced Methods in Scholarly Computation Institute
   (SAMSCI), Sungkyunkwan University, Seoul, July 11, 2025.
 - "Narrative Intelligence." Language and Intelligence Seminar, Faculty of Philosophy,
   University of Sarajevo, June 3, 2025.
+  [Poster](https://dennistenen.com/assets/posters/sarajevo-tenen-2025.jpg).
 - "Narrative Intelligence." Ethics Seminar, Department of Philosophy, Saint Joseph's
   University, April 15, 2025.
 - "The Lifecycle of Synthetic Objects." Keynote, Sandbjerg Seminar: Methods and Materials,
   Graduate School of Arts, Aarhus University, Denmark, March 26, 2025.
-- "Early Story Generators." Keynote, Chungbuk National University, South Korea, October 12,
-  2024.
+- "Early Story Generators." Keynote, Multi-ConTEXT: Interdisciplinary Conference, Chungbuk
+  National University, South Korea, October 12, 2024.
+  [Program](https://dennistenen.com/assets/posters/chungbuk-multi-context-2024.jpg).
 - "Manufacturing Creativity." Korea Advanced Institute of Science and Technology (KAIST),
   Daejeon, South Korea, October 10, 2024.
 - "Story Machines." Situation Lecture Series, Narrative Research Group, Concordia University,

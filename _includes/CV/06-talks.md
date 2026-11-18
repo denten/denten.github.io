@@ -13,11 +13,12 @@
   November 10, 2026.
 - "AI in the Curriculum." Conversation, AI in World History series, World History Center,
   University of Pittsburgh, November 9, 2026.
-- "The Standardization of Fast Fiction." Workshop on the Novel and AI, Brown University,
-  November 5, 2026.
-- "Autonomous Narratology." Symposium on Narratology and Narrative in the Arabic Literary
-  Tradition: Cross-Cultural Perspectives from the Classical to the Modern, Columbia University,
-  October 23, 2026.
+- "The Standardization of Fast Fiction." The Novel in the Age of AI, John Nicholas Brown
+  Center for Advanced Study and *Novel: A Forum on Fiction*, Brown University, November 6, 2026.
+- "Autonomous Narratology." [Symposium on Narratology and Narrative in the Arabic Literary
+  Tradition: Cross-Cultural Perspectives from the Classical to the
+  Modern](https://web.archive.org/web/20261118151308/https://universityseminars.columbia.edu/event/narratology-and-narrative-in-the-arabic-literary-tradition-cross-cultural-perspectives-from-the-classical-to-the-modern/),
+  Columbia University, October 23, 2026.
 - Session chair, "Multilingual and Multimodal DH Tools" (S025), DH2026, Alliance of Digital
   Humanities Organizations, Daejeon, South Korea, July 29, 2026.
 - "From Confluence to Influence: Modeling Text Reuse Across Genres and Periods." With Linda Qu.
@@ -27,17 +28,25 @@
 - "Artifice and Intellect." [Computational Writing and the Media of Language
   Symposium](https://web.archive.org/web/https://literaryai.org/#programme), Monash University
   Malaysia, July 8, 2026.
-- Panel with Katherine Hayles, Lai-Tze Fan, Davis Schneiderman, et al. Moderated by Uzma
-  Imtiaz. Fatima Jinnah Women University, Pakistan, June 29, 2026.
+- "Can AI Replace Human Creativity? A Dialogue Between Literature, Ethics, and AI." Panel with
+  Katherine Hayles, Lai-Tze Fan, Davis Schneiderman, et al. Moderated by Uzma Imtiaz. Department
+  of English, Fatima Jinnah Women University, Pakistan, June 29, 2026.
+  [Poster](https://dennistenen.com/assets/posters/fjwu-panel-2026.jpg).
 - "Human First, AI Aware." Kean University, April 28, 2026.
-- "Collective Authorship." Benson Memorial Lecture, Center for Excellence in the Arts and
-  Humanities, Iowa State University, April 9, 2026.
-- "Artifice and Intellect." Denbo Center for Humanities, University of Tennessee, February 19,
-  2026.
+- Workshop, Fiction Lab 1.0, Humanities Institute, Stony Brook University, April 16, 2026.
+- "Collective Authorship." [Benson Memorial
+  Lecture](https://web.archive.org/web/20261118151344/https://ceah.iastate.edu/event/2026/benson-memorial-lecture-artifice-intelligence-collective-authorship),
+  Center for Excellence in the Arts and Humanities, Iowa State University, April 9, 2026.
+- "Epistemic Drag in the Misguided Maze Game: Benchmarking Undetected Influence in Large
+  Language Models." Narrative Workshop, Incite, Columbia University, March 12, 2026.
+- "Artifice and Intellect." [Denbo Center for
+  Humanities](https://web.archive.org/web/20261118151404/https://calendar.utk.edu/event/dennis-yi-tenen-lecture),
+  University of Tennessee, February 19, 2026.
 - "Narrative Intelligence." Institute for Advanced Studies in the Humanities, SUNY Binghamton,
   February 12, 2026.
-- "'Frontières du récit' by Gérard Genette." *Communications* 8 at 60, Yale University,
-  February 6, 2026.
+- "'Frontières du récit' by Gérard Genette." [*Communications* 8 at
+  60](https://web.archive.org/web/20261118151428/https://complit.yale.edu/events/2026-02-06-communications-8-at-60),
+  Yale University, February 6, 2026.
 - "Literary Theory for Robots." Keynote and workshop, Dubai International Libraries and
   Publishing Summit, October 31, 2025.
 - "Writing Machines." Interactive Telecommunications Program (ITP), Tisch School of the Arts,

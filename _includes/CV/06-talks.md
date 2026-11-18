@@ -98,21 +98,21 @@
 - "What Is Machine Literature?" [World Humanities
   Forum](https://web.archive.org/web/20231106150157/https://whf.kr/eng/program/program02.php),
   Busan, South Korea, November 9, 2023. [Video](https://www.youtube.com/watch?v=UUcznqGsea4).
-  [Poster](https://dennistenen.com/assets/images/busan-whf-2023.png).
+  [Poster](https://dennistenen.com/assets/posters/busan-whf-2023.jpg).
 - "Seriously Entertaining: Literary Theory for Robots." Literary cabaret, [The Public
   Theater](https://web.archive.org/web/20231106155718/https://publictheater.org/productions/joes-pub/2023/h/house-of-speakeasy-fall/),
   New York, November 7, 2023. Part of W. W. Norton's 100th anniversary and the launch of
-  Norton Shorts. Posters: [1](https://dennistenen.com/assets/images/pub1.png),
-  [2](https://dennistenen.com/assets/images/pub2.png),
-  [3](https://dennistenen.com/assets/images/pub3.png).
-  [Sketch](https://dennistenen.com/assets/images/pub4.png) by Joan Chiverton.
+  Norton Shorts. Posters: [1](https://dennistenen.com/assets/posters/public-theater-2023-1.jpg),
+  [2](https://dennistenen.com/assets/posters/public-theater-2023-2.jpg),
+  [3](https://dennistenen.com/assets/posters/public-theater-2023-3.jpg).
+  [Sketch](https://dennistenen.com/assets/posters/public-theater-2023-sketch.jpg) by Joan Chiverton.
 - "Digital Philology." Tsinghua University, Beijing, October 25, 2023.
   [Slides](https://docs.google.com/presentation/d/1CImZQbZtuF5L3mmpwBdoO3kauDQuS81igz3ISh7XdYU/edit#slide=id.p).
 - "Distributed Agency in the Novel." Computational Formalism Workshop, Neukom Institute,
   Dartmouth College, April 28, 2023.
 - "Literary Theory for Robots." Renato Poggioli Lecture, Department of Comparative Literature,
   Harvard University, April 20, 2023.
-  [Poster](https://dennistenen.com/assets/images/poggioli.pdf).
+  [Poster](https://dennistenen.com/assets/posters/poggioli-harvard-2023.jpg).
 - "Literature in the Age of AI." American University of Central Asia, Bishkek, Kyrgyzstan,
   March 16, 2023. [Poster](https://dennistenen.com/assets/posters/auca-tenen-2023.jpg).
 - "AI in Humanities Education." Roundtable, AUCA Technical School of Innovation, Bishkek,

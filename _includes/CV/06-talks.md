@@ -9,14 +9,21 @@
 - "Author as Metaphor: Personal and Collective Style in Generative Prose." Lecture and workshop,
   [Writing as Struggle: Process after AI](https://web.archive.org/web/20261116231402/https://campuspress.yale.edu/struggle/),
   Yale University, November 12, 2026.
+- "Collective Style in Syndicate Fiction." World History Center, University of Pittsburgh,
+  November 10, 2026.
+- "AI in the Curriculum." Conversation, AI in World History series, World History Center,
+  University of Pittsburgh, November 9, 2026.
 - "The Standardization of Fast Fiction." Workshop on the Novel and AI, Brown University,
   November 5, 2026.
 - "Autonomous Narratology." Symposium on Narratology and Narrative in the Arabic Literary
   Tradition: Cross-Cultural Perspectives from the Classical to the Modern, Columbia University,
   October 23, 2026.
+- Session chair, "Multilingual and Multimodal DH Tools" (S025), DH2026, Alliance of Digital
+  Humanities Organizations, Daejeon, South Korea, July 29, 2026.
 - "From Confluence to Influence: Modeling Text Reuse Across Genres and Periods." With Linda Qu.
-  Conference paper, Special Interest Group in Digital Literary Studies, Alliance of Digital
-  Humanities Organizations 2026, Daejeon, South Korea.
+  Lightning talk, Digital and/or Comparative Literary Studies Today mini-conference, DH2026,
+  Alliance of Digital Humanities Organizations, Daejeon, South Korea, July 28, 2026.
+  [Program](https://web.archive.org/web/20260725071754/https://dls.hypotheses.org/2318).
 - "Artifice and Intellect." [Computational Writing and the Media of Language
   Symposium](https://web.archive.org/web/https://literaryai.org/#programme), Monash University
   Malaysia, July 8, 2026.

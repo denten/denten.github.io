@@ -18,14 +18,13 @@ layout: default
   </div>
 </div>
 
-## Short Bio (60 words):
+## Short Bio (57 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
 > University, where he also directs the [Narrative Intelligence Lab][12]. He is the author of
 > [*Literary Theory for Robots*][11] (Norton, 2024). Recent articles include "The Standardization
 > of Fast Fiction" (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy"
-> (*Narrative*), and "Toward a Computational Archaeology of Fictional Space" (*New Literary
-> History*).
+> (*Narrative*), and "Distributed Agency in the Novel" (*New Literary History*).
 
 ## Longer Bio (128 words):
 

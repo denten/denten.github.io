@@ -84,9 +84,8 @@ a:hover, a:focus-visible { color: var(--accent); text-decoration-color: currentC
 }
 
 .site-name {
-  font-family: "Alegreya", var(--serif);
-  font-size: 1.5rem;
-  font-weight: 700;
+  font-size: 1.35rem;
+  font-weight: 600;
   letter-spacing: .01em;
   text-decoration: none;
 }
@@ -95,10 +94,10 @@ a:hover, a:focus-visible { color: var(--accent); text-decoration-color: currentC
 .site-name .i::after {
   content: "";
   position: absolute;
-  left: var(--dot-x, 53%);
-  top: var(--dot-y, .27em);
-  width: var(--dot, .22em);
-  height: var(--dot, .22em);
+  left: var(--dot-x, 50%);
+  top: var(--dot-y, .3em);
+  width: var(--dot, .18em);
+  height: var(--dot, .18em);
   transform: translate(-50%, -50%);
   border-radius: 50%;
   background: var(--accent);

@@ -18,27 +18,28 @@ layout: default
   </div>
 </div>
 
-## Short Bio (50 words):
+## Short Bio (57 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
-University, where he also directs the [Narrative Intelligence Lab][12]. His recent publications
-include *Literary Theory for Robots* (Norton, 2024). He lives, writes, and codes in New York
-City.
+> University, where he also directs the [Narrative Intelligence Lab][12]. He is the author of
+> [*Literary Theory for Robots*][11] (Norton, 2024). Recent articles include "The Standardization
+> of Fast Fiction" (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy"
+> (*Narrative*), and "Agency as Metaphor" (*Harvard Review of Philosophy*).
 
-## Longer Bio (175 words):
+## Longer Bio (126 words):
 
->  Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
-> where he also co-directs the [Narrative Intelligence Lab][12]. His published work can be
-> found in monographs including [*Plain Text: The Poetics of Computation*][3] (Stanford
-> University Press, 2017), [*Literary Theory for Robots*][11] (W.W. Norton, 2024) and *Author
-> Function* under review with University of Chicago Press. His [recent articles][22] appear on the pages of
-> *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational Culture*,
-> and *Modernism/modernity* on topics that span literary theory, the sociology of literature,
-> media history, and computational narratology.
+> Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
+> where he also co-directs the [Narrative Intelligence Lab][12]. He is the author of [*Literary
+> Theory for Robots*][11] (Norton, 2024) and [*Plain Text: The Poetics of Computation*][3]
+> (Stanford, 2017); *Author Function* is under review with the University of Chicago Press.
 >
->A long-time affiliate of Columbia’s Data Science Institute, formerly a Microsoft engineer in
->the Windows group and fellow at the Berkman Center for Internet and Society, his code runs on
->personal computers worldwide.
+> [Recent articles][22] include "The Standardization of Fast Fiction" (*Computational Humanities
+> Research*), "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and
+> Rhetoric of Online Communities" (*Narrative*), "Agency as Metaphor" (*Harvard Review of
+> Philosophy*), and "Distributed Agency in the Novel" (*New Literary History*).
+>
+> A long-time affiliate of Columbia's Data Science Institute, he was formerly a Microsoft
+> engineer in the Windows group and a fellow at the Berkman Center for Internet and Society.
 
 
 [1]: http://english.columbia.edu

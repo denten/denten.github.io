@@ -18,15 +18,16 @@ layout: default
   </div>
 </div>
 
-## Short Bio (57 words):
+## Short Bio (60 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
 > University, where he also directs the [Narrative Intelligence Lab][12]. He is the author of
 > [*Literary Theory for Robots*][11] (Norton, 2024). Recent articles include "The Standardization
 > of Fast Fiction" (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy"
-> (*Narrative*), and "Agency as Metaphor" (*Harvard Review of Philosophy*).
+> (*Narrative*), and "Toward a Computational Archaeology of Fictional Space" (*New Literary
+> History*).
 
-## Longer Bio (126 words):
+## Longer Bio (128 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
 > where he also directs the [Narrative Intelligence Lab][12]. He is the author of [*Literary
@@ -35,8 +36,8 @@ layout: default
 >
 > [Recent articles][22] include "The Standardization of Fast Fiction" (*Computational Humanities
 > Research*), "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and
-> Rhetoric of Online Communities" (*Narrative*), "Agency as Metaphor" (*Harvard Review of
-> Philosophy*), and "Distributed Agency in the Novel" (*New Literary History*).
+> Rhetoric of Online Communities" (*Narrative*), and "Distributed Agency in the Novel" and "Toward a
+> Computational Archaeology of Fictional Space" (both *New Literary History*).
 >
 > A long-time affiliate of Columbia's Data Science Institute, he was formerly a Microsoft
 > engineer in the Windows group and a fellow at the Berkman Center for Internet and Society.

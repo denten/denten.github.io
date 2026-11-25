@@ -18,19 +18,19 @@ layout: default
   </div>
 </div>
 
-## Short Bio (53 words):
+## Short Bio (57 words):
 
-> Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
-> University, where he directs the [Narrative Intelligence Lab][12]. He studies how stories are
-> written and shared, by people and by machines. His recent work includes [*Literary Theory for
+> Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University
+> and a software engineer. He directs the [Narrative Intelligence Lab][12], where he studies how
+> stories are written and shared, by people and by machines. His recent work includes [*Literary Theory for
 > Robots*][11] (Norton, 2024) and "The Standardization of Fast Fiction" (*Computational Humanities
 > Research*).
 
-## Longer Bio (141 words):
+## Longer Bio (145 words):
 
-> Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
-> where he directs the [Narrative Intelligence Lab][12]. He studies how stories are written and
-> shared, by people and by machines. His [recent work][22] includes [*Literary Theory for
+> Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University
+> and a software engineer. He directs the [Narrative Intelligence Lab][12], where he studies how
+> stories are written and shared, by people and by machines. His [recent work][22] includes [*Literary Theory for
 > Robots*][11] (Norton, 2024), "The Standardization of Fast Fiction" (*Computational Humanities
 > Research*), "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and
 > Rhetoric of Online Communities" (*Narrative*), and "Distributed Agency in the Novel" and "Toward

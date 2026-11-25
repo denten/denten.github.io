@@ -18,28 +18,28 @@ layout: default
   </div>
 </div>
 
-## Short Bio (57 words):
+## Short Bio (54 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
-> University, where he also directs the [Narrative Intelligence Lab][12]. He is the author of
-> [*Literary Theory for Robots*][11] (Norton, 2024). Recent articles include "The Standardization
-> of Fast Fiction" (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy"
-> (*Narrative*), and "Distributed Agency in the Novel" (*New Literary History*).
+> University, where he also directs the [Narrative Intelligence Lab][12]. His recent work includes
+> [*Literary Theory for Robots*][11] (Norton, 2024), "The Standardization of Fast Fiction"
+> (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy" (*Narrative*), and
+> "Distributed Agency in the Novel" (*New Literary History*).
 
-## Longer Bio (128 words):
+## Longer Bio (129 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
-> where he also directs the [Narrative Intelligence Lab][12]. He is the author of [*Literary
-> Theory for Robots*][11] (Norton, 2024) and [*Plain Text: The Poetics of Computation*][3]
-> (Stanford, 2017); *Author Function* is under review with the University of Chicago Press.
+> where he also directs the [Narrative Intelligence Lab][12]. His [recent work][22] includes
+> [*Literary Theory for Robots*][11] (Norton, 2024), "The Standardization of Fast Fiction"
+> (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy: Folk Skepticism as
+> Worldview in the Language and Rhetoric of Online Communities" (*Narrative*), and "Distributed
+> Agency in the Novel" and "Toward a Computational Archaeology of Fictional Space" (both *New
+> Literary History*).
 >
-> [Recent articles][22] include "The Standardization of Fast Fiction" (*Computational Humanities
-> Research*), "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and
-> Rhetoric of Online Communities" (*Narrative*), and "Distributed Agency in the Novel" and "Toward a
-> Computational Archaeology of Fictional Space" (both *New Literary History*).
->
-> A long-time affiliate of Columbia's Data Science Institute, he was formerly a Microsoft
-> engineer in the Windows group and a fellow at the Berkman Center for Internet and Society.
+> He is also the author of [*Plain Text: The Poetics of Computation*][3] (Stanford, 2017);
+> *Author Function* is under review with the University of Chicago Press. A long-time affiliate of
+> Columbia's Data Science Institute, he was formerly a Microsoft engineer in the Windows group and
+> a fellow at the Berkman Center for Internet and Society.
 
 
 [1]: http://english.columbia.edu

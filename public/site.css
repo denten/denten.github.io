@@ -253,7 +253,7 @@ th, td { padding: .25rem .75rem .25rem 0; border-bottom: 1px solid var(--rule); 
 
 .profile {
   display: grid;
-  grid-template-columns: 9rem 1fr;
+  grid-template-columns: 7rem 1fr;
   gap: 1.25rem;
   align-items: center;
   margin-bottom: 2rem;
@@ -278,7 +278,7 @@ th, td { padding: .25rem .75rem .25rem 0; border-bottom: 1px solid var(--rule); 
 }
 .links a:hover, .buy a:hover { border-color: var(--accent); color: var(--accent); }
 @media (max-width: 30rem) {
-  .profile { grid-template-columns: 7rem 1fr; gap: 1rem; align-items: start; }
+  .profile { grid-template-columns: 5.5rem 1fr; gap: 1rem; align-items: start; }
 }
 
 .book { display: grid; gap: 2rem; }

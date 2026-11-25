@@ -12,7 +12,7 @@ layout: default
     <ul class="links">
       <li><a href="https://github.com/denten/denten.github.io/raw/master/_includes/CV/imprints/denten-CV.pdf">CV (PDF)</a></li>
       <li><a href="http://english.columbia.edu/people/profile/453">Department</a></li>
-      <li><a href="http://xpmethod.columbia.edu/">Lab</a></li>
+      <li><a href="https://nil.columbia.edu/">Lab</a></li>
       <li><a href="https://orcid.org/0009-0008-7162-8459">ORCID</a></li>
     </ul>
   </div>
@@ -49,7 +49,6 @@ City.
 [6C]: https://github.com/denten/denten.github.io/blob/master/public/denten-profile-cl.jpeg
 [6B]: https://github.com/denten/denten.github.io/blob/master/public/denten-profile-bw.jpeg
 [7]: http://english.columbia.edu/people/profile/453
-[8]: http://xpmethod.columbia.edu/
 [9]: https://orcid.org/0009-0008-7162-8459
 [11]: https://wwnorton.com/books/9780393882186
 [12]: https://nil.columbia.edu/

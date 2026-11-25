@@ -39,7 +39,7 @@ github:
 # Main menu, in this order
 nav:
   - title: About
-    url: /about/
+    url: /
   - title: Books
     url: /books/
   - title: Publications
@@ -48,3 +48,5 @@ nav:
     url: /talks/
   - title: Teaching
     url: /teaching/
+  - title: Notes
+    url: /notes/

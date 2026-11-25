@@ -1,5 +1,56 @@
 ---
-layout: notes
+layout: default
 ---
 
-> I hesitate to call this a blog. Perhaps a scrapbook is more appropriate.
+<div class="profile">
+  <figure>
+    <img src="/public/denten-profile-thumb.jpg" alt="Dennis Yi Tenen" width="480" height="517">
+    <figcaption>Author photo: <a href="/public/denten-profile-cl.jpeg" download>color</a> · <a href="/public/denten-profile-bw.jpeg" download>black &amp; white</a></figcaption>
+  </figure>
+  <div>
+    <p class="role">Professor of English and Comparative Literature, Columbia University</p>
+    <ul class="links">
+      <li><a href="https://github.com/denten/denten.github.io/raw/master/_includes/CV/imprints/denten-CV.pdf">CV (PDF)</a></li>
+      <li><a href="http://english.columbia.edu/people/profile/453">Department</a></li>
+      <li><a href="http://xpmethod.columbia.edu/">Lab</a></li>
+      <li><a href="https://orcid.org/0009-0008-7162-8459">ORCID</a></li>
+    </ul>
+  </div>
+</div>
+
+## Short Bio (50 words):
+
+> Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
+University, where he also directs the [Narrative Intelligence Lab][12]. His recent publications
+include *Literary Theory for Robots* (Norton, 2024). He lives, writes, and codes in New York
+City.
+
+## Longer Bio (175 words):
+
+>  Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
+> where he also co-directs the [Narrative Intelligence Lab][12]. His published work can be
+> found in monographs including [*Plain Text: The Poetics of Computation*][3] (Stanford
+> University Press, 2017), [*Literary Theory for Robots*][11] (W.W. Norton, 2024) and *Author
+> Function* under review with University of Chicago Press. His [recent articles][22] appear on the pages of
+> *Modern Philology*, *New Literary History*, *Amodern*, *boundary2*, *Computational Culture*,
+> and *Modernism/modernity* on topics that span literary theory, the sociology of literature,
+> media history, and computational narratology.
+>
+>A long-time affiliate of Columbia’s Data Science Institute, formerly a Microsoft engineer in
+>the Windows group and fellow at the Berkman Center for Internet and Society, his code runs on
+>personal computers worldwide.
+
+
+[1]: http://english.columbia.edu
+[2]: http://datascience.columbia.edu/new-media
+[3]: http://www.sup.org/books/title/?id=26821
+[4]: http://xpmethod.plaintext.in
+[5]: https://github.com/denten/denten.github.io/raw/master/_includes/CV/imprints/denten-CV.pdf
+[6C]: https://github.com/denten/denten.github.io/blob/master/public/denten-profile-cl.jpeg
+[6B]: https://github.com/denten/denten.github.io/blob/master/public/denten-profile-bw.jpeg
+[7]: http://english.columbia.edu/people/profile/453
+[8]: http://xpmethod.columbia.edu/
+[9]: https://orcid.org/0009-0008-7162-8459
+[11]: https://wwnorton.com/books/9780393882186
+[12]: https://nil.columbia.edu/
+[22]: https://academiccommons.columbia.edu/search?f%5Bauthor_ssim%5D%5B%5D=Tenen%2C+Dennis

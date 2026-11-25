@@ -7,11 +7,18 @@
   <a class="skip" href="#main">Skip to content</a>
 
   <header class="site-header">
-    <a class="site-name" href="/">{{ site.title }}</a>
+    <a class="site-name" href="/" aria-label="{{ site.title }}, home">Denn<span class="i">i</span>s Y<span class="i">i</span> Tenen</a>
     <nav aria-label="Main">
       <ul>
         {%- for item in site.nav %}
-        <li><a href="{{ item.url }}"{% if page.url contains item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+        {%- if item.url == "/" -%}
+          {%- if page.url == "/" or page.url == "/index.html" %}{% assign current = true %}{% else %}{% assign current = false %}{% endif -%}
+        {%- elsif page.url contains item.url -%}
+          {%- assign current = true -%}
+        {%- else -%}
+          {%- assign current = false -%}
+        {%- endif %}
+        <li><a href="{{ item.url }}"{% if current %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
         {%- endfor %}
       </ul>
     </nav>

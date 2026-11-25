@@ -311,11 +311,17 @@ th, td { padding: .25rem .75rem .25rem 0; border-bottom: 1px solid var(--rule); 
 /* ---------- footer ---------- */
 
 .site-footer {
-  margin-top: 3rem;
-  padding-top: .75rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: .5rem 2rem;
+  margin-top: 4rem;
+  padding: 1.25rem 0 1rem;
   border-top: 1px solid var(--rule);
-  font-family: var(--sans);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: .75rem;
+  line-height: 1.6;
   color: var(--muted);
 }
+.site-footer p { margin: 0; hyphens: none; }
 .site-footer a { color: var(--muted); }

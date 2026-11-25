@@ -6,8 +6,19 @@ layout: default
 {{ content }}
 </div>
 
+{%- assign latest = site.posts.first %}
+<article class="featured">
+  <time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: "%B %-d, %Y" }}</time>
+  <h2><a href="{{ latest.url }}">{{ latest.title }}</a></h2>
+  {%- if latest.subtitle %}
+  <p class="sub">{{ latest.subtitle }}</p>
+  {%- endif %}
+  <p class="preview">{{ latest.preview | default: latest.content | strip_html | normalize_whitespace | truncatewords: 60 }}</p>
+  <a class="more" href="{{ latest.url }}">Read more</a>
+</article>
+
 <ul class="post-list">
-  {%- for post in site.posts %}
+  {%- for post in site.posts offset: 1 %}
   <li>
     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
     <span>

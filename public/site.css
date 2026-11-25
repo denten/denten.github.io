@@ -193,6 +193,30 @@ th, td { padding: .25rem .75rem .25rem 0; border-bottom: 1px solid var(--rule); 
 .intro { color: var(--muted); font-style: italic; margin-bottom: 1rem; }
 .intro blockquote { border: 0; padding: 0; }
 
+.featured { margin: 0 0 2rem; }
+.featured time {
+  display: block;
+  font-family: var(--sans);
+  font-size: .75rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.featured h2 {
+  font-size: 1.75rem;
+  font-variant-caps: normal;
+  letter-spacing: 0;
+  font-weight: 500;
+  border: 0;
+  margin: .3rem 0 .2rem;
+  padding: 0;
+}
+.featured h2 a { text-decoration: none; }
+.featured .sub { color: var(--muted); font-style: italic; margin: 0 0 .75rem; }
+.featured .preview { margin: 0 0 .5rem; }
+.featured .more { font-family: var(--sans); font-size: .8rem; color: var(--accent); text-decoration: none; }
+.featured .more::after { content: " →"; }
+
 .post-list { list-style: none; padding: 0; margin: 0; }
 .post-list li {
   display: grid;
@@ -266,20 +290,11 @@ th, td { padding: .25rem .75rem .25rem 0; border-bottom: 1px solid var(--rule); 
 .profile figcaption { font-size: .8rem; color: var(--muted); margin-top: .4rem; line-height: 1.35; }
 .profile figcaption a { color: var(--muted); }
 .profile .role { margin: 0 0 .75rem; font-style: italic; }
-.links { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
+.links { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .25rem 0; }
 .links li { margin: 0; }
-.links a,
-.buy a {
-  display: inline-block;
-  font-family: var(--sans);
-  font-size: .8rem;
-  padding: .45rem .8rem;
-  border: 1px solid var(--rule);
-  border-radius: 999px;
-  text-decoration: none;
-  color: var(--muted);
-}
-.links a:hover, .buy a:hover { border-color: var(--accent); color: var(--accent); }
+.links li:not(:last-child)::after,
+.buy a:not(:last-child)::after { content: "·"; color: var(--muted); padding: 0 .6em; display: inline-block; }
+.buy { display: flex; flex-wrap: wrap; gap: .25rem 0; margin-top: 1rem; }
 @media (max-width: 30rem) {
   .profile { grid-template-columns: 5.5rem 1fr; gap: 1rem; align-items: start; }
 }
@@ -292,7 +307,6 @@ th, td { padding: .25rem .75rem .25rem 0; border-bottom: 1px solid var(--rule); 
 .book h1 { margin-bottom: .25rem; }
 .book .pub { color: var(--muted); margin: 0 0 1rem; }
 .book .cover { width: 100%; max-width: 18rem; box-shadow: 0 2px 10px rgba(0,0,0,.18); }
-.buy { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 1rem; }
 
 .review { margin: 0 0 1.5rem; }
 .review blockquote { border: 0; padding: 0; margin: 0; font-style: italic; }

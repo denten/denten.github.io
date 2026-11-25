@@ -18,23 +18,23 @@ layout: default
   </div>
 </div>
 
-## Short Bio (54 words):
+## Short Bio (53 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia
-> University, where he also directs the [Narrative Intelligence Lab][12]. His recent work includes
-> [*Literary Theory for Robots*][11] (Norton, 2024), "The Standardization of Fast Fiction"
-> (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy" (*Narrative*), and
-> "Distributed Agency in the Novel" (*New Literary History*).
+> University, where he directs the [Narrative Intelligence Lab][12]. He studies how stories are
+> written and shared, by people and by machines. His recent work includes [*Literary Theory for
+> Robots*][11] (Norton, 2024) and "The Standardization of Fast Fiction" (*Computational Humanities
+> Research*).
 
-## Longer Bio (129 words):
+## Longer Bio (141 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
-> where he also directs the [Narrative Intelligence Lab][12]. His [recent work][22] includes
-> [*Literary Theory for Robots*][11] (Norton, 2024), "The Standardization of Fast Fiction"
-> (*Computational Humanities Research*), "Anatomy of Vaccine Hesitancy: Folk Skepticism as
-> Worldview in the Language and Rhetoric of Online Communities" (*Narrative*), and "Distributed
-> Agency in the Novel" and "Toward a Computational Archaeology of Fictional Space" (both *New
-> Literary History*).
+> where he directs the [Narrative Intelligence Lab][12]. He studies how stories are written and
+> shared, by people and by machines. His [recent work][22] includes [*Literary Theory for
+> Robots*][11] (Norton, 2024), "The Standardization of Fast Fiction" (*Computational Humanities
+> Research*), "Anatomy of Vaccine Hesitancy: Folk Skepticism as Worldview in the Language and
+> Rhetoric of Online Communities" (*Narrative*), and "Distributed Agency in the Novel" and "Toward
+> a Computational Archaeology of Fictional Space" (both *New Literary History*).
 >
 > He is also the author of [*Plain Text: The Poetics of Computation*][3] (Stanford, 2017);
 > *Author Function* is under review with the University of Chicago Press. A long-time affiliate of

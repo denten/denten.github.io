@@ -4,7 +4,7 @@ comments: false
 layout: post
 published: true
 title: Synthetic Text
-subtitle: Interview for in <i>L'Espresso</i>
+subtitle: Interview for <i>L'Espresso</i>
 snippet: 150
 categories:
 - think.stack

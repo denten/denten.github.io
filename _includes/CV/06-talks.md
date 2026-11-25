@@ -175,8 +175,7 @@
 
 ### 2018
 
-- "Experimental Humanities." Global Emergent Media Lab, Concordia University, November 21,
-  2018.
+- "Experimental Humanities." Global Emergent Media Lab, Concordia University, November 21, 2018.
 - "Techniques of Industrial Modernism: Plot Genie / Plot Robot." Puzzles, Bots, and Poetics
   Symposium, Institute of the Humanities and Global Cultures, University of Virginia, October
   27, 2018. [Program](https://dennistenen.com/assets/posters/uva-puzzles-bots-poetics-2018.jpg).
@@ -191,8 +190,7 @@
   Aarhus University, Denmark, March 23, 2018.
 - "Archives: Anonymous, Massively Collaborative, Trans-human." Principal convener, Knowledge
   Architectures and Archives Seminar (Architectures of Knowledge: Lahore), Punjab Archives and
-  Libraries Department and Punjab Information Technology Board, Lahore, Pakistan, March 12–13,
-  2018.
+  Libraries Department and Punjab Information Technology Board, Lahore, Pakistan, March 12–13, 2018.
 - "American Formalism and the Automation of Intellectual Labor." Becoming Media Conference,
   UCLA, February 23, 2018.
 - "Literary Modeling and Visualization." School of Communication and Culture, Aarhus
@@ -232,8 +230,7 @@
 - Principal convener, Architectures of Knowledge: Mumbai, Tata Institute of Social Sciences,
   Mumbai, India, July 4–6, 2016.
 - "Literature Down to a Pixel." Conference paper, Ephemera and Ephemerality: Media, Archive,
-  Memory Panel, American Comparative Literature Association, Harvard University, March 17–19,
-  2016.
+  Memory Panel, American Comparative Literature Association, Harvard University, March 17–19, 2016.
 - "Metaphor Machines." Digital Poetics Conference, CUNY Graduate Center, February 5, 2016.
   Also presented at the Possibilities: Works-in-Progress Seminar, Institute for Comparative
   Literature and Society, Columbia University, November 14, 2016.
@@ -261,8 +258,7 @@
 - "Book Piracy as Peer Preservation." Connective Media Talk Series, Cornell Tech, New York,
   March 6, 2014. Also presented at a meeting of the Association of American University
   Presses, Columbia University Press, March 14, 2014.
-- "Civic Scholarship." Research Without Borders Conference, Columbia University, February 27,
-  2014.
+- "Civic Scholarship." Research Without Borders Conference, Columbia University, February 27, 2014.
 - "Visualizing Book Piracy." Detective: Advanced Data Visualization Project, Graduate School of
   Architecture, Columbia University, February 3, 2014.
 
@@ -273,13 +269,11 @@
 - "Authoring in Plain Text." Workshop, Center for Science and the Imagination, Arizona State
   University, November 15, 2013. Also presented at the Comparative Literature Colloquium,
   Harvard University, November 22, 2013.
-- "Literary Networks." Digitization in the Humanities Conference, Rice University, April 6,
-  2013.
+- "Literary Networks." Digitization in the Humanities Conference, Rice University, April 6, 2013.
 - "Digital Humanities in Context." Harriman Institute, Columbia University, February 21, 2013.
 - "Interpretive Communities over Time." Big Data and Digital Scholarship Seminar, Columbia
   University, February 11, 2013.
-- "Hacking the Archive." New Media in Education Conference, Columbia University, February 1,
-  2013.
+- "Hacking the Archive." New Media in Education Conference, Columbia University, February 1, 2013.
 
 ### 2012
 

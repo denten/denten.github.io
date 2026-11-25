@@ -8,7 +8,7 @@
   --accent: #a3201b;
   --link: #1c1b19;
   --link-line: #c9c3ba;
-  --serif: "EB Garamond", Garamond, "Iowan Old Style", Georgia, serif;
+  --serif: "Crimson Pro", "Iowan Old Style", Georgia, serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --measure: 40rem;
 }
@@ -39,7 +39,8 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--serif);
-  font-size: 1.25rem;          /* EB Garamond runs small */
+  font-size: 1.0625rem;        /* 17px; 16px on phones */
+  font-variant-numeric: oldstyle-nums;
   line-height: 1.55;
   font-kerning: normal;
   text-rendering: optimizeLegibility;
@@ -48,7 +49,7 @@ body {
 }
 
 @media (max-width: 30rem) {
-  body { font-size: 1.15rem; }
+  body { font-size: 1rem; }
 }
 
 /* ---------- links ---------- */

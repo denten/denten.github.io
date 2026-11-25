@@ -1,5 +1,7 @@
 ## Selected Talks, Workshops & Conferences
 
+### 2026
+
 - "Emergent Style in Generative Fiction." International Symposium on Intelligence Humanities:
   Authorship, Auctoritas, and Generative AI, Northwestern University, November 19, 2026.
   [Program](https://dennistenen.com/assets/posters/intelligence-humanities-2026.jpg).
@@ -47,6 +49,9 @@
 - "'Frontières du récit' by Gérard Genette." [*Communications* 8 at
   60](https://web.archive.org/web/20261118151428/https://complit.yale.edu/events/2026-02-06-communications-8-at-60),
   Yale University, February 6, 2026.
+
+### 2025
+
 - "Literary Theory for Robots." Keynote and workshop, Dubai International Libraries and
   Publishing Summit, October 31, 2025.
 - "Writing Machines." Interactive Telecommunications Program (ITP), Tisch School of the Arts,
@@ -74,6 +79,9 @@
   University, April 15, 2025.
 - "The Lifecycle of Synthetic Objects." Keynote, Sandbjerg Seminar: Methods and Materials,
   Graduate School of Arts, Aarhus University, Denmark, March 26, 2025.
+
+### 2024
+
 - "The Myth of Creativity: Text Generators in Fiction." Keynote, Multi-ConTEXT:
   Interdisciplinary Conference, Chungbuk National University, South Korea, October 12, 2024.
   [Program](https://dennistenen.com/assets/posters/chungbuk-multi-context-2024.jpg).
@@ -91,6 +99,9 @@
 - "Literary Theory for Robots." [Program in Media and
   Modernity](https://web.archive.org/web/20260120192109/https://humanities.princeton.edu/event/literary-theory-for-robots/),
   Princeton University, March 5, 2024.
+
+### 2023
+
 - "Literary Modeling and Visualization." Keynote, Wenshan International Conference, National
   Chengchi University, Taipei, Taiwan, November 18, 2023.
   [Program](https://drive.google.com/file/d/1bAB0okmc3eBysNbPIxhwjC2MUugxl2AB/view?usp=sharing).
@@ -121,6 +132,9 @@
 - "Filing Technique in the Manufacture of Realism." [Office Supplies: The Material History of
   Writing](https://web.archive.org/web/20230307032620/https://sites.google.com/view/japan-studies-at-pitt/office-supplies),
   University of Pittsburgh, February 24, 2023.
+
+### 2022
+
 - "Chat Bots Among Us." Roundtable, Coding and the New Human Phenotype, Helix Center, New York
   Psychoanalytic Society, October 16, 2022.
   [Video](https://www.youtube.com/watch?v=LwIvfQBE9bk&t=1408s).
@@ -132,10 +146,16 @@
   Hesitancy](https://web.archive.org/web/20220830014517/https://cals.la.psu.edu/events/the-role-of-the-humanities-in-addressing-vaccine-hesitancy/),
   Unprecedented Webinar Series, Center for American Literary Studies, Penn State University,
   January 21, 2022.
+
+### 2021
+
 - "Media and Metaphor (Or How Literary Theory Figures in the Study of Human Computer
   Interaction)." Virtually So, Virtually Here Lecture Series, Department of Comparative
   Literature, Princeton University, September 23, 2021.
   [Poster](https://dennistenen.com/assets/posters/princeton-complit-2021.jpg).
+
+### 2019
+
 - "The Rise of Literary Machines." Keynote, Third International Conference on Digital
   Humanities and World Literature, Korean Society of East West Comparative Literature, Pohang
   University, South Korea, October 26, 2019.
@@ -152,6 +172,9 @@
   Futures Research Program, Aarhus University, Denmark, January 17, 2019.
 - "Distributed Agency in the Novel." Institute of Communication and Culture, Aarhus
   University, Denmark, January 9, 2019.
+
+### 2018
+
 - "Experimental Humanities." Global Emergent Media Lab, Concordia University, November 21,
   2018.
 - "Techniques of Industrial Modernism: Plot Genie / Plot Robot." Puzzles, Bots, and Poetics
@@ -174,6 +197,9 @@
   UCLA, February 23, 2018.
 - "Literary Modeling and Visualization." School of Communication and Culture, Aarhus
   University, Denmark, January 5, 2018.
+
+### 2017
+
 - "Experimental Criticism: The Creative Limits of Artificial Intelligence." Center for Digital
   Cultures, Leuphana University, Germany, December 20, 2017.
 - "Infrastructural Reading: Content, Medium, Context, History." Internet Cultures Symposium,
@@ -196,6 +222,9 @@
   Century? Seminar, Columbia University, January 20, 2017.
 - "Technologies of Dissent: Shadow Libraries." Black Sea Networks Initiative, Columbia
   University, January 20, 2017.
+
+### 2016
+
 - "The Sociology of Book Piracy." Digital Humanities Symposium, Yale University Library,
   November 12, 2016.
 - "Experimental Methods in the Humanities." Scandinavian Modernism and Digital Resources
@@ -208,6 +237,9 @@
 - "Metaphor Machines." Digital Poetics Conference, CUNY Graduate Center, February 5, 2016.
   Also presented at the Possibilities: Works-in-Progress Seminar, Institute for Comparative
   Literature and Society, Columbia University, November 14, 2016.
+
+### 2015
+
 - "Rapid Prototyping of Speculative Thought." Digging Deep: Ecosystems, Institutions and
   Processes for Critical Making, CUNY Graduate Center, December 1, 2015.
 - "Scene Detection in Literary Fiction." New Digital Resources and Computational Methods for
@@ -216,6 +248,9 @@
   Student Workshops in Digital Humanities, New York University, May 29, 2015.
 - "Version Control for Library Use." Workshop, Columbia Center for New Media Teaching and
   Learning, February 5, 2015.
+
+### 2014
+
 - "The Ethics of Writing in Plain Text." With Grant Wythoff. Princeton-Weimar Summer School for
   Media Studies, June 19, 2014.
 - "Rage with the Machine." Keynote, University of Glasgow, May 28, 2014.
@@ -230,6 +265,9 @@
   2014.
 - "Visualizing Book Piracy." Detective: Advanced Data Visualization Project, Graduate School of
   Architecture, Columbia University, February 3, 2014.
+
+### 2013
+
 - "Algorithmic Agency." Cognitive Theory and the Arts Seminar, Harvard Humanities Center,
   November 21, 2013.
 - "Authoring in Plain Text." Workshop, Center for Science and the Imagination, Arizona State
@@ -242,10 +280,16 @@
   University, February 11, 2013.
 - "Hacking the Archive." New Media in Education Conference, Columbia University, February 1,
   2013.
+
+### 2012
+
 - "Digital Humanities at Columbia." Integrative Graduate Education and Research Traineeship,
   Department of Computer Science, Columbia University, November 27, 2012.
 - "Growth and Decay of Shared Knowledge." Berkman Klein Center for Internet and Society,
   Harvard University, April 3, 2012.
+
+### 2011
+
 - "Reflections on the 'Laboratory' Paradigm in the Humanities." Berkman Klein Center for
   Internet and Society, Harvard University, December 13, 2011.
 - "Nothing Is at Stake, Everything Is at Stake: Literary Studies Today." Graduate Professional
@@ -256,9 +300,19 @@
   of Rochester, 2011.
 - "Recursive Encounters with Ourselves." Department of English and Comparative Literature,
   Columbia University, January 26, 2011.
+
+### 2010
+
 - "The Tyranny of Literature." Thinking with Technology Workshop, Harvard Humanities Center,
   November 15, 2010.
+
+### 2009
+
 - "Order on Display: The Aesthetics of Soviet Data Visualization." Conference paper, AAASS
   Annual Convention, Boston, November 12, 2009.
+
+### 2006
+
 - "The Birth of Non-Fiction." Slavic Languages and Literatures Colloquium, Harvard University,
   October 2006.
+

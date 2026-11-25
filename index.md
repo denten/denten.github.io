@@ -29,7 +29,7 @@ layout: default
 ## Longer Bio (126 words):
 
 > Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University,
-> where he also co-directs the [Narrative Intelligence Lab][12]. He is the author of [*Literary
+> where he also directs the [Narrative Intelligence Lab][12]. He is the author of [*Literary
 > Theory for Robots*][11] (Norton, 2024) and [*Plain Text: The Poetics of Computation*][3]
 > (Stanford, 2017); *Author Function* is under review with the University of Chicago Press.
 >

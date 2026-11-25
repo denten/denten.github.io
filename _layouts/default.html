@@ -1,5 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 {% include head.html %}
-    <div class="ph4-ns ph2">
-        {{ content }}
-    </div>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="site-name" href="/">{{ site.title }}</a>
+    <nav aria-label="Main">
+      <ul>
+        {%- for item in site.nav %}
+        <li><a href="{{ item.url }}"{% if page.url contains item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+{{ content }}
+  </main>
+
 {% include footer.html %}
+</body>
+</html>

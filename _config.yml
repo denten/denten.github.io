@@ -10,8 +10,9 @@ permalink:        /:categories/:title
 # Setup
 title:            Dennis Yi Tenen
 tagline:          ''
-description:      ''
-url:              http://dennistenen.com/
+description:      'Dennis Yi Tenen is a Professor of English and Comparative Literature at Columbia University and the author of Literary Theory for Robots.'
+url:              https://dennistenen.com
+image:            /public/denten-profile-bw.jpeg
 
 # Collections
 collections_dir: collections
@@ -34,3 +35,16 @@ author:
 
 github:
   repo:           https://github.com/denten/denten.github.io
+
+# Main menu, in this order
+nav:
+  - title: About
+    url: /about/
+  - title: Books
+    url: /books/
+  - title: Publications
+    url: /publications/
+  - title: Talks
+    url: /talks/
+  - title: Teaching
+    url: /teaching/

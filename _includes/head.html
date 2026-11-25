@@ -1,52 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/public/global.css">
-  <link rel="stylesheet" href="/public/tachyons/css/tachyons.min.css">
+  <meta name="color-scheme" content="light dark">
 
-  <!-- github serves feed.xml in ASCII instead of UTF8. Change file extenstion and indicate here. -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Feed" href="{{ site.url }}/feed.xml" />
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  {%- if page.title -%}
+    {%- capture full_title -%}{{ page.title | strip_html }} · {{ site.title }}{%- endcapture -%}
+  {%- else -%}
+    {%- assign full_title = site.title -%}
+  {%- endif -%}
+  {%- assign desc = page.description | default: page.subtitle | default: site.description | strip_html | strip_newlines | truncate: 200 -%}
+  {%- assign image = page.cover | default: site.image | absolute_url %}
 
-  <!-- Canonical URL -->
-  <link rel="canonical" href="{{ page.url }}" />
+  <title>{{ full_title }}</title>
+  <meta name="description" content="{{ desc | escape }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
-  <link href='https://fonts.googleapis.com/css?family=IM Fell DW Pica' rel='stylesheet'>
-  <script src="https://kit.fontawesome.com/6d1bdab5af.js" crossorigin="anonymous"></script>
+  <!-- Link previews (social media, chat apps) -->
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{{ page.title | default: site.title | strip_html | escape }}">
+  <meta property="og:description" content="{{ desc | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ image }}">
+  <meta name="twitter:card" content="summary">
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 
-  <!-- Icons -->
-  <link rel="shortcut icon" href="/public/favicon.ico?v=1">
-
-</head>
-
-<body class="center f4 fw1 mw9 mw7-ns near-black normal pa3 ph4-ns">
-
-    <div class="bt bw2 code fw8 mb3 mt0 pt2 ph2 system-sans-serif tc tl-ns">
-        Dennis Yi Tenen
-        {% if page.title %}
-            <a href="{{ site.url }}" class="black code fw1 hover-red no-underline">Ø</a>
-        {% else %}
-            <a href="{{ site.url }}" class="code fw1 no-underline red">Ø</a>
-        {% endif %}
-
-        {% assign sorted_pages = site.pages | sort:"title" %}
-        {% for node in sorted_pages %}
-        {% if node.title != null %}
-            <a class="dark-gray fw1 helvetica hover-red system-sans-serif ttc
-                {% if node.url == page.url %}red
-                {% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-        {% endfor %}
-    </div>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&display=swap">
+  <link rel="stylesheet" href="/public/site.css">
+  <link rel="icon" href="/public/favicon.ico">

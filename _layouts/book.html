@@ -2,79 +2,48 @@
 layout: default
 ---
 
-<article class="">
-    <article class="cf pv3">
-        <header class="fn fl-ns w-50-ns pr4-ns">
+<article class="book">
+  <div>
+    <h1>{{ page.title }}</h1>
+    {%- if page.subtitle %}
+    <p class="subtitle"><em>{{ page.subtitle }}</em></p>
+    {%- endif %}
+    <p class="pub">
+      {%- if page.presslink -%}
+      <a href="{{ page.presslink }}">{{ page.publisher }}, {{ page.year }}</a>
+      {%- else -%}
+      {{ page.publisher }}, {{ page.year }}
+      {%- endif -%}
+    </p>
 
-            <!-- <h1 class="f2 lh-title fw9 mb0 mt0 pt3  bt bw1 black">-->
-            <!-- top dashed border -->
-            <!-- <h1 class="f2 lh-title fw9 mb0 mt0 pt3 b--dashed br-0 bl-0 bb-0 bw1"> -->
-            <h1 class="f2 lh-title fw9 mb0 mt0 pt3">
-                {{ page.title }}
-            </h1>
+    <img class="cover" src="{{ page.cover }}" alt="Cover of {{ page.title }}">
 
-            <!-- <span class="f6 ttu tracked gray">
-            </span> -->
-
-            <span class="f4 mid-gray lh-title">
-                <a href="{{ page.presslink }}">{{ page.publisher }}, {{ page.year }}</a>
-            </span>
-
-            <div class="pt3">
-                <img src="{{ page.cover}}" class="w-100" alt="Cover of {{ page.title | downcase
-                 }}">
-            </div>
-
-            <div class="mt3">
-               {% if page.amazon %}
-                    <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.amazon }}">
-                        <i class="fa-brands fa-amazon fa-xl"></i>
-                    </a>
-                {% endif %}
-
-                {% if page.bookshop%}
-                    <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.bookshop }}">Bookshop</a>
-                {% endif %}
-
-                {% if page.hudson %}
-                    <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href=" {{ page.hudson }}">Hudson</a>
-                {% endif %}
-
-                {% if page.bam %}
-                    <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.bam }}">BAM!</a>
-                {% endif %}
-
-                {% if page.bn %}
-                    <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.bn }}">B&N</a>
-                {% endif %}
-
-                {% if page.walmart %}
-                    <a class="f6 link dim br3 ba ph3 pv2 mb2 dib mid-gray" href="{{ page.walmart }}">Walmart</a>
-                {% endif %}
-            </div>
-
-        </header>
-
-  <div class="fn fl-ns w-50-ns pt0">
-    <span class="f5 lh-copy measure mt0-ns">
-
-            {% for r in page.reviews %}
-                <blockquote>
-                    <span class="georgia f6 i"> {{ r.quote }} </span> </br>
-                    <span>
-                        {% if r.link %}
-                            <a class="red mt0 f6" href="{{ r.link }}">
-                        {% endif %}
-                        {% capture heading %} --- {{ r.source  }}{% endcapture %}
-                        {{ heading | markdownify }}
-                    </a></span>
-                </blockquote>
-            {% endfor %}
-
-            {{ page.excerpt | markdownify }}
-
-    </span>
+    <div class="buy">
+      {%- if page.amazon %}<a href="{{ page.amazon }}">Amazon</a>{% endif %}
+      {%- if page.bookshop %}<a href="{{ page.bookshop }}">Bookshop</a>{% endif %}
+      {%- if page.hudson %}<a href="{{ page.hudson }}">Hudson</a>{% endif %}
+      {%- if page.bam %}<a href="{{ page.bam }}">BAM!</a>{% endif %}
+      {%- if page.bn %}<a href="{{ page.bn }}">B&amp;N</a>{% endif %}
+      {%- if page.walmart %}<a href="{{ page.walmart }}">Walmart</a>{% endif %}
+    </div>
   </div>
 
-  </article>
+  <div>
+    {%- for r in page.reviews %}
+    <figure class="review">
+      <blockquote>{{ r.quote | markdownify }}</blockquote>
+      <figcaption>&mdash;
+        {%- if r.link %} <a href="{{ r.link }}">{{ r.source | markdownify }}</a>
+        {%- else %} {{ r.source | markdownify }}
+        {%- endif %}
+      </figcaption>
+    </figure>
+    {%- endfor %}
+
+    {%- if page.excerpt %}
+    <div class="excerpt">
+      {{ page.excerpt | markdownify }}
+    </div>
+    {%- endif %}
+  </div>
 </article>

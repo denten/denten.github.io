@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /about/
-title: "about"
+title: "About"
 ---
 
 [Curriculum Vitae <img src="../public/pdf.png" />][5] --- Author Photo ([Color][6C], [B/W][6B]) --- [Dept][7] ---

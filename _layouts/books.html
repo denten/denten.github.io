@@ -4,30 +4,19 @@ layout: default
 
 {{ content }}
 
-{% for book in site.books %}
-
-    <!-- <p>{{ book.content | markdownify }}</p> -->
-    <article>
-        <a class="link dt w-100 pb2 mt2 dim blue" href="{{ book.url }}">
-            <div class="dtc w3">
-                <img src="{{ book.cover }}" class="db w-100"/>
-            </div>
-
-            <div class="dtc v-top pl2">
-                <h2 class="f6 f5-ns fw6 lh-title black mv0" > {{ book.title }}</h2>
-                <!--<h2 class="f6 fw4 mt2 mb0 black">{{ book.title }}</h2>-->
-
-                <span class="i black-80 f5">
-                    {{ book.subtitle }}
-                </span>
-
-                <dl class="mt2 f6">
-                    <span class="black-60 f5 blue">
-                        &nbsp;{{ book.publisher }}, {{ book.year }}
-                    </span>
-                </dl>
-
-            </div>
-        </a>
-    </article>
-{% endfor %}
+<ul class="book-list">
+  {%- for book in site.books %}
+  <li>
+    <a href="{{ book.url }}">
+      <img src="{{ book.cover }}" alt="Cover of {{ book.title }}" loading="lazy">
+      <span>
+        <span class="title">{{ book.title }}</span>
+        {%- if book.subtitle %}
+        <span class="subtitle">{{ book.subtitle }}</span>
+        {%- endif %}
+        <span class="pub">{{ book.publisher }}, {{ book.year }}</span>
+      </span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>

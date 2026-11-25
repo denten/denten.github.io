@@ -2,24 +2,22 @@
 layout: default
 ---
 
+<div class="intro">
 {{ content }}
-
-<div class="fl mt3 w-100">
-{% for post in site.posts %}
-  <time class="di-ns f5 ttu tracked gray code text-sm">
-    {{ post.date | date_to_string }}
-  </time>
-
-  <div class="mb3">
-    <a class="link black hover-red" href="{{ BASE_PATH }}{{ post.url }}">
-      {{ post.title }}
-    </a>
-
-    {% if post.subtitle %}
-      <div class="f6 gray mt1">
-        {{ post.subtitle }}
-      </div>
-    {% endif %}
-  </div>
-{% endfor %}
 </div>
+
+{% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in years %}
+<h2 class="year">{{ year.name }}</h2>
+<ol class="post-list">
+  {%- for post in year.items %}
+  <li>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d" }}</time>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {%- if post.subtitle %}
+    <p class="sub">{{ post.subtitle }}</p>
+    {%- endif %}
+  </li>
+  {%- endfor %}
+</ol>
+{% endfor %}

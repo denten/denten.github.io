@@ -2,22 +2,18 @@
 layout: default
 ---
 
-{% if page.title %}
-<h2 class="f3 pa0 ma0">
-  {{ page.title }}
-</h2>
-{% endif %}
-
-{% if page.subtitle %}
-  <div class="f5 gray mt1 mb2">
-    {{ page.subtitle }}
-  </div>
-{% endif %}
-
-<time class="code f5 gray">
-  {{ page.date | date_to_string }}
-</time>
-
 <article>
-  {{ content }}
+  <header class="post-header">
+    {%- if page.title %}
+    <h1>{{ page.title }}</h1>
+    {%- endif %}
+    {%- if page.subtitle %}
+    <p class="sub">{{ page.subtitle }}</p>
+    {%- endif %}
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </header>
+
+  <div class="prose">
+{{ content }}
+  </div>
 </article>

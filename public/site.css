@@ -184,6 +184,9 @@ th, td { padding: .25rem .75rem .25rem 0; border-bottom: 1px solid var(--rule); 
 
 /* CV-fed pages (talks, publications, teaching): long lists, tighter */
 .cv li { margin-bottom: .6rem; line-height: 1.45; }
+/* Talks and Teaching: no bullets, hanging indent */
+.cv.hanging ul { list-style: none; padding-left: 1.5em; }
+.cv.hanging li { text-indent: -1.5em; }
 
 /* ---------- home: post list ---------- */
 

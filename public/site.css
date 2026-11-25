@@ -6,6 +6,7 @@
   --muted: #6e6a64;
   --rule: #e4e0da;
   --accent: #a3201b;
+  --dot-red: #da1e28;          /* IBM Red 60 */
   --link: #1c1b19;
   --link-line: #c9c3ba;
   --serif: "Crimson Pro", "Iowan Old Style", Georgia, serif;
@@ -20,6 +21,7 @@
     --muted: #a19b93;
     --rule: #34312d;
     --accent: #ff7b6e;
+    --dot-red: #fa4d56;        /* IBM Red 50 */
     --link: #e9e6e1;
     --link-line: #5d5851;
   }
@@ -84,8 +86,9 @@ a:hover, a:focus-visible { color: var(--accent); text-decoration-color: currentC
 }
 
 .site-name {
-  font-size: 1.35rem;
-  font-weight: 600;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 1.2rem;
+  font-weight: 400;
   letter-spacing: .01em;
   text-decoration: none;
 }
@@ -94,13 +97,13 @@ a:hover, a:focus-visible { color: var(--accent); text-decoration-color: currentC
 .site-name .i::after {
   content: "";
   position: absolute;
-  left: var(--dot-x, 50%);
-  top: var(--dot-y, .3em);
-  width: var(--dot, .18em);
-  height: var(--dot, .18em);
+  left: var(--dot-x, 54%);
+  top: var(--dot-y, .35em);
+  width: var(--dot, .2em);
+  height: var(--dot, .2em);
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  background: var(--accent);
+  background: var(--dot-red);
 }
 
 .site-header nav ul {
